@@ -282,6 +282,231 @@ a:hover {
   color: white;
 }
 
+/* ── Back link ───────────────────────────────────────────── */
+.back-link {
+  display: inline-block;
+  margin-bottom: 16px;
+  font-size: 0.85rem;
+  color: var(--muted);
+  text-decoration: none;
+}
+.back-link:hover { color: var(--accent); }
+
+/* ── President page ──────────────────────────────────────── */
+.president-header { margin-bottom: 32px; }
+.president-number {
+  font-size: 1.1rem;
+  color: var(--muted);
+  margin: 4px 0 12px;
+}
+.president-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 0.9rem;
+  color: var(--secondary);
+  margin-bottom: 8px;
+}
+.president-life {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+.president-section {
+  margin-top: 32px;
+}
+.president-section h2 {
+  font-size: 1.3rem;
+  margin-bottom: 12px;
+}
+.accomplishments-list, .fun-facts-list {
+  padding-left: 20px;
+}
+.accomplishments-list li, .fun-facts-list li {
+  margin-bottom: 16px;
+  line-height: 1.6;
+}
+.events-list li {
+  margin-bottom: 8px;
+}
+.event-date {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+/* ── In-progress notice ──────────────────────────────────── */
+.in-progress-notice {
+  padding: 24px;
+  background: rgba(0,0,0,0.03);
+  border-radius: var(--card-radius);
+  margin-top: 16px;
+  text-align: center;
+}
+
+/* ── Presidents grid ─────────────────────────────────────── */
+.presidents-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+}
+.president-card {
+  display: block;
+  padding: 16px;
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: var(--card-radius);
+  text-decoration: none;
+  color: var(--text);
+  transition: box-shadow 0.15s, transform 0.1s;
+}
+.president-card:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transform: translateY(-1px);
+}
+.president-card.muted {
+  opacity: 0.45;
+}
+.president-card-number {
+  font-size: 0.75rem;
+  color: var(--muted);
+  font-weight: 600;
+}
+.president-card-name {
+  font-family: var(--heading-font);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin: 4px 0;
+}
+.president-card-info {
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+.president-card-badge {
+  display: inline-block;
+  font-size: 0.65rem;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: rgba(0,0,0,0.05);
+  color: var(--muted);
+  margin-top: 8px;
+}
+
+/* ── Timeline grid ───────────────────────────────────────── */
+.timeline-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.timeline-decade-card {
+  border-left: 4px solid var(--muted);
+  padding: 16px 20px;
+  border-radius: 0 var(--card-radius) var(--card-radius) 0;
+  background: rgba(0,0,0,0.015);
+  transition: background 0.15s;
+}
+.timeline-decade-card:hover:not(.muted) {
+  background: rgba(0,0,0,0.04);
+}
+.timeline-decade-card.muted {
+  opacity: 0.4;
+}
+.timeline-decade-link {
+  text-decoration: none;
+  color: var(--text);
+  display: block;
+}
+.timeline-decade-label {
+  font-family: var(--heading-font);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+.timeline-decade-headline {
+  font-size: 0.9rem;
+  margin-top: 4px;
+}
+.timeline-decade-count {
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin-top: 4px;
+}
+.muted-text { color: var(--muted); font-style: italic; }
+
+/* ── Decade detail ───────────────────────────────────────── */
+.decade-headline {
+  font-size: 1.2rem;
+  color: var(--secondary);
+  margin-bottom: 16px;
+}
+.decade-summary {
+  line-height: 1.7;
+  margin-bottom: 32px;
+}
+.decade-events { margin-top: 32px; }
+.events-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.event-card {
+  display: block;
+  padding: 16px 20px;
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: var(--card-radius);
+  text-decoration: none;
+  color: var(--text);
+  transition: box-shadow 0.15s;
+}
+.event-card:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.event-card-date {
+  font-size: 0.75rem;
+  color: var(--muted);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.event-card-title {
+  font-family: var(--heading-font);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin: 4px 0;
+}
+.event-card-summary {
+  font-size: 0.85rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+/* ── Event detail ────────────────────────────────────────── */
+.event-date-hero {
+  font-size: 1rem;
+  color: var(--secondary);
+  margin-bottom: 24px;
+  font-weight: 600;
+}
+.event-section { margin-top: 24px; }
+.event-section h2 {
+  font-size: 1.2rem;
+  margin-bottom: 8px;
+}
+.event-tags {
+  display: flex;
+  gap: 8px;
+  margin-top: 24px;
+  flex-wrap: wrap;
+}
+.event-tag {
+  font-size: 0.7rem;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: rgba(0,0,0,0.05);
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
 /* ── Responsive ──────────────────────────────────────────── */
 @media (max-width: 768px) {
   .header-inner {
