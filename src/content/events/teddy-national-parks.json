@@ -1,0 +1,42 @@
+{
+  "id": "teddy-national-parks",
+  "status": "published",
+  "title": {
+    "scholar": "Roosevelt's Conservation Legacy",
+    "explorer": "Teddy Saves the Wilderness!"
+  },
+  "date": "1906",
+  "decade": "1900s",
+  "summary": {
+    "scholar": "Throughout his presidency, Theodore Roosevelt used executive authority to protect approximately 230 million acres of public land, establishing 150 national forests, 51 federal bird reservations, 5 national parks, and 18 national monuments including the Grand Canyon. The Antiquities Act of 1906 gave the president power to designate national monuments, a tool Roosevelt used aggressively.",
+    "explorer": "Teddy Roosevelt loved nature, and he used his power as president to protect about 230 million acres of beautiful American land! He created national forests, bird sanctuaries, and national parks. He even protected the Grand Canyon! Without Roosevelt, many of America's most beautiful places might have been destroyed."
+  },
+  "significance": {
+    "scholar": "Roosevelt's conservation efforts established the foundation of the American national park and forest system, preserving natural treasures for future generations and establishing conservation as a federal responsibility.",
+    "explorer": "Thanks to Teddy Roosevelt, we still have amazing places like national parks and forests to enjoy. He made sure these wild places would be protected forever."
+  },
+  "relatedPresidentIds": [
+    "theodore-roosevelt"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "science-tech"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -11,7 +11,9 @@
     "scholar": "The 1920s — the 'Roaring Twenties' — were a period of dramatic cultural change and economic prosperity. Jazz music, flappers, the Harlem Renaissance, and the rise of mass consumer culture transformed American society. President Coolidge championed fiscal conservatism during this boom, famously declaring that 'the business of America is business.' The decade saw Prohibition (the ban on alcohol), the expansion of radio and motion pictures, and rapid technological innovation. However, the era's speculative excesses set the stage for the catastrophic stock market crash of October 1929.",
     "explorer": "The 1920s were called the Roaring Twenties because everything was so exciting! Jazz music was everywhere, people danced the Charleston, and new inventions like radios and movies changed how people had fun. The economy was booming and everyone felt rich. But all that spending and partying couldn't last forever — a huge crash was coming at the end of the decade."
   },
-  "eventIds": [],
+  "eventIds": [
+    "prohibition-begins"
+  ],
   "keyFigureIds": [
     "warren-g-harding",
     "calvin-coolidge"

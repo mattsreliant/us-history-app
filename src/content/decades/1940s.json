@@ -11,7 +11,11 @@
     "scholar": "The 1940s were defined by World War II (1941-1945), the most destructive conflict in human history. After Japan's attack on Pearl Harbor on December 7, 1941, America mobilized its entire economy and society for war. FDR led the Allied coalition until his death in April 1945. President Truman authorized the use of atomic bombs on Hiroshima and Nagasaki, ending the war but inaugurating the nuclear age. The postwar period saw the beginning of the Cold War with the Soviet Union, the Marshall Plan to rebuild Europe, and the Truman Doctrine that would define American foreign policy for decades.",
     "explorer": "The 1940s were when the biggest war in all of history happened — World War II! After Japan attacked Pearl Harbor, America joined the fight against the Nazis and Japan. Millions of Americans served in the military. President Truman made the incredible decision to use atomic bombs to end the war. After the war, America helped rebuild Europe and started a long competition with the Soviet Union called the Cold War."
   },
-  "eventIds": [],
+  "eventIds": [
+    "pearl-harbor",
+    "d-day",
+    "hiroshima"
+  ],
   "keyFigureIds": [
     "franklin-d-roosevelt",
     "harry-s-truman"

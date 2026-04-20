@@ -1,0 +1,41 @@
+{
+  "id": "d-day",
+  "status": "published",
+  "title": {
+    "scholar": "D-Day: The Invasion of Normandy",
+    "explorer": "D-Day: The Biggest Invasion Ever!"
+  },
+  "date": "1944-06-06",
+  "decade": "1940s",
+  "summary": {
+    "scholar": "On June 6, 1944, Allied forces under Supreme Commander Dwight D. Eisenhower launched Operation Overlord, the largest amphibious military operation in history. Approximately 156,000 American, British, and Canadian troops stormed the beaches of Normandy, France, beginning the liberation of Western Europe from Nazi occupation. Despite heavy casualties, especially at Omaha Beach, the invasion established a crucial second front against Germany.",
+    "explorer": "June 6, 1944 — D-Day — was the biggest military invasion in history! About 156,000 soldiers from America, Britain, and Canada crossed the English Channel and stormed the beaches of Normandy, France. General Eisenhower was in charge. It was incredibly dangerous, but the soldiers were brave enough to fight their way onto the beaches and begin freeing Europe from the Nazis."
+  },
+  "significance": {
+    "scholar": "D-Day opened the Western Front in Europe, trapping Nazi Germany between advancing Allied forces from the west and the Soviet Union from the east. Paris was liberated in August 1944, and Germany surrendered in May 1945.",
+    "explorer": "D-Day was the beginning of the end for the Nazis. After this, Allied soldiers pushed through France and into Germany, and the war in Europe was over within a year."
+  },
+  "relatedPresidentIds": [
+    "franklin-d-roosevelt"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

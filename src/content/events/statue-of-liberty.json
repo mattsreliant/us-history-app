@@ -1,0 +1,41 @@
+{
+  "id": "statue-of-liberty",
+  "status": "published",
+  "title": {
+    "scholar": "Statue of Liberty Dedicated",
+    "explorer": "Lady Liberty Arrives!"
+  },
+  "date": "1886-10-28",
+  "decade": "1880s",
+  "summary": {
+    "scholar": "The Statue of Liberty was dedicated on October 28, 1886 in New York Harbor. A gift from France designed by Frédéric Auguste Bartholdi, the 151-foot copper statue became the most iconic symbol of American freedom and immigration. For millions of immigrants arriving by ship, the statue was their first sight of America.",
+    "explorer": "On October 28, 1886, the Statue of Liberty was unveiled in New York Harbor! France gave it to America as a gift of friendship. The giant copper lady holding a torch became the ultimate symbol of freedom. For millions of people coming to America from other countries, she was the first thing they saw!"
+  },
+  "significance": {
+    "scholar": "The Statue of Liberty became the preeminent symbol of American democracy and immigration, representing the nation's ideals of freedom and opportunity to the world.",
+    "explorer": "Lady Liberty has been welcoming people to America for over 130 years. She stands for freedom and the idea that everyone deserves a chance at a better life."
+  },
+  "relatedPresidentIds": [
+    "grover-cleveland-22"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "culture"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

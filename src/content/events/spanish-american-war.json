@@ -1,0 +1,42 @@
+{
+  "id": "spanish-american-war",
+  "status": "published",
+  "title": {
+    "scholar": "Spanish-American War",
+    "explorer": "America Becomes a World Power!"
+  },
+  "date": "1898-04-25",
+  "decade": "1890s",
+  "summary": {
+    "scholar": "The Spanish-American War (April-August 1898) was a brief but transformative conflict that ended Spanish colonial rule in the Americas and positioned the United States as a world power. Sparked partly by the sinking of the USS Maine in Havana Harbor, the war resulted in American acquisition of Puerto Rico, Guam, and the Philippines. The conflict lasted only about four months.",
+    "explorer": "The Spanish-American War in 1898 was short — only about four months — but it changed everything! America fought Spain and won, gaining new territories like Puerto Rico, Guam, and the Philippines. Suddenly, America wasn't just a country — it was a world power with territories across the globe!"
+  },
+  "significance": {
+    "scholar": "The Spanish-American War marked America's emergence as a global power with overseas territorial possessions, fundamentally altering the nation's role in world affairs.",
+    "explorer": "This war turned America from a country that mostly minded its own business into a world power with territories on the other side of the planet."
+  },
+  "relatedPresidentIds": [
+    "william-mckinley"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

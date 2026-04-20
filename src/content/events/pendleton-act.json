@@ -1,0 +1,41 @@
+{
+  "id": "pendleton-act",
+  "status": "published",
+  "title": {
+    "scholar": "Pendleton Civil Service Reform Act",
+    "explorer": "Fair Government Jobs!"
+  },
+  "date": "1883-01-16",
+  "decade": "1880s",
+  "summary": {
+    "scholar": "The Pendleton Civil Service Reform Act of 1883, signed by President Arthur, established a merit-based system for federal government employment, replacing the corrupt spoils system where government jobs were handed out as political rewards. The act created the Civil Service Commission and required competitive examinations for certain government positions.",
+    "explorer": "The Pendleton Act of 1883 said that government jobs should go to the best person for the job, not just to friends of politicians! Before this, presidents would hand out jobs as rewards to people who helped them get elected. The new law made people take tests to prove they were qualified."
+  },
+  "significance": {
+    "scholar": "The Pendleton Act fundamentally reformed federal hiring practices and began the professionalization of the American civil service that continues today.",
+    "explorer": "This law changed how the government hires people. Now you have to be qualified, not just connected to the right politician."
+  },
+  "relatedPresidentIds": [
+    "chester-a-arthur"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

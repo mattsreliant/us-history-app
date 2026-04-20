@@ -11,7 +11,10 @@
     "scholar": "The 1880s were the heart of the Gilded Age, a period of rapid industrialization, massive immigration, and growing economic inequality. American industry expanded enormously, railroads connected the continent, and millions of immigrants arrived from Europe. President Garfield was assassinated in 1881, leading to Chester Arthur's surprising embrace of civil service reform and the Pendleton Act of 1883. The decade saw the rise of powerful industrial monopolies and the beginning of organized labor movements.",
     "explorer": "The 1880s were a time of huge factories, long railroads, and millions of people coming to America from other countries. It was called the Gilded Age because things looked shiny on the outside, but there were big problems underneath. President Garfield was killed, and the new president Arthur surprised everyone by fighting corruption."
   },
-  "eventIds": [],
+  "eventIds": [
+    "pendleton-act",
+    "statue-of-liberty"
+  ],
   "keyFigureIds": [
     "james-a-garfield",
     "chester-a-arthur",

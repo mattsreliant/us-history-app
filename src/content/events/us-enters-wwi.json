@@ -1,0 +1,42 @@
+{
+  "id": "us-enters-wwi",
+  "status": "published",
+  "title": {
+    "scholar": "United States Enters World War I",
+    "explorer": "America Joins the Great War!"
+  },
+  "date": "1917-04-06",
+  "decade": "1910s",
+  "summary": {
+    "scholar": "On April 6, 1917, the United States declared war on Germany, entering World War I after three years of neutrality. German unrestricted submarine warfare and the Zimmermann Telegram (a secret German proposal for Mexico to attack the United States) pushed President Wilson to ask Congress for a declaration of war. Over two million American troops would serve in Europe.",
+    "explorer": "On April 6, 1917, America joined World War I! President Wilson had tried to keep America out of the war for three years, but Germany kept sinking American ships and even tried to get Mexico to attack the United States. Over two million American soldiers went to fight in Europe."
+  },
+  "significance": {
+    "scholar": "American entry into World War I tipped the balance decisively in favor of the Allies, leading to German defeat in November 1918 and establishing the United States as a major world power.",
+    "explorer": "When America joined the war, it helped the Allies win. American soldiers made a huge difference, and the war ended about a year and a half after they arrived."
+  },
+  "relatedPresidentIds": [
+    "woodrow-wilson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

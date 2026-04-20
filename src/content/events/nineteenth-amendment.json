@@ -1,0 +1,42 @@
+{
+  "id": "nineteenth-amendment",
+  "status": "published",
+  "title": {
+    "scholar": "Nineteenth Amendment: Women's Suffrage",
+    "explorer": "Women Can Vote!"
+  },
+  "date": "1920-08-18",
+  "decade": "1910s",
+  "summary": {
+    "scholar": "The Nineteenth Amendment, ratified on August 18, 1920, prohibited denying the right to vote based on sex, granting women the right to vote nationwide. The amendment represented the culmination of a 72-year struggle that began at the Seneca Falls Convention in 1848, led by activists including Susan B. Anthony, Elizabeth Cady Stanton, and Alice Paul.",
+    "explorer": "On August 18, 1920, women FINALLY got the right to vote in America! The Nineteenth Amendment made it the law of the land. Women like Susan B. Anthony had been fighting for this for 72 years! It was one of the biggest victories for equality in American history."
+  },
+  "significance": {
+    "scholar": "The Nineteenth Amendment doubled the eligible voting population and represented one of the most significant expansions of democracy in American history.",
+    "explorer": "After 72 years of fighting, women could finally vote! This doubled the number of people who could vote in elections."
+  },
+  "relatedPresidentIds": [
+    "woodrow-wilson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

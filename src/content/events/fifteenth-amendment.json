@@ -1,0 +1,42 @@
+{
+  "id": "fifteenth-amendment",
+  "status": "published",
+  "title": {
+    "scholar": "Fifteenth Amendment Ratified",
+    "explorer": "The Right to Vote!"
+  },
+  "date": "1870-02-03",
+  "decade": "1870s",
+  "summary": {
+    "scholar": "The Fifteenth Amendment, ratified on February 3, 1870, prohibited denying the right to vote based on race, color, or previous condition of servitude. It was the last of the three Reconstruction Amendments and aimed to protect the voting rights of formerly enslaved men.",
+    "explorer": "The Fifteenth Amendment said that no one could be stopped from voting because of their race! This was supposed to let Black men vote for the first time, though sadly many states found sneaky ways to stop them."
+  },
+  "significance": {
+    "scholar": "While groundbreaking in principle, the Fifteenth Amendment was undermined by poll taxes, literacy tests, and violence that effectively disenfranchised Black voters in the South for nearly a century.",
+    "explorer": "This amendment was a big step forward, but Southern states found ways around it for almost 100 years until the Voting Rights Act of 1965."
+  },
+  "relatedPresidentIds": [
+    "ulysses-s-grant"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

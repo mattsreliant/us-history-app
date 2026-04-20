@@ -11,7 +11,10 @@
     "scholar": "The 1930s were dominated by the Great Depression, the worst economic crisis in American history. Following the stock market crash of October 1929, unemployment soared to 25%, banks failed across the country, and millions lost their homes and savings. President Hoover's response was seen as inadequate, and Franklin Roosevelt won the 1932 election in a landslide. FDR's New Deal — a series of experimental economic and social programs — provided relief, created jobs through programs like the CCC and WPA, established Social Security, and fundamentally reshaped the role of the federal government.",
     "explorer": "The 1930s were really hard. The Great Depression meant millions of people lost their jobs and couldn't feed their families. President Roosevelt stepped in with the New Deal — programs that gave people jobs building roads, bridges, and parks. He also created Social Security to help older people. It was a time when the government started doing a lot more to help regular people."
   },
-  "eventIds": [],
+  "eventIds": [
+    "stock-market-crash",
+    "new-deal"
+  ],
   "keyFigureIds": [
     "herbert-hoover",
     "franklin-d-roosevelt"

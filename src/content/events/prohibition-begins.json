@@ -1,0 +1,42 @@
+{
+  "id": "prohibition-begins",
+  "status": "published",
+  "title": {
+    "scholar": "Prohibition Begins",
+    "explorer": "No More Alcohol!"
+  },
+  "date": "1920-01-17",
+  "decade": "1920s",
+  "summary": {
+    "scholar": "The Eighteenth Amendment took effect on January 17, 1920, prohibiting the manufacture, sale, and transportation of alcoholic beverages in the United States. Prohibition was the culmination of decades of temperance activism. However, the law proved largely unenforceable, leading to widespread bootlegging, the rise of organized crime, and speakeasies. It was repealed by the Twenty-first Amendment in 1933.",
+    "explorer": "On January 17, 1920, alcohol became ILLEGAL in America! It was called Prohibition. People thought banning alcohol would solve a lot of problems, but instead it created new ones. People made and sold alcohol secretly, criminals got rich from it, and secret bars called 'speakeasies' popped up everywhere. It was repealed in 1933."
+  },
+  "significance": {
+    "scholar": "Prohibition demonstrated the difficulty of legislating morality and inadvertently strengthened organized crime. Its failure led to the only constitutional amendment (the 21st) that repealed another amendment.",
+    "explorer": "Prohibition showed that you can't always force people to change their behavior with laws. It's the only constitutional amendment that was ever completely undone by another amendment."
+  },
+  "relatedPresidentIds": [
+    "woodrow-wilson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "culture"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

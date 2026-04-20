@@ -11,7 +11,10 @@
     "scholar": "The 1870s encompassed the final years of Reconstruction, the period following the Civil War when the federal government attempted to rebuild the South and protect the rights of formerly enslaved people. The 14th and 15th Amendments guaranteed citizenship and voting rights regardless of race. President Grant vigorously fought the Ku Klux Klan with federal power. However, the disputed election of 1876 led to the Compromise of 1877 and the withdrawal of federal troops from the South, effectively ending Reconstruction and leaving African Americans vulnerable to decades of Jim Crow laws.",
     "explorer": "The 1870s were about trying to put the country back together after the Civil War. The government passed laws saying Black Americans were citizens and had the right to vote. President Grant sent soldiers to stop groups like the KKK. But by the end of the decade, the government stopped protecting Black people in the South, and things got much worse for them."
   },
-  "eventIds": [],
+  "eventIds": [
+    "fifteenth-amendment",
+    "compromise-of-1877"
+  ],
   "keyFigureIds": [
     "ulysses-s-grant",
     "rutherford-b-hayes"

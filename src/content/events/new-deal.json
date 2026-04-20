@@ -1,0 +1,42 @@
+{
+  "id": "new-deal",
+  "status": "published",
+  "title": {
+    "scholar": "FDR Launches the New Deal",
+    "explorer": "FDR's Plan to Save America!"
+  },
+  "date": "1933-03-09",
+  "decade": "1930s",
+  "summary": {
+    "scholar": "Beginning in March 1933, President Franklin Roosevelt launched the New Deal, a series of experimental programs designed to provide relief, recovery, and reform during the Great Depression. Programs included the Civilian Conservation Corps (CCC), the Works Progress Administration (WPA), the Social Security Act (1935), and banking reforms including the FDIC. The New Deal fundamentally expanded the federal government's role in American economic and social life.",
+    "explorer": "When FDR became president in 1933, he immediately started the New Deal to help people during the Great Depression. He created programs that gave people jobs building roads, bridges, and parks. He started Social Security to help older people. He fixed the banking system so people's money would be safe. The New Deal changed how the government helps people in hard times."
+  },
+  "significance": {
+    "scholar": "The New Deal transformed the relationship between the federal government and American citizens, establishing the modern welfare state and regulatory framework that persists today.",
+    "explorer": "The New Deal changed America forever. Programs like Social Security are still helping people today, almost 100 years later."
+  },
+  "relatedPresidentIds": [
+    "franklin-d-roosevelt"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "economy"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

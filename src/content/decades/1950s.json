@@ -11,7 +11,11 @@
     "scholar": "The 1950s were a decade of prosperity, conformity, and Cold War anxiety. President Eisenhower, the World War II hero, presided over a booming economy and the growth of suburban America. He built the Interstate Highway System, one of the largest public works projects in history. The Cold War intensified with the Korean War (1950-1953), the nuclear arms race, and the launch of the Soviet satellite Sputnik in 1957, which sparked the Space Race. The decade also saw the beginning of the modern civil rights movement with the Supreme Court's Brown v. Board of Education decision (1954) and the Montgomery Bus Boycott (1955-1956).",
     "explorer": "The 1950s were a time when America was doing really well! Families moved to new houses in the suburbs, everyone got TVs, and President Eisenhower built huge highways connecting the whole country. But there was also a scary competition with the Soviet Union called the Cold War. And brave people like Rosa Parks started standing up against unfair treatment of Black Americans."
   },
-  "eventIds": [],
+  "eventIds": [
+    "brown-v-board",
+    "montgomery-bus-boycott",
+    "sputnik"
+  ],
   "keyFigureIds": [
     "dwight-d-eisenhower"
   ],

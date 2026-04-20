@@ -1,0 +1,41 @@
+{
+  "id": "montgomery-bus-boycott",
+  "status": "published",
+  "title": {
+    "scholar": "Montgomery Bus Boycott",
+    "explorer": "Rosa Parks Takes a Stand!"
+  },
+  "date": "1955-12-01",
+  "decade": "1950s",
+  "summary": {
+    "scholar": "The Montgomery Bus Boycott began on December 5, 1955, after Rosa Parks was arrested for refusing to give up her bus seat to a white passenger on December 1. The boycott, led by the 26-year-old Martin Luther King Jr., lasted 381 days. African Americans organized carpools and walked miles rather than ride segregated buses. The Supreme Court ultimately ruled bus segregation unconstitutional in November 1956.",
+    "explorer": "When Rosa Parks refused to give up her bus seat on December 1, 1955, it started one of the most important protests in history! Black people in Montgomery, Alabama boycotted the buses for 381 days — that's over a year of walking and carpooling instead of riding the bus. A young minister named Martin Luther King Jr. led the protest, and they won!"
+  },
+  "significance": {
+    "scholar": "The Montgomery Bus Boycott launched Martin Luther King Jr. to national prominence and demonstrated that organized nonviolent protest could challenge and defeat institutionalized racism.",
+    "explorer": "This boycott proved that peaceful protest works! It also made Martin Luther King Jr. famous and showed that regular people could change unfair laws."
+  },
+  "relatedPresidentIds": [
+    "dwight-d-eisenhower"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -11,7 +11,10 @@
     "scholar": "The 1910s were defined by World War I (1914-1918) and Woodrow Wilson's progressive domestic reforms. Wilson enacted sweeping legislation including the Federal Reserve Act, which established the modern central banking system, and the Federal Trade Commission. When war engulfed Europe, Wilson initially kept America neutral but ultimately led the nation into the conflict in 1917. The war's end in 1918 left Wilson championing the League of Nations, though the Senate rejected American membership. The decade also saw the passage of the 19th Amendment, granting women the right to vote.",
     "explorer": "The 1910s were when the biggest war the world had ever seen happened — World War I! President Wilson tried to keep America out of it, but eventually joined to help end the fighting. He also created the Federal Reserve (which manages America's money) and women finally got the right to vote! Wilson dreamed of a League of Nations where countries could talk instead of fight."
   },
-  "eventIds": [],
+  "eventIds": [
+    "us-enters-wwi",
+    "nineteenth-amendment"
+  ],
   "keyFigureIds": [
     "woodrow-wilson"
   ],

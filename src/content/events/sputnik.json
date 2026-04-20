@@ -1,0 +1,41 @@
+{
+  "id": "sputnik",
+  "status": "published",
+  "title": {
+    "scholar": "Sputnik Launches the Space Race",
+    "explorer": "The Space Race Begins!"
+  },
+  "date": "1957-10-04",
+  "decade": "1950s",
+  "summary": {
+    "scholar": "On October 4, 1957, the Soviet Union launched Sputnik, the first artificial satellite, into orbit around Earth. The event shocked Americans, who feared they were falling behind their Cold War rival in science and technology. The 'Sputnik moment' led to the creation of NASA in 1958, massive increases in science education funding, and the Space Race that would culminate in the American moon landing in 1969.",
+    "explorer": "On October 4, 1957, the Soviet Union launched Sputnik — the first satellite ever sent into space! Americans were shocked and worried. If the Soviets could put a satellite in space, what else could they do? This started the Space Race, and America created NASA to catch up. Within 12 years, America had put a man on the Moon!"
+  },
+  "significance": {
+    "scholar": "Sputnik catalyzed the American space program, increased federal investment in science education, and intensified Cold War competition that would drive technological innovation for decades.",
+    "explorer": "Sputnik scared America into action. The country started spending way more money on science and space, and it paid off big time with the Moon landing!"
+  },
+  "relatedPresidentIds": [
+    "dwight-d-eisenhower"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "science-tech"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

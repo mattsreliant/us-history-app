@@ -1,0 +1,41 @@
+{
+  "id": "pearl-harbor",
+  "status": "published",
+  "title": {
+    "scholar": "Attack on Pearl Harbor",
+    "explorer": "Japan Attacks Pearl Harbor!"
+  },
+  "date": "1941-12-07",
+  "decade": "1940s",
+  "summary": {
+    "scholar": "On December 7, 1941 — 'a date which will live in infamy,' as President Roosevelt declared — Japan launched a surprise military attack on the U.S. naval base at Pearl Harbor, Hawaii. The attack killed 2,403 Americans and destroyed or damaged 19 ships including eight battleships. The following day, Congress declared war on Japan, bringing the United States into World War II.",
+    "explorer": "On December 7, 1941, Japan launched a surprise attack on America's naval base at Pearl Harbor in Hawaii. Over 2,400 Americans were killed, and ships and planes were destroyed. President Roosevelt called it 'a date which will live in infamy.' The next day, America officially entered World War II."
+  },
+  "significance": {
+    "scholar": "Pearl Harbor ended American isolationism and united the nation for war. American industrial and military mobilization would prove decisive in defeating both Japan and Nazi Germany.",
+    "explorer": "Pearl Harbor ended any argument about whether America should join the war. The whole country came together to fight, and America's power helped win World War II."
+  },
+  "relatedPresidentIds": [
+    "franklin-d-roosevelt"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "hiroshima",
+  "status": "published",
+  "title": {
+    "scholar": "Atomic Bombing of Hiroshima",
+    "explorer": "The Atomic Bomb"
+  },
+  "date": "1945-08-06",
+  "decade": "1940s",
+  "summary": {
+    "scholar": "On August 6, 1945, the United States dropped an atomic bomb on Hiroshima, Japan, killing approximately 80,000 people instantly and tens of thousands more from radiation exposure. A second bomb was dropped on Nagasaki on August 9. Japan surrendered on August 15, ending World War II. President Truman's decision to use atomic weapons remains one of the most debated actions in American history.",
+    "explorer": "On August 6, 1945, the United States dropped the most powerful weapon ever made — an atomic bomb — on the Japanese city of Hiroshima. A second bomb was dropped on Nagasaki three days later. Japan surrendered, ending World War II. The bombs killed hundreds of thousands of people. Whether it was the right decision is something people still debate today."
+  },
+  "significance": {
+    "scholar": "The atomic bombings ended World War II but inaugurated the nuclear age and the Cold War arms race. The moral debate over their use continues to this day.",
+    "explorer": "These bombs ended the war but also started a new scary era where countries had weapons that could destroy whole cities. The debate about whether it was right to use them continues."
+  },
+  "relatedPresidentIds": [
+    "harry-s-truman"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "science-tech"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

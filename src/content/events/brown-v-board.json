@@ -1,0 +1,42 @@
+{
+  "id": "brown-v-board",
+  "status": "published",
+  "title": {
+    "scholar": "Brown v. Board of Education",
+    "explorer": "Separate Is NOT Equal!"
+  },
+  "date": "1954-05-17",
+  "decade": "1950s",
+  "summary": {
+    "scholar": "On May 17, 1954, the Supreme Court unanimously ruled in Brown v. Board of Education that racial segregation in public schools was unconstitutional, overturning the 'separate but equal' doctrine established by Plessy v. Ferguson in 1896. The landmark decision, delivered by Chief Justice Earl Warren, declared that 'separate educational facilities are inherently unequal' and sparked the modern civil rights movement.",
+    "explorer": "In 1954, the Supreme Court made a HUGE decision: separating Black and white kids in different schools was wrong and unconstitutional! The court said that 'separate' is NEVER truly 'equal.' This ruling helped start the civil rights movement and began the long process of integrating America's schools."
+  },
+  "significance": {
+    "scholar": "Brown v. Board of Education was the legal foundation of the civil rights movement, establishing that government-mandated segregation violated the Equal Protection Clause of the Fourteenth Amendment.",
+    "explorer": "This was one of the most important court decisions ever. It said segregation was wrong and started the fight to make America truly equal for everyone."
+  },
+  "relatedPresidentIds": [
+    "dwight-d-eisenhower"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

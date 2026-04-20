@@ -1,0 +1,42 @@
+{
+  "id": "compromise-of-1877",
+  "status": "published",
+  "title": {
+    "scholar": "Compromise of 1877 Ends Reconstruction",
+    "explorer": "Reconstruction Ends"
+  },
+  "date": "1877",
+  "decade": "1870s",
+  "summary": {
+    "scholar": "The Compromise of 1877 resolved the disputed 1876 presidential election by awarding Rutherford B. Hayes the presidency in exchange for withdrawing federal troops from the South, effectively ending Reconstruction. Without federal protection, Southern states systematically stripped away the rights of African Americans through Jim Crow laws, poll taxes, and racial terrorism.",
+    "explorer": "The Compromise of 1877 ended Reconstruction. The government pulled soldiers out of the South, and without their protection, Southern states passed unfair laws called Jim Crow laws that took away Black people's rights. It was a terrible step backward."
+  },
+  "significance": {
+    "scholar": "The end of Reconstruction left African Americans in the South vulnerable to decades of legalized segregation, disenfranchisement, and racial violence under the Jim Crow system.",
+    "explorer": "Without soldiers to protect them, Black people in the South lost many of the rights they had just gained. It would take almost 100 years to get them back."
+  },
+  "relatedPresidentIds": [
+    "rutherford-b-hayes"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}
