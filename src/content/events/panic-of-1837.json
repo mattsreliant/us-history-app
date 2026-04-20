@@ -1,0 +1,41 @@
+{
+  "id": "panic-of-1837",
+  "status": "published",
+  "title": {
+    "scholar": "Panic of 1837",
+    "explorer": "The Economy Crashes!"
+  },
+  "date": "1837-05-10",
+  "decade": "1830s",
+  "summary": {
+    "scholar": "The Panic of 1837 was a severe economic depression that lasted approximately seven years. Caused by speculative lending, the collapse of cotton prices, and Andrew Jackson's destruction of the Second Bank of the United States, the panic saw banks fail, businesses close, and unemployment soar. It hit just weeks after Martin Van Buren took office, defining and dooming his presidency.",
+    "explorer": "In 1837, the American economy crashed HARD! Banks closed, businesses went under, and tons of people lost their jobs. It lasted about seven years! Poor President Van Buren became president right when it started, so everyone blamed him even though it wasn't really his fault."
+  },
+  "significance": {
+    "scholar": "The Panic of 1837 was one of the most severe economic depressions in American history and demonstrated the instability of the early American financial system.",
+    "explorer": "This crash showed that the young American economy could have really bad problems. It took seven years to recover!"
+  },
+  "relatedPresidentIds": [
+    "martin-van-buren"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "economy"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

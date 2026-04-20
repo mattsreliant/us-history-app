@@ -1,0 +1,42 @@
+{
+  "id": "election-of-1824",
+  "status": "published",
+  "title": {
+    "scholar": "The 'Corrupt Bargain' Election of 1824",
+    "explorer": "The Strangest Election Ever!"
+  },
+  "date": "1824-12-01",
+  "decade": "1820s",
+  "summary": {
+    "scholar": "The election of 1824 was one of the most controversial in American history. Andrew Jackson won the most popular and electoral votes but failed to win a majority, throwing the election to the House of Representatives. Speaker Henry Clay threw his support to John Quincy Adams, who won. When Adams then appointed Clay as Secretary of State, Jackson's supporters cried 'corrupt bargain,' fueling Jackson's successful 1828 campaign.",
+    "explorer": "The 1824 election was WILD! Andrew Jackson got the most votes, but not enough to win outright. The House of Representatives had to pick the winner, and they chose John Quincy Adams instead! When Adams gave a top job to the man who helped him win, Jackson's fans called it a 'corrupt bargain.' Jackson was so mad he ran again in 1828 — and won BIG."
+  },
+  "significance": {
+    "scholar": "The contested 1824 election undermined faith in the existing political system and helped fuel the rise of Jacksonian democracy and mass political participation.",
+    "explorer": "This messy election made people so angry that it completely changed how American politics worked."
+  },
+  "relatedPresidentIds": [
+    "john-quincy-adams",
+    "andrew-jackson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

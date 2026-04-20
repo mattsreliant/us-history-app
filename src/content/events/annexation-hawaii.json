@@ -1,0 +1,41 @@
+{
+  "id": "annexation-hawaii",
+  "status": "published",
+  "title": {
+    "scholar": "Annexation of Hawaii",
+    "explorer": "Hawaii Becomes American!"
+  },
+  "date": "1898-07-07",
+  "decade": "1890s",
+  "summary": {
+    "scholar": "On July 7, 1898, President McKinley signed a resolution annexing the Republic of Hawaii as a U.S. territory. American sugar planters had overthrown Queen Liliuokalani in 1893, and the islands had strategic military importance, especially after the Spanish-American War. Hawaii would not become a state until 1959. The overthrow and annexation remain controversial, particularly among Native Hawaiians.",
+    "explorer": "In 1898, Hawaii became part of the United States. American businessmen had already overthrown the Hawaiian queen five years earlier, and now the U.S. officially took over the islands. Many Native Hawaiians were upset about losing their independence. Hawaii didn't become an actual state until 1959."
+  },
+  "significance": {
+    "scholar": "The annexation of Hawaii extended American territory into the Pacific and raised questions about imperialism and self-determination that resonate to this day.",
+    "explorer": "Hawaii becoming part of America was controversial because the Hawaiian people never voted on it. Their queen had been removed by American businessmen."
+  },
+  "relatedPresidentIds": [
+    "william-mckinley"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

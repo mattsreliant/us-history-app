@@ -1,0 +1,42 @@
+{
+  "id": "wounded-knee",
+  "status": "published",
+  "title": {
+    "scholar": "Massacre at Wounded Knee",
+    "explorer": "A Terrible Tragedy"
+  },
+  "date": "1890-12-29",
+  "decade": "1890s",
+  "summary": {
+    "scholar": "On December 29, 1890, U.S. Army troops killed approximately 250-300 Lakota Sioux men, women, and children at Wounded Knee Creek in South Dakota. The massacre occurred during an attempt to disarm the Lakota and marked the end of the Indian Wars. It is considered one of the darkest events in the history of U.S.-Native American relations.",
+    "explorer": "On December 29, 1890, U.S. soldiers killed around 250-300 Lakota Sioux people — including women and children — at Wounded Knee in South Dakota. It was a terrible tragedy and marked the end of the long wars between the U.S. government and Native Americans. It's one of the saddest events in American history."
+  },
+  "significance": {
+    "scholar": "Wounded Knee effectively ended armed Native American resistance to U.S. expansion and remains a powerful symbol of the devastation inflicted on indigenous peoples.",
+    "explorer": "Wounded Knee was the last major battle of the Indian Wars. It's a painful reminder of how terribly Native Americans were treated."
+  },
+  "relatedPresidentIds": [
+    "benjamin-harrison"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

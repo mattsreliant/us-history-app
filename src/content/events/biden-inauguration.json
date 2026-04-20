@@ -1,0 +1,42 @@
+{
+  "id": "biden-inauguration",
+  "status": "published",
+  "title": {
+    "scholar": "Biden Inaugurated; Harris Makes History",
+    "explorer": "A Historic Inauguration!"
+  },
+  "date": "2021-01-20",
+  "decade": "2020s",
+  "summary": {
+    "scholar": "On January 20, 2021, Joe Biden was inaugurated as the 46th President, and Kamala Harris was sworn in as Vice President — becoming the first woman, first Black person, and first person of South Asian descent to hold the office. The inauguration took place under unprecedented security following the January 6 Capitol breach, with the National Mall closed to the public.",
+    "explorer": "On January 20, 2021, Joe Biden became the 46th President. But the REALLY historic part was Kamala Harris — she became the first woman, first Black person, and first South Asian person to be Vice President! The inauguration had extra-heavy security because of what had happened at the Capitol just two weeks earlier."
+  },
+  "significance": {
+    "scholar": "Harris's inauguration as Vice President represented a historic milestone in American representation, breaking barriers that had stood for over 230 years.",
+    "explorer": "Kamala Harris made history by becoming the first woman and first person of color to be Vice President. That's a really big deal!"
+  },
+  "relatedPresidentIds": [
+    "joe-biden"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

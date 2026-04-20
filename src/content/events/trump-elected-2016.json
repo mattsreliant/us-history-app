@@ -1,0 +1,41 @@
+{
+  "id": "trump-elected-2016",
+  "status": "published",
+  "title": {
+    "scholar": "Donald Trump Elected President",
+    "explorer": "A Surprise Election!"
+  },
+  "date": "2016-11-08",
+  "decade": "2010s",
+  "summary": {
+    "scholar": "On November 8, 2016, businessman and television personality Donald Trump defeated Hillary Clinton to become the 45th President, in one of the most surprising election outcomes in American history. Trump lost the popular vote by nearly 3 million but won the Electoral College 304-227. His victory was attributed to strong support from working-class voters in the Midwest and represented a populist challenge to the political establishment.",
+    "explorer": "On November 8, 2016, Donald Trump won one of the most surprising elections ever! Most people thought Hillary Clinton would win, but Trump got more Electoral College votes even though Clinton got more total votes. Trump had never been a politician before — he was a businessman and TV star. His win surprised the whole world."
+  },
+  "significance": {
+    "scholar": "Trump's election represented a significant populist challenge to the American political establishment and reshaped the Republican Party.",
+    "explorer": "This election surprised almost everyone and showed that American politics could change in unexpected ways."
+  },
+  "relatedPresidentIds": [
+    "donald-trump"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

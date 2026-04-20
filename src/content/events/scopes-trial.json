@@ -1,0 +1,42 @@
+{
+  "id": "scopes-trial",
+  "status": "published",
+  "title": {
+    "scholar": "Scopes 'Monkey' Trial",
+    "explorer": "Evolution on Trial!"
+  },
+  "date": "1925-07-10",
+  "decade": "1920s",
+  "summary": {
+    "scholar": "In July 1925, high school teacher John Scopes was tried in Dayton, Tennessee for teaching evolution in violation of state law. The trial, featuring famous lawyers Clarence Darrow and William Jennings Bryan, became a national sensation that highlighted the clash between modernism and religious fundamentalism. Scopes was convicted and fined $100, but the trial turned public opinion in favor of teaching evolution.",
+    "explorer": "In 1925, a teacher named John Scopes got in trouble for teaching his students about evolution — the idea that humans developed from earlier species. Tennessee had a law against it! The trial became a huge deal with famous lawyers on both sides. Scopes was found guilty, but the trial made most Americans think teaching evolution should be allowed."
+  },
+  "significance": {
+    "scholar": "The Scopes Trial symbolized the broader cultural conflict between urban modernism and rural traditionalism in 1920s America, a tension that persists in different forms today.",
+    "explorer": "This trial showed that America was changing — some people wanted to embrace new science, while others wanted to stick with traditional beliefs."
+  },
+  "relatedPresidentIds": [
+    "calvin-coolidge"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "culture",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

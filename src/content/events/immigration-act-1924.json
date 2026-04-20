@@ -1,0 +1,42 @@
+{
+  "id": "immigration-act-1924",
+  "status": "published",
+  "title": {
+    "scholar": "Immigration Act of 1924",
+    "explorer": "Closing the Door"
+  },
+  "date": "1924-05-26",
+  "decade": "1920s",
+  "summary": {
+    "scholar": "The Immigration Act of 1924 (Johnson-Reed Act) severely restricted immigration by establishing national origin quotas that heavily favored Northern and Western Europeans while virtually excluding Asians. Annual immigration dropped from approximately 800,000 to 150,000. The law reflected the nativist sentiment of the 1920s and remained in effect until the Immigration and Nationality Act of 1965.",
+    "explorer": "In 1924, Congress passed a law that drastically cut immigration to America. The law was unfair — it let in lots of people from Northern Europe but almost nobody from Asia or Southern/Eastern Europe. Immigration dropped from about 800,000 people a year to just 150,000. This unfair law lasted until 1965."
+  },
+  "significance": {
+    "scholar": "The 1924 Immigration Act fundamentally reshaped the demographic composition of American immigration for four decades and reflected the era's nativist anxieties.",
+    "explorer": "This law decided who could come to America based on where they were from, which was really unfair. It wasn't changed until 1965."
+  },
+  "relatedPresidentIds": [
+    "calvin-coolidge"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

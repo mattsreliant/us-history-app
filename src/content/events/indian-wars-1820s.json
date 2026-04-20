@@ -1,0 +1,42 @@
+{
+  "id": "indian-wars-1820s",
+  "status": "published",
+  "title": {
+    "scholar": "Seminole Wars and Indian Conflicts",
+    "explorer": "Fighting in Florida"
+  },
+  "date": "1823",
+  "decade": "1820s",
+  "summary": {
+    "scholar": "Throughout the 1820s, the United States engaged in ongoing conflicts with Native American nations, particularly the Seminole people in Florida. General Andrew Jackson had invaded Spanish Florida in 1818, and after Spain ceded Florida to the U.S. in 1819, tensions with the Seminoles intensified. These conflicts foreshadowed the broader Indian Removal policies of the 1830s.",
+    "explorer": "In the 1820s, the United States was fighting with Native American groups in Florida, especially the Seminole people. Andrew Jackson had already led soldiers into Florida before it was even part of the U.S.! These fights were just the beginning of a sad time when the government would force many Native Americans from their homes."
+  },
+  "significance": {
+    "scholar": "The Seminole conflicts demonstrated the pattern of American territorial expansion at the expense of indigenous peoples that would define the 1830s.",
+    "explorer": "These fights in Florida were a preview of the even worse treatment of Native Americans that was coming in the next decade."
+  },
+  "relatedPresidentIds": [
+    "james-monroe"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

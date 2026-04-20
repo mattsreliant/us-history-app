@@ -1,0 +1,42 @@
+{
+  "id": "ukraine-response",
+  "status": "published",
+  "title": {
+    "scholar": "Russia Invades Ukraine; U.S. Response",
+    "explorer": "War in Europe"
+  },
+  "date": "2022-02-24",
+  "decade": "2020s",
+  "summary": {
+    "scholar": "On February 24, 2022, Russia launched a full-scale invasion of Ukraine, the largest military conflict in Europe since World War II. President Biden rallied NATO allies and organized massive economic sanctions against Russia, while providing billions of dollars in military aid to Ukraine. The conflict reshaped European security, accelerated NATO expansion, and renewed debate about America's role as the world's leading democracy.",
+    "explorer": "In February 2022, Russia invaded Ukraine — the biggest war in Europe since World War II! President Biden worked with other countries to help Ukraine defend itself and punished Russia with economic penalties. The war made countries in Europe come closer together and reminded everyone how important it is to stand up against countries that attack their neighbors."
+  },
+  "significance": {
+    "scholar": "The Ukraine conflict reshaped the post-Cold War security order in Europe, revitalized NATO, and tested American leadership of the Western alliance.",
+    "explorer": "This war showed that peace in Europe isn't guaranteed and that countries need to work together to stand up against aggression."
+  },
+  "relatedPresidentIds": [
+    "joe-biden"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

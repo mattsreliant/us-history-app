@@ -1,0 +1,43 @@
+{
+  "id": "trail-of-tears",
+  "status": "published",
+  "title": {
+    "scholar": "The Trail of Tears",
+    "explorer": "A Terrible Journey"
+  },
+  "date": "1838",
+  "decade": "1830s",
+  "summary": {
+    "scholar": "In 1838-1839, the U.S. government forced approximately 16,000 Cherokee people to march from their ancestral lands in the southeastern United States to Indian Territory (present-day Oklahoma). An estimated 4,000 Cherokee died from cold, disease, and starvation during the 1,200-mile journey. The Trail of Tears was the most devastating consequence of the Indian Removal Act of 1830.",
+    "explorer": "In 1838, the government forced about 16,000 Cherokee people to walk over 1,200 miles from their homes to Oklahoma. It was winter, they didn't have enough food or warm clothes, and about 4,000 people died along the way. It's called the Trail of Tears because of all the suffering. It's one of the saddest events in American history."
+  },
+  "significance": {
+    "scholar": "The Trail of Tears stands as one of the most egregious acts of ethnic cleansing in American history, forcibly removing thriving Native American communities from their ancestral lands.",
+    "explorer": "The Trail of Tears showed how terribly the government treated Native Americans. It's important to remember this so it never happens again."
+  },
+  "relatedPresidentIds": [
+    "andrew-jackson",
+    "martin-van-buren"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}
