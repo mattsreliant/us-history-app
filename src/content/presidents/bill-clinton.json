@@ -1,9 +1,174 @@
 {
   "id": "bill-clinton",
-  "status": "planned",
+  "status": "published",
   "number": 42,
   "name": "Bill Clinton",
   "party": "Democratic",
   "termStart": "1993",
-  "termEnd": "2001"
+  "termEnd": "2001",
+  "vicePresidents": [
+    "Al Gore (1993-2001)"
+  ],
+  "born": "1946-08-19",
+  "died": null,
+  "birthplace": "Hope, Arkansas",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Bill Clinton, the forty-second President, presided over the longest period of peacetime economic expansion in American history, transforming the largest fiscal deficit into a surplus. Nicknamed the 'Comeback Kid' and the 'New Democrat,' Clinton was a Rhodes Scholar who attended Georgetown, Oxford, and Yale Law School. He used military force to halt ethnic cleansing in Bosnia and Kosovo. He was the first Democratic president since FDR to win re-election. His presidency was also marked by his impeachment by the House over the Monica Lewinsky scandal, though he was acquitted by the Senate.",
+    "explorer": "Bill Clinton was the forty-second president. He grew up in a small town called Hope, Arkansas, and became one of the smartest presidents ever — he went to Georgetown, Oxford (as a Rhodes Scholar), and Yale Law School! As president, the economy did really well and the government actually made more money than it spent. He was impeached (put on trial by Congress) but was found not guilty."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Presided over the longest peacetime economic expansion in American history, transforming the largest fiscal deficit into a budget surplus.",
+        "explorer": "The economy boomed while he was president, and he turned a huge government debt into extra money!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: bill clinton",
+          "url": "https://millercenter.org/president/bill-clinton",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: bill clinton - Key Events",
+          "url": "https://millercenter.org/president/bill-clinton/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Used military force to halt ethnic cleansing in Bosnia and Kosovo, leading NATO intervention to stop humanitarian crises in the Balkans.",
+        "explorer": "He sent the military to stop terrible violence against innocent people in Bosnia and Kosovo."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: bill clinton",
+          "url": "https://millercenter.org/president/bill-clinton",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: bill clinton - Key Events",
+          "url": "https://millercenter.org/president/bill-clinton/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Became the first Democratic president since FDR to win re-election, reflecting broad public approval of his economic stewardship.",
+        "explorer": "He was the first Democrat since FDR to win the presidency twice!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: bill clinton",
+          "url": "https://millercenter.org/president/bill-clinton",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: bill clinton - Key Events",
+          "url": "https://millercenter.org/president/bill-clinton/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Clinton attended Georgetown University, Oxford University as a Rhodes Scholar, and Yale Law School — one of the most academically accomplished presidents.",
+        "explorer": "He went to three of the best schools in the world: Georgetown, Oxford, and Yale!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: bill clinton",
+          "url": "https://millercenter.org/president/bill-clinton",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: bill clinton - Key Events",
+          "url": "https://millercenter.org/president/bill-clinton/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was nicknamed the 'Comeback Kid' for his ability to recover from political setbacks throughout his career.",
+        "explorer": "People called him the 'Comeback Kid' because every time people counted him out, he bounced back."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: bill clinton",
+          "url": "https://millercenter.org/president/bill-clinton",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: bill clinton - Key Events",
+          "url": "https://millercenter.org/president/bill-clinton/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Born in Hope, Arkansas, Clinton married Hillary Rodham on October 11, 1975. Their daughter Chelsea was born in 1980.",
+        "explorer": "He was born in a town literally called Hope! His wife Hillary later ran for president herself."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: bill clinton",
+          "url": "https://millercenter.org/president/bill-clinton",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: bill clinton - Key Events",
+          "url": "https://millercenter.org/president/bill-clinton/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: bill clinton",
+      "url": "https://millercenter.org/president/bill-clinton",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: bill clinton - Key Events",
+      "url": "https://millercenter.org/president/bill-clinton/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

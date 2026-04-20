@@ -1,9 +1,174 @@
 {
   "id": "donald-trump-47",
-  "status": "planned",
+  "status": "published",
   "number": 47,
   "name": "Donald Trump",
   "party": "Republican",
   "termStart": "2025",
-  "termEnd": "present"
+  "termEnd": "present",
+  "vicePresidents": [
+    "JD Vance (2025-present)"
+  ],
+  "born": "1946-06-14",
+  "died": null,
+  "birthplace": "New York, New York",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Donald Trump returned to the presidency as the forty-seventh President in January 2025, becoming only the second person in American history (after Grover Cleveland) to serve non-consecutive terms. His second term began with a focus on immigration enforcement, trade policy, and government reorganization.",
+    "explorer": "Donald Trump came back as the forty-seventh president in 2025 — only the second person ever to leave the White House and come back! He's focused on immigration, trade deals, and changing how the government works."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Became only the second president to serve non-consecutive terms, winning the 2024 election after losing the 2020 race.",
+        "explorer": "He made an amazing political comeback, winning the presidency again after losing four years earlier."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: donald trump",
+          "url": "https://millercenter.org/president/donald-trump",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: donald trump - Key Events",
+          "url": "https://millercenter.org/president/donald-trump/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "His return to office represented one of the most remarkable political comebacks in American history.",
+        "explorer": "Coming back to win the presidency again was one of the biggest comebacks in American political history."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: donald trump",
+          "url": "https://millercenter.org/president/donald-trump",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: donald trump - Key Events",
+          "url": "https://millercenter.org/president/donald-trump/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "His second term continues with ongoing policy initiatives in immigration, trade, and government reform.",
+        "explorer": "He's working on immigration, trade deals with other countries, and changing how the government is run."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: donald trump",
+          "url": "https://millercenter.org/president/donald-trump",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: donald trump - Key Events",
+          "url": "https://millercenter.org/president/donald-trump/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Trump is only the second person to serve as president in two non-consecutive terms, following Grover Cleveland who served as the 22nd and 24th president.",
+        "explorer": "Just like Grover Cleveland way back in the 1800s, Trump left the presidency and then came back!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: donald trump",
+          "url": "https://millercenter.org/president/donald-trump",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: donald trump - Key Events",
+          "url": "https://millercenter.org/president/donald-trump/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "At 78, he became one of the oldest people inaugurated as president.",
+        "explorer": "He was 78 years old when he started his second term — one of the oldest presidents ever."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: donald trump",
+          "url": "https://millercenter.org/president/donald-trump",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: donald trump - Key Events",
+          "url": "https://millercenter.org/president/donald-trump/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "His vice president JD Vance, a former venture capitalist and author, was one of the youngest vice presidents in modern history.",
+        "explorer": "His vice president JD Vance was pretty young for the job and used to be a writer and investor."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: donald trump",
+          "url": "https://millercenter.org/president/donald-trump",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: donald trump - Key Events",
+          "url": "https://millercenter.org/president/donald-trump/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: donald trump",
+      "url": "https://millercenter.org/president/donald-trump",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: donald trump - Key Events",
+      "url": "https://millercenter.org/president/donald-trump/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

@@ -1,9 +1,174 @@
 {
   "id": "donald-trump",
-  "status": "planned",
+  "status": "published",
   "number": 45,
   "name": "Donald Trump",
   "party": "Republican",
   "termStart": "2017",
-  "termEnd": "2021"
+  "termEnd": "2021",
+  "vicePresidents": [
+    "Mike Pence (2017-2021)"
+  ],
+  "born": "1946-06-14",
+  "died": null,
+  "birthplace": "New York, New York",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Donald Trump, the forty-fifth President, was a real estate developer and television personality who had never held public office before winning the presidency in 2016. His presidency was marked by tax reform, the appointment of three Supreme Court justices, and a combative relationship with the media and political opposition. He was impeached twice by the House of Representatives but acquitted both times by the Senate. He lost his 2020 re-election bid to Joe Biden but returned to win the presidency again in 2024.",
+    "explorer": "Donald Trump was a famous businessman and TV star who became the forty-fifth president in 2017. He had never been a politician before. He cut taxes, picked three Supreme Court justices, and was always in the news. Congress tried to remove him twice, but the Senate said no both times. He lost the next election but came back and won again in 2024!"
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Appointed three Supreme Court justices — Neil Gorsuch, Brett Kavanaugh, and Amy Coney Barrett — reshaping the ideological balance of the nation's highest court.",
+        "explorer": "He picked three new Supreme Court justices, which changed the court in a big way."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: donald trump",
+          "url": "https://millercenter.org/president/donald-trump",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: donald trump - Key Events",
+          "url": "https://millercenter.org/president/donald-trump/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Signed the Tax Cuts and Jobs Act of 2017, the most significant overhaul of the federal tax code in three decades.",
+        "explorer": "He signed a big tax cut that changed how much money people and businesses had to pay the government."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: donald trump",
+          "url": "https://millercenter.org/president/donald-trump",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: donald trump - Key Events",
+          "url": "https://millercenter.org/president/donald-trump/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Became only the second person in American history (after Grover Cleveland) to win two non-consecutive presidential terms.",
+        "explorer": "He's only the second person ever to be president, leave, and then come back and be president again!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: donald trump",
+          "url": "https://millercenter.org/president/donald-trump",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: donald trump - Key Events",
+          "url": "https://millercenter.org/president/donald-trump/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Trump was a real estate developer and television personality (hosting The Apprentice) who had never held public office before winning the presidency.",
+        "explorer": "Before becoming president, he was famous for building skyscrapers and hosting the TV show The Apprentice."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: donald trump",
+          "url": "https://millercenter.org/president/donald-trump",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: donald trump - Key Events",
+          "url": "https://millercenter.org/president/donald-trump/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was impeached twice by the House of Representatives — more than any other president — but acquitted both times by the Senate.",
+        "explorer": "Congress tried to remove him from office TWICE, which never happened to any other president."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: donald trump",
+          "url": "https://millercenter.org/president/donald-trump",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: donald trump - Key Events",
+          "url": "https://millercenter.org/president/donald-trump/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He is the second person to serve non-consecutive presidential terms, serving as both the 45th and 47th president.",
+        "explorer": "He's both the 45th AND 47th president — only Grover Cleveland did something like that before."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: donald trump",
+          "url": "https://millercenter.org/president/donald-trump",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: donald trump - Key Events",
+          "url": "https://millercenter.org/president/donald-trump/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: donald trump",
+      "url": "https://millercenter.org/president/donald-trump",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: donald trump - Key Events",
+      "url": "https://millercenter.org/president/donald-trump/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

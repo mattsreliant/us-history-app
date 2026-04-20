@@ -1,9 +1,174 @@
 {
   "id": "joe-biden",
-  "status": "planned",
+  "status": "published",
   "number": 46,
   "name": "Joe Biden",
   "party": "Democratic",
   "termStart": "2021",
-  "termEnd": "2025"
+  "termEnd": "2025",
+  "vicePresidents": [
+    "Kamala Harris (2021-2025)"
+  ],
+  "born": "1942-11-20",
+  "died": null,
+  "birthplace": "Scranton, Pennsylvania",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Joe Biden, the forty-sixth President, brought decades of government experience to the office, having served 36 years as a U.S. Senator from Delaware and eight years as Vice President under Barack Obama. Nicknamed 'Amtrak Joe' for his daily train commute between Delaware and Washington, Biden signed the American Rescue Plan and the Infrastructure Investment and Jobs Act. His vice president, Kamala Harris, made history as the first woman, first Black person, and first person of South Asian descent to hold that office.",
+    "explorer": "Joe Biden was the forty-sixth president. He had been in government for a really long time — 36 years as a senator and 8 years as vice president! People called him 'Amtrak Joe' because he rode the train to work every day. His vice president, Kamala Harris, made history as the first woman and first Black and South Asian person to be vice president."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Selected Kamala Harris as his running mate, who became the first woman, first Black person, and first person of South Asian descent to serve as Vice President.",
+        "explorer": "He picked Kamala Harris as vice president — she was the first woman, first Black person, and first South Asian person ever in that role!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: joe biden",
+          "url": "https://millercenter.org/president/joe-biden",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: joe biden - Key Events",
+          "url": "https://millercenter.org/president/joe-biden/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Signed the Infrastructure Investment and Jobs Act, a major bipartisan investment in American roads, bridges, broadband, and public transit.",
+        "explorer": "He signed a huge law to fix America's roads, bridges, and internet connections."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: joe biden",
+          "url": "https://millercenter.org/president/joe-biden",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: joe biden - Key Events",
+          "url": "https://millercenter.org/president/joe-biden/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Brought 36 years of Senate experience and 8 years as Vice President to the office, one of the most experienced presidents in modern history.",
+        "explorer": "He had more government experience than almost any president — 44 years total!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: joe biden",
+          "url": "https://millercenter.org/president/joe-biden",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: joe biden - Key Events",
+          "url": "https://millercenter.org/president/joe-biden/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Biden was nicknamed 'Amtrak Joe' for commuting daily by train between his home in Wilmington, Delaware and Washington, D.C. during his decades in the Senate.",
+        "explorer": "He took the train to work every single day for decades, so people called him 'Amtrak Joe!'"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: joe biden",
+          "url": "https://millercenter.org/president/joe-biden",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: joe biden - Key Events",
+          "url": "https://millercenter.org/president/joe-biden/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He overcame personal tragedy throughout his life, losing his first wife and daughter in a car accident in 1972, and his son Beau to cancer in 2015.",
+        "explorer": "He went through terrible sadness — he lost his wife and daughter in a car crash, and his son Beau to cancer."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: joe biden",
+          "url": "https://millercenter.org/president/joe-biden",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: joe biden - Key Events",
+          "url": "https://millercenter.org/president/joe-biden/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Biden is a Roman Catholic who has emphasized values of family, service, decency, and hard work throughout his political career.",
+        "explorer": "He is Catholic and has always talked about how important family, service, and hard work are."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: joe biden",
+          "url": "https://millercenter.org/president/joe-biden",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: joe biden - Key Events",
+          "url": "https://millercenter.org/president/joe-biden/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: joe biden",
+      "url": "https://millercenter.org/president/joe-biden",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: joe biden - Key Events",
+      "url": "https://millercenter.org/president/joe-biden/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

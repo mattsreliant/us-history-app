@@ -1,9 +1,174 @@
 {
   "id": "jimmy-carter",
-  "status": "planned",
+  "status": "published",
   "number": 39,
   "name": "Jimmy Carter",
   "party": "Democratic",
   "termStart": "1977",
-  "termEnd": "1981"
+  "termEnd": "1981",
+  "vicePresidents": [
+    "Walter Mondale (1977-1981)"
+  ],
+  "born": "1924-10-01",
+  "died": "2024-12-29",
+  "birthplace": "Plains, Georgia",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Jimmy Carter, the thirty-ninth President, brought a reputation for honesty and moral clarity to the White House. A nuclear engineer and peanut farmer from Plains, Georgia, Carter negotiated the Camp David Accords between Egypt and Israel in 1978, one of the most significant diplomatic achievements in Middle Eastern history. His presidency was challenged by the Iran hostage crisis and economic stagflation. After leaving office, Carter had one of the most distinguished post-presidential careers in history, winning the Nobel Peace Prize in 2002 for his humanitarian work through the Carter Center.",
+    "explorer": "Jimmy Carter was the thirty-ninth president. He grew up on a peanut farm in Georgia and trained as a nuclear engineer in the Navy. As president, he helped Egypt and Israel make peace at Camp David — one of the biggest peace deals ever. After leaving office, he spent decades helping people around the world, building houses for the poor, and working for peace. He won the Nobel Peace Prize in 2002."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Negotiated the Camp David Accords (September 17, 1978), a historic peace agreement between Egypt and Israel that reshaped Middle Eastern diplomacy.",
+        "explorer": "He brought the leaders of Egypt and Israel together at Camp David and got them to make peace!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: jimmy carter",
+          "url": "https://millercenter.org/president/jimmy-carter",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: jimmy carter - Key Events",
+          "url": "https://millercenter.org/president/jimmy-carter/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Restored trust in government following the Watergate and Vietnam eras, emphasizing honesty and moral leadership.",
+        "explorer": "After years of scandals and war, he brought honesty back to the White House."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: jimmy carter",
+          "url": "https://millercenter.org/president/jimmy-carter",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: jimmy carter - Key Events",
+          "url": "https://millercenter.org/president/jimmy-carter/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Won the Nobel Peace Prize in 2002 for his decades of humanitarian work through the Carter Center, one of the most distinguished post-presidential careers in history.",
+        "explorer": "After being president, he won the Nobel Peace Prize for all his amazing work helping people around the world."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: jimmy carter",
+          "url": "https://millercenter.org/president/jimmy-carter",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: jimmy carter - Key Events",
+          "url": "https://millercenter.org/president/jimmy-carter/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Carter trained as a nuclear engineer in the U.S. Navy before returning to Georgia to run the family peanut farm.",
+        "explorer": "Before politics, he was a nuclear engineer in the Navy and a peanut farmer!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: jimmy carter",
+          "url": "https://millercenter.org/president/jimmy-carter",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: jimmy carter - Key Events",
+          "url": "https://millercenter.org/president/jimmy-carter/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He had the longest post-presidency in American history, living 43 years after leaving office and remaining active in humanitarian work until his final years.",
+        "explorer": "He lived 43 years after being president — the longest post-presidency ever! He kept helping people the whole time."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: jimmy carter",
+          "url": "https://millercenter.org/president/jimmy-carter",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: jimmy carter - Key Events",
+          "url": "https://millercenter.org/president/jimmy-carter/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Carter and his wife Rosalynn were married for 77 years, the longest presidential marriage in American history.",
+        "explorer": "He and his wife Rosalynn were married for 77 years — the longest marriage of any president!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: jimmy carter",
+          "url": "https://millercenter.org/president/jimmy-carter",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: jimmy carter - Key Events",
+          "url": "https://millercenter.org/president/jimmy-carter/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: jimmy carter",
+      "url": "https://millercenter.org/president/jimmy-carter",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: jimmy carter - Key Events",
+      "url": "https://millercenter.org/president/jimmy-carter/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

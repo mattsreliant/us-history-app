@@ -1,9 +1,174 @@
 {
   "id": "george-h-w-bush",
-  "status": "planned",
+  "status": "published",
   "number": 41,
   "name": "George H. W. Bush",
   "party": "Republican",
   "termStart": "1989",
-  "termEnd": "1993"
+  "termEnd": "1993",
+  "vicePresidents": [
+    "Dan Quayle (1989-1993)"
+  ],
+  "born": "1924-06-12",
+  "died": "2018-11-30",
+  "birthplace": "Milton, Massachusetts",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "George H. W. Bush, the forty-first President, brought extraordinary foreign policy experience to the presidency, having served as Ambassador to the UN, CIA Director, and Vice President under Reagan. He navigated the end of the Cold War and the reunification of Germany, and led a successful international coalition in Operation Desert Storm to liberate Kuwait in 1991. Despite high approval ratings after the Gulf War, he lost his re-election bid to Bill Clinton amid a struggling economy.",
+    "explorer": "George H. W. Bush was the forty-first president. He had done so many important government jobs before becoming president — including running the CIA and being vice president for eight years. He helped manage the peaceful end of the Cold War and led a huge international team to free Kuwait from Iraq in the Gulf War. Even though he was really popular after winning the war, he lost the next election because the economy was struggling."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Managed the peaceful end of the Cold War and the reunification of Germany, navigating one of the most significant geopolitical transformations in modern history.",
+        "explorer": "He helped the Cold War end peacefully and supported Germany coming back together as one country."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: george h w bush",
+          "url": "https://millercenter.org/president/george-h-w-bush",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: george h w bush - Key Events",
+          "url": "https://millercenter.org/president/george-h-w-bush/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Led a successful 34-nation international coalition in Operation Desert Storm (1991), liberating Kuwait from Iraqi invasion.",
+        "explorer": "He put together a team of 34 countries to free Kuwait from Iraq in the Gulf War."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: george h w bush",
+          "url": "https://millercenter.org/president/george-h-w-bush",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: george h w bush - Key Events",
+          "url": "https://millercenter.org/president/george-h-w-bush/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Brought unmatched foreign policy experience to the presidency, having served as UN Ambassador, CIA Director, and Vice President.",
+        "explorer": "He had more foreign policy experience than almost any president, having been a UN ambassador, CIA director, and VP."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: george h w bush",
+          "url": "https://millercenter.org/president/george-h-w-bush",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: george h w bush - Key Events",
+          "url": "https://millercenter.org/president/george-h-w-bush/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Bush and his son George W. Bush are only the second father-son pair to both serve as president, after John Adams and John Quincy Adams.",
+        "explorer": "He and his son both became president! Only the Adams family had done that before."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: george h w bush",
+          "url": "https://millercenter.org/president/george-h-w-bush",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: george h w bush - Key Events",
+          "url": "https://millercenter.org/president/george-h-w-bush/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Part of a three-generation political dynasty — his father Prescott was a U.S. Senator, he was president, and his son became president.",
+        "explorer": "Three generations of his family were in politics: his dad was a senator, he was president, and his son became president too!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: george h w bush",
+          "url": "https://millercenter.org/president/george-h-w-bush",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: george h w bush - Key Events",
+          "url": "https://millercenter.org/president/george-h-w-bush/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He married Barbara Pierce on January 6, 1945, and they had six children. Their marriage lasted 73 years until Barbara's death in 2018.",
+        "explorer": "He and his wife Barbara were married for 73 years and had six kids, including a future president!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: george h w bush",
+          "url": "https://millercenter.org/president/george-h-w-bush",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: george h w bush - Key Events",
+          "url": "https://millercenter.org/president/george-h-w-bush/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: george h w bush",
+      "url": "https://millercenter.org/president/george-h-w-bush",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: george h w bush - Key Events",
+      "url": "https://millercenter.org/president/george-h-w-bush/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

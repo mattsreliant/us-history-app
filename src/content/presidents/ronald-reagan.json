@@ -1,9 +1,174 @@
 {
   "id": "ronald-reagan",
-  "status": "planned",
+  "status": "published",
   "number": 40,
   "name": "Ronald Reagan",
   "party": "Republican",
   "termStart": "1981",
-  "termEnd": "1989"
+  "termEnd": "1989",
+  "vicePresidents": [
+    "George H. W. Bush (1981-1989)"
+  ],
+  "born": "1911-02-06",
+  "died": "2004-06-05",
+  "birthplace": "Tampico, Illinois",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Ronald Reagan, the fortieth President, led a conservative revolution that reshaped American politics. Nicknamed 'The Great Communicator' for his extraordinary public speaking skills, Reagan had careers as a radio sportscaster, Hollywood actor, and television host before entering politics as Governor of California. As president, he pursued tax cuts, deregulation, and a massive military buildup that contributed to the end of the Cold War. He survived an assassination attempt in 1981, demonstrating remarkable resilience.",
+    "explorer": "Ronald Reagan was the fortieth president and one of the most popular ever. Before politics, he was a movie star in Hollywood! People called him 'The Great Communicator' because he was so good at giving speeches. He helped end the Cold War with the Soviet Union and survived being shot in 1981. He changed how many Americans thought about government, believing it should be smaller."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Led the nation through the final years of the Cold War, pursuing a military buildup and diplomatic pressure that contributed to the collapse of the Soviet Union.",
+        "explorer": "He helped end the Cold War with the Soviet Union, one of the biggest events in world history."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: ronald reagan",
+          "url": "https://millercenter.org/president/ronald-reagan",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: ronald reagan - Key Events",
+          "url": "https://millercenter.org/president/ronald-reagan/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Implemented sweeping economic reforms including significant tax cuts and deregulation, reshaping American economic policy.",
+        "explorer": "He cut taxes and changed how the government dealt with businesses, which some people loved and others argued about."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: ronald reagan",
+          "url": "https://millercenter.org/president/ronald-reagan",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: ronald reagan - Key Events",
+          "url": "https://millercenter.org/president/ronald-reagan/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Restored American confidence and optimism after the challenges of the 1970s, communicating a vision of national renewal.",
+        "explorer": "He made Americans feel proud and hopeful again after a tough decade of problems in the 1970s."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: ronald reagan",
+          "url": "https://millercenter.org/president/ronald-reagan",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: ronald reagan - Key Events",
+          "url": "https://millercenter.org/president/ronald-reagan/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Reagan had successful careers as a radio sportscaster, Hollywood actor, and television host before entering politics, serving as Governor of California for eight years.",
+        "explorer": "He was a movie star and TV host before becoming a politician! He was Governor of California before becoming president."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: ronald reagan",
+          "url": "https://millercenter.org/president/ronald-reagan",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: ronald reagan - Key Events",
+          "url": "https://millercenter.org/president/ronald-reagan/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He survived an assassination attempt on March 30, 1981, joking to his wife Nancy, 'Honey, I forgot to duck,' and to his surgeons, 'I hope you're all Republicans.'",
+        "explorer": "He was shot in 1981 but survived. He even joked with his doctors, saying 'I hope you're all Republicans!'"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: ronald reagan",
+          "url": "https://millercenter.org/president/ronald-reagan",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: ronald reagan - Key Events",
+          "url": "https://millercenter.org/president/ronald-reagan/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Reagan was nicknamed 'The Great Communicator,' 'Dutch' (his childhood nickname), and 'The Gipper' (from his role in the film Knute Rockne, All American).",
+        "explorer": "He had lots of nicknames: 'The Great Communicator,' 'Dutch,' and 'The Gipper' from a movie he was in."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: ronald reagan",
+          "url": "https://millercenter.org/president/ronald-reagan",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: ronald reagan - Key Events",
+          "url": "https://millercenter.org/president/ronald-reagan/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: ronald reagan",
+      "url": "https://millercenter.org/president/ronald-reagan",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: ronald reagan - Key Events",
+      "url": "https://millercenter.org/president/ronald-reagan/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

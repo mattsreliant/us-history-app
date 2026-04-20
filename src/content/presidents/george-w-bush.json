@@ -1,9 +1,174 @@
 {
   "id": "george-w-bush",
-  "status": "planned",
+  "status": "published",
   "number": 43,
   "name": "George W. Bush",
   "party": "Republican",
   "termStart": "2001",
-  "termEnd": "2009"
+  "termEnd": "2009",
+  "vicePresidents": [
+    "Dick Cheney (2001-2009)"
+  ],
+  "born": "1946-07-06",
+  "died": null,
+  "birthplace": "New Haven, Connecticut",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "George W. Bush, the forty-third President, led the nation's response to the September 11, 2001 terrorist attacks, the most devastating attack on American soil since Pearl Harbor. He launched the War on Terror, including military operations in Afghanistan and Iraq. Domestically, he signed the No Child Left Behind Act for education reform and launched PEPFAR, the President's Emergency Plan for AIDS Relief, which has been credited with saving millions of lives in Africa. He won the 2000 election in one of the closest and most contested races in history.",
+    "explorer": "George W. Bush became the forty-third president right before the worst terrorist attack in American history — September 11, 2001. After 9/11, he led the country's response, sending troops to Afghanistan and later Iraq. He also started a huge program called PEPFAR that saved millions of lives in Africa by fighting AIDS. He won one of the closest elections ever in 2000."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Led the nation's response to the September 11, 2001 terrorist attacks, rallying the country and launching the global War on Terror.",
+        "explorer": "He led the country after the terrible 9/11 attacks, helping Americans come together during one of the scariest times ever."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: george w bush",
+          "url": "https://millercenter.org/president/george-w-bush",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: george w bush - Key Events",
+          "url": "https://millercenter.org/president/george-w-bush/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Launched PEPFAR (President's Emergency Plan for AIDS Relief), which has been credited with saving millions of lives in Africa.",
+        "explorer": "He started a program called PEPFAR that saved millions of lives in Africa by fighting the AIDS disease."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: george w bush",
+          "url": "https://millercenter.org/president/george-w-bush",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: george w bush - Key Events",
+          "url": "https://millercenter.org/president/george-w-bush/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Signed the No Child Left Behind Act, a major education reform initiative aimed at improving accountability in public schools.",
+        "explorer": "He signed a big education law called No Child Left Behind that tried to make schools better for all kids."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: george w bush",
+          "url": "https://millercenter.org/president/george-w-bush",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: george w bush - Key Events",
+          "url": "https://millercenter.org/president/george-w-bush/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Bush won the 2000 presidential election in one of the closest races in history, decided by a Supreme Court ruling on Florida's vote count.",
+        "explorer": "He won one of the closest elections EVER — it came down to the Supreme Court deciding who won Florida."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: george w bush",
+          "url": "https://millercenter.org/president/george-w-bush",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: george w bush - Key Events",
+          "url": "https://millercenter.org/president/george-w-bush/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He earned degrees from Yale (B.A., 1968) and Harvard Business School (M.B.A., 1975) and worked as a businessman before politics.",
+        "explorer": "He went to both Yale and Harvard Business School before going into politics."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: george w bush",
+          "url": "https://millercenter.org/president/george-w-bush",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: george w bush - Key Events",
+          "url": "https://millercenter.org/president/george-w-bush/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "His father George H. W. Bush was also president, making them the second father-son presidential pair after John Adams and John Quincy Adams.",
+        "explorer": "His dad was also president! They're only the second father-son pair to both be president."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: george w bush",
+          "url": "https://millercenter.org/president/george-w-bush",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: george w bush - Key Events",
+          "url": "https://millercenter.org/president/george-w-bush/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: george w bush",
+      "url": "https://millercenter.org/president/george-w-bush",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: george w bush - Key Events",
+      "url": "https://millercenter.org/president/george-w-bush/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }
