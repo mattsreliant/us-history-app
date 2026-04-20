@@ -1,0 +1,39 @@
+{
+  "id": "articles-of-confederation",
+  "status": "published",
+  "title": {
+    "scholar": "Articles of Confederation Ratified",
+    "explorer": "America's First Rulebook"
+  },
+  "date": "1781-03-01",
+  "decade": "1780s",
+  "summary": {
+    "scholar": "The Articles of Confederation, ratified in 1781, served as the first constitution of the United States. The document created a deliberately weak central government with no executive branch, no power to tax, and no authority to regulate commerce. Its inadequacies became apparent quickly, leading to the Constitutional Convention of 1787.",
+    "explorer": "Before the Constitution, America had a different set of rules called the Articles of Confederation. But they made the national government SO weak that it could barely do anything — it couldn't collect taxes or even make states cooperate! That's why the Founders had to write a whole new Constitution."
+  },
+  "significance": {
+    "scholar": "The Articles' failures demonstrated the need for a stronger national government and directly motivated the Constitutional Convention.",
+    "explorer": "The Articles of Confederation proved that America needed stronger rules. That's why they wrote the Constitution to replace them."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

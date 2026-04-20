@@ -1,0 +1,41 @@
+{
+  "id": "marbury-v-madison",
+  "status": "published",
+  "title": {
+    "scholar": "Marbury v. Madison",
+    "explorer": "The Court Gets Power!"
+  },
+  "date": "1803-02-24",
+  "decade": "1800s",
+  "summary": {
+    "scholar": "In Marbury v. Madison (1803), Chief Justice John Marshall established the principle of judicial review — the power of the Supreme Court to declare laws unconstitutional. This landmark decision, though it resolved a minor appointment dispute, fundamentally expanded the judiciary's role in American government and established the Court as an equal branch alongside Congress and the presidency.",
+    "explorer": "In 1803, the Supreme Court made a decision that changed American government forever! In a case called Marbury v. Madison, the Court said that IT had the power to decide if a law was unconstitutional. This made the Supreme Court just as important as Congress and the President — the three branches of government were now truly equal."
+  },
+  "significance": {
+    "scholar": "Marbury v. Madison established judicial review as the cornerstone of American constitutional law, making the Supreme Court the final arbiter of constitutional questions.",
+    "explorer": "This case is why the Supreme Court is so powerful today. It gave the Court the power to strike down any law that goes against the Constitution."
+  },
+  "relatedPresidentIds": [
+    "thomas-jefferson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "klondike-gold-rush",
+  "status": "published",
+  "title": {
+    "scholar": "Klondike Gold Rush",
+    "explorer": "Gold in Alaska!"
+  },
+  "date": "1897",
+  "decade": "1890s",
+  "summary": {
+    "scholar": "The Klondike Gold Rush began in 1897 when gold was discovered in Canada's Yukon Territory. Approximately 100,000 prospectors set out for the Klondike, though only about 30,000 arrived. The rush brought international attention to Alaska (which the U.S. had purchased from Russia in 1867) and spurred development of the Pacific Northwest.",
+    "explorer": "In 1897, gold was discovered in the Klondike region near Alaska! About 100,000 people rushed north hoping to strike it rich, but only about 30,000 actually made it — the journey was incredibly hard. The gold rush helped people realize that Alaska, which America had bought from Russia for just 2 cents an acre, was actually really valuable!"
+  },
+  "significance": {
+    "scholar": "The Klondike Gold Rush stimulated economic development in Alaska and the Pacific Northwest and reinforced the American frontier spirit at a time when the western frontier had officially closed.",
+    "explorer": "The Klondike Gold Rush showed that adventure and opportunity were still out there, even after the Old West had faded."
+  },
+  "relatedPresidentIds": [
+    "william-mckinley"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "exploration",
+    "economy"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

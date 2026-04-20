@@ -1,0 +1,41 @@
+{
+  "id": "missouri-statehood",
+  "status": "published",
+  "title": {
+    "scholar": "Missouri Statehood Crisis Begins",
+    "explorer": "The Slavery Argument Heats Up!"
+  },
+  "date": "1819",
+  "decade": "1810s",
+  "summary": {
+    "scholar": "In 1819, Missouri's application for statehood as a slave state triggered a fierce congressional debate that exposed the deep sectional divide over slavery. The crisis threatened to tear the young nation apart until the Missouri Compromise of 1820 resolved it temporarily. Thomas Jefferson called the crisis 'a fire bell in the night' that awakened him with terror.",
+    "explorer": "In 1819, Missouri wanted to join the United States as a state that allowed slavery. This started a HUGE argument between the North (which opposed slavery) and the South (which supported it). Thomas Jefferson said the crisis scared him like 'a fire bell in the night.' The argument was settled temporarily, but it was a warning of the Civil War to come."
+  },
+  "significance": {
+    "scholar": "The Missouri crisis was the first major sectional showdown over slavery and foreshadowed the conflict that would eventually lead to civil war.",
+    "explorer": "This was the first big warning that slavery might tear the country apart someday."
+  },
+  "relatedPresidentIds": [
+    "james-monroe"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

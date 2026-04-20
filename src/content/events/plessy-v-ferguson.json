@@ -1,0 +1,42 @@
+{
+  "id": "plessy-v-ferguson",
+  "status": "published",
+  "title": {
+    "scholar": "Plessy v. Ferguson: 'Separate but Equal'",
+    "explorer": "A Wrong Decision"
+  },
+  "date": "1896-05-18",
+  "decade": "1890s",
+  "summary": {
+    "scholar": "In Plessy v. Ferguson (1896), the Supreme Court ruled 7-1 that racial segregation was constitutional as long as facilities were 'separate but equal.' The decision legalized Jim Crow segregation across the South and would stand for nearly 60 years until overturned by Brown v. Board of Education in 1954. Justice John Marshall Harlan's lone dissent declared, 'Our Constitution is color-blind.'",
+    "explorer": "In 1896, the Supreme Court made a terrible decision in a case called Plessy v. Ferguson. They said it was OK to separate Black and white people as long as things were 'separate but equal.' But things were NEVER actually equal. This allowed unfair segregation laws for almost 60 years until the Court fixed its mistake in 1954."
+  },
+  "significance": {
+    "scholar": "Plessy v. Ferguson provided the legal framework for Jim Crow segregation and is now regarded as one of the Supreme Court's worst decisions.",
+    "explorer": "This decision let segregation be legal for almost 60 years. It took until 1954 for the Supreme Court to say it was wrong."
+  },
+  "relatedPresidentIds": [
+    "grover-cleveland-24"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

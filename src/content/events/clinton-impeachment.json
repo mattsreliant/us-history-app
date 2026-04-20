@@ -1,0 +1,41 @@
+{
+  "id": "clinton-impeachment",
+  "status": "published",
+  "title": {
+    "scholar": "Clinton Impeached",
+    "explorer": "The President Is Impeached!"
+  },
+  "date": "1998-12-19",
+  "decade": "1990s",
+  "summary": {
+    "scholar": "On December 19, 1998, the House of Representatives impeached President Bill Clinton on charges of perjury and obstruction of justice related to his affair with White House intern Monica Lewinsky. Clinton was the second president impeached (after Andrew Johnson in 1868). The Senate acquitted him on February 12, 1999, and he served out the remainder of his term.",
+    "explorer": "In 1998, Congress impeached President Clinton — meaning they put him on trial for lying under oath about a personal relationship. He was only the second president to be impeached (Andrew Johnson was the first). The Senate found him not guilty, so he stayed president and finished his term."
+  },
+  "significance": {
+    "scholar": "Clinton's impeachment highlighted the tension between personal conduct and presidential authority, and deepened partisan divisions in American politics.",
+    "explorer": "Clinton's impeachment showed that even popular presidents can face serious consequences for dishonesty."
+  },
+  "relatedPresidentIds": [
+    "bill-clinton"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

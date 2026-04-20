@@ -1,0 +1,41 @@
+{
+  "id": "affordable-care-act",
+  "status": "published",
+  "title": {
+    "scholar": "Affordable Care Act Signed",
+    "explorer": "Healthcare for More Americans!"
+  },
+  "date": "2010-03-23",
+  "decade": "2010s",
+  "summary": {
+    "scholar": "On March 23, 2010, President Obama signed the Affordable Care Act (ACA), the most significant reform of the American healthcare system since Medicare in 1965. The law expanded insurance coverage to approximately 20 million previously uninsured Americans through insurance market reforms, Medicaid expansion, and the creation of health insurance exchanges. The ACA remains one of the most debated pieces of domestic legislation.",
+    "explorer": "On March 23, 2010, President Obama signed a big healthcare law that helped about 20 million Americans who didn't have health insurance finally get covered. The law — often called 'Obamacare' — has been debated a LOT, but it helped millions of people see doctors and get medicine they couldn't afford before."
+  },
+  "significance": {
+    "scholar": "The ACA represented the largest expansion of health coverage since Medicare and reshaped the American healthcare landscape.",
+    "explorer": "This law helped millions of people who couldn't afford to go to the doctor finally get health insurance."
+  },
+  "relatedPresidentIds": [
+    "barack-obama"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "battles-lexington-concord",
+  "status": "published",
+  "title": {
+    "scholar": "Battles of Lexington and Concord",
+    "explorer": "The Shot Heard Round the World!"
+  },
+  "date": "1775-04-19",
+  "decade": "1770s",
+  "summary": {
+    "scholar": "On April 19, 1775, British troops marched from Boston to seize colonial military supplies at Concord, Massachusetts. Colonial militiamen confronted them at Lexington Green, where the first shots of the American Revolution were fired. The British were driven back to Boston by thousands of colonial militia. Ralph Waldo Emerson later called this 'the shot heard round the world.'",
+    "explorer": "On April 19, 1775, British soldiers marched out of Boston to take away the colonists' weapons. But the colonists were ready! Minutemen (soldiers who could be ready in a minute!) met them at Lexington and Concord. The first shots of the American Revolution were fired that morning — the 'shot heard round the world!'"
+  },
+  "significance": {
+    "scholar": "Lexington and Concord transformed colonial resistance from political protest into armed rebellion, beginning the eight-year war for independence.",
+    "explorer": "These battles started the actual fighting of the Revolutionary War. There was no going back now."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

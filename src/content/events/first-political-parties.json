@@ -1,0 +1,43 @@
+{
+  "id": "first-political-parties",
+  "status": "published",
+  "title": {
+    "scholar": "Rise of Political Parties",
+    "explorer": "America Gets Two Teams!"
+  },
+  "date": "1792",
+  "decade": "1790s",
+  "summary": {
+    "scholar": "By the early 1790s, disagreements over the direction of the new nation led to the formation of America's first political parties. Alexander Hamilton led the Federalists, who favored a strong central government and close ties with Britain. Thomas Jefferson and James Madison led the Democratic-Republicans, who favored states' rights and sympathy with France. George Washington warned against political parties in his Farewell Address.",
+    "explorer": "Even though George Washington warned against it, America split into two political teams in the 1790s! Alexander Hamilton led the Federalists, who wanted a strong government. Thomas Jefferson led the Democratic-Republicans, who wanted states to have more power. This was the beginning of the two-party system we still have today!"
+  },
+  "significance": {
+    "scholar": "The emergence of political parties, though unintended by the Founders, became a permanent feature of American democracy and shaped the nation's political development.",
+    "explorer": "America has had two major political parties ever since! The names have changed, but the idea of two teams competing for votes started right here."
+  },
+  "relatedPresidentIds": [
+    "george-washington",
+    "john-adams",
+    "thomas-jefferson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

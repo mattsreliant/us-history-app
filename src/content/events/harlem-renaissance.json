@@ -1,0 +1,40 @@
+{
+  "id": "harlem-renaissance",
+  "status": "published",
+  "title": {
+    "scholar": "The Harlem Renaissance",
+    "explorer": "An Explosion of Black Art!"
+  },
+  "date": "1920",
+  "decade": "1920s",
+  "summary": {
+    "scholar": "The Harlem Renaissance (roughly 1920-1935) was an intellectual, cultural, and artistic movement centered in the Harlem neighborhood of New York City. African American writers like Langston Hughes and Zora Neale Hurston, musicians like Duke Ellington and Louis Armstrong, and artists like Aaron Douglas created a flourishing of Black culture that challenged racial stereotypes and celebrated African American identity.",
+    "explorer": "In the 1920s, the Harlem neighborhood in New York City became the center of an amazing explosion of Black art, music, and writing! Writers like Langston Hughes, musicians like Louis Armstrong and Duke Ellington, and many other artists created incredible works that changed American culture forever. It's called the Harlem Renaissance — which means a 'rebirth' of creativity!"
+  },
+  "significance": {
+    "scholar": "The Harlem Renaissance represented the most significant flowering of African American cultural expression in history and laid the groundwork for the civil rights movement.",
+    "explorer": "The Harlem Renaissance showed the world the incredible talent and creativity of Black Americans. Its music, art, and writing are still celebrated today."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "culture",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

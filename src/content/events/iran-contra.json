@@ -1,0 +1,41 @@
+{
+  "id": "iran-contra",
+  "status": "published",
+  "title": {
+    "scholar": "Iran-Contra Affair",
+    "explorer": "A Secret Government Scandal"
+  },
+  "date": "1986-11-03",
+  "decade": "1980s",
+  "summary": {
+    "scholar": "The Iran-Contra Affair, revealed in November 1986, was a political scandal involving the secret sale of weapons to Iran (then under an arms embargo) and the illegal diversion of proceeds to fund Contra rebels in Nicaragua. The scandal damaged the Reagan administration and raised serious questions about executive overreach and accountability. Reagan denied knowledge of the diversion, and several officials were convicted.",
+    "explorer": "In 1986, people found out that members of President Reagan's government had been secretly selling weapons to Iran and using the money to help rebels in Nicaragua — both of which were against the law! It was a big scandal called Iran-Contra. Reagan said he didn't know about the secret plan."
+  },
+  "significance": {
+    "scholar": "Iran-Contra raised fundamental questions about executive power, covert operations, and congressional oversight of foreign policy.",
+    "explorer": "This scandal showed that even presidents can get into trouble when their staff does things in secret."
+  },
+  "relatedPresidentIds": [
+    "ronald-reagan"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

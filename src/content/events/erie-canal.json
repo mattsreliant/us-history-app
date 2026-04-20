@@ -1,0 +1,42 @@
+{
+  "id": "erie-canal",
+  "status": "published",
+  "title": {
+    "scholar": "Erie Canal Opens",
+    "explorer": "A Canal Across New York!"
+  },
+  "date": "1825-10-26",
+  "decade": "1820s",
+  "summary": {
+    "scholar": "The Erie Canal, completed on October 26, 1825, connected the Great Lakes to the Atlantic Ocean via a 363-mile waterway across New York State. The canal reduced shipping costs by 95% and travel time from weeks to days, transforming New York City into the nation's commercial capital and spurring economic growth throughout the Midwest. It was the most ambitious infrastructure project of its era.",
+    "explorer": "In 1825, New York opened the Erie Canal — a 363-mile waterway that connected the Great Lakes to the Atlantic Ocean! Before the canal, shipping goods from the Midwest to the East Coast was super expensive and took weeks. The canal made it 95% cheaper and way faster. It turned New York City into America's biggest business city!"
+  },
+  "significance": {
+    "scholar": "The Erie Canal demonstrated the transformative power of infrastructure investment and sparked a national canal-building boom that connected the interior to coastal markets.",
+    "explorer": "The Erie Canal was like building a superhighway on water. It made trade so much easier that it changed the whole country's economy."
+  },
+  "relatedPresidentIds": [
+    "john-quincy-adams"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "economy",
+    "science-tech"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

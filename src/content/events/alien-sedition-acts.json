@@ -1,0 +1,42 @@
+{
+  "id": "alien-sedition-acts",
+  "status": "published",
+  "title": {
+    "scholar": "Alien and Sedition Acts",
+    "explorer": "Silencing Critics!"
+  },
+  "date": "1798",
+  "decade": "1790s",
+  "summary": {
+    "scholar": "In 1798, the Federalist-controlled Congress passed the Alien and Sedition Acts, which extended the residency requirement for citizenship, authorized deportation of 'dangerous' aliens, and made it a crime to publish 'false, scandalous, and malicious' criticism of the government. The acts were widely seen as targeting Democratic-Republican critics and immigrants who supported Jefferson. They expired or were repealed by 1802.",
+    "explorer": "In 1798, the government passed laws that made it a CRIME to criticize the president! The Alien and Sedition Acts also made it harder for immigrants to become citizens. Many people thought these laws were unfair and went against the freedom of speech guaranteed by the Bill of Rights. The laws were eventually gotten rid of."
+  },
+  "significance": {
+    "scholar": "The Alien and Sedition Acts raised fundamental questions about the limits of free speech and government power that remain relevant in American politics today.",
+    "explorer": "These laws showed that even early America struggled with balancing security and freedom of speech — a debate that continues today."
+  },
+  "relatedPresidentIds": [
+    "john-adams"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "oklahoma-city-bombing",
+  "status": "published",
+  "title": {
+    "scholar": "Oklahoma City Bombing",
+    "explorer": "A Terrible Attack"
+  },
+  "date": "1995-04-19",
+  "decade": "1990s",
+  "summary": {
+    "scholar": "On April 19, 1995, a truck bomb detonated by domestic terrorist Timothy McVeigh destroyed the Alfred P. Murrah Federal Building in Oklahoma City, killing 168 people including 19 children in a daycare center. It was the deadliest act of domestic terrorism in American history until September 11, 2001. McVeigh was executed in 2001.",
+    "explorer": "On April 19, 1995, a terrible bombing destroyed a government building in Oklahoma City, killing 168 people — including 19 children who were in a daycare center inside. An American named Timothy McVeigh did it because he was angry at the government. It was the worst domestic terrorist attack until 9/11."
+  },
+  "significance": {
+    "scholar": "The Oklahoma City bombing demonstrated the threat of domestic terrorism and led to significant changes in federal building security and anti-terrorism legislation.",
+    "explorer": "This attack showed that terrorism could come from inside America too, not just from foreign countries."
+  },
+  "relatedPresidentIds": [
+    "bill-clinton"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "disaster",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

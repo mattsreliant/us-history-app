@@ -14,7 +14,9 @@
   "eventIds": [
     "battle-of-yorktown",
     "treaty-of-paris-1783",
-    "constitutional-convention"
+    "constitutional-convention",
+    "articles-of-confederation",
+    "shays-rebellion"
   ],
   "keyFigureIds": [
     "george-washington"

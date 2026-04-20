@@ -1,0 +1,42 @@
+{
+  "id": "social-security-act",
+  "status": "published",
+  "title": {
+    "scholar": "Social Security Act Signed",
+    "explorer": "Help for Older Americans!"
+  },
+  "date": "1935-08-14",
+  "decade": "1930s",
+  "summary": {
+    "scholar": "On August 14, 1935, President Roosevelt signed the Social Security Act, creating a system of old-age pensions, unemployment insurance, and aid for dependent children and the disabled. Social Security fundamentally changed the relationship between the federal government and its citizens, establishing the principle that the government has a responsibility to protect its most vulnerable members.",
+    "explorer": "On August 14, 1935, President Roosevelt signed the Social Security Act — a law that gives money to older people who have retired, people who lose their jobs, and those who can't work because of disabilities. Almost 90 years later, Social Security STILL helps millions of Americans every month!"
+  },
+  "significance": {
+    "scholar": "Social Security became the cornerstone of the American social safety net and remains the government's most popular domestic program.",
+    "explorer": "Social Security is still helping people today! It's one of the most important laws ever passed in America."
+  },
+  "relatedPresidentIds": [
+    "franklin-d-roosevelt"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "economy"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

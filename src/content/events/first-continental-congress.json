@@ -1,0 +1,39 @@
+{
+  "id": "first-continental-congress",
+  "status": "published",
+  "title": {
+    "scholar": "First Continental Congress",
+    "explorer": "The Colonies Unite!"
+  },
+  "date": "1774-09-05",
+  "decade": "1770s",
+  "summary": {
+    "scholar": "The First Continental Congress met in Philadelphia from September 5 to October 26, 1774, bringing together delegates from twelve of the thirteen colonies. Called in response to the Intolerable Acts, the Congress coordinated colonial resistance to British policies, agreed to boycott British goods, and petitioned King George III for redress of grievances.",
+    "explorer": "In 1774, leaders from 12 of the 13 colonies met in Philadelphia for the very first time to talk about what to do about Britain's unfair laws. They agreed to stop buying British goods and sent a letter to the king asking him to be fair. It was the first step toward working together as one nation."
+  },
+  "significance": {
+    "scholar": "The First Continental Congress established the framework for inter-colonial cooperation that would become the basis for the United States government.",
+    "explorer": "This was the first time the colonies came together and acted like one team instead of 13 separate groups."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "uncle-toms-cabin",
+  "status": "published",
+  "title": {
+    "scholar": "Uncle Tom's Cabin Published",
+    "explorer": "A Book That Changed History!"
+  },
+  "date": "1852-03-20",
+  "decade": "1850s",
+  "summary": {
+    "scholar": "Harriet Beecher Stowe's Uncle Tom's Cabin, published in 1852, became the best-selling novel of the 19th century and galvanized anti-slavery sentiment in the North. The novel depicted the cruelty of slavery in vivid, emotional terms that reached millions of readers. When Abraham Lincoln reportedly met Stowe during the Civil War, he allegedly said, 'So you are the little woman who wrote the book that started this great war.'",
+    "explorer": "In 1852, a woman named Harriet Beecher Stowe wrote a book called Uncle Tom's Cabin that showed how terrible slavery really was. It became the bestselling book of its time and made millions of people in the North angry about slavery. When President Lincoln met her, he supposedly said, 'So you are the little woman who wrote the book that started this great war!'"
+  },
+  "significance": {
+    "scholar": "Uncle Tom's Cabin profoundly influenced public opinion about slavery and is considered one of the catalysts of the Civil War.",
+    "explorer": "This book proved that words can change the world. It made so many people care about ending slavery that it helped start the Civil War."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "culture",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

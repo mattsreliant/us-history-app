@@ -1,0 +1,40 @@
+{
+  "id": "shays-rebellion",
+  "status": "published",
+  "title": {
+    "scholar": "Shays' Rebellion",
+    "explorer": "Farmers Fight Back!"
+  },
+  "date": "1786-08-29",
+  "decade": "1780s",
+  "summary": {
+    "scholar": "Shays' Rebellion (1786-1787) was an armed uprising of Massachusetts farmers led by Daniel Shays, a Revolutionary War veteran. The farmers protested aggressive tax collection and debt imprisonment during an economic depression. The national government's inability to respond to the crisis exposed the weakness of the Articles of Confederation and galvanized support for a stronger federal government.",
+    "explorer": "In 1786, farmers in Massachusetts were so angry about unfair taxes and going to jail for debts that they started a rebellion! A Revolutionary War veteran named Daniel Shays led them. The national government was too weak to do anything about it, which scared a lot of leaders. This helped convince people they needed a stronger government — and a new Constitution."
+  },
+  "significance": {
+    "scholar": "Shays' Rebellion demonstrated the inadequacy of the Articles of Confederation and was a key catalyst for the Constitutional Convention of 1787.",
+    "explorer": "This rebellion scared America's leaders into creating a stronger government. Without Shays' Rebellion, the Constitution might never have been written."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "economy"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

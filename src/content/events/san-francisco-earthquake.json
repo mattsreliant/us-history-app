@@ -1,0 +1,41 @@
+{
+  "id": "san-francisco-earthquake",
+  "status": "published",
+  "title": {
+    "scholar": "San Francisco Earthquake",
+    "explorer": "San Francisco Shakes!"
+  },
+  "date": "1906-04-18",
+  "decade": "1900s",
+  "summary": {
+    "scholar": "On April 18, 1906, a massive earthquake estimated at magnitude 7.9 struck San Francisco, followed by fires that burned for three days and destroyed 80% of the city. Over 3,000 people were killed and more than half the city's 400,000 residents were left homeless. The disaster led to major advances in earthquake science and urban building codes.",
+    "explorer": "On April 18, 1906, a HUGE earthquake hit San Francisco! The earthquake itself was terrible, but the fires that came after were even worse — they burned for three days and destroyed 80% of the city. Over 3,000 people died. But San Franciscans rebuilt their city even better than before."
+  },
+  "significance": {
+    "scholar": "The 1906 earthquake led to significant advances in seismology, building codes, and disaster preparedness that influenced urban development nationwide.",
+    "explorer": "This terrible disaster taught scientists a lot about earthquakes and showed cities how to build safer buildings."
+  },
+  "relatedPresidentIds": [
+    "theodore-roosevelt"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "disaster"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "dobbs-decision",
+  "status": "published",
+  "title": {
+    "scholar": "Dobbs v. Jackson: Roe v. Wade Overturned",
+    "explorer": "A Huge Court Decision"
+  },
+  "date": "2022-06-24",
+  "decade": "2020s",
+  "summary": {
+    "scholar": "On June 24, 2022, the Supreme Court ruled 6-3 in Dobbs v. Jackson Women's Health Organization to overturn Roe v. Wade (1973), eliminating the constitutional right to abortion that had stood for nearly 50 years. The decision returned abortion regulation to individual states, triggering immediate bans in several states and becoming a major political issue in subsequent elections.",
+    "explorer": "In 2022, the Supreme Court made one of its biggest decisions in years. They overturned a 50-year-old ruling called Roe v. Wade, which had protected the right to abortion. Now each state gets to make its own rules about abortion. It was a very controversial decision that people feel very strongly about on both sides."
+  },
+  "significance": {
+    "scholar": "The Dobbs decision was one of the most consequential Supreme Court rulings in decades, reshaping American law, politics, and the national conversation about rights and state power.",
+    "explorer": "This was one of the biggest Supreme Court decisions in a long time. It changed the law in many states and became a huge topic in elections."
+  },
+  "relatedPresidentIds": [
+    "joe-biden"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

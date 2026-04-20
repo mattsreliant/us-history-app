@@ -1,0 +1,42 @@
+{
+  "id": "star-spangled-banner",
+  "status": "published",
+  "title": {
+    "scholar": "The Star-Spangled Banner Written",
+    "explorer": "Our National Anthem Is Born!"
+  },
+  "date": "1814-09-14",
+  "decade": "1810s",
+  "summary": {
+    "scholar": "On September 14, 1814, lawyer Francis Scott Key watched the British bombardment of Fort McHenry in Baltimore Harbor during the War of 1812. When dawn revealed that the American flag still flew over the fort, Key wrote the poem 'Defence of Fort M'Henry,' which was set to music and became 'The Star-Spangled Banner.' It was adopted as the national anthem in 1931.",
+    "explorer": "During the War of 1812, a man named Francis Scott Key watched the British bomb Fort McHenry all night long. When the sun came up and he saw the American flag STILL flying, he was so moved that he wrote a poem about it. That poem became 'The Star-Spangled Banner' — our national anthem! The song asks: 'Does that star-spangled banner yet wave?'"
+  },
+  "significance": {
+    "scholar": "'The Star-Spangled Banner' became a powerful symbol of American resilience and was officially adopted as the national anthem by Congress in 1931.",
+    "explorer": "Every time you hear the national anthem at a ball game or event, you're hearing a poem written by a man watching a battle during the War of 1812!"
+  },
+  "relatedPresidentIds": [
+    "james-madison"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "culture"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

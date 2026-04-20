@@ -1,0 +1,41 @@
+{
+  "id": "nat-turner-rebellion",
+  "status": "published",
+  "title": {
+    "scholar": "Nat Turner's Rebellion",
+    "explorer": "A Slave Rebellion"
+  },
+  "date": "1831-08-21",
+  "decade": "1830s",
+  "summary": {
+    "scholar": "On August 21, 1831, Nat Turner, an enslaved preacher in Virginia, led the most significant slave rebellion in American history. Turner and his followers killed approximately 55 white people before the revolt was suppressed. The rebellion terrified the slaveholding South, leading to harsher slave codes and restrictions on educating enslaved people. Turner was captured and executed on November 11, 1831.",
+    "explorer": "In 1831, an enslaved man named Nat Turner led a rebellion in Virginia — the biggest slave revolt in American history. The rebellion was put down, and Turner was captured and executed. After this, Southern states made even harsher laws against enslaved people, including making it illegal to teach them to read."
+  },
+  "significance": {
+    "scholar": "Nat Turner's Rebellion intensified the national debate over slavery, hardened Southern attitudes, and demonstrated enslaved people's willingness to risk everything for freedom.",
+    "explorer": "This rebellion showed that enslaved people would fight for their freedom. It made the South even more afraid and made slavery laws even stricter."
+  },
+  "relatedPresidentIds": [
+    "andrew-jackson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

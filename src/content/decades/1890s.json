@@ -12,7 +12,9 @@
     "explorer": "The 1890s started rough with a terrible economic crash, but by the end of the decade, America had become a world power! The Spanish-American War was short and America won, gaining new territories like Puerto Rico and the Philippines. The Wild West was officially over — the frontier was settled!"
   },
   "eventIds": [
-    "spanish-american-war"
+    "spanish-american-war",
+    "plessy-v-ferguson",
+    "klondike-gold-rush"
   ],
   "keyFigureIds": [
     "grover-cleveland-24",

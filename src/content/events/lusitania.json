@@ -1,0 +1,41 @@
+{
+  "id": "lusitania",
+  "status": "published",
+  "title": {
+    "scholar": "Sinking of the Lusitania",
+    "explorer": "A Ship Is Sunk!"
+  },
+  "date": "1915-05-07",
+  "decade": "1910s",
+  "summary": {
+    "scholar": "On May 7, 1915, a German submarine torpedoed the British ocean liner RMS Lusitania off the coast of Ireland, killing 1,198 passengers including 128 Americans. The sinking outraged American public opinion and contributed to the eventual U.S. entry into World War I in 1917, though President Wilson initially maintained neutrality.",
+    "explorer": "On May 7, 1915, a German submarine sank a big passenger ship called the Lusitania. 1,198 people died, including 128 Americans. Americans were FURIOUS. President Wilson kept the country out of the war for two more years, but the sinking of the Lusitania was one of the big reasons America eventually joined World War I."
+  },
+  "significance": {
+    "scholar": "The Lusitania's sinking turned American public opinion against Germany and was a key factor in the eventual U.S. entry into World War I.",
+    "explorer": "This attack on a passenger ship made Americans really angry at Germany and helped push the country toward joining World War I."
+  },
+  "relatedPresidentIds": [
+    "woodrow-wilson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

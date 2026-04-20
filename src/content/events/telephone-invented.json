@@ -1,0 +1,39 @@
+{
+  "id": "telephone-invented",
+  "status": "published",
+  "title": {
+    "scholar": "Alexander Graham Bell Invents the Telephone",
+    "explorer": "The Telephone Is Born!"
+  },
+  "date": "1876-03-10",
+  "decade": "1870s",
+  "summary": {
+    "scholar": "On March 10, 1876, Alexander Graham Bell made the first successful telephone call, saying to his assistant Thomas Watson, 'Mr. Watson, come here. I want to see you.' Bell had patented his invention just days earlier. The telephone would revolutionize communication, eventually connecting millions of Americans and transforming business, social life, and government.",
+    "explorer": "On March 10, 1876, Alexander Graham Bell made the very first phone call! He said to his helper: 'Mr. Watson, come here. I want to see you.' It doesn't sound very exciting, but this invention would change the ENTIRE world. Imagine never being able to call anyone!"
+  },
+  "significance": {
+    "scholar": "The telephone transformed human communication more fundamentally than any invention since the printing press, creating new industries and reshaping society.",
+    "explorer": "Before the telephone, the only way to talk to someone far away was to write a letter or send a telegraph. Bell's invention let people actually HEAR each other's voices!"
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "science-tech"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}
