@@ -1,9 +1,174 @@
 {
   "id": "john-tyler",
-  "status": "planned",
+  "status": "published",
   "number": 10,
   "name": "John Tyler",
   "party": "Whig",
   "termStart": "1841",
-  "termEnd": "1845"
+  "termEnd": "1845",
+  "vicePresidents": [
+    "None"
+  ],
+  "born": "1790-03-29",
+  "died": "1862-01-18",
+  "birthplace": "Charles City County, Virginia",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "John Tyler, the tenth President, was the first vice president to assume the presidency upon the death of a sitting president. Called 'His Accidency' by critics, Tyler established the crucial precedent that a vice president who succeeds to the presidency holds full presidential powers, not merely acting authority. He oversaw the annexation of Texas in 1844 and negotiated the Webster-Ashburton Treaty with Britain. He graduated from the College of William and Mary at age seventeen and fathered fifteen children across two marriages.",
+    "explorer": "John Tyler became the tenth president when President Harrison died after only 32 days. Some people called him 'His Accidency' because he wasn't elected president — he just happened to be vice president when Harrison died. But Tyler proved that vice presidents who take over are REAL presidents with full powers. He also helped make Texas part of the United States!"
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Established the precedent that a vice president who succeeds a deceased president holds the full powers of the presidency, not merely acting authority.",
+        "explorer": "He proved that when a vice president takes over, they become a REAL president with all the powers."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: john-tyler - Life and Presidency",
+          "url": "https://millercenter.org/president/john-tyler",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: john-tyler - Key Events",
+          "url": "https://millercenter.org/president/john-tyler/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Oversaw the annexation of Texas in 1844, significantly expanding U.S. territory.",
+        "explorer": "He helped make Texas part of the United States!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: john-tyler - Life and Presidency",
+          "url": "https://millercenter.org/president/john-tyler",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: john-tyler - Key Events",
+          "url": "https://millercenter.org/president/john-tyler/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Negotiated the Webster-Ashburton Treaty with Britain, resolving border disputes between the United States and Canada.",
+        "explorer": "He worked out a deal with Britain to settle arguments about the border between the U.S. and Canada."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: john-tyler - Life and Presidency",
+          "url": "https://millercenter.org/president/john-tyler",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: john-tyler - Key Events",
+          "url": "https://millercenter.org/president/john-tyler/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Tyler fathered fifteen children across two marriages — more than any other president in American history.",
+        "explorer": "Tyler had 15 kids — more than any other president ever!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: john-tyler - Life and Presidency",
+          "url": "https://millercenter.org/president/john-tyler",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: john-tyler - Key Events",
+          "url": "https://millercenter.org/president/john-tyler/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was called 'His Accidency' by political opponents who questioned whether a successor president held legitimate authority.",
+        "explorer": "Some people called him 'His Accidency' because they didn't think he should really be president."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: john-tyler - Life and Presidency",
+          "url": "https://millercenter.org/president/john-tyler",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: john-tyler - Key Events",
+          "url": "https://millercenter.org/president/john-tyler/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He graduated from the College of William and Mary at age seventeen, one of the youngest presidential graduates in history.",
+        "explorer": "He graduated from college when he was only 17 years old!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: john-tyler - Life and Presidency",
+          "url": "https://millercenter.org/president/john-tyler",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: john-tyler - Key Events",
+          "url": "https://millercenter.org/president/john-tyler/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: john-tyler - Life and Presidency",
+      "url": "https://millercenter.org/president/john-tyler",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: john-tyler - Key Events",
+      "url": "https://millercenter.org/president/john-tyler/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

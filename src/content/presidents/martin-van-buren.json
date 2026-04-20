@@ -1,9 +1,174 @@
 {
   "id": "martin-van-buren",
-  "status": "planned",
+  "status": "published",
   "number": 8,
   "name": "Martin Van Buren",
   "party": "Democratic",
   "termStart": "1837",
-  "termEnd": "1841"
+  "termEnd": "1841",
+  "vicePresidents": [
+    "Richard M. Johnson (1837-1841)"
+  ],
+  "born": "1782-12-05",
+  "died": "1862-07-24",
+  "birthplace": "Kinderhook, New York",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Martin Van Buren, the eighth President, was a skilled political organizer nicknamed 'The Little Magician' and 'The Red Fox of Kinderhook.' He was the first president born as a United States citizen — all previous presidents were born as British subjects before independence. Van Buren served as Andrew Jackson's Vice President before winning the presidency, but his single term was dominated by the Panic of 1837 and the severe economic depression that followed.",
+    "explorer": "Martin Van Buren was the eighth president and the first one born as an American citizen! All the presidents before him were born before America became its own country. People called him 'The Little Magician' because he was so clever at politics. Unfortunately, a big economic crisis hit right when he became president, which made things really tough."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Helped establish and shape the Democratic Party alongside Andrew Jackson, building the political machine that transformed American party politics.",
+        "explorer": "He helped build the Democratic Party with Andrew Jackson, creating the modern political party system."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: martin-van-buren - Life and Presidency",
+          "url": "https://millercenter.org/president/martin-van-buren",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: martin-van-buren - Key Events",
+          "url": "https://millercenter.org/president/martin-van-buren/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Navigated complex foreign policy challenges including Canadian border disputes without escalating to war.",
+        "explorer": "He kept America out of a war with Britain over border arguments with Canada."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: martin-van-buren - Life and Presidency",
+          "url": "https://millercenter.org/president/martin-van-buren",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: martin-van-buren - Key Events",
+          "url": "https://millercenter.org/president/martin-van-buren/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Maintained relative governmental stability during the severe economic crisis of the Panic of 1837.",
+        "explorer": "He kept the government running during a terrible economic crash called the Panic of 1837."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: martin-van-buren - Life and Presidency",
+          "url": "https://millercenter.org/president/martin-van-buren",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: martin-van-buren - Key Events",
+          "url": "https://millercenter.org/president/martin-van-buren/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Van Buren was the first president born as a United States citizen — all previous presidents were born as British subjects before independence.",
+        "explorer": "He was the first president actually born as an American! Everyone before him was born when America was still ruled by Britain."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: martin-van-buren - Life and Presidency",
+          "url": "https://millercenter.org/president/martin-van-buren",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: martin-van-buren - Key Events",
+          "url": "https://millercenter.org/president/martin-van-buren/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He spoke Dutch as his first language, growing up in the Dutch-speaking community of Kinderhook, New York.",
+        "explorer": "His first language was Dutch, not English! He grew up in a Dutch-speaking town in New York."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: martin-van-buren - Life and Presidency",
+          "url": "https://millercenter.org/president/martin-van-buren",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: martin-van-buren - Key Events",
+          "url": "https://millercenter.org/president/martin-van-buren/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Nicknamed 'The Little Magician' and 'The Red Fox of Kinderhook' for his political cunning and skill at building coalitions.",
+        "explorer": "People called him 'The Little Magician' because he was so clever at getting things done in politics."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: martin-van-buren - Life and Presidency",
+          "url": "https://millercenter.org/president/martin-van-buren",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: martin-van-buren - Key Events",
+          "url": "https://millercenter.org/president/martin-van-buren/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: martin-van-buren - Life and Presidency",
+      "url": "https://millercenter.org/president/martin-van-buren",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: martin-van-buren - Key Events",
+      "url": "https://millercenter.org/president/martin-van-buren/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

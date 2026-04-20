@@ -1,9 +1,174 @@
 {
   "id": "john-quincy-adams",
-  "status": "planned",
+  "status": "published",
   "number": 6,
   "name": "John Quincy Adams",
   "party": "Democratic-Republican",
   "termStart": "1825",
-  "termEnd": "1829"
+  "termEnd": "1829",
+  "vicePresidents": [
+    "John C. Calhoun (1825-1829)"
+  ],
+  "born": "1767-07-11",
+  "died": "1848-02-23",
+  "birthplace": "Braintree (now Quincy), Massachusetts",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "John Quincy Adams, the sixth President, was the son of second President John Adams and one of the most experienced diplomats in early American history. Nicknamed 'Old Man Eloquent,' he served as Secretary of State — widely regarded as one of the greatest to hold that office — before a contentious election brought him to the presidency. After his single term, he returned to Congress, where he served with distinction for seventeen years, becoming a leading voice against slavery.",
+    "explorer": "John Quincy Adams was the son of President John Adams — making them the first father-and-son presidents! Before becoming the sixth president, he was one of America's best diplomats. After losing his re-election, he did something no other president has done: he went back to Congress and served there for 17 more years, fighting against slavery."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Served as one of the nation's preeminent Secretaries of State, shaping early American foreign policy and helping craft the Monroe Doctrine.",
+        "explorer": "He was one of the best Secretaries of State ever, helping shape how America dealt with other countries."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: john-quincy-adams - Life and Presidency",
+          "url": "https://millercenter.org/president/john-quincy-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: john-quincy-adams - Key Events",
+          "url": "https://millercenter.org/president/john-quincy-adams/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "After his presidency, served 17 years in the House of Representatives, becoming a leading congressional voice against slavery and the gag rule.",
+        "explorer": "After being president, he went back to Congress for 17 years and fought hard against slavery."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: john-quincy-adams - Life and Presidency",
+          "url": "https://millercenter.org/president/john-quincy-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: john-quincy-adams - Key Events",
+          "url": "https://millercenter.org/president/john-quincy-adams/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Advocated for national infrastructure improvements, scientific advancement, and the establishment of a national university and astronomical observatory.",
+        "explorer": "He pushed for better roads, more science research, and even wanted to build a national university."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: john-quincy-adams - Life and Presidency",
+          "url": "https://millercenter.org/president/john-quincy-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: john-quincy-adams - Key Events",
+          "url": "https://millercenter.org/president/john-quincy-adams/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "He was the first son of a president to also become president — his father John Adams was the second president.",
+        "explorer": "He and his dad were both presidents! They were the first father-son duo in the White House."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: john-quincy-adams - Life and Presidency",
+          "url": "https://millercenter.org/president/john-quincy-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: john-quincy-adams - Key Events",
+          "url": "https://millercenter.org/president/john-quincy-adams/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was reared specifically for public service from youth, receiving an extraordinary education in diplomacy while accompanying his father on missions to Europe.",
+        "explorer": "His parents trained him for government work from the time he was a little kid. He traveled to Europe with his dad as a boy!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: john-quincy-adams - Life and Presidency",
+          "url": "https://millercenter.org/president/john-quincy-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: john-quincy-adams - Key Events",
+          "url": "https://millercenter.org/president/john-quincy-adams/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Nicknamed 'Old Man Eloquent' for his powerful speeches in Congress, particularly his passionate arguments against slavery.",
+        "explorer": "People called him 'Old Man Eloquent' because he gave such amazing speeches in Congress."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: john-quincy-adams - Life and Presidency",
+          "url": "https://millercenter.org/president/john-quincy-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: john-quincy-adams - Key Events",
+          "url": "https://millercenter.org/president/john-quincy-adams/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: john-quincy-adams - Life and Presidency",
+      "url": "https://millercenter.org/president/john-quincy-adams",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: john-quincy-adams - Key Events",
+      "url": "https://millercenter.org/president/john-quincy-adams/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

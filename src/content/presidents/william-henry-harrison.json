@@ -1,9 +1,174 @@
 {
   "id": "william-henry-harrison",
-  "status": "planned",
+  "status": "published",
   "number": 9,
   "name": "William Henry Harrison",
   "party": "Whig",
   "termStart": "1841",
-  "termEnd": "1841"
+  "termEnd": "1841",
+  "vicePresidents": [
+    "John Tyler (1841)"
+  ],
+  "born": "1773-02-09",
+  "died": "1841-04-04",
+  "birthplace": "Charles City County, Virginia",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "William Henry Harrison, the ninth President, served the shortest tenure in presidential history — just 32 days. Nicknamed 'Old Tippecanoe' for his 1811 military victory over Native American forces at the Battle of Tippecanoe, Harrison was the first Whig president. He delivered the longest inaugural address in history, caught pneumonia, and died on April 4, 1841, becoming the first president to die in office. He had ten children with his wife Anna Tuthill Symmes.",
+    "explorer": "William Henry Harrison was the ninth president, but he was only president for 32 days — the shortest time ever! He was a military hero nicknamed 'Old Tippecanoe.' Sadly, he got very sick right after becoming president and died. He was the first president to die while in office."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Won the Battle of Tippecanoe in 1811, becoming a national military hero and earning the nickname that would carry him to the presidency.",
+        "explorer": "He won an important battle called Tippecanoe, which made him a famous hero."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harrison - Life and Presidency",
+          "url": "https://millercenter.org/president/harrison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harrison - Key Events",
+          "url": "https://millercenter.org/president/harrison/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Became the first Whig Party candidate to win the presidency, defeating incumbent Martin Van Buren in 1840.",
+        "explorer": "He was the first person from the Whig Party to become president."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harrison - Life and Presidency",
+          "url": "https://millercenter.org/president/harrison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harrison - Key Events",
+          "url": "https://millercenter.org/president/harrison/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "His death in office established the critical precedent of presidential succession, resolved by Vice President John Tyler.",
+        "explorer": "When he died, his Vice President John Tyler became president — the first time that ever happened."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harrison - Life and Presidency",
+          "url": "https://millercenter.org/president/harrison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harrison - Key Events",
+          "url": "https://millercenter.org/president/harrison/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Harrison served only 32 days as president — the shortest presidential tenure in American history.",
+        "explorer": "He was president for only 32 days — the shortest time ANY president has ever served!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harrison - Life and Presidency",
+          "url": "https://millercenter.org/president/harrison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harrison - Key Events",
+          "url": "https://millercenter.org/president/harrison/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He delivered the longest inaugural address in presidential history, speaking for nearly two hours in cold weather without a coat.",
+        "explorer": "He gave the longest speech ever at a president's swearing-in — almost two hours in the cold without a coat!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harrison - Life and Presidency",
+          "url": "https://millercenter.org/president/harrison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harrison - Key Events",
+          "url": "https://millercenter.org/president/harrison/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He had ten children, more than any other president, and was the grandfather of Benjamin Harrison, the 23rd president.",
+        "explorer": "He had 10 kids! And his grandson Benjamin Harrison also became president later."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harrison - Life and Presidency",
+          "url": "https://millercenter.org/president/harrison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harrison - Key Events",
+          "url": "https://millercenter.org/president/harrison/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: harrison - Life and Presidency",
+      "url": "https://millercenter.org/president/harrison",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: harrison - Key Events",
+      "url": "https://millercenter.org/president/harrison/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

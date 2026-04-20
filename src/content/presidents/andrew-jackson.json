@@ -1,9 +1,175 @@
 {
   "id": "andrew-jackson",
-  "status": "planned",
+  "status": "published",
   "number": 7,
   "name": "Andrew Jackson",
   "party": "Democratic",
   "termStart": "1829",
-  "termEnd": "1837"
+  "termEnd": "1837",
+  "vicePresidents": [
+    "John C. Calhoun (1829-1832)",
+    "Martin Van Buren (1833-1837)"
+  ],
+  "born": "1767-03-15",
+  "died": "1845-06-08",
+  "birthplace": "Waxhaw area, North/South Carolina border",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Andrew Jackson, the seventh President, was the first 'self-made man' to reach the White House and the first president from west of the Appalachian Mountains. A lawyer and soldier nicknamed 'Old Hickory' for his toughness, Jackson transformed the presidency from a restrained administrative role into a powerful popular tribune. He founded the Democratic Party — the country's most venerable political organization — and expanded executive powers significantly, though his legacy is deeply complicated by the Indian Removal Act and the forced relocation of Native Americans.",
+    "explorer": "Andrew Jackson was the seventh president and the first 'common man' to become president. He grew up poor and made his own way in life. People called him 'Old Hickory' because he was so tough. He started the Democratic Party, which is still one of America's two biggest political parties today. However, he also did harmful things, especially forcing Native Americans to leave their homes."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Founded and shaped the Democratic Party, transforming American politics by expanding democratic participation and making the presidency a position of popular leadership.",
+        "explorer": "He started the Democratic Party, which is still around today, and made the presidency more connected to regular people."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: andrew-jackson - Life and Presidency",
+          "url": "https://millercenter.org/president/andrew-jackson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: andrew-jackson - Key Events",
+          "url": "https://millercenter.org/president/andrew-jackson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Expanded presidential executive powers, establishing the president as the direct representative of the people rather than merely an administrator of congressional will.",
+        "explorer": "He made the presidency much more powerful, arguing that the president represents all the people."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: andrew-jackson - Life and Presidency",
+          "url": "https://millercenter.org/president/andrew-jackson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: andrew-jackson - Key Events",
+          "url": "https://millercenter.org/president/andrew-jackson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Successfully faced down the Nullification Crisis, asserting federal authority when South Carolina threatened to ignore federal tariff laws.",
+        "explorer": "When South Carolina tried to ignore federal laws, Jackson stood firm and kept the country together."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: andrew-jackson - Life and Presidency",
+          "url": "https://millercenter.org/president/andrew-jackson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: andrew-jackson - Key Events",
+          "url": "https://millercenter.org/president/andrew-jackson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Jackson was the first 'self-made man' to reach the White House, rising from humble origins as an orphan to become president.",
+        "explorer": "Jackson grew up as an orphan with no money, but he worked his way up to become president!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: andrew-jackson - Life and Presidency",
+          "url": "https://millercenter.org/president/andrew-jackson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: andrew-jackson - Key Events",
+          "url": "https://millercenter.org/president/andrew-jackson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was nicknamed 'Old Hickory' by his soldiers for his toughness and determination during military campaigns.",
+        "explorer": "His soldiers called him 'Old Hickory' because he was as tough as the hardest wood they knew."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: andrew-jackson - Life and Presidency",
+          "url": "https://millercenter.org/president/andrew-jackson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: andrew-jackson - Key Events",
+          "url": "https://millercenter.org/president/andrew-jackson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was the first president from west of the Appalachian Mountains, representing a shift in American political power toward the frontier.",
+        "explorer": "He was the first president from the western frontier — before him, all presidents came from the East Coast."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: andrew-jackson - Life and Presidency",
+          "url": "https://millercenter.org/president/andrew-jackson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: andrew-jackson - Key Events",
+          "url": "https://millercenter.org/president/andrew-jackson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: andrew-jackson - Life and Presidency",
+      "url": "https://millercenter.org/president/andrew-jackson",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: andrew-jackson - Key Events",
+      "url": "https://millercenter.org/president/andrew-jackson/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }
