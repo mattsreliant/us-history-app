@@ -1,0 +1,9 @@
+{
+  "id": "donald-trump",
+  "status": "planned",
+  "number": 45,
+  "name": "Donald Trump",
+  "party": "Republican",
+  "termStart": "2017",
+  "termEnd": "2021"
+}

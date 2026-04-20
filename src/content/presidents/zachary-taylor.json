@@ -1,0 +1,9 @@
+{
+  "id": "zachary-taylor",
+  "status": "planned",
+  "number": 12,
+  "name": "Zachary Taylor",
+  "party": "Whig",
+  "termStart": "1849",
+  "termEnd": "1850"
+}

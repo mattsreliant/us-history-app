@@ -1,0 +1,9 @@
+{
+  "id": "george-washington",
+  "status": "planned",
+  "number": 1,
+  "name": "George Washington",
+  "party": "No Party",
+  "termStart": "1789",
+  "termEnd": "1797"
+}

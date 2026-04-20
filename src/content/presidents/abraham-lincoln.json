@@ -1,0 +1,9 @@
+{
+  "id": "abraham-lincoln",
+  "status": "planned",
+  "number": 16,
+  "name": "Abraham Lincoln",
+  "party": "Republican",
+  "termStart": "1861",
+  "termEnd": "1865"
+}

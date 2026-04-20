@@ -1,0 +1,9 @@
+{
+  "id": "john-tyler",
+  "status": "planned",
+  "number": 10,
+  "name": "John Tyler",
+  "party": "Whig",
+  "termStart": "1841",
+  "termEnd": "1845"
+}

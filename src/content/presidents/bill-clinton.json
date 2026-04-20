@@ -1,0 +1,9 @@
+{
+  "id": "bill-clinton",
+  "status": "planned",
+  "number": 42,
+  "name": "Bill Clinton",
+  "party": "Democratic",
+  "termStart": "1993",
+  "termEnd": "2001"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "george-w-bush",
+  "status": "planned",
+  "number": 43,
+  "name": "George W. Bush",
+  "party": "Republican",
+  "termStart": "2001",
+  "termEnd": "2009"
+}

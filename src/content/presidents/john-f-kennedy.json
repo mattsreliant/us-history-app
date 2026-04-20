@@ -1,0 +1,9 @@
+{
+  "id": "john-f-kennedy",
+  "status": "planned",
+  "number": 35,
+  "name": "John F. Kennedy",
+  "party": "Democratic",
+  "termStart": "1961",
+  "termEnd": "1963"
+}

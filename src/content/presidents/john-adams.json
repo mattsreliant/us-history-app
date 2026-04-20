@@ -1,0 +1,9 @@
+{
+  "id": "john-adams",
+  "status": "planned",
+  "number": 2,
+  "name": "John Adams",
+  "party": "Federalist",
+  "termStart": "1797",
+  "termEnd": "1801"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "thomas-jefferson",
+  "status": "planned",
+  "number": 3,
+  "name": "Thomas Jefferson",
+  "party": "Democratic-Republican",
+  "termStart": "1801",
+  "termEnd": "1809"
+}
