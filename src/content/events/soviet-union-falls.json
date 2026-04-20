@@ -1,0 +1,41 @@
+{
+  "id": "soviet-union-falls",
+  "status": "published",
+  "title": {
+    "scholar": "Dissolution of the Soviet Union",
+    "explorer": "The Cold War Is Over!"
+  },
+  "date": "1991-12-25",
+  "decade": "1990s",
+  "summary": {
+    "scholar": "On December 25, 1991, Soviet President Mikhail Gorbachev resigned and the Soviet Union officially dissolved into 15 independent republics. The event ended the Cold War that had defined global politics since 1945 and left the United States as the world's sole superpower. President George H. W. Bush managed the transition carefully, supporting democratic reforms while avoiding destabilizing actions.",
+    "explorer": "On December 25, 1991, the Soviet Union officially broke apart into 15 separate countries. The Cold War — which had kept the world scared of nuclear war for over 40 years — was finally, completely over. America was now the only superpower in the world."
+  },
+  "significance": {
+    "scholar": "The dissolution of the Soviet Union ended the bipolar world order and inaugurated a period of American unipolarity in global affairs, fundamentally reshaping international relations.",
+    "explorer": "With the Soviet Union gone, America became the most powerful country in the world. The scary days of nuclear standoffs were over."
+  },
+  "relatedPresidentIds": [
+    "george-h-w-bush"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

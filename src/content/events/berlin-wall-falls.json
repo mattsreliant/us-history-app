@@ -1,0 +1,41 @@
+{
+  "id": "berlin-wall-falls",
+  "status": "published",
+  "title": {
+    "scholar": "Fall of the Berlin Wall",
+    "explorer": "The Wall Comes Down!"
+  },
+  "date": "1989-11-09",
+  "decade": "1980s",
+  "summary": {
+    "scholar": "On November 9, 1989, the Berlin Wall — the most potent symbol of Cold War division — was opened by the East German government. Jubilant crowds from both sides of Berlin began dismantling the wall that had divided the city since 1961. The event symbolized the collapse of Communist control in Eastern Europe and the approaching end of the Cold War.",
+    "explorer": "On November 9, 1989, one of the most amazing things in history happened — the Berlin Wall came down! The wall had divided the city of Berlin for 28 years, keeping people trapped on the Communist side. When it opened, people celebrated, hugged strangers, and started knocking the wall down with hammers. The Cold War was ending!"
+  },
+  "significance": {
+    "scholar": "The fall of the Berlin Wall symbolized the end of Communist control in Eastern Europe and foreshadowed the dissolution of the Soviet Union in 1991, ending the Cold War.",
+    "explorer": "The Berlin Wall coming down meant the Cold War was basically over. Within two years, the Soviet Union itself fell apart, and millions of people were free."
+  },
+  "relatedPresidentIds": [
+    "george-h-w-bush"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

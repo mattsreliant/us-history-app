@@ -1,0 +1,42 @@
+{
+  "id": "moon-landing",
+  "status": "published",
+  "title": {
+    "scholar": "Apollo 11 Moon Landing",
+    "explorer": "Walking on the Moon!"
+  },
+  "date": "1969-07-20",
+  "decade": "1970s",
+  "summary": {
+    "scholar": "On July 20, 1969, American astronaut Neil Armstrong became the first human to walk on the Moon, fulfilling President Kennedy's 1961 challenge. Armstrong and Buzz Aldrin spent about two hours on the lunar surface while Michael Collins orbited above. An estimated 600 million people worldwide watched the event on television. The Apollo program continued through 1972, with twelve Americans walking on the Moon in total.",
+    "explorer": "On July 20, 1969, Neil Armstrong became the first person EVER to walk on the Moon! He said the famous words: 'That's one small step for man, one giant leap for mankind.' About 600 million people watched on TV — the biggest audience in history at that time. America had won the Space Race!"
+  },
+  "significance": {
+    "scholar": "The Moon landing represented the pinnacle of the Space Race and one of humanity's greatest technological achievements, demonstrating American scientific and engineering capability.",
+    "explorer": "Landing on the Moon was one of the greatest things humans have ever done. It showed what people can accomplish when they work together toward an amazing goal."
+  },
+  "relatedPresidentIds": [
+    "richard-nixon"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "science-tech",
+    "exploration"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

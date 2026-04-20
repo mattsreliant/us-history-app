@@ -1,0 +1,41 @@
+{
+  "id": "watergate",
+  "status": "published",
+  "title": {
+    "scholar": "The Watergate Scandal",
+    "explorer": "The President Resigns!"
+  },
+  "date": "1972-06-17",
+  "decade": "1970s",
+  "summary": {
+    "scholar": "The Watergate scandal began with a break-in at the Democratic National Committee headquarters on June 17, 1972, and escalated into a constitutional crisis as evidence emerged that President Nixon had participated in a cover-up. Facing certain impeachment, Nixon resigned on August 9, 1974 — the only presidential resignation in American history.",
+    "explorer": "The Watergate scandal started when people working for President Nixon broke into the Democratic Party's offices. Nixon tried to cover it up, but reporters and investigators found out. When it became clear Congress was going to remove him, Nixon quit — the only president EVER to resign."
+  },
+  "significance": {
+    "scholar": "Watergate led to sweeping reforms in campaign finance and government ethics, and permanently altered Americans' relationship with presidential authority.",
+    "explorer": "Watergate made Americans much less trusting of their leaders. New laws were passed to prevent future presidents from abusing their power."
+  },
+  "relatedPresidentIds": [
+    "richard-nixon"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

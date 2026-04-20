@@ -11,7 +11,10 @@
     "scholar": "The 1980s were defined by Ronald Reagan's conservative revolution and the approaching end of the Cold War. Reagan pursued tax cuts, deregulation, and a massive military buildup that put pressure on the Soviet Union. The decade saw the rise of personal computers, MTV, and a booming economy after the severe recession of 1981-1982. The Berlin Wall fell on November 9, 1989, symbolizing the end of Communist control in Eastern Europe. George H. W. Bush managed this historic transition, overseeing the peaceful end of the Cold War and German reunification.",
     "explorer": "The 1980s were when the Cold War finally ended! President Reagan built up the military and challenged the Soviet Union. In 1989, the Berlin Wall came down and people in Eastern Europe were free! The 1980s were also when personal computers started appearing, MTV played music videos, and the economy boomed after a rocky start."
   },
-  "eventIds": [],
+  "eventIds": [
+    "reagan-assassination-attempt",
+    "berlin-wall-falls"
+  ],
   "keyFigureIds": [
     "ronald-reagan",
     "george-h-w-bush"

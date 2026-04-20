@@ -11,7 +11,10 @@
     "scholar": "The 2000s were shaped by the September 11, 2001 terrorist attacks and their aftermath. The attacks led to the War on Terror, including military operations in Afghanistan (2001) and Iraq (2003). President George W. Bush launched PEPFAR, saving millions of lives in Africa. The decade ended with the Great Recession of 2008-2009, the worst economic crisis since the Great Depression, and the historic election of Barack Obama as the first African American president. Obama signed the Affordable Care Act and ordered the operation that killed Osama bin Laden.",
     "explorer": "The 2000s started with the terrible 9/11 attacks, when terrorists crashed planes into buildings in New York and Washington. America went to war in Afghanistan and Iraq. Then a huge economic crash happened in 2008. But there was also an amazing moment — Barack Obama became the first Black president of the United States!"
   },
-  "eventIds": [],
+  "eventIds": [
+    "september-11",
+    "great-recession"
+  ],
   "keyFigureIds": [
     "george-w-bush",
     "barack-obama"

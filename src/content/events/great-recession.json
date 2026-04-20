@@ -1,0 +1,42 @@
+{
+  "id": "great-recession",
+  "status": "published",
+  "title": {
+    "scholar": "The Great Recession",
+    "explorer": "The Economy Crashes Again"
+  },
+  "date": "2008",
+  "decade": "2000s",
+  "summary": {
+    "scholar": "The Great Recession of 2008-2009, triggered by the collapse of the housing market and major financial institutions, was the worst economic downturn since the Great Depression. Unemployment peaked at 10%, millions of Americans lost their homes, and the government spent hundreds of billions on bank bailouts. The crisis led to sweeping financial regulations under the Dodd-Frank Act and shaped the political landscape for years to come.",
+    "explorer": "In 2008, the economy crashed — the worst downturn since the Great Depression! Banks that had made bad loans started failing, people lost their homes, and millions lost their jobs. The government had to spend hundreds of billions of dollars to keep the banking system from completely collapsing."
+  },
+  "significance": {
+    "scholar": "The Great Recession exposed systemic weaknesses in financial regulation and led to the most significant reform of the financial sector since the New Deal through the Dodd-Frank Act.",
+    "explorer": "The Great Recession showed that the economy could still have really bad crashes. New laws were passed to try to prevent big banks from taking dangerous risks with people's money."
+  },
+  "relatedPresidentIds": [
+    "george-w-bush",
+    "barack-obama"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "economy"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

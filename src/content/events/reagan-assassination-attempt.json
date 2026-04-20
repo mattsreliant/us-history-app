@@ -1,0 +1,41 @@
+{
+  "id": "reagan-assassination-attempt",
+  "status": "published",
+  "title": {
+    "scholar": "Reagan Assassination Attempt",
+    "explorer": "The President Is Shot!"
+  },
+  "date": "1981-03-30",
+  "decade": "1980s",
+  "summary": {
+    "scholar": "On March 30, 1981, President Ronald Reagan was shot by John Hinckley Jr. outside the Washington Hilton Hotel, just 69 days into his presidency. A bullet lodged within an inch of his heart. Reagan's remarkable resilience and humor during recovery — he reportedly told his wife 'Honey, I forgot to duck' — bolstered his popularity and public image.",
+    "explorer": "Only 69 days after becoming president, Ronald Reagan was shot outside a hotel in Washington, D.C. The bullet came within an inch of his heart! But Reagan was incredibly tough. He joked with the doctors, saying 'I hope you're all Republicans!' He recovered and became even more popular."
+  },
+  "significance": {
+    "scholar": "Reagan's survival and good-humored response to the assassination attempt boosted his approval ratings and public goodwill, providing political capital for his ambitious legislative agenda.",
+    "explorer": "Reagan's bravery after being shot made Americans admire him even more. His jokes during recovery showed everyone how tough and positive he was."
+  },
+  "relatedPresidentIds": [
+    "ronald-reagan"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

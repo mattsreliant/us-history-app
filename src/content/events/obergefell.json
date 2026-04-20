@@ -1,0 +1,42 @@
+{
+  "id": "obergefell",
+  "status": "published",
+  "title": {
+    "scholar": "Same-Sex Marriage Legalized Nationwide",
+    "explorer": "Marriage Equality for All!"
+  },
+  "date": "2015-06-26",
+  "decade": "2010s",
+  "summary": {
+    "scholar": "On June 26, 2015, the Supreme Court ruled 5-4 in Obergefell v. Hodges that same-sex couples have a constitutional right to marry in all 50 states. The decision represented one of the most significant expansions of civil rights in the 21st century and culminated decades of advocacy by the LGBTQ+ rights movement.",
+    "explorer": "On June 26, 2015, the Supreme Court said that same-sex couples have the right to get married everywhere in America! It was a huge moment for equal rights. People celebrated across the country because love had won."
+  },
+  "significance": {
+    "scholar": "Obergefell v. Hodges extended the fundamental right to marry to same-sex couples, representing a landmark expansion of civil rights and reflecting rapidly shifting public opinion on LGBTQ+ issues.",
+    "explorer": "This decision meant that all Americans could marry the person they love, no matter what. It was one of the biggest civil rights victories of the 2000s."
+  },
+  "relatedPresidentIds": [
+    "barack-obama"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

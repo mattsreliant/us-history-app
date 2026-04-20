@@ -1,0 +1,42 @@
+{
+  "id": "internet-goes-mainstream",
+  "status": "published",
+  "title": {
+    "scholar": "The Internet Goes Mainstream",
+    "explorer": "Everyone Gets Online!"
+  },
+  "date": "1995",
+  "decade": "1990s",
+  "summary": {
+    "scholar": "By 1995, the commercial internet had reached mainstream adoption with the launch of browsers like Netscape Navigator and the emergence of companies like Amazon and eBay. The dot-com boom that followed transformed the American economy, creating new industries, reshaping existing ones, and generating enormous wealth. By the end of the decade, over half of American households had internet access.",
+    "explorer": "By 1995, regular people started going online! Websites like Amazon and eBay were just getting started, and soon the internet was changing EVERYTHING — how people shopped, communicated, learned, and had fun. By 2000, more than half of American families had internet at home. The world would never be the same!"
+  },
+  "significance": {
+    "scholar": "The mainstream adoption of the internet launched the digital revolution, transforming commerce, communication, media, and virtually every aspect of American life and the global economy.",
+    "explorer": "The internet changed the world more than almost any other invention. Today it's hard to imagine life without it!"
+  },
+  "relatedPresidentIds": [
+    "bill-clinton"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "science-tech",
+    "economy"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

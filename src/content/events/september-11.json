@@ -1,0 +1,43 @@
+{
+  "id": "september-11",
+  "status": "published",
+  "title": {
+    "scholar": "September 11 Terrorist Attacks",
+    "explorer": "9/11: A Day That Changed Everything"
+  },
+  "date": "2001-09-11",
+  "decade": "2000s",
+  "summary": {
+    "scholar": "On September 11, 2001, 19 al-Qaeda terrorists hijacked four commercial airliners. Two were flown into the World Trade Center towers in New York City, one into the Pentagon, and the fourth crashed in a Pennsylvania field after passengers attempted to retake control. Nearly 3,000 people were killed in the deadliest terrorist attack in American history. The attacks led to the War on Terror, the invasion of Afghanistan, and profound changes in American security, foreign policy, and daily life.",
+    "explorer": "On September 11, 2001, terrorists hijacked four airplanes. They crashed two into the World Trade Center in New York City, one into the Pentagon near Washington, D.C., and brave passengers on the fourth plane fought back and it crashed in a field in Pennsylvania. Nearly 3,000 people died. It was the worst attack on American soil since Pearl Harbor. It changed America forever."
+  },
+  "significance": {
+    "scholar": "September 11 fundamentally altered American foreign policy, domestic security, and national psychology. It led to two decades of military engagement in the Middle East and Central Asia and the creation of the Department of Homeland Security.",
+    "explorer": "9/11 changed how Americans think about safety and security. New agencies were created, airport security changed completely, and America went to war in Afghanistan and Iraq."
+  },
+  "relatedPresidentIds": [
+    "george-w-bush"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "politics",
+    "disaster"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

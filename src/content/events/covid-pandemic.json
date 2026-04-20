@@ -1,0 +1,43 @@
+{
+  "id": "covid-pandemic",
+  "status": "published",
+  "title": {
+    "scholar": "COVID-19 Pandemic",
+    "explorer": "The Pandemic Changes Everything"
+  },
+  "date": "2020-03-11",
+  "decade": "2020s",
+  "summary": {
+    "scholar": "The COVID-19 pandemic, declared a global pandemic by the WHO on March 11, 2020, killed over one million Americans and fundamentally disrupted daily life. Schools shifted to remote learning, millions worked from home, and businesses closed. The unprecedented rapid development of mRNA vaccines — available by December 2020 — represented one of the greatest achievements in the history of medicine. The pandemic exposed and deepened existing social, economic, and political divisions.",
+    "explorer": "In 2020, a terrible disease called COVID-19 spread around the world. Schools closed and kids had to learn from home. People wore masks and stayed apart from each other. Over a million Americans died. But scientists created amazing vaccines in record time to help protect people. The pandemic changed how we live, work, and go to school."
+  },
+  "significance": {
+    "scholar": "The COVID-19 pandemic was the deadliest public health crisis in a century, transforming work, education, and social life while accelerating technological adoption and exposing systemic inequalities.",
+    "explorer": "COVID-19 changed the world in ways no one expected. It showed how important science and medicine are, but also how hard it is when a whole country has to deal with something scary together."
+  },
+  "relatedPresidentIds": [
+    "donald-trump",
+    "joe-biden"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "disaster",
+    "science-tech"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

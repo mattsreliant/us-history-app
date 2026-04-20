@@ -1,0 +1,42 @@
+{
+  "id": "jan-6-capitol",
+  "status": "published",
+  "title": {
+    "scholar": "January 6 Capitol Breach",
+    "explorer": "Trouble at the Capitol"
+  },
+  "date": "2021-01-06",
+  "decade": "2020s",
+  "summary": {
+    "scholar": "On January 6, 2021, a mob of supporters of outgoing President Trump breached the U.S. Capitol building in an attempt to prevent Congress from certifying Joe Biden's Electoral College victory. The breach disrupted the certification process for several hours, resulted in multiple deaths, and led to the largest criminal investigation in FBI history. Trump was impeached a second time by the House for incitement of insurrection but was acquitted by the Senate.",
+    "explorer": "On January 6, 2021, a large crowd broke into the U.S. Capitol building while Congress was inside confirming the election results. It was a scary and sad day. Several people died, and many were later arrested. It raised big questions about democracy and how Americans should handle disagreements about elections."
+  },
+  "significance": {
+    "scholar": "The January 6 breach was the most significant attack on the U.S. Capitol since the War of 1812 and raised profound questions about democratic norms, presidential power, and political violence in America.",
+    "explorer": "This was a very unusual and troubling event in American history. It made people think hard about how to protect democracy and handle disagreements peacefully."
+  },
+  "relatedPresidentIds": [
+    "donald-trump",
+    "joe-biden"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

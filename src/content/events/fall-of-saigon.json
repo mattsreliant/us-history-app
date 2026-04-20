@@ -1,0 +1,42 @@
+{
+  "id": "fall-of-saigon",
+  "status": "published",
+  "title": {
+    "scholar": "Fall of Saigon: End of the Vietnam War",
+    "explorer": "The Vietnam War Ends"
+  },
+  "date": "1975-04-30",
+  "decade": "1970s",
+  "summary": {
+    "scholar": "On April 30, 1975, North Vietnamese forces captured Saigon, the capital of South Vietnam, ending the Vietnam War. The chaotic American evacuation, including dramatic helicopter rescues from the U.S. embassy roof, became an enduring image of the war's conclusion. Over 58,000 Americans and millions of Vietnamese had died in the conflict.",
+    "explorer": "On April 30, 1975, the Vietnam War finally ended when North Vietnam captured the city of Saigon. Americans had to be rescued by helicopters from the embassy roof. It was a sad end to a long, painful war. Over 58,000 American soldiers and millions of Vietnamese people had died."
+  },
+  "significance": {
+    "scholar": "The fall of Saigon represented the first clear military defeat in American history, leading to a period of national soul-searching about the limits of American power and the costs of foreign intervention.",
+    "explorer": "The Vietnam War was the first war America clearly lost. It made people think hard about whether America should fight in other countries' wars."
+  },
+  "relatedPresidentIds": [
+    "gerald-ford"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}
