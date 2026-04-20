@@ -1,0 +1,50 @@
+{
+  "id": "q-cr-1",
+  "status": "published",
+  "topic": "civil-rights",
+  "difficulty": "easy",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What did the 13th Amendment abolish?",
+    "explorer": "What did the 13th Amendment end?"
+  },
+  "options": [
+    {
+      "scholar": "Alcohol",
+      "explorer": "Alcohol"
+    },
+    {
+      "scholar": "Slavery",
+      "explorer": "Slavery"
+    },
+    {
+      "scholar": "Poll taxes",
+      "explorer": "Poll taxes"
+    },
+    {
+      "scholar": "Segregation",
+      "explorer": "Segregation"
+    }
+  ],
+  "correctIndex": 1,
+  "explanation": {
+    "scholar": "The 13th Amendment, ratified in 1865, abolished slavery throughout the United States.",
+    "explorer": "The 13th Amendment ended slavery forever in 1865!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

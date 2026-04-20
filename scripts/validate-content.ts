@@ -284,13 +284,22 @@ const contentDir = path.resolve(import.meta.dirname, '..', 'src', 'content');
 
 console.log('Validating content...\n');
 
+// Quiz folder contains both quiz definitions (have questionIds) and
+// individual questions (have correctIndex). Route to the right validator.
+function validateQuizOrQuestion(file: string, data: any): void {
+  if (data.questionIds) {
+    validateQuiz(file, data);
+  } else if (data.correctIndex !== undefined) {
+    validateQuestion(file, data);
+  }
+}
+
 const validators: Record<string, (file: string, data: any) => void> = {
   decades: validateDecade,
   events: validateEvent,
   presidents: validatePresident,
   discover: validateDiscover,
-  quizzes: validateQuiz,
-  questions: validateQuestion,
+  quizzes: validateQuizOrQuestion,
 };
 
 let totalFiles = 0;

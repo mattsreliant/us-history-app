@@ -1,0 +1,50 @@
+{
+  "id": "q-event-4",
+  "status": "published",
+  "topic": "civil-rights",
+  "difficulty": "easy",
+  "mode": "both",
+  "prompt": {
+    "scholar": "Who refused to give up her bus seat in Montgomery, Alabama in 1955?",
+    "explorer": "Who was the brave woman who wouldn't give up her bus seat?"
+  },
+  "options": [
+    {
+      "scholar": "Harriet Tubman",
+      "explorer": "Harriet Tubman"
+    },
+    {
+      "scholar": "Susan B. Anthony",
+      "explorer": "Susan B. Anthony"
+    },
+    {
+      "scholar": "Rosa Parks",
+      "explorer": "Rosa Parks"
+    },
+    {
+      "scholar": "Eleanor Roosevelt",
+      "explorer": "Eleanor Roosevelt"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "Rosa Parks' arrest on December 1, 1955 sparked the Montgomery Bus Boycott, a key event in the civil rights movement.",
+    "explorer": "Rosa Parks refused to give up her seat on December 1, 1955, starting a 381-day bus boycott!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

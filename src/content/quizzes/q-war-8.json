@@ -1,0 +1,50 @@
+{
+  "id": "q-war-8",
+  "status": "published",
+  "topic": "wars",
+  "difficulty": "medium",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What was D-Day (June 6, 1944)?",
+    "explorer": "What happened on D-Day?"
+  },
+  "options": [
+    {
+      "scholar": "Japan attacked Pearl Harbor",
+      "explorer": "Japan attacked Pearl Harbor"
+    },
+    {
+      "scholar": "Germany surrendered",
+      "explorer": "Germany surrendered"
+    },
+    {
+      "scholar": "Allied forces invaded Normandy, France",
+      "explorer": "Allied forces invaded Normandy, France"
+    },
+    {
+      "scholar": "The atomic bomb was dropped",
+      "explorer": "The atomic bomb was dropped"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "About 156,000 Allied troops stormed the beaches of Normandy in the largest amphibious invasion in history.",
+    "explorer": "About 156,000 soldiers landed on the beaches of France to start freeing Europe from the Nazis!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

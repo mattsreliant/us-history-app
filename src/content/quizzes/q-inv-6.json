@@ -1,0 +1,50 @@
+{
+  "id": "q-inv-6",
+  "status": "published",
+  "topic": "inventions",
+  "difficulty": "medium",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What was the first message sent over the internet (ARPANET) in 1969?",
+    "explorer": "What was the first internet message?"
+  },
+  "options": [
+    {
+      "scholar": "Hello World",
+      "explorer": "Hello World"
+    },
+    {
+      "scholar": "LO (the system crashed before completing LOGIN)",
+      "explorer": "LO (the system crashed before completing LOGIN)"
+    },
+    {
+      "scholar": "Testing 123",
+      "explorer": "Testing 123"
+    },
+    {
+      "scholar": "Can you hear me",
+      "explorer": "Can you hear me"
+    }
+  ],
+  "correctIndex": 1,
+  "explanation": {
+    "scholar": "The first ARPANET message was supposed to be 'LOGIN' but the system crashed after transmitting just 'LO.'",
+    "explorer": "The first internet message was supposed to say LOGIN but the computer crashed after just two letters: LO!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

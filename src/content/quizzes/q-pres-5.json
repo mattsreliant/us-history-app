@@ -1,0 +1,50 @@
+{
+  "id": "q-pres-5",
+  "status": "published",
+  "topic": "presidents",
+  "difficulty": "easy",
+  "mode": "both",
+  "prompt": {
+    "scholar": "Who was the first African American president?",
+    "explorer": "Who was the first Black president of the United States?"
+  },
+  "options": [
+    {
+      "scholar": "Joe Biden",
+      "explorer": "Joe Biden"
+    },
+    {
+      "scholar": "Bill Clinton",
+      "explorer": "Bill Clinton"
+    },
+    {
+      "scholar": "Barack Obama",
+      "explorer": "Barack Obama"
+    },
+    {
+      "scholar": "Donald Trump",
+      "explorer": "Donald Trump"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "Barack Obama was elected the 44th President in 2008, becoming the first African American to hold the office.",
+    "explorer": "Barack Obama made history in 2008 as the first Black president!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

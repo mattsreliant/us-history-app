@@ -10,6 +10,9 @@ import { PresidentsPage } from './pages/Presidents';
 import { PresidentDetailPage } from './pages/PresidentDetail';
 import { DiscoverPage } from './pages/Discover';
 import { DiscoverDetailPage } from './pages/DiscoverDetail';
+import { QuizzesPage } from './pages/Quizzes';
+import { QuizPlayPage } from './pages/QuizPlay';
+import { AboutPage } from './pages/About';
 import { SearchDialog } from './components/shared/Search';
 
 // Register all content JSON files
@@ -36,22 +39,14 @@ function App() {
             <Route path="/presidents/:id" element={<PresidentDetailPage />} />
             <Route path="/discover" element={<DiscoverPage />} />
             <Route path="/discover/:id" element={<DiscoverDetailPage />} />
-            <Route path="/quizzes" element={<PlaceholderPage title="Quizzes" />} />
-            <Route path="/about" element={<PlaceholderPage title="About & Sources" />} />
+            <Route path="/quizzes" element={<QuizzesPage />} />
+            <Route path="/quizzes/:id" element={<QuizPlayPage />} />
+            <Route path="/about" element={<AboutPage />} />
           </Routes>
         </main>
         <Footer />
       </BrowserRouter>
     </ModeProvider>
-  );
-}
-
-function PlaceholderPage({ title }: { title: string }) {
-  return (
-    <div className="page-content">
-      <h1>{title}</h1>
-      <p>Coming soon.</p>
-    </div>
   );
 }
 

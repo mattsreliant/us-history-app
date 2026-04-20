@@ -1,0 +1,50 @@
+{
+  "id": "q-cr-4",
+  "status": "published",
+  "topic": "civil-rights",
+  "difficulty": "medium",
+  "mode": "both",
+  "prompt": {
+    "scholar": "Who conducted passengers on the Underground Railroad?",
+    "explorer": "Who helped enslaved people escape on the Underground Railroad?"
+  },
+  "options": [
+    {
+      "scholar": "Sojourner Truth",
+      "explorer": "Sojourner Truth"
+    },
+    {
+      "scholar": "Harriet Tubman",
+      "explorer": "Harriet Tubman"
+    },
+    {
+      "scholar": "Frederick Douglass",
+      "explorer": "Frederick Douglass"
+    },
+    {
+      "scholar": "Rosa Parks",
+      "explorer": "Rosa Parks"
+    }
+  ],
+  "correctIndex": 1,
+  "explanation": {
+    "scholar": "Harriet Tubman made approximately 13 trips and guided around 70 people to freedom.",
+    "explorer": "Harriet Tubman made about 13 trips and helped around 70 people escape to freedom!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "q-pres-2",
+  "status": "published",
+  "topic": "presidents",
+  "difficulty": "easy",
+  "mode": "both",
+  "prompt": {
+    "scholar": "Which president wrote the Declaration of Independence?",
+    "explorer": "Which president WROTE the Declaration of Independence?"
+  },
+  "options": [
+    {
+      "scholar": "George Washington",
+      "explorer": "George Washington"
+    },
+    {
+      "scholar": "John Adams",
+      "explorer": "John Adams"
+    },
+    {
+      "scholar": "Thomas Jefferson",
+      "explorer": "Thomas Jefferson"
+    },
+    {
+      "scholar": "James Madison",
+      "explorer": "James Madison"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "Thomas Jefferson authored the Declaration of Independence in 1776, articulating the principle that 'all men are created equal.'",
+    "explorer": "Thomas Jefferson wrote the Declaration of Independence in 1776!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

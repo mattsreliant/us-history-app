@@ -1,0 +1,50 @@
+{
+  "id": "q-event-1",
+  "status": "published",
+  "topic": "general",
+  "difficulty": "easy",
+  "mode": "both",
+  "prompt": {
+    "scholar": "In what year was the Declaration of Independence signed?",
+    "explorer": "When did America declare independence?"
+  },
+  "options": [
+    {
+      "scholar": "1774",
+      "explorer": "1774"
+    },
+    {
+      "scholar": "1776",
+      "explorer": "1776"
+    },
+    {
+      "scholar": "1778",
+      "explorer": "1778"
+    },
+    {
+      "scholar": "1781",
+      "explorer": "1781"
+    }
+  ],
+  "correctIndex": 1,
+  "explanation": {
+    "scholar": "The Declaration of Independence was adopted by the Continental Congress on July 4, 1776.",
+    "explorer": "The Declaration of Independence was signed on July 4, 1776 — that's why we celebrate the Fourth of July!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

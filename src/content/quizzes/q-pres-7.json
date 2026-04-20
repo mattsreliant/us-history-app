@@ -1,0 +1,50 @@
+{
+  "id": "q-pres-7",
+  "status": "published",
+  "topic": "presidents",
+  "difficulty": "medium",
+  "mode": "both",
+  "prompt": {
+    "scholar": "Which president created the New Deal?",
+    "explorer": "Which president started the New Deal to help people during the Great Depression?"
+  },
+  "options": [
+    {
+      "scholar": "Herbert Hoover",
+      "explorer": "Herbert Hoover"
+    },
+    {
+      "scholar": "Harry Truman",
+      "explorer": "Harry Truman"
+    },
+    {
+      "scholar": "Franklin D. Roosevelt",
+      "explorer": "Franklin D. Roosevelt"
+    },
+    {
+      "scholar": "Dwight Eisenhower",
+      "explorer": "Dwight Eisenhower"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "FDR launched the New Deal beginning in 1933, creating programs to provide relief during the Great Depression.",
+    "explorer": "FDR created the New Deal to give people jobs and help during the Great Depression!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

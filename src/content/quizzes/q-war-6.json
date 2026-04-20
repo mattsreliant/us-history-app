@@ -1,0 +1,50 @@
+{
+  "id": "q-war-6",
+  "status": "published",
+  "topic": "wars",
+  "difficulty": "medium",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What conflict did the United States enter after the September 11 attacks?",
+    "explorer": "What did America do after 9/11?"
+  },
+  "options": [
+    {
+      "scholar": "The Vietnam War",
+      "explorer": "The Vietnam War"
+    },
+    {
+      "scholar": "The Korean War",
+      "explorer": "The Korean War"
+    },
+    {
+      "scholar": "The War on Terror",
+      "explorer": "The War on Terror"
+    },
+    {
+      "scholar": "The Gulf War",
+      "explorer": "The Gulf War"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "The September 11 attacks led to the War on Terror, including operations in Afghanistan and Iraq.",
+    "explorer": "After 9/11, America started the War on Terror, sending troops to Afghanistan and Iraq."
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "q-event-7",
+  "status": "published",
+  "topic": "general",
+  "difficulty": "medium",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What scandal forced President Nixon to resign in 1974?",
+    "explorer": "What scandal made President Nixon quit?"
+  },
+  "options": [
+    {
+      "scholar": "Iran-Contra",
+      "explorer": "Iran-Contra"
+    },
+    {
+      "scholar": "Teapot Dome",
+      "explorer": "Teapot Dome"
+    },
+    {
+      "scholar": "Watergate",
+      "explorer": "Watergate"
+    },
+    {
+      "scholar": "Monica Lewinsky",
+      "explorer": "Monica Lewinsky"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "The Watergate scandal, involving a break-in cover-up, made Nixon the only president to resign, on August 9, 1974.",
+    "explorer": "The Watergate scandal was about Nixon trying to cover up a break-in. He's the only president who ever quit!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

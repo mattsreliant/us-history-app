@@ -1,0 +1,50 @@
+{
+  "id": "q-cr-10",
+  "status": "published",
+  "topic": "civil-rights",
+  "difficulty": "hard",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What did the Voting Rights Act of 1965 specifically target?",
+    "explorer": "What unfair things did the Voting Rights Act of 1965 get rid of?"
+  },
+  "options": [
+    {
+      "scholar": "Poll taxes only",
+      "explorer": "Poll taxes only"
+    },
+    {
+      "scholar": "Barriers preventing African Americans from voting, especially literacy tests",
+      "explorer": "Barriers preventing African Americans from voting, especially literacy tests"
+    },
+    {
+      "scholar": "Age restrictions on voting",
+      "explorer": "Age restrictions on voting"
+    },
+    {
+      "scholar": "Property requirements for voting",
+      "explorer": "Property requirements for voting"
+    }
+  ],
+  "correctIndex": 1,
+  "explanation": {
+    "scholar": "The act banned literacy tests and authorized federal oversight in areas with histories of voter discrimination.",
+    "explorer": "It got rid of unfair tests and rules that had been used to stop Black people from voting!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

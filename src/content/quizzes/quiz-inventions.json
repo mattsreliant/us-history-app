@@ -1,0 +1,26 @@
+{
+  "id": "quiz-inventions",
+  "status": "published",
+  "title": {
+    "scholar": "American Inventions",
+    "explorer": "Cool American Inventions!"
+  },
+  "description": {
+    "scholar": "Test your knowledge of the innovations that changed the world.",
+    "explorer": "How much do you know about amazing American inventions?"
+  },
+  "topic": "inventions",
+  "difficulty": "medium",
+  "questionIds": [
+    "q-inv-1",
+    "q-inv-2",
+    "q-inv-3",
+    "q-inv-4",
+    "q-inv-5",
+    "q-inv-6",
+    "q-inv-7",
+    "q-inv-8",
+    "q-inv-9",
+    "q-inv-10"
+  ]
+}

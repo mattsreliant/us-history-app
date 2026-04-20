@@ -1,0 +1,50 @@
+{
+  "id": "q-war-7",
+  "status": "published",
+  "topic": "wars",
+  "difficulty": "hard",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What did the Treaty of Paris (1783) accomplish?",
+    "explorer": "What did the Treaty of Paris do in 1783?"
+  },
+  "options": [
+    {
+      "scholar": "Ended the Civil War",
+      "explorer": "Ended the Civil War"
+    },
+    {
+      "scholar": "Ended the War of 1812",
+      "explorer": "Ended the War of 1812"
+    },
+    {
+      "scholar": "Ended the Revolutionary War and recognized American independence",
+      "explorer": "Ended the Revolutionary War and recognized American independence"
+    },
+    {
+      "scholar": "Ended World War I",
+      "explorer": "Ended World War I"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "The Treaty of Paris officially ended the Revolutionary War and recognized U.S. independence.",
+    "explorer": "The Treaty of Paris ended the Revolutionary War — Britain finally said America was free!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

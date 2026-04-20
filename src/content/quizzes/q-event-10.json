@@ -1,0 +1,50 @@
+{
+  "id": "q-event-10",
+  "status": "published",
+  "topic": "general",
+  "difficulty": "medium",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What did the 19th Amendment (1920) accomplish?",
+    "explorer": "What did the 19th Amendment do?"
+  },
+  "options": [
+    {
+      "scholar": "Abolished slavery",
+      "explorer": "Abolished slavery"
+    },
+    {
+      "scholar": "Established Prohibition",
+      "explorer": "Established Prohibition"
+    },
+    {
+      "scholar": "Granted women the right to vote",
+      "explorer": "Granted women the right to vote"
+    },
+    {
+      "scholar": "Lowered the voting age",
+      "explorer": "Lowered the voting age"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "The 19th Amendment, ratified in 1920, granted women the right to vote after a 72-year struggle.",
+    "explorer": "The 19th Amendment gave women the right to vote in 1920 — after fighting for it for 72 years!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

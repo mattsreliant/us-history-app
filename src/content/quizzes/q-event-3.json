@@ -1,0 +1,50 @@
+{
+  "id": "q-event-3",
+  "status": "published",
+  "topic": "general",
+  "difficulty": "medium",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What did the Louisiana Purchase accomplish in 1803?",
+    "explorer": "What happened with the Louisiana Purchase?"
+  },
+  "options": [
+    {
+      "scholar": "Ended the War of 1812",
+      "explorer": "Ended the War of 1812"
+    },
+    {
+      "scholar": "Doubled the size of the United States",
+      "explorer": "Doubled the size of the United States"
+    },
+    {
+      "scholar": "Freed enslaved people",
+      "explorer": "Freed enslaved people"
+    },
+    {
+      "scholar": "Created the Constitution",
+      "explorer": "Created the Constitution"
+    }
+  ],
+  "correctIndex": 1,
+  "explanation": {
+    "scholar": "The Louisiana Purchase from France doubled the size of the United States, adding approximately 828,000 square miles.",
+    "explorer": "The Louisiana Purchase doubled the size of America — President Jefferson bought it from France for just 4 cents an acre!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

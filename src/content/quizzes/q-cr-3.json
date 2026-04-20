@@ -1,0 +1,50 @@
+{
+  "id": "q-cr-3",
+  "status": "published",
+  "topic": "civil-rights",
+  "difficulty": "medium",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What did Brown v. Board of Education (1954) declare?",
+    "explorer": "What did the Brown v. Board court case decide?"
+  },
+  "options": [
+    {
+      "scholar": "Slavery was unconstitutional",
+      "explorer": "Slavery was unconstitutional"
+    },
+    {
+      "scholar": "Women could vote",
+      "explorer": "Women could vote"
+    },
+    {
+      "scholar": "School segregation was unconstitutional",
+      "explorer": "School segregation was unconstitutional"
+    },
+    {
+      "scholar": "The death penalty was wrong",
+      "explorer": "The death penalty was wrong"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "The Supreme Court ruled that racial segregation in public schools was unconstitutional.",
+    "explorer": "The Supreme Court said that separating kids by race in schools was unconstitutional — separate is NOT equal!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

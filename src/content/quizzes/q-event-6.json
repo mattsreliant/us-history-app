@@ -1,0 +1,50 @@
+{
+  "id": "q-event-6",
+  "status": "published",
+  "topic": "general",
+  "difficulty": "easy",
+  "mode": "both",
+  "prompt": {
+    "scholar": "Who was the first person to walk on the Moon?",
+    "explorer": "Who was the first human to walk on the Moon?"
+  },
+  "options": [
+    {
+      "scholar": "Buzz Aldrin",
+      "explorer": "Buzz Aldrin"
+    },
+    {
+      "scholar": "John Glenn",
+      "explorer": "John Glenn"
+    },
+    {
+      "scholar": "Neil Armstrong",
+      "explorer": "Neil Armstrong"
+    },
+    {
+      "scholar": "Alan Shepard",
+      "explorer": "Alan Shepard"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "Neil Armstrong became the first human to walk on the Moon on July 20, 1969, during the Apollo 11 mission.",
+    "explorer": "Neil Armstrong walked on the Moon on July 20, 1969!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

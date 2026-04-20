@@ -1,0 +1,50 @@
+{
+  "id": "q-event-5",
+  "status": "published",
+  "topic": "general",
+  "difficulty": "medium",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What was the significance of the Battle of Gettysburg (1863)?",
+    "explorer": "Why was the Battle of Gettysburg so important?"
+  },
+  "options": [
+    {
+      "scholar": "It started the Civil War",
+      "explorer": "It started the Civil War"
+    },
+    {
+      "scholar": "It was the turning point of the Civil War",
+      "explorer": "It was the turning point of the Civil War"
+    },
+    {
+      "scholar": "It ended the Civil War",
+      "explorer": "It ended the Civil War"
+    },
+    {
+      "scholar": "It freed the enslaved people",
+      "explorer": "It freed the enslaved people"
+    }
+  ],
+  "correctIndex": 1,
+  "explanation": {
+    "scholar": "Gettysburg (July 1-4, 1863) is widely regarded as the turning point of the Civil War, with 51,116 casualties.",
+    "explorer": "Gettysburg was the turning point — after this battle, the Union started winning the war!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

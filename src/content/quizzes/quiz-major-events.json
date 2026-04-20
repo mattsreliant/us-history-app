@@ -1,0 +1,26 @@
+{
+  "id": "quiz-major-events",
+  "status": "published",
+  "title": {
+    "scholar": "Major Events in American History",
+    "explorer": "Big Moments in History!"
+  },
+  "description": {
+    "scholar": "From the Revolution to the modern era — how well do you know the pivotal moments?",
+    "explorer": "Can you remember the biggest moments in American history?"
+  },
+  "topic": "general",
+  "difficulty": "medium",
+  "questionIds": [
+    "q-event-1",
+    "q-event-2",
+    "q-event-3",
+    "q-event-4",
+    "q-event-5",
+    "q-event-6",
+    "q-event-7",
+    "q-event-8",
+    "q-event-9",
+    "q-event-10"
+  ]
+}

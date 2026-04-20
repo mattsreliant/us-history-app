@@ -1,0 +1,50 @@
+{
+  "id": "q-event-8",
+  "status": "published",
+  "topic": "wars",
+  "difficulty": "medium",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What date is known as D-Day?",
+    "explorer": "When was D-Day — the huge invasion of Normandy?"
+  },
+  "options": [
+    {
+      "scholar": "December 7, 1941",
+      "explorer": "December 7, 1941"
+    },
+    {
+      "scholar": "June 6, 1944",
+      "explorer": "June 6, 1944"
+    },
+    {
+      "scholar": "August 6, 1945",
+      "explorer": "August 6, 1945"
+    },
+    {
+      "scholar": "May 8, 1945",
+      "explorer": "May 8, 1945"
+    }
+  ],
+  "correctIndex": 1,
+  "explanation": {
+    "scholar": "D-Day was June 6, 1944, when approximately 156,000 Allied troops stormed the beaches of Normandy, France.",
+    "explorer": "D-Day was June 6, 1944 — about 156,000 soldiers crossed the ocean and stormed the beaches to fight the Nazis!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

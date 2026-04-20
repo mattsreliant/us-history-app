@@ -1,0 +1,50 @@
+{
+  "id": "q-war-10",
+  "status": "published",
+  "topic": "wars",
+  "difficulty": "easy",
+  "mode": "both",
+  "prompt": {
+    "scholar": "Where did Confederate General Lee surrender to end the Civil War?",
+    "explorer": "Where did the Civil War end?"
+  },
+  "options": [
+    {
+      "scholar": "Gettysburg",
+      "explorer": "Gettysburg"
+    },
+    {
+      "scholar": "Richmond",
+      "explorer": "Richmond"
+    },
+    {
+      "scholar": "Appomattox Court House",
+      "explorer": "Appomattox Court House"
+    },
+    {
+      "scholar": "Fort Sumter",
+      "explorer": "Fort Sumter"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "Lee surrendered to Grant at Appomattox Court House, Virginia on April 9, 1865.",
+    "explorer": "General Lee surrendered at Appomattox Court House in Virginia on April 9, 1865!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

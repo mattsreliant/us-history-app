@@ -1,0 +1,50 @@
+{
+  "id": "q-war-1",
+  "status": "published",
+  "topic": "wars",
+  "difficulty": "easy",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What war was fought between the North and South of the United States?",
+    "explorer": "What was the war between the North and South called?"
+  },
+  "options": [
+    {
+      "scholar": "Revolutionary War",
+      "explorer": "Revolutionary War"
+    },
+    {
+      "scholar": "War of 1812",
+      "explorer": "War of 1812"
+    },
+    {
+      "scholar": "Civil War",
+      "explorer": "Civil War"
+    },
+    {
+      "scholar": "Mexican-American War",
+      "explorer": "Mexican-American War"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "The American Civil War (1861-1865) was fought between Union and Confederate forces over slavery and states' rights.",
+    "explorer": "The Civil War was fought from 1861 to 1865 between the North (Union) and South (Confederacy)."
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "q-inv-8",
+  "status": "published",
+  "topic": "inventions",
+  "difficulty": "hard",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What did Samuel Morse demonstrate in 1844?",
+    "explorer": "What did Samuel Morse show off in 1844?"
+  },
+  "options": [
+    {
+      "scholar": "The telephone",
+      "explorer": "The telephone"
+    },
+    {
+      "scholar": "The telegraph",
+      "explorer": "The telegraph"
+    },
+    {
+      "scholar": "The radio",
+      "explorer": "The radio"
+    },
+    {
+      "scholar": "The typewriter",
+      "explorer": "The typewriter"
+    }
+  ],
+  "correctIndex": 1,
+  "explanation": {
+    "scholar": "Morse demonstrated the electromagnetic telegraph in 1844 with the message 'What hath God wrought.'",
+    "explorer": "Morse sent the first telegraph message in 1844: 'What hath God wrought!'"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

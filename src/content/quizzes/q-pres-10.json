@@ -1,0 +1,50 @@
+{
+  "id": "q-pres-10",
+  "status": "published",
+  "topic": "presidents",
+  "difficulty": "hard",
+  "mode": "both",
+  "prompt": {
+    "scholar": "Which president was the only one to also serve as Chief Justice of the Supreme Court?",
+    "explorer": "Which president also became the top judge on the Supreme Court?"
+  },
+  "options": [
+    {
+      "scholar": "John Adams",
+      "explorer": "John Adams"
+    },
+    {
+      "scholar": "William Howard Taft",
+      "explorer": "William Howard Taft"
+    },
+    {
+      "scholar": "Thomas Jefferson",
+      "explorer": "Thomas Jefferson"
+    },
+    {
+      "scholar": "John Marshall",
+      "explorer": "John Marshall"
+    }
+  ],
+  "correctIndex": 1,
+  "explanation": {
+    "scholar": "Taft served as the 27th President and was later appointed Chief Justice in 1921 — the only person to hold both offices.",
+    "explorer": "William Howard Taft is the only person who was BOTH president AND Chief Justice!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

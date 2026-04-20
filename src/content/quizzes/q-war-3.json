@@ -1,0 +1,50 @@
+{
+  "id": "q-war-3",
+  "status": "published",
+  "topic": "wars",
+  "difficulty": "easy",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What ended World War II in the Pacific?",
+    "explorer": "What ended the war with Japan?"
+  },
+  "options": [
+    {
+      "scholar": "D-Day invasion",
+      "explorer": "D-Day invasion"
+    },
+    {
+      "scholar": "Battle of Midway",
+      "explorer": "Battle of Midway"
+    },
+    {
+      "scholar": "Atomic bombs on Hiroshima and Nagasaki",
+      "explorer": "Atomic bombs on Hiroshima and Nagasaki"
+    },
+    {
+      "scholar": "Invasion of Japan",
+      "explorer": "Invasion of Japan"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "The atomic bombings of Hiroshima (Aug 6) and Nagasaki (Aug 9), 1945 led to Japan's surrender.",
+    "explorer": "The atomic bombs dropped on Hiroshima and Nagasaki in August 1945 led Japan to surrender."
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

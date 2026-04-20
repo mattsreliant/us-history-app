@@ -1,0 +1,50 @@
+{
+  "id": "q-inv-3",
+  "status": "published",
+  "topic": "inventions",
+  "difficulty": "medium",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What did Eli Whitney's cotton gin (1793) inadvertently cause?",
+    "explorer": "What happened because of the cotton gin?"
+  },
+  "options": [
+    {
+      "scholar": "The end of slavery",
+      "explorer": "The end of slavery"
+    },
+    {
+      "scholar": "A dramatic increase in slavery",
+      "explorer": "A dramatic increase in slavery"
+    },
+    {
+      "scholar": "The Industrial Revolution",
+      "explorer": "The Industrial Revolution"
+    },
+    {
+      "scholar": "Westward expansion",
+      "explorer": "Westward expansion"
+    }
+  ],
+  "correctIndex": 1,
+  "explanation": {
+    "scholar": "The cotton gin made cotton enormously profitable, dramatically increasing demand for enslaved labor.",
+    "explorer": "The cotton gin actually made slavery WORSE because plantation owners wanted even more enslaved people to grow cotton."
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

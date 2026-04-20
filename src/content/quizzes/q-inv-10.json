@@ -1,0 +1,50 @@
+{
+  "id": "q-inv-10",
+  "status": "published",
+  "topic": "inventions",
+  "difficulty": "hard",
+  "mode": "both",
+  "prompt": {
+    "scholar": "Who achieved the first controlled nuclear chain reaction in 1942?",
+    "explorer": "Who created the first controlled nuclear reaction?"
+  },
+  "options": [
+    {
+      "scholar": "Albert Einstein",
+      "explorer": "Albert Einstein"
+    },
+    {
+      "scholar": "Robert Oppenheimer",
+      "explorer": "Robert Oppenheimer"
+    },
+    {
+      "scholar": "Enrico Fermi",
+      "explorer": "Enrico Fermi"
+    },
+    {
+      "scholar": "Niels Bohr",
+      "explorer": "Niels Bohr"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "Enrico Fermi achieved the first controlled nuclear chain reaction at the University of Chicago on December 2, 1942.",
+    "explorer": "Enrico Fermi did it on December 2, 1942, under the bleachers of a football stadium at the University of Chicago!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

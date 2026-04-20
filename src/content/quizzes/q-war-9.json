@@ -1,0 +1,50 @@
+{
+  "id": "q-war-9",
+  "status": "published",
+  "topic": "wars",
+  "difficulty": "hard",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What crisis brought the world closest to nuclear war?",
+    "explorer": "When was the world closest to a nuclear war?"
+  },
+  "options": [
+    {
+      "scholar": "Korean War",
+      "explorer": "Korean War"
+    },
+    {
+      "scholar": "Bay of Pigs",
+      "explorer": "Bay of Pigs"
+    },
+    {
+      "scholar": "Cuban Missile Crisis",
+      "explorer": "Cuban Missile Crisis"
+    },
+    {
+      "scholar": "Vietnam War",
+      "explorer": "Vietnam War"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "The Cuban Missile Crisis (October 1962) is considered the closest the Cold War came to nuclear conflict.",
+    "explorer": "The Cuban Missile Crisis in 1962 was the scariest moment of the Cold War — the world almost had a nuclear war!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

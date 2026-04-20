@@ -1,0 +1,26 @@
+{
+  "id": "quiz-presidents",
+  "status": "published",
+  "title": {
+    "scholar": "Presidential Knowledge",
+    "explorer": "How Well Do You Know the Presidents?"
+  },
+  "description": {
+    "scholar": "Test your knowledge of the 47 men who have led the nation.",
+    "explorer": "See how much you know about America's presidents!"
+  },
+  "topic": "presidents",
+  "difficulty": "medium",
+  "questionIds": [
+    "q-pres-1",
+    "q-pres-2",
+    "q-pres-3",
+    "q-pres-4",
+    "q-pres-5",
+    "q-pres-6",
+    "q-pres-7",
+    "q-pres-8",
+    "q-pres-9",
+    "q-pres-10"
+  ]
+}

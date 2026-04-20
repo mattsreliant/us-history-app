@@ -1,0 +1,50 @@
+{
+  "id": "q-event-2",
+  "status": "published",
+  "topic": "wars",
+  "difficulty": "easy",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What event triggered the United States' entry into World War II?",
+    "explorer": "What attack made America join World War II?"
+  },
+  "options": [
+    {
+      "scholar": "Sinking of the Lusitania",
+      "explorer": "Sinking of the Lusitania"
+    },
+    {
+      "scholar": "D-Day invasion",
+      "explorer": "D-Day invasion"
+    },
+    {
+      "scholar": "Attack on Pearl Harbor",
+      "explorer": "Attack on Pearl Harbor"
+    },
+    {
+      "scholar": "Battle of the Bulge",
+      "explorer": "Battle of the Bulge"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "Japan's attack on Pearl Harbor on December 7, 1941 brought the United States into World War II.",
+    "explorer": "Japan's surprise attack on Pearl Harbor on December 7, 1941 brought America into the war!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

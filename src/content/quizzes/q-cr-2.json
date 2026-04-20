@@ -1,0 +1,50 @@
+{
+  "id": "q-cr-2",
+  "status": "published",
+  "topic": "civil-rights",
+  "difficulty": "easy",
+  "mode": "both",
+  "prompt": {
+    "scholar": "Who gave the 'I Have a Dream' speech?",
+    "explorer": "Who gave the famous 'I Have a Dream' speech?"
+  },
+  "options": [
+    {
+      "scholar": "Frederick Douglass",
+      "explorer": "Frederick Douglass"
+    },
+    {
+      "scholar": "Malcolm X",
+      "explorer": "Malcolm X"
+    },
+    {
+      "scholar": "Martin Luther King Jr.",
+      "explorer": "Martin Luther King Jr."
+    },
+    {
+      "scholar": "Barack Obama",
+      "explorer": "Barack Obama"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "MLK delivered the speech at the March on Washington on August 28, 1963.",
+    "explorer": "Martin Luther King Jr. gave this famous speech at the March on Washington in 1963!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "quiz-wars",
+  "status": "published",
+  "title": {
+    "scholar": "Wars & Conflicts",
+    "explorer": "Wars and Battles!"
+  },
+  "description": {
+    "scholar": "From the Revolution to the War on Terror — test your knowledge of American military history.",
+    "explorer": "How much do you know about the wars America has fought?"
+  },
+  "topic": "wars",
+  "difficulty": "medium",
+  "questionIds": [
+    "q-war-1",
+    "q-war-2",
+    "q-war-3",
+    "q-war-4",
+    "q-war-5",
+    "q-war-6",
+    "q-war-7",
+    "q-war-8",
+    "q-war-9",
+    "q-war-10"
+  ]
+}

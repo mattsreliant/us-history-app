@@ -1,0 +1,50 @@
+{
+  "id": "q-inv-4",
+  "status": "published",
+  "topic": "inventions",
+  "difficulty": "easy",
+  "mode": "both",
+  "prompt": {
+    "scholar": "Who achieved the first powered airplane flight?",
+    "explorer": "Who flew the first airplane?"
+  },
+  "options": [
+    {
+      "scholar": "Charles Lindbergh",
+      "explorer": "Charles Lindbergh"
+    },
+    {
+      "scholar": "Amelia Earhart",
+      "explorer": "Amelia Earhart"
+    },
+    {
+      "scholar": "The Wright Brothers",
+      "explorer": "The Wright Brothers"
+    },
+    {
+      "scholar": "Henry Ford",
+      "explorer": "Henry Ford"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "Orville and Wilbur Wright achieved the first powered flight on December 17, 1903.",
+    "explorer": "The Wright Brothers flew the first airplane on December 17, 1903!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

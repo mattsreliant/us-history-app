@@ -1,0 +1,50 @@
+{
+  "id": "q-inv-5",
+  "status": "published",
+  "topic": "inventions",
+  "difficulty": "medium",
+  "mode": "both",
+  "prompt": {
+    "scholar": "What did Henry Ford's assembly line (1913) accomplish?",
+    "explorer": "What was special about Henry Ford's assembly line?"
+  },
+  "options": [
+    {
+      "scholar": "Invented the automobile",
+      "explorer": "Invented the automobile"
+    },
+    {
+      "scholar": "Made cars affordable for ordinary people",
+      "explorer": "Made cars affordable for ordinary people"
+    },
+    {
+      "scholar": "Created the first truck",
+      "explorer": "Created the first truck"
+    },
+    {
+      "scholar": "Built the first highway",
+      "explorer": "Built the first highway"
+    }
+  ],
+  "correctIndex": 1,
+  "explanation": {
+    "scholar": "Ford's assembly line reduced the Model T price from $850 to under $300, making cars affordable for ordinary Americans.",
+    "explorer": "Ford's assembly line made cars so cheap that regular families could afford them!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

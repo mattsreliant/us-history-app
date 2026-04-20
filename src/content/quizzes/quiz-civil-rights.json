@@ -1,0 +1,26 @@
+{
+  "id": "quiz-civil-rights",
+  "status": "published",
+  "title": {
+    "scholar": "The Fight for Equal Rights",
+    "explorer": "Heroes of Equal Rights!"
+  },
+  "description": {
+    "scholar": "From abolition to modern civil rights — test your knowledge of the struggle for equality.",
+    "explorer": "How much do you know about the brave people who fought for equal rights?"
+  },
+  "topic": "civil-rights",
+  "difficulty": "medium",
+  "questionIds": [
+    "q-cr-1",
+    "q-cr-2",
+    "q-cr-3",
+    "q-cr-4",
+    "q-cr-5",
+    "q-cr-6",
+    "q-cr-7",
+    "q-cr-8",
+    "q-cr-9",
+    "q-cr-10"
+  ]
+}

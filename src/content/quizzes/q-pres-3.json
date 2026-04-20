@@ -1,0 +1,50 @@
+{
+  "id": "q-pres-3",
+  "status": "published",
+  "topic": "presidents",
+  "difficulty": "easy",
+  "mode": "both",
+  "prompt": {
+    "scholar": "Which president is known as the 'Father of the Constitution'?",
+    "explorer": "Which president is called the 'Father of the Constitution'?"
+  },
+  "options": [
+    {
+      "scholar": "Thomas Jefferson",
+      "explorer": "Thomas Jefferson"
+    },
+    {
+      "scholar": "Alexander Hamilton",
+      "explorer": "Alexander Hamilton"
+    },
+    {
+      "scholar": "James Madison",
+      "explorer": "James Madison"
+    },
+    {
+      "scholar": "George Washington",
+      "explorer": "George Washington"
+    }
+  ],
+  "correctIndex": 2,
+  "explanation": {
+    "scholar": "James Madison played the foremost role in drafting the Constitution at the 1787 Convention.",
+    "explorer": "James Madison did more than anyone else to write the Constitution!"
+  },
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}
