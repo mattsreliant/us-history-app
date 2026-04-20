@@ -1,9 +1,176 @@
 {
   "id": "franklin-d-roosevelt",
-  "status": "planned",
+  "status": "published",
   "number": 32,
   "name": "Franklin D. Roosevelt",
   "party": "Democratic",
   "termStart": "1933",
-  "termEnd": "1945"
+  "termEnd": "1945",
+  "vicePresidents": [
+    "John Nance Garner (1933-1941)",
+    "Henry A. Wallace (1941-1945)",
+    "Harry S. Truman (1945)"
+  ],
+  "born": "1882-01-30",
+  "died": "1945-04-12",
+  "birthplace": "Hyde Park, New York",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Franklin D. Roosevelt, the thirty-second President, served an unprecedented twelve years in office — the longest tenure of any president. Known as FDR, he led the nation through two of its greatest crises: the Great Depression and World War II. His New Deal programs fundamentally reshaped the role of the federal government in American life, creating Social Security, regulating financial markets, and providing relief to millions of unemployed Americans. He restored national confidence during America's worst domestic crisis since the Civil War and served as commander-in-chief during the nation's greatest foreign crisis. He died in office on April 12, 1945, just months before the end of World War II.",
+    "explorer": "Franklin D. Roosevelt — or FDR — was president for 12 years, longer than anyone else! He led America through two of its hardest times: the Great Depression (when millions of people lost their jobs) and World War II. He created programs called the New Deal that gave people jobs and helped the country recover. He also started Social Security, which still helps older Americans today. Sadly, he died near the end of World War II, just before the Allies won."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Created the New Deal, a series of experimental economic and social programs that spurred national recovery during the Great Depression and fundamentally reshaped the role of the federal government.",
+        "explorer": "He created the New Deal — a bunch of programs that gave people jobs, built roads and bridges, and helped America recover from the Great Depression."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: franklin d roosevelt",
+          "url": "https://millercenter.org/president/franklin-d-roosevelt",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: franklin d roosevelt - Key Events",
+          "url": "https://millercenter.org/president/franklin-d-roosevelt/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Led the United States through World War II as commander-in-chief, forging the Allied coalition that defeated Nazi Germany and Imperial Japan.",
+        "explorer": "He led America through World War II, working with other countries to defeat the Nazis and win the war."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: franklin d roosevelt",
+          "url": "https://millercenter.org/president/franklin-d-roosevelt",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: franklin d roosevelt - Key Events",
+          "url": "https://millercenter.org/president/franklin-d-roosevelt/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Established Social Security in 1935, creating a safety net for elderly, disabled, and unemployed Americans that endures to this day.",
+        "explorer": "He created Social Security, which gives money to older people and those who can't work. It's still helping people today!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: franklin d roosevelt",
+          "url": "https://millercenter.org/president/franklin-d-roosevelt",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: franklin d roosevelt - Key Events",
+          "url": "https://millercenter.org/president/franklin-d-roosevelt/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "FDR served twelve years as president (1933-1945) — the longest tenure in American history. The 22nd Amendment, ratified in 1951, later limited presidents to two terms.",
+        "explorer": "He was president for 12 years — so long that they made a rule saying no one could ever do it again!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: franklin d roosevelt",
+          "url": "https://millercenter.org/president/franklin-d-roosevelt",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: franklin d roosevelt - Key Events",
+          "url": "https://millercenter.org/president/franklin-d-roosevelt/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He married his distant cousin Anna Eleanor Roosevelt on March 17, 1905. Eleanor became one of the most influential First Ladies in history.",
+        "explorer": "He married his cousin Eleanor Roosevelt, who became one of the most famous and important First Ladies ever."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: franklin d roosevelt",
+          "url": "https://millercenter.org/president/franklin-d-roosevelt",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: franklin d roosevelt - Key Events",
+          "url": "https://millercenter.org/president/franklin-d-roosevelt/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "FDR contracted polio at age 39 and was largely unable to walk for the rest of his life, though he worked to conceal the extent of his disability from the public.",
+        "explorer": "FDR got a disease called polio that made it very hard for him to walk. He used a wheelchair but tried to keep it hidden from the public."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: franklin d roosevelt",
+          "url": "https://millercenter.org/president/franklin-d-roosevelt",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: franklin d roosevelt - Key Events",
+          "url": "https://millercenter.org/president/franklin-d-roosevelt/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: franklin d roosevelt",
+      "url": "https://millercenter.org/president/franklin-d-roosevelt",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: franklin d roosevelt - Key Events",
+      "url": "https://millercenter.org/president/franklin-d-roosevelt/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

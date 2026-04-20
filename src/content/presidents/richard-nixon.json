@@ -1,9 +1,175 @@
 {
   "id": "richard-nixon",
-  "status": "planned",
+  "status": "published",
   "number": 37,
   "name": "Richard Nixon",
   "party": "Republican",
   "termStart": "1969",
-  "termEnd": "1974"
+  "termEnd": "1974",
+  "vicePresidents": [
+    "Spiro Agnew (1969-1973)",
+    "Gerald Ford (1973-1974)"
+  ],
+  "born": "1913-01-09",
+  "died": "1994-04-22",
+  "birthplace": "Yorba Linda, California",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Richard Nixon, the thirty-seventh President, achieved historic diplomatic breakthroughs including opening relations with China and pursuing détente with the Soviet Union, but his legacy is defined by the Watergate scandal that made him the only president to resign from office. Nixon also created the Environmental Protection Agency and advanced domestic environmental policy. Before his presidency, he served as Eisenhower's Vice President and narrowly lost the 1960 presidential election to JFK. His political career was marked by remarkable comebacks and an equally dramatic downfall.",
+    "explorer": "Richard Nixon was the thirty-seventh president, and his story is one of the most dramatic in American history. He did some really important things — like being the first president to visit China and creating the EPA (Environmental Protection Agency) to protect nature. But he got caught trying to cover up a break-in at the Watergate building, and the scandal was so bad that he became the only president ever to resign — meaning he quit before he could be removed."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Achieved a historic diplomatic breakthrough by establishing relations with the People's Republic of China in 1972, fundamentally reshaping Cold War geopolitics.",
+        "explorer": "He was the first president to visit China and open up a relationship between America and China."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: richard nixon",
+          "url": "https://millercenter.org/president/richard-nixon",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: richard nixon - Key Events",
+          "url": "https://millercenter.org/president/richard-nixon/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Implemented détente with the Soviet Union, reducing Cold War tensions and negotiating arms limitation agreements.",
+        "explorer": "He worked to reduce tensions with the Soviet Union and signed agreements to limit nuclear weapons."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: richard nixon",
+          "url": "https://millercenter.org/president/richard-nixon",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: richard nixon - Key Events",
+          "url": "https://millercenter.org/president/richard-nixon/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Created the Environmental Protection Agency (EPA) and advanced domestic environmental policy, signing the Clean Air Act and other environmental legislation.",
+        "explorer": "He created the EPA — the agency that protects our air, water, and land from pollution."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: richard nixon",
+          "url": "https://millercenter.org/president/richard-nixon",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: richard nixon - Key Events",
+          "url": "https://millercenter.org/president/richard-nixon/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Nixon is the only president to resign from office, stepping down on August 9, 1974 amid the Watergate scandal.",
+        "explorer": "He's the only president who ever quit the job. The Watergate scandal forced him to resign."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: richard nixon",
+          "url": "https://millercenter.org/president/richard-nixon",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: richard nixon - Key Events",
+          "url": "https://millercenter.org/president/richard-nixon/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Before his presidency, he lost the 1960 presidential election to JFK by an extraordinarily narrow margin.",
+        "explorer": "He lost a super-close election to JFK in 1960, then came back and won in 1968!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: richard nixon",
+          "url": "https://millercenter.org/president/richard-nixon",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: richard nixon - Key Events",
+          "url": "https://millercenter.org/president/richard-nixon/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "His political rise was meteoric — within six years he progressed from first-time congressional candidate to Vice President of the United States.",
+        "explorer": "He went from running for Congress for the first time to being Vice President in just six years!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: richard nixon",
+          "url": "https://millercenter.org/president/richard-nixon",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: richard nixon - Key Events",
+          "url": "https://millercenter.org/president/richard-nixon/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: richard nixon",
+      "url": "https://millercenter.org/president/richard-nixon",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: richard nixon - Key Events",
+      "url": "https://millercenter.org/president/richard-nixon/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

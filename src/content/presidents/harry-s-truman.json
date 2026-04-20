@@ -1,9 +1,174 @@
 {
   "id": "harry-s-truman",
-  "status": "planned",
+  "status": "published",
   "number": 33,
   "name": "Harry S. Truman",
   "party": "Democratic",
   "termStart": "1945",
-  "termEnd": "1953"
+  "termEnd": "1953",
+  "vicePresidents": [
+    "Alben W. Barkley (1949-1953)"
+  ],
+  "born": "1884-05-08",
+  "died": "1972-12-26",
+  "birthplace": "Lamar, Missouri",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Harry S. Truman, the thirty-third President, assumed office after FDR's death and faced some of the most consequential decisions in American history. Nicknamed 'Give Em Hell Harry,' Truman authorized the use of atomic bombs on Hiroshima and Nagasaki to end World War II, established the Truman Doctrine and Marshall Plan that defined Cold War foreign policy, and advanced African American civil rights by desegregating the armed forces. He became president unexpectedly after serving as Vice President for less than three months. Historians now rank him among the nation's best presidents.",
+    "explorer": "Harry Truman became the thirty-third president when FDR died, and he had to make some of the biggest decisions any president has ever faced. He decided to use atomic bombs to end World War II. He also stood up to the Soviet Union during the Cold War and helped rebuild Europe with the Marshall Plan. People called him 'Give Em Hell Harry' because he was so direct and tough. At first people didn't think he was up to the job, but now he's considered one of the best presidents ever."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Authorized the use of atomic weapons on Hiroshima and Nagasaki in August 1945, ending World War II but inaugurating the nuclear age.",
+        "explorer": "He made the incredibly difficult decision to use atomic bombs to end World War II."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harry s truman",
+          "url": "https://millercenter.org/president/harry-s-truman",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harry s truman - Key Events",
+          "url": "https://millercenter.org/president/harry-s-truman/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Established the Truman Doctrine and supported the Marshall Plan, defining American Cold War foreign policy and helping rebuild war-torn Europe.",
+        "explorer": "He stood up to the Soviet Union and helped rebuild Europe after the war with a huge aid program called the Marshall Plan."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harry s truman",
+          "url": "https://millercenter.org/president/harry-s-truman",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harry s truman - Key Events",
+          "url": "https://millercenter.org/president/harry-s-truman/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Desegregated the U.S. armed forces by executive order in 1948, advancing African American civil rights.",
+        "explorer": "He ordered the military to end racial segregation, meaning Black and white soldiers would serve together as equals."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harry s truman",
+          "url": "https://millercenter.org/president/harry-s-truman",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harry s truman - Key Events",
+          "url": "https://millercenter.org/president/harry-s-truman/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Truman became president unexpectedly after serving as Vice President for less than three months, having had minimal briefing on critical matters including the atomic bomb.",
+        "explorer": "He had only been Vice President for 82 days when FDR died. He didn't even know about the atomic bomb until he became president!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harry s truman",
+          "url": "https://millercenter.org/president/harry-s-truman",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harry s truman - Key Events",
+          "url": "https://millercenter.org/president/harry-s-truman/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was nicknamed 'Give Em Hell Harry' for his plain-spoken, combative political style.",
+        "explorer": "People called him 'Give Em Hell Harry' because he was so direct and never backed down from a fight."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harry s truman",
+          "url": "https://millercenter.org/president/harry-s-truman",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harry s truman - Key Events",
+          "url": "https://millercenter.org/president/harry-s-truman/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Historians now rank Truman among the nation's best presidents, a dramatic reversal from his low popularity when he left office.",
+        "explorer": "When he left office, people didn't think he was a great president. Now historians say he was one of the best!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harry s truman",
+          "url": "https://millercenter.org/president/harry-s-truman",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harry s truman - Key Events",
+          "url": "https://millercenter.org/president/harry-s-truman/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: harry s truman",
+      "url": "https://millercenter.org/president/harry-s-truman",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: harry s truman - Key Events",
+      "url": "https://millercenter.org/president/harry-s-truman/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

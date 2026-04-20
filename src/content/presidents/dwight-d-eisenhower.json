@@ -1,9 +1,174 @@
 {
   "id": "dwight-d-eisenhower",
-  "status": "planned",
+  "status": "published",
   "number": 34,
   "name": "Dwight D. Eisenhower",
   "party": "Republican",
   "termStart": "1953",
-  "termEnd": "1961"
+  "termEnd": "1961",
+  "vicePresidents": [
+    "Richard Nixon (1953-1961)"
+  ],
+  "born": "1890-10-14",
+  "died": "1969-03-28",
+  "birthplace": "Denison, Texas",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Dwight D. Eisenhower, the thirty-fourth President, was the Supreme Allied Commander who led the D-Day invasion and the defeat of Nazi Germany before serving two terms as president. Known simply as 'Ike,' Eisenhower presided over a period of relative peace and prosperity during the 1950s. His most enduring domestic achievement was the Interstate Highway System, which transformed American infrastructure and mobility. He navigated the early Cold War, promoted the 'domino theory' of containment, and warned in his farewell address about the dangers of the 'military-industrial complex.'",
+    "explorer": "Dwight 'Ike' Eisenhower was an amazing war hero who led the D-Day invasion on the beaches of Normandy, France — one of the most important battles in history. After winning World War II, he became the thirty-fourth president. He built the Interstate Highway System — all those big highways that connect every part of America. When he left office, he warned the country about spending too much money on weapons."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Led Allied forces to victory in World War II as Supreme Commander, including the D-Day invasion of Normandy on June 6, 1944.",
+        "explorer": "He was the top general who planned D-Day — the massive invasion that helped free Europe from the Nazis."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: dwight d eisenhower",
+          "url": "https://millercenter.org/president/dwight-d-eisenhower",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: dwight d eisenhower - Key Events",
+          "url": "https://millercenter.org/president/dwight-d-eisenhower/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Established the Interstate Highway System, one of the largest public works projects in history, transforming American infrastructure and economic development.",
+        "explorer": "He built the Interstate Highway System — the huge network of highways that lets you drive across the whole country!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: dwight d eisenhower",
+          "url": "https://millercenter.org/president/dwight-d-eisenhower",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: dwight d eisenhower - Key Events",
+          "url": "https://millercenter.org/president/dwight-d-eisenhower/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Navigated the early Cold War, balancing military readiness with fiscal responsibility and warning about the 'military-industrial complex' in his farewell address.",
+        "explorer": "He kept America safe during the Cold War and warned everyone to be careful about spending too much on the military."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: dwight d eisenhower",
+          "url": "https://millercenter.org/president/dwight-d-eisenhower",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: dwight d eisenhower - Key Events",
+          "url": "https://millercenter.org/president/dwight-d-eisenhower/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Eisenhower's mother was a pacifist who opposed war, yet she supported her son's military career. He graduated from West Point in 1915.",
+        "explorer": "His mom was against all wars, but she still supported his choice to become a soldier!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: dwight d eisenhower",
+          "url": "https://millercenter.org/president/dwight-d-eisenhower",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: dwight d eisenhower - Key Events",
+          "url": "https://millercenter.org/president/dwight-d-eisenhower/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was known simply as 'Ike,' and the campaign slogan 'I Like Ike' became one of the most famous in presidential campaign history.",
+        "explorer": "Everyone called him 'Ike,' and his campaign slogan 'I Like Ike' is one of the most famous ever."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: dwight d eisenhower",
+          "url": "https://millercenter.org/president/dwight-d-eisenhower",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: dwight d eisenhower - Key Events",
+          "url": "https://millercenter.org/president/dwight-d-eisenhower/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Born in Texas but raised in Abilene, Kansas, Eisenhower grew up in modest circumstances before attending West Point.",
+        "explorer": "He was born in Texas but grew up in a small Kansas town before going to the famous West Point military academy."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: dwight d eisenhower",
+          "url": "https://millercenter.org/president/dwight-d-eisenhower",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: dwight d eisenhower - Key Events",
+          "url": "https://millercenter.org/president/dwight-d-eisenhower/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: dwight d eisenhower",
+      "url": "https://millercenter.org/president/dwight-d-eisenhower",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: dwight d eisenhower - Key Events",
+      "url": "https://millercenter.org/president/dwight-d-eisenhower/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

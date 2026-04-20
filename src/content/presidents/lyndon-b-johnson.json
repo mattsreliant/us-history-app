@@ -1,9 +1,174 @@
 {
   "id": "lyndon-b-johnson",
-  "status": "planned",
+  "status": "published",
   "number": 36,
   "name": "Lyndon B. Johnson",
   "party": "Democratic",
   "termStart": "1963",
-  "termEnd": "1969"
+  "termEnd": "1969",
+  "vicePresidents": [
+    "Hubert Humphrey (1965-1969)"
+  ],
+  "born": "1908-08-27",
+  "died": "1973-01-22",
+  "birthplace": "Johnson City, Texas",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Lyndon B. Johnson, the thirty-sixth President, assumed office after JFK's assassination and used his legendary legislative skill to enact the most sweeping domestic reforms since the New Deal. Known as LBJ, he signed the Civil Rights Act of 1964 and the Voting Rights Act of 1965, launched the Great Society programs addressing poverty, education, and healthcare (including Medicare and Medicaid), and expanded federal support for the arts and humanities. However, his escalation of the Vietnam War divided the nation and ultimately drove him from seeking re-election in 1968.",
+    "explorer": "Lyndon Johnson — or LBJ — became the thirty-sixth president after JFK was killed. He was an incredibly powerful politician who got Congress to pass some of the most important laws in American history. He signed the Civil Rights Act, which made it illegal to discriminate against people because of their race. He also created Medicare (health insurance for older people) and programs to fight poverty. But the Vietnam War got worse and worse under his watch, and he decided not to run again."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Signed the Civil Rights Act of 1964, landmark legislation prohibiting discrimination based on race, color, religion, sex, or national origin.",
+        "explorer": "He signed the Civil Rights Act of 1964, which made it illegal to treat people unfairly because of their race or gender."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: lyndon b johnson",
+          "url": "https://millercenter.org/president/lyndon-b-johnson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: lyndon b johnson - Key Events",
+          "url": "https://millercenter.org/president/lyndon-b-johnson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Launched the Great Society, a sweeping set of domestic programs addressing poverty, education, and healthcare, including the creation of Medicare and Medicaid.",
+        "explorer": "He created the Great Society programs, which fought poverty, improved schools, and gave older people and poor people health insurance."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: lyndon b johnson",
+          "url": "https://millercenter.org/president/lyndon-b-johnson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: lyndon b johnson - Key Events",
+          "url": "https://millercenter.org/president/lyndon-b-johnson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Signed the Voting Rights Act of 1965, eliminating barriers that had prevented African Americans from exercising their constitutional right to vote.",
+        "explorer": "He signed the Voting Rights Act, which removed the unfair rules that had stopped Black Americans from voting."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: lyndon b johnson",
+          "url": "https://millercenter.org/president/lyndon-b-johnson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: lyndon b johnson - Key Events",
+          "url": "https://millercenter.org/president/lyndon-b-johnson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "LBJ rose from poverty in the Texas Hill Country to become Senate Majority Leader — one of the most powerful positions in Washington — before becoming vice president and then president.",
+        "explorer": "He grew up poor in rural Texas but became one of the most powerful politicians in Washington."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: lyndon b johnson",
+          "url": "https://millercenter.org/president/lyndon-b-johnson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: lyndon b johnson - Key Events",
+          "url": "https://millercenter.org/president/lyndon-b-johnson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He assumed office following JFK's assassination on November 22, 1963, taking the oath of office aboard Air Force One.",
+        "explorer": "He was sworn in as president on the presidential airplane right after JFK was killed."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: lyndon b johnson",
+          "url": "https://millercenter.org/president/lyndon-b-johnson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: lyndon b johnson - Key Events",
+          "url": "https://millercenter.org/president/lyndon-b-johnson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Johnson left office in 1969 as one of the least popular presidents due to Vietnam. He died just four years later, near his Texas birthplace.",
+        "explorer": "The Vietnam War made him so unpopular that he didn't even run for re-election. He died just four years after leaving office."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: lyndon b johnson",
+          "url": "https://millercenter.org/president/lyndon-b-johnson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: lyndon b johnson - Key Events",
+          "url": "https://millercenter.org/president/lyndon-b-johnson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: lyndon b johnson",
+      "url": "https://millercenter.org/president/lyndon-b-johnson",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: lyndon b johnson - Key Events",
+      "url": "https://millercenter.org/president/lyndon-b-johnson/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }
