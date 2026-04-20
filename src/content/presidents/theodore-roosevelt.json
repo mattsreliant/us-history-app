@@ -1,9 +1,174 @@
 {
   "id": "theodore-roosevelt",
-  "status": "planned",
+  "status": "published",
   "number": 26,
   "name": "Theodore Roosevelt",
   "party": "Republican",
   "termStart": "1901",
-  "termEnd": "1909"
+  "termEnd": "1909",
+  "vicePresidents": [
+    "Charles W. Fairbanks (1905-1909)"
+  ],
+  "born": "1858-10-27",
+  "died": "1919-01-06",
+  "birthplace": "New York, New York",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Theodore Roosevelt, the twenty-sixth President, is widely regarded as the first modern president. Known as 'TR,' 'Teddy,' and 'Trust-Buster,' Roosevelt dramatically expanded executive power, pursued progressive regulation for social and economic justice, and used executive orders for aggressive conservation efforts that preserved millions of acres of public land. He was the first president to use mass media to appeal directly to voters. Roosevelt assumed the presidency at age 42 after McKinley's assassination, making him the youngest person to hold the office.",
+    "explorer": "Theodore Roosevelt — or 'Teddy' as people called him — was one of the most exciting presidents ever! He became president at 42, the youngest ever, after President McKinley was killed. He loved nature and protected millions of acres of land as national parks and forests. He also broke up giant companies that were being unfair to regular people, earning the nickname 'Trust-Buster.' He was the first president to really use newspapers and media to talk directly to the American people."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Pursued aggressive conservation efforts, using executive orders to establish national parks, forests, and monuments, preserving millions of acres of public land.",
+        "explorer": "He protected millions of acres of beautiful American land by creating national parks and forests that we still enjoy today!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: theodore roosevelt",
+          "url": "https://millercenter.org/president/theodore-roosevelt",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: theodore roosevelt - Key Events",
+          "url": "https://millercenter.org/president/theodore-roosevelt/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Expanded executive power and progressive regulation, becoming 'the first modern President' by actively using the presidency to pursue social and economic justice.",
+        "explorer": "He made the presidency much more powerful and used it to fight for fairness and justice for regular people."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: theodore roosevelt",
+          "url": "https://millercenter.org/president/theodore-roosevelt",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: theodore roosevelt - Key Events",
+          "url": "https://millercenter.org/president/theodore-roosevelt/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Earned the nickname 'Trust-Buster' for his aggressive enforcement of antitrust laws, breaking up powerful monopolies that dominated American industry.",
+        "explorer": "He broke up huge companies called 'trusts' that had too much power, earning the nickname 'Trust-Buster.'"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: theodore roosevelt",
+          "url": "https://millercenter.org/president/theodore-roosevelt",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: theodore roosevelt - Key Events",
+          "url": "https://millercenter.org/president/theodore-roosevelt/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Roosevelt became president at age 42 after McKinley's assassination, making him the youngest person ever to hold the office.",
+        "explorer": "He became president at just 42 years old — the youngest person EVER to be president!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: theodore roosevelt",
+          "url": "https://millercenter.org/president/theodore-roosevelt",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: theodore roosevelt - Key Events",
+          "url": "https://millercenter.org/president/theodore-roosevelt/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was the first president to use mass media to appeal directly to voters, bypassing traditional political structures and reshaping the relationship between the presidency and the public.",
+        "explorer": "He was the first president to use newspapers and media to talk directly to the American people."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: theodore roosevelt",
+          "url": "https://millercenter.org/president/theodore-roosevelt",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: theodore roosevelt - Key Events",
+          "url": "https://millercenter.org/president/theodore-roosevelt/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "The popular teddy bear toy was named after him, originating from a 1902 hunting trip incident in which he refused to shoot a tied-up bear.",
+        "explorer": "The teddy bear is named after him! On a hunting trip, he refused to shoot a bear that had been tied up, and a toy company made a stuffed bear called 'Teddy's Bear.'"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: theodore roosevelt",
+          "url": "https://millercenter.org/president/theodore-roosevelt",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: theodore roosevelt - Key Events",
+          "url": "https://millercenter.org/president/theodore-roosevelt/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: theodore roosevelt",
+      "url": "https://millercenter.org/president/theodore-roosevelt",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: theodore roosevelt - Key Events",
+      "url": "https://millercenter.org/president/theodore-roosevelt/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

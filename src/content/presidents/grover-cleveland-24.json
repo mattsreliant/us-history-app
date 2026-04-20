@@ -1,9 +1,174 @@
 {
   "id": "grover-cleveland-24",
-  "status": "planned",
+  "status": "published",
   "number": 24,
   "name": "Grover Cleveland",
   "party": "Democratic",
   "termStart": "1893",
-  "termEnd": "1897"
+  "termEnd": "1897",
+  "vicePresidents": [
+    "Adlai E. Stevenson I (1893-1897)"
+  ],
+  "born": "1837-03-18",
+  "died": "1908-06-24",
+  "birthplace": "Caldwell, New Jersey",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Grover Cleveland returned to the presidency as the twenty-fourth President, making him the only person to serve non-consecutive terms. His second term was dominated by the severe economic depression of the Panic of 1893 and labor unrest, including the Pullman Strike of 1894. Cleveland maintained his commitment to fiscal conservatism and the gold standard throughout these crises, though his policies proved controversial and cost him public support.",
+    "explorer": "Grover Cleveland came back for a second time as the twenty-fourth president! But this time things were much harder. A terrible economic crash called the Panic of 1893 hit the country, and many people lost their jobs. Cleveland tried to fix things, but it was really tough."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Became the only president to serve two non-consecutive terms, returning to office after a four-year absence.",
+        "explorer": "He's the only president who left the White House and then came back for more!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: grover cleveland",
+          "url": "https://millercenter.org/president/grover-cleveland",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: grover cleveland - Key Events",
+          "url": "https://millercenter.org/president/grover-cleveland/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Maintained the gold standard during the severe Panic of 1893, a controversial decision that reflected his commitment to fiscal conservatism.",
+        "explorer": "During a big economic crash, he kept America on the gold standard, which meant the dollar was backed by real gold."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: grover cleveland",
+          "url": "https://millercenter.org/president/grover-cleveland",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: grover cleveland - Key Events",
+          "url": "https://millercenter.org/president/grover-cleveland/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Intervened in the Pullman Strike of 1894 using federal troops, asserting federal authority to keep the mail and interstate commerce moving.",
+        "explorer": "When a huge workers' strike shut down railroads across the country, he sent in the army to get things moving again."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: grover cleveland",
+          "url": "https://millercenter.org/president/grover-cleveland",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: grover cleveland - Key Events",
+          "url": "https://millercenter.org/president/grover-cleveland/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Cleveland's second term was dominated by the Panic of 1893, one of the worst economic depressions in American history up to that point.",
+        "explorer": "His second time as president was really hard because of a terrible economic crash."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: grover cleveland",
+          "url": "https://millercenter.org/president/grover-cleveland",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: grover cleveland - Key Events",
+          "url": "https://millercenter.org/president/grover-cleveland/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He won the popular vote in three consecutive elections (1884, 1888, 1892) but lost the Electoral College in 1888 to Benjamin Harrison.",
+        "explorer": "He got more votes than anyone else THREE elections in a row, but still lost the middle one!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: grover cleveland",
+          "url": "https://millercenter.org/president/grover-cleveland",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: grover cleveland - Key Events",
+          "url": "https://millercenter.org/president/grover-cleveland/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He had five children, including a daughter named Ruth, for whom the Baby Ruth candy bar is popularly (though disputedly) said to be named.",
+        "explorer": "He had a daughter named Ruth — some people say the Baby Ruth candy bar was named after her!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: grover cleveland",
+          "url": "https://millercenter.org/president/grover-cleveland",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: grover cleveland - Key Events",
+          "url": "https://millercenter.org/president/grover-cleveland/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: grover cleveland",
+      "url": "https://millercenter.org/president/grover-cleveland",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: grover cleveland - Key Events",
+      "url": "https://millercenter.org/president/grover-cleveland/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

@@ -1,9 +1,175 @@
 {
   "id": "william-mckinley",
-  "status": "planned",
+  "status": "published",
   "number": 25,
   "name": "William McKinley",
   "party": "Republican",
   "termStart": "1897",
-  "termEnd": "1901"
+  "termEnd": "1901",
+  "vicePresidents": [
+    "Garret Hobart (1897-1899)",
+    "Theodore Roosevelt (1901)"
+  ],
+  "born": "1843-01-29",
+  "died": "1901-09-14",
+  "birthplace": "Niles, Ohio",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "William McKinley, the twenty-fifth President, positioned the United States as an emerging world power. Nicknamed the 'Idol of Ohio,' McKinley led the nation through the Spanish-American War of 1898, which resulted in the United States acquiring Puerto Rico, Guam, and the Philippines, dramatically expanding American territorial influence. He also pursued the 'Open Door' policy toward China. McKinley was assassinated in September 1901, just months into his second term.",
+    "explorer": "William McKinley was the twenty-fifth president, and during his time, America became a world power! He led the country through the Spanish-American War, after which the U.S. gained control of Puerto Rico, Guam, and the Philippines. Sadly, he was shot and killed at the beginning of his second term."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Led the nation through the Spanish-American War of 1898, resulting in expanded U.S. territorial influence including Puerto Rico, Guam, and the Philippines.",
+        "explorer": "He led America through the Spanish-American War, after which the U.S. gained new territories including Puerto Rico and the Philippines."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: william mckinley",
+          "url": "https://millercenter.org/president/william-mckinley",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: william mckinley - Key Events",
+          "url": "https://millercenter.org/president/william-mckinley/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Positioned the United States as an emerging world power through decisive foreign policy, transforming America from an isolated nation into a global presence.",
+        "explorer": "He helped turn America from a country that stayed to itself into a major world power."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: william mckinley",
+          "url": "https://millercenter.org/president/william-mckinley",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: william mckinley - Key Events",
+          "url": "https://millercenter.org/president/william-mckinley/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Pursued the 'Open Door' policy toward China, shaping early 20th-century geopolitics in the Pacific region.",
+        "explorer": "He created the 'Open Door' policy, which said all countries should be able to trade with China fairly."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: william mckinley",
+          "url": "https://millercenter.org/president/william-mckinley",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: william mckinley - Key Events",
+          "url": "https://millercenter.org/president/william-mckinley/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "McKinley was assassinated on September 6, 1901 by anarchist Leon Czolgosz at the Pan-American Exposition in Buffalo, New York. He died eight days later.",
+        "explorer": "McKinley was shot at a big fair in Buffalo, New York. He was the third president to be assassinated."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: william mckinley",
+          "url": "https://millercenter.org/president/william-mckinley",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: william mckinley - Key Events",
+          "url": "https://millercenter.org/president/william-mckinley/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was nicknamed the 'Idol of Ohio' for his enormous popularity in his home state.",
+        "explorer": "People in Ohio loved him so much they called him the 'Idol of Ohio!'"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: william mckinley",
+          "url": "https://millercenter.org/president/william-mckinley",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: william mckinley - Key Events",
+          "url": "https://millercenter.org/president/william-mckinley/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "His wife Ida suffered from epilepsy, and McKinley was known for his devoted and tender care of her throughout their marriage.",
+        "explorer": "His wife Ida was very sick, and McKinley was known for taking incredibly loving care of her."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: william mckinley",
+          "url": "https://millercenter.org/president/william-mckinley",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: william mckinley - Key Events",
+          "url": "https://millercenter.org/president/william-mckinley/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: william mckinley",
+      "url": "https://millercenter.org/president/william-mckinley",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: william mckinley - Key Events",
+      "url": "https://millercenter.org/president/william-mckinley/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

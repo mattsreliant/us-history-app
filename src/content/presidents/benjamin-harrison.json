@@ -1,9 +1,174 @@
 {
   "id": "benjamin-harrison",
-  "status": "planned",
+  "status": "published",
   "number": 23,
   "name": "Benjamin Harrison",
   "party": "Republican",
   "termStart": "1889",
-  "termEnd": "1893"
+  "termEnd": "1893",
+  "vicePresidents": [
+    "Levi P. Morton (1889-1893)"
+  ],
+  "born": "1833-08-20",
+  "died": "1901-03-13",
+  "birthplace": "North Bend, Ohio",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Benjamin Harrison, the twenty-third President, was the grandson of President William Henry Harrison, making them the only grandfather-grandson presidential pair in American history. Nicknamed 'Little Ben' and 'Kid Gloves Harrison,' he presided over a period of industrial expansion and advanced protective tariff policies supporting American manufacturing. His administration also pursued Pacific expansion efforts, including discussions about Hawaiian annexation.",
+    "explorer": "Benjamin Harrison was the twenty-third president, and his grandfather William Henry Harrison had also been president! They're the only grandfather-grandson pair to both become president. During his time, America's factories and businesses were growing fast. He worked to protect American businesses by putting taxes on goods from other countries."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Led during a period of significant industrial expansion and economic growth in the United States.",
+        "explorer": "He was president during a time when American factories and businesses were booming."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: benjamin harrison",
+          "url": "https://millercenter.org/president/benjamin-harrison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: benjamin harrison - Key Events",
+          "url": "https://millercenter.org/president/benjamin-harrison/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Advanced protective tariff policies supporting American manufacturing, signing the McKinley Tariff of 1890.",
+        "explorer": "He signed laws that put taxes on foreign goods to help American factories compete."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: benjamin harrison",
+          "url": "https://millercenter.org/president/benjamin-harrison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: benjamin harrison - Key Events",
+          "url": "https://millercenter.org/president/benjamin-harrison/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Pursued Pacific expansion and oversaw early Hawaiian annexation discussions, expanding American influence in the Pacific.",
+        "explorer": "He started talks about making Hawaii part of the United States and grew America's influence in the Pacific Ocean."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: benjamin harrison",
+          "url": "https://millercenter.org/president/benjamin-harrison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: benjamin harrison - Key Events",
+          "url": "https://millercenter.org/president/benjamin-harrison/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Harrison was the grandson of President William Henry Harrison (9th president), making them the only grandfather-grandson pair to both serve as president.",
+        "explorer": "His grandpa was also a president! They're the only grandfather-grandson duo to both become president."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: benjamin harrison",
+          "url": "https://millercenter.org/president/benjamin-harrison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: benjamin harrison - Key Events",
+          "url": "https://millercenter.org/president/benjamin-harrison/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was raised on a farm next to his grandfather's vast estate in North Bend, Ohio.",
+        "explorer": "He grew up on a farm right next to his grandfather's big property in Ohio."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: benjamin harrison",
+          "url": "https://millercenter.org/president/benjamin-harrison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: benjamin harrison - Key Events",
+          "url": "https://millercenter.org/president/benjamin-harrison/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Nicknamed 'Little Ben' and 'Kid Gloves Harrison,' he was known for his formal, reserved manner.",
+        "explorer": "People called him 'Little Ben' and 'Kid Gloves Harrison' because he was very formal and proper."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: benjamin harrison",
+          "url": "https://millercenter.org/president/benjamin-harrison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: benjamin harrison - Key Events",
+          "url": "https://millercenter.org/president/benjamin-harrison/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: benjamin harrison",
+      "url": "https://millercenter.org/president/benjamin-harrison",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: benjamin harrison - Key Events",
+      "url": "https://millercenter.org/president/benjamin-harrison/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

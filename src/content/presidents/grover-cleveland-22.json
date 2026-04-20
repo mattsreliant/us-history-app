@@ -1,9 +1,174 @@
 {
   "id": "grover-cleveland-22",
-  "status": "planned",
+  "status": "published",
   "number": 22,
   "name": "Grover Cleveland",
   "party": "Democratic",
   "termStart": "1885",
-  "termEnd": "1889"
+  "termEnd": "1889",
+  "vicePresidents": [
+    "Thomas A. Hendricks (1885)"
+  ],
+  "born": "1837-03-18",
+  "died": "1908-06-24",
+  "birthplace": "Caldwell, New Jersey",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Grover Cleveland, the twenty-second (and later twenty-fourth) President, is the only president to serve two non-consecutive terms. A Democrat known for fighting corruption and political machines — particularly New York's Tammany Hall — Cleveland promoted fiscal conservatism and honest government. Initially reluctant to enter politics, he was recruited by local businessmen to run for mayor of Buffalo in 1881 and rose rapidly to the governorship and then the presidency.",
+    "explorer": "Grover Cleveland is the only president who served two separate terms with another president in between! He was known for being super honest and fighting against corruption in government. He didn't even want to be a politician at first — local businessmen had to convince him to run for mayor!"
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Only president to serve two non-consecutive terms (22nd and 24th), winning the popular vote in three consecutive elections (1884, 1888, 1892).",
+        "explorer": "He's the only president who served, left, and then came back! He actually won the most votes three elections in a row."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: grover cleveland",
+          "url": "https://millercenter.org/president/grover-cleveland",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: grover cleveland - Key Events",
+          "url": "https://millercenter.org/president/grover-cleveland/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Fought political corruption and machine politics, particularly Tammany Hall in New York, earning a reputation for integrity.",
+        "explorer": "He fought against corrupt politicians who tried to cheat the system, especially a group called Tammany Hall."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: grover cleveland",
+          "url": "https://millercenter.org/president/grover-cleveland",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: grover cleveland - Key Events",
+          "url": "https://millercenter.org/president/grover-cleveland/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Promoted fiscal conservatism and limited government spending, vetoing more bills than any previous president.",
+        "explorer": "He said no to more bills from Congress than any president before him, trying to save taxpayer money."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: grover cleveland",
+          "url": "https://millercenter.org/president/grover-cleveland",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: grover cleveland - Key Events",
+          "url": "https://millercenter.org/president/grover-cleveland/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Cleveland is the only president to serve two non-consecutive terms, serving as both the 22nd and 24th president.",
+        "explorer": "He was president #22 AND president #24 — the only person to do that!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: grover cleveland",
+          "url": "https://millercenter.org/president/grover-cleveland",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: grover cleveland - Key Events",
+          "url": "https://millercenter.org/president/grover-cleveland/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He married Frances Folsom in a White House ceremony in 1886; at 21, she became the youngest First Lady in history, 27 years younger than the president.",
+        "explorer": "He got married IN the White House! His wife Frances was only 21 — the youngest First Lady ever."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: grover cleveland",
+          "url": "https://millercenter.org/president/grover-cleveland",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: grover cleveland - Key Events",
+          "url": "https://millercenter.org/president/grover-cleveland/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Local businessmen recruited the reluctant Cleveland to run for mayor of Buffalo in 1881; within three years he was president.",
+        "explorer": "He went from not wanting to be in politics to becoming president in just three years!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: grover cleveland",
+          "url": "https://millercenter.org/president/grover-cleveland",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: grover cleveland - Key Events",
+          "url": "https://millercenter.org/president/grover-cleveland/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: grover cleveland",
+      "url": "https://millercenter.org/president/grover-cleveland",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: grover cleveland - Key Events",
+      "url": "https://millercenter.org/president/grover-cleveland/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }
