@@ -1,0 +1,55 @@
+{
+  "id": "rosa-parks",
+  "status": "published",
+  "type": "person",
+  "name": "Rosa Parks",
+  "year": "1913-2005",
+  "role": "Civil Rights activist",
+  "category": "civil-rights",
+  "summary": {
+    "scholar": "Rosa Parks became an icon of the civil rights movement on December 1, 1955, when she refused to give up her bus seat to a white passenger in Montgomery, Alabama. Her arrest sparked the Montgomery Bus Boycott, a 381-day protest led by Martin Luther King Jr. that ultimately led to a Supreme Court ruling declaring bus segregation unconstitutional. Parks later moved to Detroit and continued her activism for decades.",
+    "explorer": "Rosa Parks changed history by doing something simple but incredibly brave — she refused to give up her bus seat to a white person in Montgomery, Alabama in 1955. Her arrest started a huge protest called the Montgomery Bus Boycott, where Black people refused to ride the buses for over a year. They won, and bus segregation was declared illegal!"
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "The Montgomery Bus Boycott lasted 381 days, during which African Americans organized carpools and walked miles rather than ride segregated buses.",
+        "explorer": "Black people in Montgomery refused to ride the buses for 381 days — that's over a year! They walked and shared rides instead."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

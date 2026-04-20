@@ -1,0 +1,55 @@
+{
+  "id": "frederick-douglass",
+  "status": "published",
+  "type": "person",
+  "name": "Frederick Douglass",
+  "year": "1818-1895",
+  "role": "Abolitionist, Author, Orator",
+  "category": "civil-rights",
+  "summary": {
+    "scholar": "Frederick Douglass escaped slavery and became the most prominent African American voice of the nineteenth century. His autobiography, Narrative of the Life of Frederick Douglass (1845), became a bestseller and a powerful tool of the abolitionist movement. He advised President Lincoln during the Civil War, advocated for the 13th, 14th, and 15th Amendments, and championed women's suffrage alongside racial equality.",
+    "explorer": "Frederick Douglass escaped from slavery and became one of the most powerful speakers in America! He wrote a famous book about his life that helped convince people slavery was wrong. He even advised President Lincoln during the Civil War and fought for equal rights for both Black people and women."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Douglass taught himself to read and write while enslaved, later writing three autobiographies that became foundational texts of American literature.",
+        "explorer": "He taught himself to read and write while he was still enslaved! He went on to write three books about his life."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

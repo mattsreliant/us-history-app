@@ -7,6 +7,7 @@ import {
   registerDecades,
   registerEvents,
   registerPresidents,
+  registerDiscover,
 } from '../lib/content';
 
 // ── Decades ─────────────────────────────────────────────────
@@ -24,4 +25,9 @@ const presidentModules = import.meta.glob('./presidents/*.json', { eager: true }
 const presidents = Object.values(presidentModules).map((m: any) => m.default);
 registerPresidents(presidents);
 
-export { decades, events, presidents };
+// ── Discover (inventions & people) ──────────────────────────
+const discoverModules = import.meta.glob('./discover/*.json', { eager: true });
+const discover = Object.values(discoverModules).map((m: any) => m.default);
+registerDiscover(discover);
+
+export { decades, events, presidents, discover };

@@ -1,0 +1,55 @@
+{
+  "id": "harriet-tubman",
+  "status": "published",
+  "type": "person",
+  "name": "Harriet Tubman",
+  "year": "1822-1913",
+  "role": "Abolitionist, Underground Railroad conductor",
+  "category": "civil-rights",
+  "summary": {
+    "scholar": "Harriet Tubman escaped slavery in 1849 and became the most famous conductor on the Underground Railroad, making approximately 13 trips back to the South and personally guiding around 70 enslaved people to freedom. During the Civil War, she served as a spy, scout, and nurse for the Union Army, and became the first woman to lead an armed assault during the war. She later became active in the women's suffrage movement.",
+    "explorer": "Harriet Tubman escaped from slavery and then did something incredibly brave — she went BACK to the South again and again to help other enslaved people escape! She made about 13 dangerous trips and helped around 70 people reach freedom through the Underground Railroad. During the Civil War, she even worked as a spy for the Union Army!"
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Tubman made approximately 13 trips to the South and guided around 70 people to freedom, never losing a single passenger on the Underground Railroad.",
+        "explorer": "She made about 13 secret trips back to slave territory and never lost a single person she was helping escape!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

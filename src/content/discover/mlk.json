@@ -1,0 +1,55 @@
+{
+  "id": "mlk",
+  "status": "published",
+  "type": "person",
+  "name": "Martin Luther King Jr.",
+  "year": "1929-1968",
+  "role": "Civil Rights leader",
+  "category": "civil-rights",
+  "summary": {
+    "scholar": "Martin Luther King Jr. was the most prominent leader of the American civil rights movement. A Baptist minister, King advocated nonviolent resistance to racial injustice, inspired by Mahatma Gandhi. He led the Montgomery Bus Boycott (1955-1956), delivered the iconic 'I Have a Dream' speech at the March on Washington (1963), and was instrumental in the passage of the Civil Rights Act of 1964 and the Voting Rights Act of 1965. He was awarded the Nobel Peace Prize in 1964 and assassinated on April 4, 1968.",
+    "explorer": "Martin Luther King Jr. was the most important leader of the civil rights movement. He believed in fighting for justice WITHOUT violence, using peaceful protests and powerful speeches instead. His 'I Have a Dream' speech is one of the most famous in history. He helped get laws passed that made it illegal to treat people unfairly because of their race. He won the Nobel Peace Prize in 1964."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "King was awarded the Nobel Peace Prize in 1964 at age 35, making him the youngest person to receive the award at that time.",
+        "explorer": "He won the Nobel Peace Prize when he was only 35 years old — the youngest person to win it at that time!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

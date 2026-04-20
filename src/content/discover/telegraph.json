@@ -1,0 +1,55 @@
+{
+  "id": "telegraph",
+  "status": "published",
+  "type": "invention",
+  "name": "Telegraph",
+  "year": "1844",
+  "role": "Communication device",
+  "category": "invention",
+  "summary": {
+    "scholar": "Samuel Morse's electromagnetic telegraph, first demonstrated in 1844 with the message 'What hath God wrought,' revolutionized long-distance communication. For the first time, information could travel faster than a person could carry it, transforming business, journalism, and government. Telegraph lines soon crisscrossed the nation.",
+    "explorer": "Before the telegraph, the fastest way to send a message was by horse! In 1844, Samuel Morse invented the telegraph, which could send messages across wires almost instantly using a code of dots and dashes. His first message was 'What hath God wrought' — which means 'Look what God has done!'"
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Morse's first telegraph message, 'What hath God wrought,' was sent from Washington, D.C. to Baltimore, Maryland on May 24, 1844.",
+        "explorer": "The first telegraph message ever sent traveled from Washington, D.C. to Baltimore — about 40 miles — in just seconds!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

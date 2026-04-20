@@ -1,0 +1,55 @@
+{
+  "id": "alexander-hamilton",
+  "status": "published",
+  "type": "person",
+  "name": "Alexander Hamilton",
+  "year": "1755-1804",
+  "role": "Founding Father, First Treasury Secretary",
+  "category": "business",
+  "summary": {
+    "scholar": "Alexander Hamilton was the first Secretary of the Treasury and the architect of America's financial system. Born in the Caribbean, Hamilton immigrated to New York, served as George Washington's aide-de-camp during the Revolution, and co-authored the Federalist Papers to secure ratification of the Constitution. As Treasury Secretary, he established the national bank, federal credit system, and economic policies that laid the foundation for American capitalism. He was killed in a duel with Vice President Aaron Burr in 1804.",
+    "explorer": "Alexander Hamilton came to America from the Caribbean with almost nothing and became one of the most important Founding Fathers! He set up America's whole money system as the first Secretary of the Treasury. He also helped write the Federalist Papers that convinced people to accept the Constitution. Sadly, he was killed in a duel with Vice President Aaron Burr in 1804."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Hamilton was killed in a duel with sitting Vice President Aaron Burr on July 11, 1804, making it one of the most dramatic events in early American political history.",
+        "explorer": "He was killed in a duel with the Vice President! Aaron Burr actually shot and killed him. It's one of the wildest stories in American history."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

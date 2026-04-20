@@ -8,6 +8,8 @@ import { DecadeDetailPage } from './pages/DecadeDetail';
 import { EventDetailPage } from './pages/EventDetail';
 import { PresidentsPage } from './pages/Presidents';
 import { PresidentDetailPage } from './pages/PresidentDetail';
+import { DiscoverPage } from './pages/Discover';
+import { DiscoverDetailPage } from './pages/DiscoverDetail';
 
 // Register all content JSON files
 import './content/index';
@@ -30,7 +32,8 @@ function App() {
             <Route path="/timeline/:decadeId/:eventId" element={<EventDetailPage />} />
             <Route path="/presidents" element={<PresidentsPage />} />
             <Route path="/presidents/:id" element={<PresidentDetailPage />} />
-            <Route path="/discover" element={<PlaceholderPage title="Discover" />} />
+            <Route path="/discover" element={<DiscoverPage />} />
+            <Route path="/discover/:id" element={<DiscoverDetailPage />} />
             <Route path="/quizzes" element={<PlaceholderPage title="Quizzes" />} />
             <Route path="/about" element={<PlaceholderPage title="About & Sources" />} />
           </Routes>

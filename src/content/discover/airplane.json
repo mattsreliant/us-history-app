@@ -1,0 +1,55 @@
+{
+  "id": "airplane",
+  "status": "published",
+  "type": "invention",
+  "name": "Powered Airplane",
+  "year": "1903",
+  "role": "Aviation",
+  "category": "invention",
+  "summary": {
+    "scholar": "Orville and Wilbur Wright achieved the first sustained, controlled, powered heavier-than-air flight on December 17, 1903 at Kill Devil Hills, North Carolina. Their Wright Flyer stayed aloft for 12 seconds and traveled 120 feet on its first flight. The Wright brothers' achievement launched the age of aviation, which would transform warfare, commerce, and travel within decades.",
+    "explorer": "On December 17, 1903, Orville and Wilbur Wright flew the first airplane at Kitty Hawk, North Carolina! The first flight lasted only 12 seconds and went just 120 feet — shorter than a basketball court. But it proved humans could fly, and that changed EVERYTHING!"
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "The Wright brothers' first flight lasted just 12 seconds and covered 120 feet. By their fourth flight that same day, Wilbur flew for 59 seconds and covered 852 feet.",
+        "explorer": "Their first flight was only 12 seconds! But by the end of that same day, they flew for almost a whole minute."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

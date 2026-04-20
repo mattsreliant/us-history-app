@@ -1,0 +1,55 @@
+{
+  "id": "jackie-robinson",
+  "status": "published",
+  "type": "person",
+  "name": "Jackie Robinson",
+  "year": "1919-1972",
+  "role": "Baseball player, Civil Rights pioneer",
+  "category": "sports",
+  "summary": {
+    "scholar": "Jackie Robinson broke Major League Baseball's color barrier on April 15, 1947, when he took the field for the Brooklyn Dodgers, becoming the first African American to play in the major leagues in the modern era. Despite facing intense racism from fans, opposing players, and even some teammates, Robinson excelled on the field, winning Rookie of the Year in 1947 and the National League MVP in 1949. His courage helped pave the way for the broader civil rights movement.",
+    "explorer": "Jackie Robinson was the first Black player in Major League Baseball! On April 15, 1947, he played for the Brooklyn Dodgers. People yelled terrible things at him and tried to make him quit, but he kept playing and proved he was one of the best. He won Rookie of the Year AND the MVP award, and he helped show that Black and white people could play together."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Robinson's number 42 was retired by all of Major League Baseball in 1997, the only number universally retired across the sport.",
+        "explorer": "His number 42 was retired by EVERY baseball team — no one in any team can ever wear it again! That's never been done for anyone else."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

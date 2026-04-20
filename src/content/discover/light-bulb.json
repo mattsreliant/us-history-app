@@ -1,0 +1,55 @@
+{
+  "id": "light-bulb",
+  "status": "published",
+  "type": "invention",
+  "name": "Practical Electric Light Bulb",
+  "year": "1879",
+  "role": "Electrical lighting",
+  "category": "invention",
+  "summary": {
+    "scholar": "Thomas Edison developed the first commercially practical incandescent light bulb in 1879 at his Menlo Park laboratory. Edison's innovation wasn't just the bulb itself but the entire electrical system needed to power it — including generators, wiring, and switches. His work ushered in the age of electric power that transformed American industry and daily life.",
+    "explorer": "Thomas Edison didn't just invent the light bulb in 1879 — he invented the whole system to make it work! He figured out generators, wires, and switches so that light bulbs could actually be used in homes and businesses. Before this, people used candles and gas lamps. Edison literally lit up the world!"
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Edison tested over 3,000 designs before finding a filament that could glow for over 1,200 hours, making the light bulb commercially viable.",
+        "explorer": "Edison tried over 3,000 different designs before he got the light bulb right! When asked about his failures, he said he just found 3,000 ways that didn't work."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

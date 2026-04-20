@@ -1,0 +1,55 @@
+{
+  "id": "thomas-edison",
+  "status": "published",
+  "type": "person",
+  "name": "Thomas Edison",
+  "year": "1847-1931",
+  "role": "Inventor",
+  "category": "invention",
+  "summary": {
+    "scholar": "Thomas Edison was America's most prolific inventor, holding 1,093 U.S. patents. From his laboratories in Menlo Park and West Orange, New Jersey, Edison developed the phonograph (1877), the practical incandescent light bulb (1879), and the motion picture camera (1891), among countless other innovations. He established the world's first industrial research laboratory, pioneering the concept of organized invention.",
+    "explorer": "Thomas Edison was the greatest inventor in American history! He held 1,093 patents — that's over a THOUSAND inventions! He created the light bulb, the phonograph (the first machine that could record and play back sound), and the movie camera. His lab in New Jersey was basically an invention factory."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Edison held 1,093 U.S. patents, more than any other individual in American history at the time of his death.",
+        "explorer": "He had 1,093 patents — more than anyone else in American history! That's almost one new invention every two weeks for his whole career."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

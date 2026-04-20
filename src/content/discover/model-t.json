@@ -1,0 +1,55 @@
+{
+  "id": "model-t",
+  "status": "published",
+  "type": "invention",
+  "name": "Model T Ford & Assembly Line",
+  "year": "1908",
+  "role": "Automobile manufacturing",
+  "category": "invention",
+  "summary": {
+    "scholar": "Henry Ford's Model T (1908) and his revolutionary moving assembly line (1913) made automobiles affordable for ordinary Americans. By reducing the price from $850 to under $300 through mass production, Ford put America on wheels and transformed the nation's landscape, economy, and culture. The assembly line method revolutionized manufacturing far beyond the auto industry.",
+    "explorer": "Henry Ford didn't invent the car, but he figured out how to make them cheap enough for regular people! His Model T cost $850 in 1908, but by using an assembly line — where each worker did just one job as the car moved past them — he got the price down to under $300. Suddenly everyone could afford a car!"
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Ford's assembly line reduced the time to build a Model T from over 12 hours to just 93 minutes, making mass production possible.",
+        "explorer": "Ford's assembly line was so fast that it could build a whole car in just 93 minutes instead of 12 hours!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

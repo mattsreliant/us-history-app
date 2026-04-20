@@ -1,0 +1,55 @@
+{
+  "id": "susan-b-anthony",
+  "status": "published",
+  "type": "person",
+  "name": "Susan B. Anthony",
+  "year": "1820-1906",
+  "role": "Women's rights activist",
+  "category": "civil-rights",
+  "summary": {
+    "scholar": "Susan B. Anthony was the most prominent leader of the women's suffrage movement in the nineteenth century. She co-founded the National Woman Suffrage Association, traveled the country giving speeches, and was arrested in 1872 for voting illegally. Though she died 14 years before the 19th Amendment granted women the right to vote in 1920, the amendment was commonly known as the 'Susan B. Anthony Amendment' in her honor.",
+    "explorer": "Susan B. Anthony spent her whole life fighting for women's right to vote! She gave speeches all over the country and was even arrested for trying to vote in 1872. She didn't live to see women get the vote in 1920, but the law was named after her because she worked so hard for it."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Anthony was arrested and fined $100 for voting in the 1872 presidential election. She refused to pay the fine.",
+        "explorer": "She voted in an election when women weren't allowed to, got arrested, and was fined $100. She refused to pay!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

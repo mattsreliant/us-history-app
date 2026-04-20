@@ -1,0 +1,55 @@
+{
+  "id": "neil-armstrong",
+  "status": "published",
+  "type": "person",
+  "name": "Neil Armstrong",
+  "year": "1930-2012",
+  "role": "Astronaut, First person on the Moon",
+  "category": "exploration",
+  "summary": {
+    "scholar": "Neil Armstrong became the first human being to walk on the Moon on July 20, 1969, fulfilling President Kennedy's challenge to land a man on the Moon before the decade's end. As commander of Apollo 11, Armstrong piloted the lunar module Eagle to the surface with less than 30 seconds of fuel remaining. His words upon stepping onto the lunar surface — 'That's one small step for man, one giant leap for mankind' — became one of the most famous quotes in history.",
+    "explorer": "Neil Armstrong was the FIRST PERSON EVER to walk on the Moon! On July 20, 1969, he climbed down the ladder of his spaceship and stepped onto the Moon's surface. He said the famous words: 'That's one small step for man, one giant leap for mankind.' About 600 million people around the world watched on TV!"
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Armstrong landed the lunar module with less than 30 seconds of fuel remaining, manually taking control to avoid a boulder-strewn crater.",
+        "explorer": "He had less than 30 seconds of fuel left when he landed on the Moon! He had to steer around a bunch of big rocks at the last second."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

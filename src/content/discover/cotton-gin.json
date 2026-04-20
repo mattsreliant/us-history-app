@@ -1,0 +1,55 @@
+{
+  "id": "cotton-gin",
+  "status": "published",
+  "type": "invention",
+  "name": "Cotton Gin",
+  "year": "1793",
+  "role": "Agricultural machine",
+  "category": "invention",
+  "summary": {
+    "scholar": "Eli Whitney's cotton gin (1793) revolutionized cotton processing by mechanically separating cotton fibers from seeds, making cotton enormously profitable. However, this profitability dramatically increased the demand for enslaved labor in the South, deepening the institution of slavery and contributing to the sectional tensions that led to the Civil War.",
+    "explorer": "The cotton gin was a machine invented by Eli Whitney in 1793 that made it super fast to clean cotton. But it had a terrible side effect — it made slavery much worse because plantation owners wanted even more enslaved people to grow all that cotton."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Whitney invented the cotton gin in just ten days, yet spent years in court defending his patent against imitators.",
+        "explorer": "Whitney built the cotton gin in only ten days! But then he spent years fighting people who copied his invention."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

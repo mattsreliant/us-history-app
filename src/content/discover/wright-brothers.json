@@ -1,0 +1,55 @@
+{
+  "id": "wright-brothers",
+  "status": "published",
+  "type": "person",
+  "name": "Wright Brothers",
+  "year": "1867-1948",
+  "role": "Aviation pioneers",
+  "category": "invention",
+  "summary": {
+    "scholar": "Orville (1871-1948) and Wilbur (1867-1912) Wright achieved the first powered, sustained, and controlled airplane flight on December 17, 1903 at Kill Devil Hills, North Carolina. Self-taught engineers who owned a bicycle shop in Dayton, Ohio, the brothers solved the fundamental problems of flight through systematic experimentation with wing design, propulsion, and control systems.",
+    "explorer": "Wilbur and Orville Wright were two brothers from Ohio who owned a bicycle shop. They used what they knew about bikes and engineering to build the first airplane! On December 17, 1903, they made history at Kitty Hawk, North Carolina. They proved that humans really could fly!"
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "The Wright brothers were self-taught engineers who owned a bicycle shop in Dayton, Ohio. They used the profits from their bike business to fund their aviation experiments.",
+        "explorer": "They paid for their airplane experiments with money from their bicycle shop! Who knew bikes would lead to planes?"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

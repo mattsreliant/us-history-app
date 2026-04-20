@@ -1,0 +1,55 @@
+{
+  "id": "benjamin-franklin",
+  "status": "published",
+  "type": "person",
+  "name": "Benjamin Franklin",
+  "year": "1706-1790",
+  "role": "Founding Father, Inventor, Diplomat",
+  "category": "science",
+  "summary": {
+    "scholar": "Benjamin Franklin was one of the most versatile figures in American history — a Founding Father, diplomat, scientist, inventor, writer, and printer. He helped draft the Declaration of Independence, negotiated the crucial alliance with France during the Revolution, and served at the Constitutional Convention. His scientific experiments with electricity, including his famous kite experiment, made him internationally renowned.",
+    "explorer": "Benjamin Franklin was amazing at EVERYTHING! He was a Founding Father who helped write the Declaration of Independence, a scientist who experimented with electricity (yes, he really flew a kite in a thunderstorm!), an inventor who created bifocal glasses and the Franklin stove, and a diplomat who convinced France to help America win the Revolution."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Franklin's famous kite experiment of 1752 demonstrated the electrical nature of lightning, leading to his invention of the lightning rod.",
+        "explorer": "He flew a kite in a thunderstorm to prove that lightning was electricity! Then he invented the lightning rod to protect buildings."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

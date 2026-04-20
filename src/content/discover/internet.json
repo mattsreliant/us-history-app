@@ -1,0 +1,55 @@
+{
+  "id": "internet",
+  "status": "published",
+  "type": "invention",
+  "name": "The Internet",
+  "year": "1969",
+  "role": "Global communications network",
+  "category": "invention",
+  "summary": {
+    "scholar": "The internet originated from ARPANET, a U.S. Department of Defense project that sent its first message between UCLA and Stanford on October 29, 1969. The network evolved through decades of development, with Tim Berners-Lee creating the World Wide Web in 1991 and commercial browsers emerging in the mid-1990s. The internet transformed virtually every aspect of American life — commerce, communication, entertainment, education, and politics.",
+    "explorer": "The internet started as a military project in 1969 when two computers — one at UCLA and one at Stanford — sent a message to each other. The first message was supposed to be 'LOGIN' but the system crashed after just 'LO'! It took decades to grow, but now the internet connects billions of people all over the world."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "The first ARPANET message, sent on October 29, 1969, was supposed to be 'LOGIN' but the system crashed after transmitting just 'LO.'",
+        "explorer": "The very first internet message was supposed to say 'LOGIN' but the computer crashed after just two letters: 'LO'!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

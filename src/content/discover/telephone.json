@@ -1,0 +1,55 @@
+{
+  "id": "telephone",
+  "status": "published",
+  "type": "invention",
+  "name": "Telephone",
+  "year": "1876",
+  "role": "Communication device",
+  "category": "invention",
+  "summary": {
+    "scholar": "Alexander Graham Bell patented the telephone in 1876, creating a device that would fundamentally transform human communication. Bell's invention allowed people to speak directly to each other across distances for the first time. Within decades, telephone networks connected millions of Americans and reshaped business, social life, and government.",
+    "explorer": "Alexander Graham Bell invented the telephone in 1876 — a machine that let people TALK to each other even when they were far apart! Before this, you had to write a letter or send a telegraph. Now you could actually hear someone's voice. It changed everything!"
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Bell's first telephone call, made on March 10, 1876, was to his assistant Thomas Watson: 'Mr. Watson, come here. I want to see you.'",
+        "explorer": "The first phone call ever was Bell saying to his helper: 'Mr. Watson, come here. I want to see you.' Not exactly exciting, but it changed the world!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}
