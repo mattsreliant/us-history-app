@@ -1,6 +1,36 @@
 {
   "id": "1780s",
-  "status": "planned",
+  "status": "published",
   "label": "The 1780s",
-  "era": "revolutionary"
+  "era": "revolutionary",
+  "headline": {
+    "scholar": "Victory and a New Constitution",
+    "explorer": "America Wins and Writes Its Rules!"
+  },
+  "summary": {
+    "scholar": "The 1780s brought American victory in the Revolutionary War and the creation of the United States Constitution. The war ended with the Treaty of Paris in 1783, recognizing American independence. The young nation struggled under the weak Articles of Confederation until the Constitutional Convention of 1787, presided over by George Washington, produced the Constitution that still governs America today. James Madison played the foremost role in drafting the document, earning him the title 'Father of the Constitution.'",
+    "explorer": "The 1780s were amazing! America won the Revolutionary War and Britain finally said 'OK, you're free!' But the new country needed rules, so in 1787 the smartest leaders got together and wrote the Constitution — the set of rules America still uses today. James Madison did most of the writing!"
+  },
+  "eventIds": [],
+  "keyFigureIds": [
+    "george-washington"
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents - Life and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

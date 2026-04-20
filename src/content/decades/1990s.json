@@ -1,6 +1,37 @@
 {
   "id": "1990s",
-  "status": "planned",
+  "status": "published",
   "label": "The 1990s",
-  "era": "modern"
+  "era": "modern",
+  "headline": {
+    "scholar": "The Post-Cold War Era and the Internet Age",
+    "explorer": "The Internet Changes Everything!"
+  },
+  "summary": {
+    "scholar": "The 1990s saw America emerge as the world's sole superpower following the collapse of the Soviet Union. President Clinton presided over the longest peacetime economic expansion in American history, transforming the federal deficit into a surplus. The decade witnessed the birth of the commercial internet, the dot-com boom, and rapid technological innovation that would reshape every aspect of American life. The U.S. military intervened in Bosnia and Kosovo to halt ethnic cleansing. The decade ended with anxieties about the Y2K computer bug and the contested 2000 presidential election.",
+    "explorer": "The 1990s were awesome! America was the most powerful country in the world, the economy was great, and this amazing new thing called the internet was changing everything. President Clinton turned government debt into extra money. People were buying their first cell phones and sending their first emails. It felt like anything was possible!"
+  },
+  "eventIds": [],
+  "keyFigureIds": [
+    "george-h-w-bush",
+    "bill-clinton"
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents - Life and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

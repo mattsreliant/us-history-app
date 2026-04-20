@@ -1,6 +1,37 @@
 {
   "id": "2010s",
-  "status": "planned",
+  "status": "published",
   "label": "The 2010s",
-  "era": "contemporary"
+  "era": "contemporary",
+  "headline": {
+    "scholar": "A Nation Divided: Politics and Cultural Change",
+    "explorer": "A Changing America"
+  },
+  "summary": {
+    "scholar": "The 2010s were marked by deepening political polarization, rapid technological change, and significant cultural shifts. President Obama's second term saw the legalization of same-sex marriage nationwide (2015) and continued economic recovery. Donald Trump's surprise election in 2016 represented a populist backlash and reshaped the Republican Party. The decade saw the rise of social media as a dominant force in politics and culture, the Black Lives Matter movement, and growing concerns about climate change. Trump was impeached by the House in 2019 but acquitted by the Senate.",
+    "explorer": "The 2010s were a time of big arguments and big changes in America. Social media became super important, and people used it to share ideas and sometimes to argue. Barack Obama was still president at the start, and then Donald Trump won a surprising election in 2016. People disagreed about a LOT of things, but America was also becoming more diverse and connected than ever."
+  },
+  "eventIds": [],
+  "keyFigureIds": [
+    "barack-obama",
+    "donald-trump"
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents - Life and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

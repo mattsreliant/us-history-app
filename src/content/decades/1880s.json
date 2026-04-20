@@ -1,6 +1,38 @@
 {
   "id": "1880s",
-  "status": "planned",
+  "status": "published",
   "label": "The 1880s",
-  "era": "gilded-age"
+  "era": "gilded-age",
+  "headline": {
+    "scholar": "The Gilded Age: Industry and Inequality",
+    "explorer": "Factories, Railroads, and Big Changes!"
+  },
+  "summary": {
+    "scholar": "The 1880s were the heart of the Gilded Age, a period of rapid industrialization, massive immigration, and growing economic inequality. American industry expanded enormously, railroads connected the continent, and millions of immigrants arrived from Europe. President Garfield was assassinated in 1881, leading to Chester Arthur's surprising embrace of civil service reform and the Pendleton Act of 1883. The decade saw the rise of powerful industrial monopolies and the beginning of organized labor movements.",
+    "explorer": "The 1880s were a time of huge factories, long railroads, and millions of people coming to America from other countries. It was called the Gilded Age because things looked shiny on the outside, but there were big problems underneath. President Garfield was killed, and the new president Arthur surprised everyone by fighting corruption."
+  },
+  "eventIds": [],
+  "keyFigureIds": [
+    "james-a-garfield",
+    "chester-a-arthur",
+    "grover-cleveland-22"
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents - Life and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

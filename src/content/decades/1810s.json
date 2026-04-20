@@ -1,6 +1,37 @@
 {
   "id": "1810s",
-  "status": "planned",
+  "status": "published",
   "label": "The 1810s",
-  "era": "early-republic"
+  "era": "early-republic",
+  "headline": {
+    "scholar": "The War of 1812 and National Identity",
+    "explorer": "America Fights for Respect!"
+  },
+  "summary": {
+    "scholar": "The 1810s were dominated by the War of 1812, fought against Great Britain during James Madison's presidency. The war, caused by British interference with American shipping and the impressment of American sailors, ended with the Treaty of Ghent in 1814 and a renewed sense of national identity. The decade also saw the beginning of James Monroe's presidency and the start of the 'Era of Good Feelings,' a period of reduced partisan conflict.",
+    "explorer": "In the 1810s, America fought another war against Britain called the War of 1812. Britain had been messing with American ships and kidnapping American sailors! The war was tough, but when it ended, Americans felt more united and proud than ever. President Monroe's time was called the 'Era of Good Feelings' because people were getting along so well."
+  },
+  "eventIds": [],
+  "keyFigureIds": [
+    "james-madison",
+    "james-monroe"
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents - Life and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

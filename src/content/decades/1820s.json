@@ -1,6 +1,37 @@
 {
   "id": "1820s",
-  "status": "planned",
+  "status": "published",
   "label": "The 1820s",
-  "era": "antebellum"
+  "era": "antebellum",
+  "headline": {
+    "scholar": "The Monroe Doctrine and Westward Growth",
+    "explorer": "America Says: Stay Out!"
+  },
+  "summary": {
+    "scholar": "The 1820s saw the establishment of the Monroe Doctrine in 1823, which declared the Western Hemisphere closed to further European colonization — a principle that guided American foreign policy for nearly two centuries. The Missouri Compromise of 1820 temporarily resolved the question of slavery's expansion, admitting Missouri as a slave state and Maine as a free state. John Quincy Adams, one of the nation's most experienced diplomats, became president in 1825 in a contested election.",
+    "explorer": "In the 1820s, President Monroe told European countries to stay out of North and South America with the Monroe Doctrine. America was also arguing about slavery — should new states allow it or not? They worked out a deal called the Missouri Compromise, but the argument wasn't really over. John Quincy Adams became president — his dad had been president too!"
+  },
+  "eventIds": [],
+  "keyFigureIds": [
+    "james-monroe",
+    "john-quincy-adams"
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents - Life and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

@@ -1,6 +1,37 @@
 {
   "id": "1940s",
-  "status": "planned",
+  "status": "published",
   "label": "The 1940s",
-  "era": "wwii"
+  "era": "wwii",
+  "headline": {
+    "scholar": "World War II and the Dawn of the Atomic Age",
+    "explorer": "The Biggest War in History!"
+  },
+  "summary": {
+    "scholar": "The 1940s were defined by World War II (1941-1945), the most destructive conflict in human history. After Japan's attack on Pearl Harbor on December 7, 1941, America mobilized its entire economy and society for war. FDR led the Allied coalition until his death in April 1945. President Truman authorized the use of atomic bombs on Hiroshima and Nagasaki, ending the war but inaugurating the nuclear age. The postwar period saw the beginning of the Cold War with the Soviet Union, the Marshall Plan to rebuild Europe, and the Truman Doctrine that would define American foreign policy for decades.",
+    "explorer": "The 1940s were when the biggest war in all of history happened — World War II! After Japan attacked Pearl Harbor, America joined the fight against the Nazis and Japan. Millions of Americans served in the military. President Truman made the incredible decision to use atomic bombs to end the war. After the war, America helped rebuild Europe and started a long competition with the Soviet Union called the Cold War."
+  },
+  "eventIds": [],
+  "keyFigureIds": [
+    "franklin-d-roosevelt",
+    "harry-s-truman"
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents - Life and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

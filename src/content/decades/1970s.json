@@ -1,6 +1,38 @@
 {
   "id": "1970s",
-  "status": "planned",
+  "status": "published",
   "label": "The 1970s",
-  "era": "modern"
+  "era": "modern",
+  "headline": {
+    "scholar": "Watergate, Vietnam, and Social Change",
+    "explorer": "A Tough Decade for America"
+  },
+  "summary": {
+    "scholar": "The 1970s were a turbulent decade marked by the end of the Vietnam War, the Watergate scandal, and economic challenges. Nixon opened diplomatic relations with China and pursued détente with the Soviet Union, but his presidency ended in disgrace when the Watergate scandal forced his resignation in 1974 — the only presidential resignation in history. Gerald Ford pardoned Nixon, and Jimmy Carter sought to restore trust in government. The decade saw the oil crisis, stagflation, the Iranian hostage crisis, and significant social changes including the environmental and women's rights movements.",
+    "explorer": "The 1970s were a rough time for America. The Vietnam War finally ended, but not happily. President Nixon had to quit because of the Watergate scandal — he had tried to cover up a break-in. Gas prices went way up because of problems in the Middle East. But there were good things too — people started caring more about the environment and equal rights for women."
+  },
+  "eventIds": [],
+  "keyFigureIds": [
+    "richard-nixon",
+    "gerald-ford",
+    "jimmy-carter"
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents - Life and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

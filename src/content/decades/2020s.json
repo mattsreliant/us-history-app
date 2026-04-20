@@ -1,6 +1,38 @@
 {
   "id": "2020s",
-  "status": "planned",
+  "status": "published",
   "label": "The 2020s",
-  "era": "contemporary"
+  "era": "contemporary",
+  "headline": {
+    "scholar": "Pandemic, Division, and Transformation",
+    "explorer": "A Wild Decade So Far!"
+  },
+  "summary": {
+    "scholar": "The 2020s began with the COVID-19 pandemic, which killed over one million Americans and transformed daily life, work, and education. The 2020 election saw Joe Biden defeat Donald Trump, with Kamala Harris making history as the first woman, first Black person, and first South Asian person to serve as Vice President. Trump returned to win the presidency in 2024, becoming only the second person to serve non-consecutive terms. The decade has been marked by debates over democracy, technology, and America's role in the world.",
+    "explorer": "The 2020s have been wild! A huge pandemic called COVID-19 changed everything — schools went online, people wore masks, and life was really different. Joe Biden became president, and his vice president Kamala Harris made history as the first woman and first Black and South Asian person in that job. Then Donald Trump came back and won again in 2024!"
+  },
+  "eventIds": [],
+  "keyFigureIds": [
+    "donald-trump",
+    "joe-biden",
+    "donald-trump-47"
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents - Life and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

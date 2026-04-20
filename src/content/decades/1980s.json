@@ -1,6 +1,37 @@
 {
   "id": "1980s",
-  "status": "planned",
+  "status": "published",
   "label": "The 1980s",
-  "era": "modern"
+  "era": "modern",
+  "headline": {
+    "scholar": "The Reagan Revolution and the End of the Cold War",
+    "explorer": "The Cold War Ends!"
+  },
+  "summary": {
+    "scholar": "The 1980s were defined by Ronald Reagan's conservative revolution and the approaching end of the Cold War. Reagan pursued tax cuts, deregulation, and a massive military buildup that put pressure on the Soviet Union. The decade saw the rise of personal computers, MTV, and a booming economy after the severe recession of 1981-1982. The Berlin Wall fell on November 9, 1989, symbolizing the end of Communist control in Eastern Europe. George H. W. Bush managed this historic transition, overseeing the peaceful end of the Cold War and German reunification.",
+    "explorer": "The 1980s were when the Cold War finally ended! President Reagan built up the military and challenged the Soviet Union. In 1989, the Berlin Wall came down and people in Eastern Europe were free! The 1980s were also when personal computers started appearing, MTV played music videos, and the economy boomed after a rocky start."
+  },
+  "eventIds": [],
+  "keyFigureIds": [
+    "ronald-reagan",
+    "george-h-w-bush"
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents - Life and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

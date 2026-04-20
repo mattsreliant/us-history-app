@@ -1,6 +1,38 @@
 {
   "id": "1840s",
-  "status": "planned",
+  "status": "published",
   "label": "The 1840s",
-  "era": "antebellum"
+  "era": "antebellum",
+  "headline": {
+    "scholar": "Manifest Destiny and Westward Expansion",
+    "explorer": "America Reaches the Pacific!"
+  },
+  "summary": {
+    "scholar": "The 1840s were the decade of Manifest Destiny — the belief that American expansion across the continent was both justified and inevitable. President Polk expanded U.S. territory by over one million square miles through the Mexican-American War (1846-1848) and the Oregon Treaty with Britain. Texas was annexed in 1845. The decade also saw the first presidential death in office when William Henry Harrison died after just 32 days, establishing the precedent of vice presidential succession.",
+    "explorer": "The 1840s were when America stretched all the way to the Pacific Ocean! People believed it was America's destiny to fill up the whole continent. President Polk won the Mexican-American War and got California, Nevada, Utah, and lots more land. Texas joined the country too. It was also the decade when a president died in office for the first time — William Henry Harrison lasted only 32 days!"
+  },
+  "eventIds": [],
+  "keyFigureIds": [
+    "william-henry-harrison",
+    "john-tyler",
+    "james-k-polk"
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents - Life and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

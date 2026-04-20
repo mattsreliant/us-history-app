@@ -1,6 +1,38 @@
 {
   "id": "1850s",
-  "status": "planned",
+  "status": "published",
   "label": "The 1850s",
-  "era": "antebellum"
+  "era": "antebellum",
+  "headline": {
+    "scholar": "The Gathering Storm: Slavery and Secession",
+    "explorer": "A Country About to Break Apart"
+  },
+  "summary": {
+    "scholar": "The 1850s were the last decade before the Civil War, marked by escalating tensions over slavery that made compromise increasingly impossible. The Compromise of 1850 temporarily eased sectional conflict, while the Kansas-Nebraska Act of 1854 reignited it, leading to violent clashes in 'Bleeding Kansas.' The Supreme Court's Dred Scott decision (1857) further inflamed the debate. By the decade's end, the election of Abraham Lincoln in 1860 would prompt southern states to begin seceding from the Union.",
+    "explorer": "The 1850s were a scary time in America. The argument about slavery was getting worse and worse. People tried to make deals to keep the peace, but nothing worked for long. There was even fighting in Kansas over whether it would allow slavery. By the end of the decade, the country was about to break apart."
+  },
+  "eventIds": [],
+  "keyFigureIds": [
+    "millard-fillmore",
+    "franklin-pierce",
+    "james-buchanan"
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents - Life and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

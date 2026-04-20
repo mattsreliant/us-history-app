@@ -1,6 +1,38 @@
 {
   "id": "1770s",
-  "status": "planned",
+  "status": "published",
   "label": "The 1770s",
-  "era": "revolutionary"
+  "era": "revolutionary",
+  "headline": {
+    "scholar": "Revolution: The Birth of a Nation",
+    "explorer": "America Is Born!"
+  },
+  "summary": {
+    "scholar": "The 1770s saw the American colonies break from Great Britain and declare independence. The decade began with growing colonial resistance to British taxation and ended with the Revolutionary War well underway. The Declaration of Independence, authored by Thomas Jefferson and adopted on July 4, 1776, articulated the philosophical foundations of American democracy. George Washington commanded the Continental Army through difficult early years of the war, including the pivotal crossing of the Delaware River in December 1776.",
+    "explorer": "The 1770s were when America was born! The colonists were tired of being told what to do by Britain, so they fought for their freedom. Thomas Jefferson wrote the Declaration of Independence, which said all people are created equal. George Washington led the army, and even though things were really hard, the Americans kept fighting for their freedom."
+  },
+  "eventIds": [],
+  "keyFigureIds": [
+    "george-washington",
+    "john-adams",
+    "thomas-jefferson"
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents - Life and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

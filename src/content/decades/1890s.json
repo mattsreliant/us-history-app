@@ -1,6 +1,37 @@
 {
   "id": "1890s",
-  "status": "planned",
+  "status": "published",
   "label": "The 1890s",
-  "era": "gilded-age"
+  "era": "gilded-age",
+  "headline": {
+    "scholar": "Empire and Economic Crisis",
+    "explorer": "America Goes Global!"
+  },
+  "summary": {
+    "scholar": "The 1890s were marked by the severe Panic of 1893, one of the worst economic depressions in American history, and the Spanish-American War of 1898, which transformed the United States into a world power. Under President McKinley, America acquired Puerto Rico, Guam, and the Philippines, dramatically expanding its territorial influence beyond the continental United States. The decade also saw the closing of the western frontier, as declared by the 1890 Census, and the rise of the Populist movement.",
+    "explorer": "The 1890s started rough with a terrible economic crash, but by the end of the decade, America had become a world power! The Spanish-American War was short and America won, gaining new territories like Puerto Rico and the Philippines. The Wild West was officially over — the frontier was settled!"
+  },
+  "eventIds": [],
+  "keyFigureIds": [
+    "grover-cleveland-24",
+    "william-mckinley"
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents - Life and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

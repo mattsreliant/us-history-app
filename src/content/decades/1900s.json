@@ -1,6 +1,37 @@
 {
   "id": "1900s",
-  "status": "planned",
+  "status": "published",
   "label": "The 1900s",
-  "era": "progressive"
+  "era": "progressive",
+  "headline": {
+    "scholar": "The Progressive Era and Theodore Roosevelt",
+    "explorer": "Trust-Busting and National Parks!"
+  },
+  "summary": {
+    "scholar": "The first decade of the twentieth century was dominated by Theodore Roosevelt, who became 'the first modern president' by dramatically expanding executive power. Roosevelt broke up powerful monopolies (earning the nickname 'Trust-Buster'), established national parks and forests to preserve millions of acres of public land, and used mass media to appeal directly to voters. The Progressive movement gained momentum, seeking to address the social problems created by rapid industrialization. McKinley's assassination in 1901 brought Roosevelt to power at age 42, the youngest president in history.",
+    "explorer": "The 1900s were Teddy Roosevelt's time to shine! He broke up giant companies that were being unfair, protected beautiful American lands as national parks, and changed what it meant to be president. He became president at just 42 years old after President McKinley was killed. It was a time when people were trying to fix problems caused by big factories and unfair bosses."
+  },
+  "eventIds": [],
+  "keyFigureIds": [
+    "theodore-roosevelt",
+    "william-howard-taft"
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents - Life and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }
