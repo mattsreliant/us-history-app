@@ -19,7 +19,12 @@ const ERA_COLORS: Record<string, string> = {
 
 export function TimelinePage() {
   const { mode } = useMode();
-  const decades = getDecades().sort((a, b) => a.id.localeCompare(b.id));
+  // Sort chronologically: "before-1776" first, then numeric decades in order
+  const decades = getDecades().sort((a, b) => {
+    if (a.id === 'before-1776') return -1;
+    if (b.id === 'before-1776') return 1;
+    return a.id.localeCompare(b.id);
+  });
 
   return (
     <div className="page-content" style={{ maxWidth: '1000px' }}>
