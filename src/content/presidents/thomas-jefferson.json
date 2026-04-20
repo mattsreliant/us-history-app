@@ -1,9 +1,175 @@
 {
   "id": "thomas-jefferson",
-  "status": "planned",
+  "status": "published",
   "number": 3,
   "name": "Thomas Jefferson",
   "party": "Democratic-Republican",
   "termStart": "1801",
-  "termEnd": "1809"
+  "termEnd": "1809",
+  "vicePresidents": [
+    "Aaron Burr (1801-1805)",
+    "George Clinton (1805-1809)"
+  ],
+  "born": "1743-04-13",
+  "died": "1826-07-04",
+  "birthplace": "Shadwell, Goochland County, Virginia",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Thomas Jefferson, the third President, was the principal author of the Declaration of Independence and one of the most intellectually accomplished figures in American history. A Virginia lawyer and planter, Jefferson was a scholar in classical languages, science, mathematics, and philosophy. His presidency saw the Louisiana Purchase, which doubled the size of the nation, and the Lewis and Clark Expedition. He later founded the University of Virginia.",
+    "explorer": "Thomas Jefferson wrote the Declaration of Independence — the document that told the world America was free! He was incredibly smart, studying science, math, languages, and philosophy. As the third president, he bought a HUGE piece of land from France called the Louisiana Purchase, which doubled the size of the whole country. He also sent Lewis and Clark on an amazing adventure to explore the West."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Authored the Declaration of Independence in 1776, articulating the philosophical foundations of American democracy and the principle that 'all men are created equal.'",
+        "explorer": "He wrote the Declaration of Independence, which said that all people are created equal and have the right to be free."
+      },
+      "sources": [
+        {
+          "citation": "Thomas Jefferson: Life and Presidency",
+          "url": "https://millercenter.org/president/thomas-jefferson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Thomas Jefferson: Key Events and Legacy",
+          "url": "https://millercenter.org/president/thomas-jefferson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Orchestrated the Louisiana Purchase of 1803, acquiring approximately 828,000 square miles of territory from France and doubling the size of the United States.",
+        "explorer": "He bought a giant piece of land from France called the Louisiana Purchase, which made America twice as big!"
+      },
+      "sources": [
+        {
+          "citation": "Thomas Jefferson: Life and Presidency",
+          "url": "https://millercenter.org/president/thomas-jefferson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Thomas Jefferson: Key Events and Legacy",
+          "url": "https://millercenter.org/president/thomas-jefferson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Founded the University of Virginia in 1819, designing its curriculum and architecture as a model for public higher education in America.",
+        "explorer": "He started the University of Virginia and even designed the buildings himself!"
+      },
+      "sources": [
+        {
+          "citation": "Thomas Jefferson: Life and Presidency",
+          "url": "https://millercenter.org/president/thomas-jefferson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Thomas Jefferson: Key Events and Legacy",
+          "url": "https://millercenter.org/president/thomas-jefferson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Jefferson died on July 4, 1826 — the same day as John Adams and exactly fifty years after the adoption of the Declaration of Independence he had authored.",
+        "explorer": "Jefferson died on July 4, 1826 — exactly 50 years after the Declaration of Independence that HE wrote. John Adams died the same day!"
+      },
+      "sources": [
+        {
+          "citation": "Thomas Jefferson: Life and Presidency",
+          "url": "https://millercenter.org/president/thomas-jefferson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Thomas Jefferson: Key Events and Legacy",
+          "url": "https://millercenter.org/president/thomas-jefferson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was known by two nicknames: 'Man of the People' and 'Sage of Monticello,' reflecting both his democratic ideals and his scholarly reputation.",
+        "explorer": "People called him the 'Man of the People' and the 'Sage of Monticello' because he believed in equality and was incredibly wise."
+      },
+      "sources": [
+        {
+          "citation": "Thomas Jefferson: Life and Presidency",
+          "url": "https://millercenter.org/president/thomas-jefferson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Thomas Jefferson: Key Events and Legacy",
+          "url": "https://millercenter.org/president/thomas-jefferson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Jefferson was regarded by contemporaries as possessing 'one of the nation's best legal minds' and was educated at the College of William and Mary.",
+        "explorer": "Jefferson was considered one of the smartest lawyers in the whole country. He went to the College of William and Mary."
+      },
+      "sources": [
+        {
+          "citation": "Thomas Jefferson: Life and Presidency",
+          "url": "https://millercenter.org/president/thomas-jefferson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Thomas Jefferson: Key Events and Legacy",
+          "url": "https://millercenter.org/president/thomas-jefferson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Thomas Jefferson: Life and Presidency",
+      "url": "https://millercenter.org/president/thomas-jefferson",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Thomas Jefferson: Key Events and Legacy",
+      "url": "https://millercenter.org/president/thomas-jefferson",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

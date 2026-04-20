@@ -1,9 +1,174 @@
 {
   "id": "john-adams",
-  "status": "planned",
+  "status": "published",
   "number": 2,
   "name": "John Adams",
   "party": "Federalist",
   "termStart": "1797",
-  "termEnd": "1801"
+  "termEnd": "1801",
+  "vicePresidents": [
+    "Thomas Jefferson (1797-1801)"
+  ],
+  "born": "1735-10-30",
+  "died": "1826-07-04",
+  "birthplace": "Braintree (now Quincy), Massachusetts",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "John Adams, the second President, was a leading champion of American independence. A Massachusetts lawyer, Adams served as a delegate to the Continental Congress, helped draft the Declaration of Independence, negotiated crucial diplomatic agreements in Europe, and served as the first Vice President under Washington. His presidency was marked by the challenge of maintaining American neutrality in European conflicts. He established the precedent of peaceful transfer of power when he accepted his defeat by Jefferson in 1800.",
+    "explorer": "John Adams was the second President of the United States. He was one of the biggest champions of American independence and helped get the Declaration of Independence written. Before becoming president, he served as America's first Vice President under George Washington. When he lost the next election to Thomas Jefferson, he peacefully handed over the presidency — showing that in America, leaders respect the voters' choice."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Played a central role in the Continental Congress, advocating forcefully for independence and helping to draft and adopt the Declaration of Independence.",
+        "explorer": "He was one of the most important voices calling for independence from Britain and helped create the Declaration of Independence."
+      },
+      "sources": [
+        {
+          "citation": "John Adams: Life and Presidency",
+          "url": "https://millercenter.org/president/john-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "John Adams: Key Events and Legacy",
+          "url": "https://millercenter.org/president/john-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Negotiated critical diplomatic agreements in Europe that secured foreign recognition and support for the new American nation.",
+        "explorer": "He traveled to Europe and convinced other countries to support the brand-new United States."
+      },
+      "sources": [
+        {
+          "citation": "John Adams: Life and Presidency",
+          "url": "https://millercenter.org/president/john-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "John Adams: Key Events and Legacy",
+          "url": "https://millercenter.org/president/john-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Established the precedent of peaceful transfer of presidential power by accepting his electoral defeat in 1800.",
+        "explorer": "When he lost the election, he peacefully gave up the presidency — a tradition every president has followed since."
+      },
+      "sources": [
+        {
+          "citation": "John Adams: Life and Presidency",
+          "url": "https://millercenter.org/president/john-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "John Adams: Key Events and Legacy",
+          "url": "https://millercenter.org/president/john-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Adams died on July 4, 1826 — exactly fifty years to the day after the Declaration of Independence was adopted. Thomas Jefferson died the same day.",
+        "explorer": "Adams died on July 4, 1826 — exactly 50 years after the Declaration of Independence! His old friend Thomas Jefferson died on the very same day."
+      },
+      "sources": [
+        {
+          "citation": "John Adams: Life and Presidency",
+          "url": "https://millercenter.org/president/john-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "John Adams: Key Events and Legacy",
+          "url": "https://millercenter.org/president/john-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was nicknamed the 'Atlas of Independence' for his tireless advocacy for the American cause in the Continental Congress.",
+        "explorer": "People called him the 'Atlas of Independence' because he worked SO hard to convince everyone that America should be free."
+      },
+      "sources": [
+        {
+          "citation": "John Adams: Life and Presidency",
+          "url": "https://millercenter.org/president/john-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "John Adams: Key Events and Legacy",
+          "url": "https://millercenter.org/president/john-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Adams married Abigail Smith on October 25, 1764. Their extensive correspondence is one of the most important documentary records of the Revolutionary era.",
+        "explorer": "Adams and his wife Abigail wrote hundreds of letters to each other. These letters teach us so much about what life was like during the Revolution."
+      },
+      "sources": [
+        {
+          "citation": "John Adams: Life and Presidency",
+          "url": "https://millercenter.org/president/john-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "John Adams: Key Events and Legacy",
+          "url": "https://millercenter.org/president/john-adams",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "John Adams: Life and Presidency",
+      "url": "https://millercenter.org/president/john-adams",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "John Adams: Key Events and Legacy",
+      "url": "https://millercenter.org/president/john-adams",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

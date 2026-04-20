@@ -1,9 +1,175 @@
 {
   "id": "james-madison",
-  "status": "planned",
+  "status": "published",
   "number": 4,
   "name": "James Madison",
   "party": "Democratic-Republican",
   "termStart": "1809",
-  "termEnd": "1817"
+  "termEnd": "1817",
+  "vicePresidents": [
+    "George Clinton (1809-1812)",
+    "Elbridge Gerry (1813-1814)"
+  ],
+  "born": "1751-03-16",
+  "died": "1836-06-28",
+  "birthplace": "Port Conway, Virginia",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "James Madison, the fourth President, is known as the 'Father of the Constitution' for his central role in drafting the document and his authorship of key Federalist Papers that secured its ratification. Born into one of Virginia's most elite families, Madison attended the College of New Jersey (now Princeton). His presidency was defined by the War of 1812 against Great Britain. He married Dolley Payne Todd in 1794.",
+    "explorer": "James Madison is called the 'Father of the Constitution' because he did more than anyone else to write it! The Constitution is the set of rules that our whole government follows. He also wrote important papers called the Federalist Papers that convinced people to accept the Constitution. As the fourth president, he led America through the War of 1812 against Britain."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Played the foremost role in drafting the United States Constitution at the 1787 Convention, earning him the title 'Father of the Constitution.'",
+        "explorer": "He was the main person who wrote the Constitution — that's why people call him the 'Father of the Constitution!'"
+      },
+      "sources": [
+        {
+          "citation": "James Madison: Life and Presidency",
+          "url": "https://millercenter.org/president/james-madison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "James Madison: Key Events and Legacy",
+          "url": "https://millercenter.org/president/james-madison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Co-authored the Federalist Papers with Alexander Hamilton and John Jay, providing the intellectual framework that secured ratification of the Constitution.",
+        "explorer": "He helped write the Federalist Papers, which convinced Americans to support the new Constitution."
+      },
+      "sources": [
+        {
+          "citation": "James Madison: Life and Presidency",
+          "url": "https://millercenter.org/president/james-madison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "James Madison: Key Events and Legacy",
+          "url": "https://millercenter.org/president/james-madison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Led the nation through the War of 1812, which ended with a renewed sense of American national identity despite mixed military results.",
+        "explorer": "He led America through the War of 1812 against Britain, which helped Americans feel more united as a country."
+      },
+      "sources": [
+        {
+          "citation": "James Madison: Life and Presidency",
+          "url": "https://millercenter.org/president/james-madison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "James Madison: Key Events and Legacy",
+          "url": "https://millercenter.org/president/james-madison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Madison was known as the 'Father of the Constitution,' a title reflecting his unmatched influence on the document's creation and ratification.",
+        "explorer": "His nickname was the 'Father of the Constitution' — he practically wrote the whole thing!"
+      },
+      "sources": [
+        {
+          "citation": "James Madison: Life and Presidency",
+          "url": "https://millercenter.org/president/james-madison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "James Madison: Key Events and Legacy",
+          "url": "https://millercenter.org/president/james-madison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He came from one of Virginia's most elite families, though he modestly described their status as 'respectable though not the most opulent.'",
+        "explorer": "Madison came from a rich family, but he was humble about it."
+      },
+      "sources": [
+        {
+          "citation": "James Madison: Life and Presidency",
+          "url": "https://millercenter.org/president/james-madison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "James Madison: Key Events and Legacy",
+          "url": "https://millercenter.org/president/james-madison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He graduated from the College of New Jersey (now Princeton University) in 1771, completing his studies in just two years instead of the usual three.",
+        "explorer": "He finished college at Princeton in only two years instead of three — he was that smart!"
+      },
+      "sources": [
+        {
+          "citation": "James Madison: Life and Presidency",
+          "url": "https://millercenter.org/president/james-madison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "James Madison: Key Events and Legacy",
+          "url": "https://millercenter.org/president/james-madison",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "James Madison: Life and Presidency",
+      "url": "https://millercenter.org/president/james-madison",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "James Madison: Key Events and Legacy",
+      "url": "https://millercenter.org/president/james-madison",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

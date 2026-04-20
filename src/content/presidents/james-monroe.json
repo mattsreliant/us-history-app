@@ -1,9 +1,174 @@
 {
   "id": "james-monroe",
-  "status": "planned",
+  "status": "published",
   "number": 5,
   "name": "James Monroe",
   "party": "Democratic-Republican",
   "termStart": "1817",
-  "termEnd": "1825"
+  "termEnd": "1825",
+  "vicePresidents": [
+    "Daniel D. Tompkins (1817-1825)"
+  ],
+  "born": "1758-04-28",
+  "died": "1831-07-04",
+  "birthplace": "Westmoreland County, Virginia",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "James Monroe, the fifth President, was the last of the 'Virginia Dynasty' — four of the first five presidents came from Virginia. A veteran of the Revolutionary War, Monroe served as a Senator, diplomat, Governor of Virginia, and Secretary of State before winning the presidency. His administration is remembered for the 'Era of Good Feelings' and for the Monroe Doctrine, which declared the Western Hemisphere closed to further European colonization.",
+    "explorer": "James Monroe was the fifth president and the last of the 'Virginia Dynasty' — four of the first five presidents came from Virginia! He had fought in the Revolutionary War as a young man. As president, his time was called the 'Era of Good Feelings' because people were getting along so well. He also created the Monroe Doctrine, which told European countries to stay out of North and South America."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Established the Monroe Doctrine in 1823, declaring that the Western Hemisphere was no longer open to European colonization — a foundational principle of U.S. foreign policy.",
+        "explorer": "He created the Monroe Doctrine, which told European countries: Stay out of our part of the world!"
+      },
+      "sources": [
+        {
+          "citation": "James Monroe: Life and Presidency",
+          "url": "https://millercenter.org/president/james-monroe",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "James Monroe: Key Events and Legacy",
+          "url": "https://millercenter.org/president/james-monroe",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Presided over the 'Era of Good Feelings,' a period of diminished partisan conflict and growing national unity following the War of 1812.",
+        "explorer": "His time as president was so peaceful that people called it the 'Era of Good Feelings!'"
+      },
+      "sources": [
+        {
+          "citation": "James Monroe: Life and Presidency",
+          "url": "https://millercenter.org/president/james-monroe",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "James Monroe: Key Events and Legacy",
+          "url": "https://millercenter.org/president/james-monroe",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Served in more high-level government roles before the presidency than perhaps any predecessor — soldier, diplomat, senator, governor, Secretary of State, and Secretary of War.",
+        "explorer": "Before becoming president, Monroe had done just about every important government job there was!"
+      },
+      "sources": [
+        {
+          "citation": "James Monroe: Life and Presidency",
+          "url": "https://millercenter.org/president/james-monroe",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "James Monroe: Key Events and Legacy",
+          "url": "https://millercenter.org/president/james-monroe",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Monroe was the last president of the 'Virginia Dynasty' — four of the first five presidents were Virginians.",
+        "explorer": "Monroe was the last of four presidents in a row who came from Virginia. That's a lot of Virginians!"
+      },
+      "sources": [
+        {
+          "citation": "James Monroe: Life and Presidency",
+          "url": "https://millercenter.org/president/james-monroe",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "James Monroe: Key Events and Legacy",
+          "url": "https://millercenter.org/president/james-monroe",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He died on July 4, 1831, making him the third president (after Adams and Jefferson) to die on Independence Day.",
+        "explorer": "Monroe died on July 4th — the third president to die on America's birthday!"
+      },
+      "sources": [
+        {
+          "citation": "James Monroe: Life and Presidency",
+          "url": "https://millercenter.org/president/james-monroe",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "James Monroe: Key Events and Legacy",
+          "url": "https://millercenter.org/president/james-monroe",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He served as both Secretary of State and Secretary of War simultaneously under President Madison, an unprecedented dual role.",
+        "explorer": "He once held TWO important government jobs at the same time — Secretary of State AND Secretary of War!"
+      },
+      "sources": [
+        {
+          "citation": "James Monroe: Life and Presidency",
+          "url": "https://millercenter.org/president/james-monroe",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "James Monroe: Key Events and Legacy",
+          "url": "https://millercenter.org/president/james-monroe",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "James Monroe: Life and Presidency",
+      "url": "https://millercenter.org/president/james-monroe",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "James Monroe: Key Events and Legacy",
+      "url": "https://millercenter.org/president/james-monroe",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

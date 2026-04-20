@@ -1,9 +1,174 @@
 {
   "id": "george-washington",
-  "status": "planned",
+  "status": "published",
   "number": 1,
   "name": "George Washington",
-  "party": "No Party",
+  "party": "Federalist",
   "termStart": "1789",
-  "termEnd": "1797"
+  "termEnd": "1797",
+  "vicePresidents": [
+    "John Adams (1789-1797)"
+  ],
+  "born": "1732-02-22",
+  "died": "1799-12-14",
+  "birthplace": "Pope's Creek, Virginia",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "George Washington, the first President of the United States, commanded the Continental Army during the American Revolution and presided over the Constitutional Convention of 1787. Known as the 'Father of His Country,' Washington established many precedents that defined the presidency, including the formation of a cabinet, the two-term tradition, and the peaceful transfer of power. A Virginia planter, he married Martha Dandridge Custis in 1759. He declined a third term, setting a precedent that held for over 140 years.",
+    "explorer": "George Washington was the very first President of the United States! Before that, he led the American army during the Revolutionary War against Britain. People called him the 'Father of His Country' because he helped create the United States as we know it. After serving two terms as president, he chose to step down — showing that in America, no one should be president forever."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Commanded the Continental Army to victory in the American Revolution, securing American independence from Great Britain.",
+        "explorer": "He led the American army to victory in the Revolutionary War, winning America its freedom from Britain."
+      },
+      "sources": [
+        {
+          "citation": "George Washington: Life and Presidency",
+          "url": "https://millercenter.org/president/george-washington",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "George Washington: Key Events and Legacy",
+          "url": "https://millercenter.org/president/george-washington",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Established foundational precedents for the presidency, including the cabinet system, the two-term tradition, and the principle of civilian control of the military.",
+        "explorer": "He set important rules for how presidents should act — like only serving two terms and having advisors called a cabinet."
+      },
+      "sources": [
+        {
+          "citation": "George Washington: Life and Presidency",
+          "url": "https://millercenter.org/president/george-washington",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "George Washington: Key Events and Legacy",
+          "url": "https://millercenter.org/president/george-washington",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Presided over the Constitutional Convention of 1787, lending his enormous prestige to the effort to create a stronger national government under the new Constitution.",
+        "explorer": "He helped lead the meeting where the Constitution was written — the document that still guides America today."
+      },
+      "sources": [
+        {
+          "citation": "George Washington: Life and Presidency",
+          "url": "https://millercenter.org/president/george-washington",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "George Washington: Key Events and Legacy",
+          "url": "https://millercenter.org/president/george-washington",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Washington lost his father at age 11, which ended his hopes for the formal education that other Founding Fathers received at universities.",
+        "explorer": "Washington lost his dad when he was only 11 years old. Unlike many other founders, he never went to college."
+      },
+      "sources": [
+        {
+          "citation": "George Washington: Life and Presidency",
+          "url": "https://millercenter.org/president/george-washington",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "George Washington: Key Events and Legacy",
+          "url": "https://millercenter.org/president/george-washington",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was the only president to be unanimously elected by the Electoral College, receiving every electoral vote in both 1789 and 1792.",
+        "explorer": "Washington is the only president who got EVERY single vote when he was elected — and it happened twice!"
+      },
+      "sources": [
+        {
+          "citation": "George Washington: Life and Presidency",
+          "url": "https://millercenter.org/president/george-washington",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "George Washington: Key Events and Legacy",
+          "url": "https://millercenter.org/president/george-washington",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Known as the 'Father of His Country,' Washington declined a third term, establishing a two-term precedent that lasted until Franklin Roosevelt.",
+        "explorer": "People called him the 'Father of His Country.' When he could have stayed president longer, he chose to go home instead."
+      },
+      "sources": [
+        {
+          "citation": "George Washington: Life and Presidency",
+          "url": "https://millercenter.org/president/george-washington",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "George Washington: Key Events and Legacy",
+          "url": "https://millercenter.org/president/george-washington",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "George Washington: Life and Presidency",
+      "url": "https://millercenter.org/president/george-washington",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "George Washington: Key Events and Legacy",
+      "url": "https://millercenter.org/president/george-washington",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }
