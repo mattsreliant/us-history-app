@@ -1,0 +1,42 @@
+{
+  "id": "bay-of-pigs",
+  "status": "published",
+  "title": {
+    "scholar": "Bay of Pigs Invasion",
+    "explorer": "The Bay of Pigs"
+  },
+  "date": "1961-04-17",
+  "decade": "1960s",
+  "summary": {
+    "scholar": "On April 17, 1961, about 1,500 Cuban exiles trained and funded by the CIA landed at the Bay of Pigs in Cuba, attempting to overthrow Fidel Castro. The invasion failed within three days, becoming a major embarrassment for the Kennedy administration.",
+    "explorer": "In April 1961, a group of about 1,500 Cuban exiles tried to take over Cuba with help from the United States. The plan failed, and it was very embarrassing for President Kennedy."
+  },
+  "significance": {
+    "scholar": "The Bay of Pigs failure shaped Kennedy subsequent approach to foreign policy, making him more cautious about military advice while also intensifying Cold War tensions with Cuba.",
+    "explorer": "This failure taught Kennedy to be more careful about military plans. It also made the relationship between the U.S. and Cuba even more tense."
+  },
+  "relatedPresidentIds": [
+    "john-f-kennedy"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "John F. Kennedy: Key Events",
+      "url": "https://millercenter.org/president/john-f-kennedy/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "John F. Kennedy: Life and Presidency",
+      "url": "https://millercenter.org/president/john-f-kennedy",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

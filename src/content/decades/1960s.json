@@ -1,6 +1,40 @@
 {
   "id": "1960s",
-  "status": "planned",
+  "status": "published",
   "label": "The 1960s",
-  "era": "postwar"
+  "era": "postwar",
+  "headline": {
+    "scholar": "Cold War, Civil Rights, and the Space Race",
+    "explorer": "Moon Landings, Marches, and Big Changes!"
+  },
+  "summary": {
+    "scholar": "The 1960s were a decade of profound transformation in American life. The Cold War reached its most dangerous moment during the Cuban Missile Crisis of 1962, when the United States and Soviet Union came to the brink of nuclear conflict. The civil rights movement gained unprecedented momentum, culminating in the March on Washington (1963), the Civil Rights Act (1964), and the Voting Rights Act (1965). President Kennedy challenged the nation to reach the moon, a goal achieved in 1969. The decade was also marked by tragedy — the assassinations of JFK (1963), Martin Luther King Jr. (1968), and Robert F. Kennedy (1968) — and by the escalating conflict in Vietnam.",
+    "explorer": "The 1960s were one of the most exciting and important decades in American history! The country almost got into a nuclear war with the Soviet Union, but President Kennedy helped avoid it. People marched for equal rights, and Martin Luther King Jr. gave his famous 'I Have a Dream' speech. America sent astronauts to the moon for the very first time! But it was also a sad time — President Kennedy and Martin Luther King Jr. were both shot and killed."
+  },
+  "eventIds": [
+    "peace-corps",
+    "bay-of-pigs",
+    "cuban-missile-crisis",
+    "march-on-washington",
+    "jfk-assassination"
+  ],
+  "keyFigureIds": ["john-f-kennedy"],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "John F. Kennedy: Key Events",
+      "url": "https://millercenter.org/president/john-f-kennedy/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "John F. Kennedy: Life and Presidency",
+      "url": "https://millercenter.org/president/john-f-kennedy",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

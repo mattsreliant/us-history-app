@@ -1,0 +1,42 @@
+{
+  "id": "cuban-missile-crisis",
+  "status": "published",
+  "title": {
+    "scholar": "Cuban Missile Crisis",
+    "explorer": "The Cuban Missile Crisis"
+  },
+  "date": "1962-10-16",
+  "decade": "1960s",
+  "summary": {
+    "scholar": "From October 16-28, 1962, the United States and Soviet Union came to the brink of nuclear war after American reconnaissance discovered Soviet nuclear missiles being installed in Cuba. After thirteen tense days, Soviet Premier Khrushchev agreed to remove the weapons.",
+    "explorer": "For 13 scary days in October 1962, the world was on the edge of nuclear war. The Soviet Union had put nuclear missiles in Cuba, just 90 miles from Florida. President Kennedy and the Soviet leader worked it out, and the missiles were removed."
+  },
+  "significance": {
+    "scholar": "The Cuban Missile Crisis is considered the closest the Cold War came to escalating into full-scale nuclear conflict. Its resolution led to improved communication between the superpowers.",
+    "explorer": "This was the closest the world ever came to a nuclear war. After this, the U.S. and Soviet Union set up a special phone line so their leaders could talk directly to prevent future crises."
+  },
+  "relatedPresidentIds": [
+    "john-f-kennedy"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "John F. Kennedy: Key Events",
+      "url": "https://millercenter.org/president/john-f-kennedy/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "John F. Kennedy: Life and Presidency",
+      "url": "https://millercenter.org/president/john-f-kennedy",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

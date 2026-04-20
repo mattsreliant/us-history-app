@@ -1,0 +1,42 @@
+{
+  "id": "peace-corps",
+  "status": "published",
+  "title": {
+    "scholar": "Peace Corps Established",
+    "explorer": "The Peace Corps Is Born!"
+  },
+  "date": "1961-03-01",
+  "decade": "1960s",
+  "summary": {
+    "scholar": "On March 1, 1961, President Kennedy established the Peace Corps by executive order, appointing Sargent Shriver as its first director. The program sent American volunteers abroad to assist developing nations.",
+    "explorer": "President Kennedy created the Peace Corps on March 1, 1961. This program sends American volunteers to other countries to help people in need."
+  },
+  "significance": {
+    "scholar": "The Peace Corps became one of Kennedy most enduring legacies, inspiring generations of Americans to serve abroad.",
+    "explorer": "The Peace Corps is still going strong today! Thousands of Americans have traveled to other countries to help build schools, teach, and more."
+  },
+  "relatedPresidentIds": [
+    "john-f-kennedy"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "culture"
+  ],
+  "sources": [
+    {
+      "citation": "John F. Kennedy: Key Events",
+      "url": "https://millercenter.org/president/john-f-kennedy/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "John F. Kennedy: Life and Presidency",
+      "url": "https://millercenter.org/president/john-f-kennedy",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

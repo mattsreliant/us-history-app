@@ -1,0 +1,42 @@
+{
+  "id": "march-on-washington",
+  "status": "published",
+  "title": {
+    "scholar": "March on Washington",
+    "explorer": "The March on Washington"
+  },
+  "date": "1963-08-28",
+  "decade": "1960s",
+  "summary": {
+    "scholar": "On August 28, 1963, over 200,000 people gathered at the Lincoln Memorial in Washington, D.C. for the March on Washington for Jobs and Freedom. Martin Luther King Jr. delivered his iconic I Have a Dream speech, calling for an end to racial discrimination.",
+    "explorer": "On August 28, 1963, more than 200,000 people came together in Washington, D.C. to march for equal rights. Martin Luther King Jr. gave his famous I Have a Dream speech at the Lincoln Memorial."
+  },
+  "significance": {
+    "scholar": "The March on Washington helped build momentum for the Civil Rights Act of 1964 and the Voting Rights Act of 1965, landmark legislation that transformed American society.",
+    "explorer": "This huge peaceful march helped convince Congress to pass important laws that gave equal rights to all Americans, no matter their race."
+  },
+  "relatedPresidentIds": [
+    "john-f-kennedy"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights",
+    "culture"
+  ],
+  "sources": [
+    {
+      "citation": "John F. Kennedy: Key Events",
+      "url": "https://millercenter.org/president/john-f-kennedy/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "John F. Kennedy: Life and Presidency",
+      "url": "https://millercenter.org/president/john-f-kennedy",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

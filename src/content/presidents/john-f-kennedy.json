@@ -1,9 +1,178 @@
 {
   "id": "john-f-kennedy",
-  "status": "planned",
+  "status": "published",
   "number": 35,
   "name": "John F. Kennedy",
   "party": "Democratic",
   "termStart": "1961",
-  "termEnd": "1963"
+  "termEnd": "1963",
+  "vicePresidents": ["Lyndon B. Johnson (1961-1963)"],
+  "born": "1917-05-29",
+  "died": "1963-11-22",
+  "birthplace": "Brookline, Massachusetts",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "John Fitzgerald Kennedy, the thirty-fifth President of the United States, was the youngest person elected to the office and the first Roman Catholic president. Born into a wealthy, politically connected Boston family of Irish-Catholics, Kennedy graduated from Harvard in 1940, served in hazardous combat duty in the Pacific during World War II, and entered politics as a U.S. Representative (1947-1953) and then Senator (1953-1961) from Massachusetts. His brief presidency — cut short by assassination in Dallas on November 22, 1963 — was marked by the Cuban Missile Crisis, the establishment of the Peace Corps, the challenge to land a man on the moon, and growing support for the civil rights movement. He was buried at Arlington National Cemetery.",
+    "explorer": "John F. Kennedy — or JFK, as many people called him — became the 35th President in 1961. He was the youngest person ever elected president and the first Catholic president. Kennedy had been a war hero in World War II and later served in Congress. As president, he started the Peace Corps, challenged America to send astronauts to the moon, and stood up for civil rights. Tragically, he was shot and killed in Dallas, Texas, on November 22, 1963. He was only 46 years old."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Established the Peace Corps on March 1, 1961 by executive order, creating a program that sent American volunteers to developing nations around the world. Sargent Shriver was appointed as its first director.",
+        "explorer": "Kennedy created the Peace Corps, a program that sends American volunteers to countries around the world to help people. It's still going today!"
+      },
+      "sources": [
+        {
+          "citation": "John F. Kennedy: Key Events",
+          "url": "https://millercenter.org/president/john-f-kennedy/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "John F. Kennedy: Life and Presidency",
+          "url": "https://millercenter.org/president/john-f-kennedy",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Successfully resolved the Cuban Missile Crisis (October 16-28, 1962), widely considered the closest the Cold War came to nuclear conflict. Kennedy's combination of firm resolve and diplomatic flexibility led to the removal of Soviet nuclear missiles from Cuba.",
+        "explorer": "When the Soviet Union secretly put nuclear missiles in Cuba — just 90 miles from Florida — Kennedy kept his cool during 13 very scary days and convinced them to take the missiles away without starting a war."
+      },
+      "sources": [
+        {
+          "citation": "John F. Kennedy: Key Events",
+          "url": "https://millercenter.org/president/john-f-kennedy/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "John F. Kennedy: Life and Presidency",
+          "url": "https://millercenter.org/president/john-f-kennedy",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "On May 25, 1961, challenged the nation to land a man on the moon before the end of the decade, setting in motion the Apollo program that achieved this goal on July 20, 1969 — six years after his death.",
+        "explorer": "Kennedy told America to send a person to the moon before 1970. It sounded impossible, but NASA did it in 1969! The moon landing happened because of Kennedy's big dream."
+      },
+      "sources": [
+        {
+          "citation": "John F. Kennedy: Key Events",
+          "url": "https://millercenter.org/president/john-f-kennedy/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "John F. Kennedy: Life and Presidency",
+          "url": "https://millercenter.org/president/john-f-kennedy",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [
+    "peace-corps",
+    "bay-of-pigs",
+    "cuban-missile-crisis",
+    "march-on-washington",
+    "jfk-assassination"
+  ],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Kennedy was the first Roman Catholic elected to the presidency, breaking a significant barrier in a nation where anti-Catholic prejudice had long been a factor in politics.",
+        "explorer": "JFK was the first Catholic president! Before him, some people thought a Catholic could never become president."
+      },
+      "sources": [
+        {
+          "citation": "John F. Kennedy: Life and Presidency",
+          "url": "https://millercenter.org/president/john-f-kennedy",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "John F. Kennedy: Key Events",
+          "url": "https://millercenter.org/president/john-f-kennedy/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Kennedy authored a bestselling book while studying at Harvard and served in hazardous combat duty in the Pacific during World War II, where his PT boat was sunk by a Japanese destroyer.",
+        "explorer": "Before becoming president, Kennedy wrote a bestselling book while he was still in college! He was also a war hero — when his boat was sunk in World War II, he helped save his crew."
+      },
+      "sources": [
+        {
+          "citation": "John F. Kennedy: Life and Presidency",
+          "url": "https://millercenter.org/president/john-f-kennedy",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "John F. Kennedy: Key Events",
+          "url": "https://millercenter.org/president/john-f-kennedy/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "At 43, Kennedy was the youngest person elected president. He and his wife Jacqueline had three children: Caroline (1957), John Jr. (1960-1999), and Patrick (1963), who lived only two days.",
+        "explorer": "Kennedy was only 43 when he became president — the youngest person ever elected to the job! He had two kids, Caroline and John Jr."
+      },
+      "sources": [
+        {
+          "citation": "John F. Kennedy: Life and Presidency",
+          "url": "https://millercenter.org/president/john-f-kennedy",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "John F. Kennedy: Key Events",
+          "url": "https://millercenter.org/president/john-f-kennedy/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "John F. Kennedy: Life and Presidency",
+      "url": "https://millercenter.org/president/john-f-kennedy",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "John F. Kennedy: Key Events",
+      "url": "https://millercenter.org/president/john-f-kennedy/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }
