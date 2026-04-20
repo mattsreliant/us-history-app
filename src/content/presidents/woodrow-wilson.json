@@ -1,9 +1,174 @@
 {
   "id": "woodrow-wilson",
-  "status": "planned",
+  "status": "published",
   "number": 28,
   "name": "Woodrow Wilson",
   "party": "Democratic",
   "termStart": "1913",
-  "termEnd": "1921"
+  "termEnd": "1921",
+  "vicePresidents": [
+    "Thomas R. Marshall (1913-1921)"
+  ],
+  "born": "1856-12-28",
+  "died": "1924-02-03",
+  "birthplace": "Staunton, Virginia",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Woodrow Wilson, the twenty-eighth President, led the nation through World War I and championed the creation of the League of Nations. Nicknamed the 'Schoolmaster in Politics,' Wilson was the only president with a Ph.D., having served as president of Princeton University before entering politics. His progressive domestic agenda included the Federal Reserve Act, the Federal Trade Commission, and the Clayton Antitrust Act. His vision of international cooperation through the League of Nations, though rejected by the U.S. Senate, shaped the future United Nations.",
+    "explorer": "Woodrow Wilson was the twenty-eighth president and the only one with a Ph.D.! Before politics, he was a college professor and president of Princeton University. He led America through World War I and then tried to create a group of nations called the League of Nations to prevent future wars. Congress said no to joining, but his idea later inspired the United Nations."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Led the United States through World War I (1917-1918), mobilizing the nation for its first major overseas military engagement.",
+        "explorer": "He led America through World War I, sending American soldiers to fight in Europe for the first time."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: woodrow wilson",
+          "url": "https://millercenter.org/president/woodrow-wilson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: woodrow wilson - Key Events",
+          "url": "https://millercenter.org/president/woodrow-wilson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Championed the creation of the League of Nations, a precursor to the United Nations, as part of his vision for lasting international peace.",
+        "explorer": "He dreamed up the League of Nations — a group where countries could talk out their problems instead of fighting. It inspired the United Nations."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: woodrow wilson",
+          "url": "https://millercenter.org/president/woodrow-wilson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: woodrow wilson - Key Events",
+          "url": "https://millercenter.org/president/woodrow-wilson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Enacted sweeping progressive domestic reforms including the Federal Reserve Act, establishing the modern central banking system.",
+        "explorer": "He created the Federal Reserve, which is the system that manages America's money and banks to this day."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: woodrow wilson",
+          "url": "https://millercenter.org/president/woodrow-wilson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: woodrow wilson - Key Events",
+          "url": "https://millercenter.org/president/woodrow-wilson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Wilson was nicknamed the 'Schoolmaster in Politics' due to his academic background — he served as president of Princeton University before entering electoral politics.",
+        "explorer": "He was a college president at Princeton before becoming president of the country! That's why people called him the 'Schoolmaster in Politics.'"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: woodrow wilson",
+          "url": "https://millercenter.org/president/woodrow-wilson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: woodrow wilson - Key Events",
+          "url": "https://millercenter.org/president/woodrow-wilson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He is the only president to hold a Ph.D., having earned his doctorate in political science from Johns Hopkins University.",
+        "explorer": "He's the only president who earned a Ph.D. — that's the highest degree you can get!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: woodrow wilson",
+          "url": "https://millercenter.org/president/woodrow-wilson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: woodrow wilson - Key Events",
+          "url": "https://millercenter.org/president/woodrow-wilson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Wilson married twice: first to Ellen Axson (1885-1914), who died during his presidency, and then to Edith Bolling Galt in 1915.",
+        "explorer": "His first wife died while he was president, and he married again while still in the White House."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: woodrow wilson",
+          "url": "https://millercenter.org/president/woodrow-wilson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: woodrow wilson - Key Events",
+          "url": "https://millercenter.org/president/woodrow-wilson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: woodrow wilson",
+      "url": "https://millercenter.org/president/woodrow-wilson",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: woodrow wilson - Key Events",
+      "url": "https://millercenter.org/president/woodrow-wilson/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

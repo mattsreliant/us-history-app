@@ -1,9 +1,174 @@
 {
   "id": "warren-g-harding",
-  "status": "planned",
+  "status": "published",
   "number": 29,
   "name": "Warren G. Harding",
   "party": "Republican",
   "termStart": "1921",
-  "termEnd": "1923"
+  "termEnd": "1923",
+  "vicePresidents": [
+    "Calvin Coolidge (1921-1923)"
+  ],
+  "born": "1865-11-02",
+  "died": "1923-08-02",
+  "birthplace": "Corsica (now Blooming Grove), Ohio",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Warren G. Harding, the twenty-ninth President, called for a 'return to normalcy' after the upheavals of World War I and Wilson's progressive era. A former newspaper editor-publisher from Ohio, Harding held the Washington Conference on the Limitation of Armaments in 1921, a landmark disarmament effort. He emphasized fiscal responsibility in his inaugural address. Harding died in office on August 2, 1923, and his legacy was later tarnished by corruption scandals, particularly the Teapot Dome affair, that came to light after his death.",
+    "explorer": "Warren Harding was the twenty-ninth president. He promised Americans a 'return to normalcy' — meaning a break from all the drama of World War I. Before politics, he ran a newspaper. He organized an important meeting where countries agreed to have fewer weapons. Sadly, he died while still president, and after his death people discovered that some of his friends in the government had been dishonest."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Organized the Washington Conference on the Limitation of Armaments in November 1921, a landmark international disarmament effort following World War I.",
+        "explorer": "He organized a big meeting where countries agreed to build fewer warships — one of the first arms-reduction deals ever."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harding",
+          "url": "https://millercenter.org/president/harding",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harding - Key Events",
+          "url": "https://millercenter.org/president/harding/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Promoted fiscal conservatism, emphasizing 'rigid and yet sane economy, combined with fiscal justice' in governing.",
+        "explorer": "He worked to spend government money wisely and keep taxes fair."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harding",
+          "url": "https://millercenter.org/president/harding",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harding - Key Events",
+          "url": "https://millercenter.org/president/harding/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Represented a shift toward limited government after the expanded executive power of the Wilson era.",
+        "explorer": "After years of big government changes, he tried to give the country a break and keep things simple."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harding",
+          "url": "https://millercenter.org/president/harding",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harding - Key Events",
+          "url": "https://millercenter.org/president/harding/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Harding was a newspaper editor-publisher before entering politics, owning the Marion Star in Ohio.",
+        "explorer": "Before politics, he owned and ran a newspaper called the Marion Star in Ohio."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harding",
+          "url": "https://millercenter.org/president/harding",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harding - Key Events",
+          "url": "https://millercenter.org/president/harding/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He died in office on August 2, 1923, and corruption scandals — particularly the Teapot Dome affair — emerged after his death, severely damaging his legacy.",
+        "explorer": "He died while still president, and then people found out some of his friends in the government had been stealing. It really hurt how people remember him."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harding",
+          "url": "https://millercenter.org/president/harding",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harding - Key Events",
+          "url": "https://millercenter.org/president/harding/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was born in a town originally called Corsica, Ohio, which was later renamed Blooming Grove.",
+        "explorer": "He was born in a town called Corsica, Ohio, which later changed its name to Blooming Grove."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: harding",
+          "url": "https://millercenter.org/president/harding",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: harding - Key Events",
+          "url": "https://millercenter.org/president/harding/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: harding",
+      "url": "https://millercenter.org/president/harding",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: harding - Key Events",
+      "url": "https://millercenter.org/president/harding/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

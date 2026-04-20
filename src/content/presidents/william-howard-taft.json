@@ -1,9 +1,174 @@
 {
   "id": "william-howard-taft",
-  "status": "planned",
+  "status": "published",
   "number": 27,
   "name": "William Howard Taft",
   "party": "Republican",
   "termStart": "1909",
-  "termEnd": "1913"
+  "termEnd": "1913",
+  "vicePresidents": [
+    "James S. Sherman (1909-1912)"
+  ],
+  "born": "1857-09-15",
+  "died": "1930-03-08",
+  "birthplace": "Cincinnati, Ohio",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "William Howard Taft, the twenty-seventh President, is the only person in American history to serve as both President and Chief Justice of the Supreme Court. A Yale graduate and lawyer from Ohio, Taft continued many of Theodore Roosevelt's progressive policies but lacked Roosevelt's political skill and public charisma. His lifelong ambition was the judiciary, not the presidency, and he later called his appointment as Chief Justice in 1921 the greatest honor of his career.",
+    "explorer": "William Howard Taft was the twenty-seventh president, and he holds a really cool record: he's the ONLY person to be both President AND Chief Justice of the Supreme Court! He was a big, friendly man who actually wanted to be a judge more than president. After leaving the White House, he got his dream job — leading the Supreme Court."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Only person to serve as both President and Chief Justice of the Supreme Court, appointed to the court in 1921 by President Harding.",
+        "explorer": "He's the only person ever to be both president AND the top judge on the Supreme Court!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: william taft",
+          "url": "https://millercenter.org/president/william-taft",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: william taft - Key Events",
+          "url": "https://millercenter.org/president/william-taft/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Promoted progressive conservation policies and continued environmental preservation initiatives begun under Roosevelt.",
+        "explorer": "He continued protecting America's natural lands and environment."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: william taft",
+          "url": "https://millercenter.org/president/william-taft",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: william taft - Key Events",
+          "url": "https://millercenter.org/president/william-taft/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Advanced international peace efforts, promoting peaceful resolution of international disputes through arbitration treaties.",
+        "explorer": "He worked hard to keep peace between countries by making agreements to solve problems without fighting."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: william taft",
+          "url": "https://millercenter.org/president/william-taft",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: william taft - Key Events",
+          "url": "https://millercenter.org/president/william-taft/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Taft's lifelong ambition was the Supreme Court, not the presidency. He called his appointment as Chief Justice in 1921 the greatest honor of his career.",
+        "explorer": "He actually wanted to be a Supreme Court judge more than president! When he finally got that job, he said it was the best thing that ever happened to him."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: william taft",
+          "url": "https://millercenter.org/president/william-taft",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: william taft - Key Events",
+          "url": "https://millercenter.org/president/william-taft/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He graduated from Yale College in 1878 and earned his law degree from Cincinnati Law School.",
+        "explorer": "He went to Yale, one of the best colleges in the country, and then studied law."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: william taft",
+          "url": "https://millercenter.org/president/william-taft",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: william taft - Key Events",
+          "url": "https://millercenter.org/president/william-taft/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Taft is the only president buried at Arlington National Cemetery along with John F. Kennedy.",
+        "explorer": "He and JFK are the only two presidents buried at Arlington National Cemetery."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: william taft",
+          "url": "https://millercenter.org/president/william-taft",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: william taft - Key Events",
+          "url": "https://millercenter.org/president/william-taft/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: william taft",
+      "url": "https://millercenter.org/president/william-taft",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: william taft - Key Events",
+      "url": "https://millercenter.org/president/william-taft/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

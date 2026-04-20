@@ -1,9 +1,174 @@
 {
   "id": "herbert-hoover",
-  "status": "planned",
+  "status": "published",
   "number": 31,
   "name": "Herbert Hoover",
   "party": "Republican",
   "termStart": "1929",
-  "termEnd": "1933"
+  "termEnd": "1933",
+  "vicePresidents": [
+    "Charles Curtis (1929-1933)"
+  ],
+  "born": "1874-08-10",
+  "died": "1964-10-20",
+  "birthplace": "West Branch, Iowa",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Herbert Hoover, the thirty-first President, entered office on a wave of optimism but was overwhelmed by the Great Depression, which began with the stock market crash of October 1929. A self-made millionaire, Stanford-educated mining engineer, and celebrated humanitarian who had organized massive food relief efforts in Europe during World War I, Hoover struggled to address the worst economic crisis in American history. His response was seen as inadequate, and he lost decisively to Franklin Roosevelt in 1932. He lived to 90, maintaining an active post-presidential life.",
+    "explorer": "Herbert Hoover was the thirty-first president, and he had really bad luck with timing. He became president promising to end poverty, but just a few months later the stock market crashed and the Great Depression began — the worst economic disaster in American history. Before becoming president, he was actually a hero who organized huge food relief programs to feed starving people in Europe during World War I. But the Depression was so bad that people blamed him for it."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Organized massive humanitarian food relief efforts in Europe during and after World War I, saving millions from starvation before entering politics.",
+        "explorer": "Before becoming president, he organized huge programs to feed starving people in Europe during World War I, saving millions of lives."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: herbert hoover",
+          "url": "https://millercenter.org/president/herbert-hoover",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: herbert hoover - Key Events",
+          "url": "https://millercenter.org/president/herbert-hoover/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Attempted to combat the Great Depression through various relief and recovery programs, expanding the federal response to economic crisis.",
+        "explorer": "He tried many different things to fight the Great Depression and help people who lost their jobs."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: herbert hoover",
+          "url": "https://millercenter.org/president/herbert-hoover",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: herbert hoover - Key Events",
+          "url": "https://millercenter.org/president/herbert-hoover/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Maintained an active and productive post-presidential life spanning 31 years, serving on government commissions and humanitarian efforts.",
+        "explorer": "After being president, he stayed busy for 31 more years, helping with government projects and charity work."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: herbert hoover",
+          "url": "https://millercenter.org/president/herbert-hoover",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: herbert hoover - Key Events",
+          "url": "https://millercenter.org/president/herbert-hoover/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Hoover won the presidency in 1928 with optimistic predictions about eliminating poverty, only to face the nation's worst economic crisis within months of taking office.",
+        "explorer": "He promised to end poverty, but the Great Depression started just months after he became president. Talk about bad timing!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: herbert hoover",
+          "url": "https://millercenter.org/president/herbert-hoover",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: herbert hoover - Key Events",
+          "url": "https://millercenter.org/president/herbert-hoover/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was a self-made millionaire and Stanford-educated mining engineer before entering public service.",
+        "explorer": "He went to Stanford, became a mining engineer, and made himself a millionaire before ever going into politics."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: herbert hoover",
+          "url": "https://millercenter.org/president/herbert-hoover",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: herbert hoover - Key Events",
+          "url": "https://millercenter.org/president/herbert-hoover/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Hoover lived to age 90 (1874-1964) and maintained one of the longest and most active post-presidential careers in history.",
+        "explorer": "He lived to be 90 years old and stayed active and helpful for more than 30 years after leaving the White House."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: herbert hoover",
+          "url": "https://millercenter.org/president/herbert-hoover",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: herbert hoover - Key Events",
+          "url": "https://millercenter.org/president/herbert-hoover/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: herbert hoover",
+      "url": "https://millercenter.org/president/herbert-hoover",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: herbert hoover - Key Events",
+      "url": "https://millercenter.org/president/herbert-hoover/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

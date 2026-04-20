@@ -1,9 +1,174 @@
 {
   "id": "calvin-coolidge",
-  "status": "planned",
+  "status": "published",
   "number": 30,
   "name": "Calvin Coolidge",
   "party": "Republican",
   "termStart": "1923",
-  "termEnd": "1929"
+  "termEnd": "1929",
+  "vicePresidents": [
+    "Charles G. Dawes (1925-1929)"
+  ],
+  "born": "1872-07-04",
+  "died": "1933-01-05",
+  "birthplace": "Plymouth Notch, Vermont",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Calvin Coolidge, the thirtieth President, was known as 'Silent Cal' for his quiet, taciturn demeanor. He assumed the presidency after Harding's death and presided over the prosperous mid-1920s, championing fiscal conservatism and limited government intervention in business. Coolidge declared that 'the fundamental precept of liberty is toleration' and his dry wit belied his reserved public persona. He chose not to run for re-election in 1928.",
+    "explorer": "Calvin Coolidge was the thirtieth president, and people called him 'Silent Cal' because he was a man of very few words! He became president when Harding died and led the country during the roaring 1920s, when the economy was booming. He believed the government should stay out of business and keep things simple. Despite being quiet, he had a really funny sense of humor."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Presided over the prosperous mid-1920s economy, a period of significant economic growth and cultural change known as the 'Roaring Twenties.'",
+        "explorer": "He was president during the Roaring Twenties, when the economy was doing great and America was having a blast."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: calvin coolidge",
+          "url": "https://millercenter.org/president/calvin-coolidge",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: calvin coolidge - Key Events",
+          "url": "https://millercenter.org/president/calvin-coolidge/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Championed fiscal conservatism and limited government, reducing the national debt and cutting taxes during his administration.",
+        "explorer": "He cut taxes and reduced how much money the government owed — he believed in keeping government small."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: calvin coolidge",
+          "url": "https://millercenter.org/president/calvin-coolidge",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: calvin coolidge - Key Events",
+          "url": "https://millercenter.org/president/calvin-coolidge/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Promoted religious tolerance and civil liberties, declaring 'the fundamental precept of liberty is toleration.'",
+        "explorer": "He spoke up for treating people of all religions fairly, saying tolerance is the most important part of freedom."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: calvin coolidge",
+          "url": "https://millercenter.org/president/calvin-coolidge",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: calvin coolidge - Key Events",
+          "url": "https://millercenter.org/president/calvin-coolidge/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Coolidge was nicknamed 'Silent Cal' for his famously quiet demeanor. When told a dinner guest had bet she could get more than two words out of him, he reportedly replied, 'You lose.'",
+        "explorer": "He was so quiet that people called him 'Silent Cal.' When someone bet they could make him say more than two words, he just said 'You lose!'"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: calvin coolidge",
+          "url": "https://millercenter.org/president/calvin-coolidge",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: calvin coolidge - Key Events",
+          "url": "https://millercenter.org/president/calvin-coolidge/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was sworn in by his own father, a justice of the peace, by kerosene lamp in the middle of the night after Harding's death in August 1923.",
+        "explorer": "His own dad swore him in as president! It happened in the middle of the night by the light of a kerosene lamp."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: calvin coolidge",
+          "url": "https://millercenter.org/president/calvin-coolidge",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: calvin coolidge - Key Events",
+          "url": "https://millercenter.org/president/calvin-coolidge/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Coolidge was born on July 4, 1872, making him the only president born on Independence Day.",
+        "explorer": "He was born on the Fourth of July — the only president born on America's birthday!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: calvin coolidge",
+          "url": "https://millercenter.org/president/calvin-coolidge",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: calvin coolidge - Key Events",
+          "url": "https://millercenter.org/president/calvin-coolidge/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: calvin coolidge",
+      "url": "https://millercenter.org/president/calvin-coolidge",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: calvin coolidge - Key Events",
+      "url": "https://millercenter.org/president/calvin-coolidge/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }
