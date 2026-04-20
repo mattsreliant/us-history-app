@@ -1,0 +1,40 @@
+{
+  "id": "french-indian-war",
+  "status": "published",
+  "title": {
+    "scholar": "French and Indian War",
+    "explorer": "A War That Changed Everything!"
+  },
+  "date": "1754",
+  "decade": "before-1776",
+  "summary": {
+    "scholar": "The French and Indian War (1754-1763), the North American theater of the Seven Years' War, pitted Britain and its colonial allies against France and their Native American allies. Britain's victory gave it control of all French territory east of the Mississippi. However, the war's enormous cost led Britain to impose new taxes on the colonies — including the Stamp Act and Townshend Acts — triggering the colonial resistance that led directly to the American Revolution.",
+    "explorer": "From 1754 to 1763, Britain and France fought a huge war over who would control North America. Britain won, but the war cost SO much money that Britain started taxing the American colonists to pay for it. The colonists were furious because they had no say in these taxes. This argument about taxation without representation led straight to the American Revolution!"
+  },
+  "significance": {
+    "scholar": "The French and Indian War removed France from North America but created the fiscal crisis that drove Britain to tax its colonies, directly causing the American Revolution.",
+    "explorer": "This war is super important because it's the reason Britain started taxing the colonists — which started the whole chain of events leading to American independence!"
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "reaganomics",
+  "status": "published",
+  "title": {
+    "scholar": "Reaganomics: Supply-Side Economics",
+    "explorer": "A New Way to Run the Economy!"
+  },
+  "date": "1981-08-13",
+  "decade": "1980s",
+  "summary": {
+    "scholar": "President Reagan's economic policy, dubbed 'Reaganomics,' centered on supply-side economics: cutting income tax rates (the top rate dropped from 70% to 28%), reducing government regulation, and increasing military spending. Supporters credited these policies with sparking economic growth after the 1981-1982 recession. Critics argued they primarily benefited the wealthy and tripled the national debt from $1 trillion to $2.9 trillion. The debate over supply-side economics continues to shape American politics.",
+    "explorer": "President Reagan had a big idea about the economy called Reaganomics. He cut taxes A LOT (especially for rich people and businesses) and said the money would 'trickle down' to everyone else. The economy did grow a lot, but the government also went deep into debt. People STILL argue about whether Reaganomics was a good idea or not!"
+  },
+  "significance": {
+    "scholar": "Reaganomics fundamentally reoriented American economic policy toward lower taxes and deregulation, shaping the conservative economic agenda that persists today.",
+    "explorer": "Whether you think Reaganomics was great or terrible, it changed how Americans think about taxes and government spending. We're still debating it!"
+  },
+  "relatedPresidentIds": [
+    "ronald-reagan"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "economy",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

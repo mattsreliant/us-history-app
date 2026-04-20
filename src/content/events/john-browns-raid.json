@@ -1,0 +1,42 @@
+{
+  "id": "john-browns-raid",
+  "status": "published",
+  "title": {
+    "scholar": "John Brown's Raid on Harpers Ferry",
+    "explorer": "A Radical Plan to End Slavery!"
+  },
+  "date": "1859-10-16",
+  "decade": "1850s",
+  "summary": {
+    "scholar": "On October 16, 1859, abolitionist John Brown led 21 men in a raid on the federal armory at Harpers Ferry, Virginia (now West Virginia), hoping to spark a slave insurrection. The raid was quickly suppressed by U.S. Marines led by Colonel Robert E. Lee. Brown was tried and hanged, but he became a martyr for the abolitionist cause. His raid terrified the South and deepened the sectional crisis that led to the Civil War.",
+    "explorer": "In 1859, a man named John Brown tried something really bold — he attacked a government weapons building in Harpers Ferry, hoping to start a rebellion to free enslaved people. He was captured by soldiers led by Robert E. Lee and was executed. But many people in the North considered him a hero, while the South was terrified. The Civil War was getting closer."
+  },
+  "significance": {
+    "scholar": "Brown's raid polarized the nation — making him a martyr in the North and confirming Southern fears of Northern aggression, pushing the country closer to civil war.",
+    "explorer": "John Brown was willing to die to end slavery. His raid made it clear that the argument over slavery couldn't be solved peacefully."
+  },
+  "relatedPresidentIds": [
+    "james-buchanan"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

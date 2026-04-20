@@ -1,0 +1,42 @@
+{
+  "id": "hamiltons-financial-plan",
+  "status": "published",
+  "title": {
+    "scholar": "Hamilton's Financial Plan",
+    "explorer": "Building America's Money System!"
+  },
+  "date": "1790",
+  "decade": "1790s",
+  "summary": {
+    "scholar": "In 1790-1791, Treasury Secretary Alexander Hamilton proposed a comprehensive financial plan that included federal assumption of state war debts, creation of a national bank (the Bank of the United States), and an excise tax on whiskey. The plan established federal credit, stabilized the economy, and laid the foundation for American capitalism. It provoked fierce opposition from Thomas Jefferson and James Madison, deepening the divide that created America's first political parties.",
+    "explorer": "Alexander Hamilton had a big plan to get America's finances in order! He said the federal government should pay off all the states' war debts, create a national bank, and put a tax on whiskey. Thomas Jefferson hated the idea because he thought it gave the government too much power. Their argument created America's first political parties!"
+  },
+  "significance": {
+    "scholar": "Hamilton's financial plan established the foundations of the American financial system and federal economic policy that persist in modified form today.",
+    "explorer": "Hamilton basically invented America's money system. The argument about his plan created the first political parties — and we still argue about similar stuff today!"
+  },
+  "relatedPresidentIds": [
+    "george-washington"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "economy",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

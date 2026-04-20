@@ -1,0 +1,42 @@
+{
+  "id": "labor-movement-1890s",
+  "status": "published",
+  "title": {
+    "scholar": "The Pullman Strike and Labor Movement",
+    "explorer": "Workers Stand Up!"
+  },
+  "date": "1894",
+  "decade": "1890s",
+  "summary": {
+    "scholar": "The Pullman Strike of 1894 was a nationwide railroad strike that began when workers at the Pullman Palace Car Company protested wage cuts. The American Railway Union, led by Eugene Debs, boycotted trains carrying Pullman cars, paralyzing rail traffic across the country. President Cleveland sent federal troops to break the strike, and Debs was jailed. The strike, along with earlier events like the Haymarket Affair (1886), highlighted the growing conflict between labor and capital in industrialized America.",
+    "explorer": "In 1894, railroad workers went on a huge strike because their pay was cut but their rent wasn't! The strike spread across the whole country and stopped trains everywhere. President Cleveland sent the ARMY to break the strike. Workers were fighting for fair treatment, but it was a long, hard struggle. These early labor fights eventually led to the workers' rights we have today."
+  },
+  "significance": {
+    "scholar": "The Pullman Strike and broader labor movement forced Americans to confront the inequalities of industrial capitalism and laid the groundwork for Progressive Era reforms.",
+    "explorer": "These strikes showed that workers needed protection from unfair bosses. The fight for workers' rights that started here continues today."
+  },
+  "relatedPresidentIds": [
+    "grover-cleveland-24"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "economy",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

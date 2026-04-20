@@ -1,0 +1,41 @@
+{
+  "id": "red-scare-1919",
+  "status": "published",
+  "title": {
+    "scholar": "The First Red Scare",
+    "explorer": "Fear of Communism!"
+  },
+  "date": "1919",
+  "decade": "1910s",
+  "summary": {
+    "scholar": "The First Red Scare (1919-1920) was a period of intense anti-communist and anti-radical hysteria following the Russian Revolution and a series of anarchist bombings in the United States. Attorney General A. Mitchell Palmer conducted raids, arresting and deporting thousands of suspected radicals, often without regard for civil liberties. The panic subsided by 1920 but established a pattern of anti-communist fear that would recur during the Cold War.",
+    "explorer": "After the Russian Revolution, Americans got really scared that communism might spread to the United States. In 1919-1920, the government arrested and deported thousands of people suspected of being radicals, sometimes without proof. This 'Red Scare' eventually calmed down, but fear of communism would come back even stronger during the Cold War."
+  },
+  "significance": {
+    "scholar": "The First Red Scare established patterns of political repression and anti-radical hysteria that would recur during McCarthyism in the 1950s.",
+    "explorer": "This was the first time Americans panicked about communism. The same kind of fear would happen again in the 1950s with McCarthyism."
+  },
+  "relatedPresidentIds": [
+    "woodrow-wilson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

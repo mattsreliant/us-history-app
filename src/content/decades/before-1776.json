@@ -1,0 +1,46 @@
+{
+  "id": "before-1776",
+  "status": "published",
+  "label": "Before 1776",
+  "era": "revolutionary",
+  "headline": {
+    "scholar": "The Colonial Era: From First Contact to Revolution",
+    "explorer": "Before America Was America!"
+  },
+  "summary": {
+    "scholar": "Before the United States existed, the land was home to diverse Native American civilizations for thousands of years. European exploration beginning in 1492 led to colonization, the transatlantic slave trade, and eventually thirteen British colonies that would rebel against the Crown. Key developments included the Columbian Exchange, the establishment of representative government, religious movements like the Great Awakening, and growing tensions between colonists and British authority.",
+    "explorer": "Before there was a United States, this land was home to Native American peoples for thousands of years. Then European explorers arrived, and eventually thirteen British colonies were established along the East Coast. Colonial life was full of important events that would lead to the birth of America!"
+  },
+  "eventIds": [
+    "columbian-exchange",
+    "jamestown",
+    "mayflower-compact",
+    "bacons-rebellion",
+    "salem-witch-trials",
+    "great-awakening",
+    "french-indian-war",
+    "stamp-act",
+    "triangular-trade"
+  ],
+  "keyFigureIds": [
+    "benjamin-franklin"
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

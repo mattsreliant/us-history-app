@@ -1,0 +1,42 @@
+{
+  "id": "mccarthyism",
+  "status": "published",
+  "title": {
+    "scholar": "McCarthyism and the Second Red Scare",
+    "explorer": "Are You Now or Have You Ever Been...?"
+  },
+  "date": "1950-02-09",
+  "decade": "1950s",
+  "summary": {
+    "scholar": "Senator Joseph McCarthy of Wisconsin launched a campaign in 1950 claiming that communists had infiltrated the U.S. government. McCarthyism, as it became known, created an atmosphere of fear and suspicion in which thousands of Americans were accused of disloyalty, often without evidence. Careers were destroyed, people were blacklisted from employment, and civil liberties were trampled. McCarthy was censured by the Senate in 1954 after his tactics were exposed during televised hearings.",
+    "explorer": "In the 1950s, a senator named Joseph McCarthy scared the whole country by claiming communists had snuck into the government. He accused hundreds of people without real proof, ruining their careers and lives. People were so afraid of being called a communist that they were scared to speak up. McCarthy was finally stopped in 1954 when TV showed everyone how unfair he was being."
+  },
+  "significance": {
+    "scholar": "McCarthyism demonstrated the fragility of civil liberties during periods of national fear and became a cautionary tale about the dangers of political witch hunts.",
+    "explorer": "McCarthyism showed what happens when fear takes over and people are punished for their beliefs instead of their actions. It's a lesson Americans still talk about today."
+  },
+  "relatedPresidentIds": [
+    "dwight-d-eisenhower"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "common-sense",
+  "status": "published",
+  "title": {
+    "scholar": "Thomas Paine's Common Sense",
+    "explorer": "A Book That Started a Revolution!"
+  },
+  "date": "1776-01-10",
+  "decade": "1770s",
+  "summary": {
+    "scholar": "Published in January 1776, Thomas Paine's pamphlet Common Sense made a powerful case for American independence in plain, accessible language. It sold approximately 500,000 copies — in a nation of 2.5 million — making it the best-selling publication in American history relative to population. Paine argued that hereditary monarchy was absurd and that America should seize the moment to create a republic.",
+    "explorer": "In January 1776, Thomas Paine wrote a little booklet called Common Sense that changed everything! He explained in simple words why America should break free from Britain. Almost everyone in America read it — it was like the most viral post ever! It convinced tons of people that independence was the right thing to do."
+  },
+  "significance": {
+    "scholar": "Common Sense transformed public opinion from seeking reconciliation with Britain to demanding independence, directly influencing the Declaration of Independence six months later.",
+    "explorer": "Common Sense convinced regular Americans that independence wasn't crazy — it was common sense! Without this book, the Declaration of Independence might never have happened."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "culture"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

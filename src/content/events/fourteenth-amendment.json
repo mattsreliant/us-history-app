@@ -1,0 +1,42 @@
+{
+  "id": "fourteenth-amendment",
+  "status": "published",
+  "title": {
+    "scholar": "Fourteenth Amendment Ratified",
+    "explorer": "Equal Protection for Everyone!"
+  },
+  "date": "1868-07-09",
+  "decade": "1870s",
+  "summary": {
+    "scholar": "The Fourteenth Amendment, ratified on July 9, 1868, defined citizenship to include all persons born in the United States and guaranteed equal protection under the law and due process to all citizens. It was designed to protect the rights of formerly enslaved people and overturn the Dred Scott decision. The amendment's Equal Protection Clause has become one of the most important and frequently litigated provisions in the Constitution.",
+    "explorer": "The Fourteenth Amendment, added to the Constitution in 1868, said that EVERYONE born in America is a citizen and that every citizen deserves equal protection under the law. It was meant to protect the rights of people who had been enslaved. This amendment has been used over and over to fight for equal rights for all kinds of people."
+  },
+  "significance": {
+    "scholar": "The Fourteenth Amendment's Equal Protection and Due Process clauses have been the constitutional basis for virtually every major civil rights advance in American history.",
+    "explorer": "This might be the most important amendment after the Bill of Rights. It's been used to fight for equal rights for women, minorities, and many others."
+  },
+  "relatedPresidentIds": [
+    "andrew-johnson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

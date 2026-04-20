@@ -1,0 +1,40 @@
+{
+  "id": "salem-witch-trials",
+  "status": "published",
+  "title": {
+    "scholar": "Salem Witch Trials",
+    "explorer": "The Salem Witch Trials!"
+  },
+  "date": "1692",
+  "decade": "before-1776",
+  "summary": {
+    "scholar": "In 1692, a wave of hysteria swept through Salem, Massachusetts, leading to the accusation of over 200 people of witchcraft. Nineteen were executed by hanging, and one man was pressed to death. The trials were fueled by religious extremism, social tensions, and fear. They ended when Governor William Phips dissolved the special court. The Salem trials became an enduring symbol of the dangers of mass hysteria and the importance of due process.",
+    "explorer": "In 1692, something terrible happened in Salem, Massachusetts. People accused their neighbors of being witches! Over 200 people were accused and 20 were killed. It was caused by fear and suspicion getting out of control. The Salem Witch Trials remind us why it's so important to be fair and not jump to conclusions about people."
+  },
+  "significance": {
+    "scholar": "The Salem Witch Trials demonstrated the dangers of religious extremism and mass hysteria, and influenced the development of legal protections in the Bill of Rights.",
+    "explorer": "Salem taught Americans an important lesson about fairness. That's partly why the Constitution protects people's right to a fair trial."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "culture",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "stamp-act",
+  "status": "published",
+  "title": {
+    "scholar": "The Stamp Act: 'No Taxation Without Representation'",
+    "explorer": "No Taxation Without Representation!"
+  },
+  "date": "1765-03-22",
+  "decade": "before-1776",
+  "summary": {
+    "scholar": "The Stamp Act of 1765 required colonists to pay a tax on virtually every printed document — newspapers, legal documents, playing cards. It was the first direct tax Britain imposed on the colonies. Colonists protested with the rallying cry 'No taxation without representation,' arguing that Parliament could not tax them since they had no elected representatives there. Widespread resistance forced Parliament to repeal the act in 1766.",
+    "explorer": "In 1765, Britain said colonists had to pay a tax on all printed paper — newspapers, legal papers, even playing cards! The colonists were SO angry because they had no vote in the British government. They shouted 'No taxation without representation!' and protested so hard that Britain had to take back the tax."
+  },
+  "significance": {
+    "scholar": "The Stamp Act crisis established the colonial principle of no taxation without representation and created the protest organizations and networks that would drive the Revolution.",
+    "explorer": "'No taxation without representation' became one of the most famous slogans in American history. It was the beginning of the road to revolution."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "economy"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

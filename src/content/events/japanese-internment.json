@@ -1,0 +1,42 @@
+{
+  "id": "japanese-internment",
+  "status": "published",
+  "title": {
+    "scholar": "Japanese American Internment",
+    "explorer": "An Unfair Imprisonment"
+  },
+  "date": "1942-02-19",
+  "decade": "1940s",
+  "summary": {
+    "scholar": "On February 19, 1942, President Roosevelt signed Executive Order 9066, authorizing the forced relocation and internment of approximately 120,000 Japanese Americans — two-thirds of whom were U.S. citizens — from the West Coast to inland camps. Driven by wartime hysteria and racial prejudice following Pearl Harbor, the internment resulted in the loss of homes, businesses, and civil liberties. In 1988, President Reagan signed the Civil Liberties Act, formally apologizing and providing reparations.",
+    "explorer": "After Pearl Harbor, the government did something really unfair — they forced about 120,000 Japanese Americans to leave their homes and live in prison camps, just because of their Japanese heritage. Most of them were American citizens! They lost their homes, businesses, and freedom. In 1988, the government officially apologized and admitted it was wrong."
+  },
+  "significance": {
+    "scholar": "Japanese internment stands as one of the most significant violations of civil liberties in American history and serves as a warning about the dangers of wartime hysteria and racial prejudice.",
+    "explorer": "This is a reminder that even America can make terrible mistakes. Locking up innocent people because of their background was wrong, and the government eventually admitted it."
+  },
+  "relatedPresidentIds": [
+    "franklin-d-roosevelt"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights",
+    "war"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

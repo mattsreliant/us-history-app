@@ -1,0 +1,40 @@
+{
+  "id": "triangular-trade",
+  "status": "published",
+  "title": {
+    "scholar": "The Triangular Trade and Middle Passage",
+    "explorer": "A Terrible Journey Across the Ocean"
+  },
+  "date": "1700",
+  "decade": "before-1776",
+  "summary": {
+    "scholar": "The Triangular Trade was a system of transatlantic commerce connecting Europe, Africa, and the Americas. European goods were traded for enslaved Africans, who were transported across the Atlantic in the horrific Middle Passage — where an estimated 12.5 million Africans were forcibly shipped to the Americas between the 16th and 19th centuries. Approximately 2 million died during the voyage. In the Americas, enslaved people produced sugar, tobacco, and cotton exported to Europe.",
+    "explorer": "The Triangular Trade was a system where ships traveled between Europe, Africa, and America. The most terrible part was the Middle Passage — the journey across the Atlantic Ocean where enslaved African people were packed into ships under horrible conditions. About 12.5 million Africans were kidnapped and shipped to the Americas, and about 2 million died on the way. It was one of the greatest crimes in human history."
+  },
+  "significance": {
+    "scholar": "The Triangular Trade and Middle Passage created the economic foundation of the colonial Atlantic world while inflicting incalculable suffering on millions of Africans and their descendants.",
+    "explorer": "The slave trade was one of the worst things in human history. Millions of people were stolen from their homes and forced into slavery."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "economy",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

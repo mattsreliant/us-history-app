@@ -1,0 +1,42 @@
+{
+  "id": "korean-war",
+  "status": "published",
+  "title": {
+    "scholar": "The Korean War",
+    "explorer": "The Forgotten War"
+  },
+  "date": "1950-06-25",
+  "decade": "1950s",
+  "summary": {
+    "scholar": "The Korean War (1950-1953) began when North Korea invaded South Korea on June 25, 1950. President Truman committed U.S. forces under a UN mandate, and the conflict escalated when China intervened on North Korea's side. The war ended in an armistice in 1953 with the Korean peninsula divided roughly where it had been before — along the 38th parallel. Over 36,000 Americans died. It is often called 'the Forgotten War.'",
+    "explorer": "In 1950, North Korea invaded South Korea, and America sent soldiers to help defend South Korea. China joined North Korea's side, making the war even bigger. After three years of fighting, the war ended basically where it started — Korea was still split in two. Over 36,000 Americans died. People call it 'the Forgotten War' because it happened between the more famous WWII and Vietnam War."
+  },
+  "significance": {
+    "scholar": "The Korean War established the precedent of limited Cold War military engagement and the willingness of the U.S. to use force to contain communist expansion.",
+    "explorer": "The Korean War showed America would fight to stop communism from spreading, even in faraway places. Korea is still divided today."
+  },
+  "relatedPresidentIds": [
+    "harry-s-truman",
+    "dwight-d-eisenhower"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

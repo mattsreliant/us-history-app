@@ -1,0 +1,40 @@
+{
+  "id": "jamestown",
+  "status": "published",
+  "title": {
+    "scholar": "Jamestown: First Permanent English Settlement",
+    "explorer": "England's First Town in America!"
+  },
+  "date": "1607",
+  "decade": "before-1776",
+  "summary": {
+    "scholar": "In 1607, English colonists established Jamestown, Virginia — the first permanent English settlement in North America. The colony nearly failed due to disease, starvation, and conflict with the Powhatan Confederacy. It survived largely through the leadership of Captain John Smith and the cultivation of tobacco as a cash crop. The first enslaved Africans arrived in 1619, the same year a representative assembly (the House of Burgesses) was established.",
+    "explorer": "In 1607, English settlers built Jamestown, Virginia — the first lasting English town in America! Life was really hard at first — many people got sick and didn't have enough food. They survived by growing tobacco to sell. In 1619, two important things happened: the first enslaved Africans arrived, and the colonists created their first government where people could vote."
+  },
+  "significance": {
+    "scholar": "Jamestown established patterns — tobacco cultivation, enslaved labor, and representative government — that would shape American society for centuries.",
+    "explorer": "Jamestown was where so many American things started: growing cash crops, slavery, and letting people vote on their leaders."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "exploration",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

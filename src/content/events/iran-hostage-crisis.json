@@ -1,0 +1,42 @@
+{
+  "id": "iran-hostage-crisis",
+  "status": "published",
+  "title": {
+    "scholar": "Iran Hostage Crisis",
+    "explorer": "Americans Held Hostage!"
+  },
+  "date": "1979-11-04",
+  "decade": "1970s",
+  "summary": {
+    "scholar": "On November 4, 1979, Iranian revolutionaries stormed the U.S. Embassy in Tehran and took 52 American diplomats hostage. The crisis lasted 444 days, dominating the Carter presidency and contributing to his defeat by Ronald Reagan in 1980. A failed rescue attempt in April 1980 resulted in eight American deaths. The hostages were released on January 20, 1981 — the day Reagan was inaugurated.",
+    "explorer": "In 1979, angry protesters in Iran took over the American embassy and held 52 Americans hostage for 444 days! President Carter tried everything to get them back, including a rescue mission that failed. The crisis was a big reason Carter lost the next election. The hostages were finally freed on the exact day the new president, Ronald Reagan, took office."
+  },
+  "significance": {
+    "scholar": "The Iran Hostage Crisis humiliated the United States, contributed to Carter's electoral defeat, and reshaped American foreign policy in the Middle East for decades.",
+    "explorer": "This crisis showed how events in faraway countries could affect American politics at home. It changed how America dealt with the Middle East."
+  },
+  "relatedPresidentIds": [
+    "jimmy-carter"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "war"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

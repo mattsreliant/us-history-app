@@ -1,0 +1,40 @@
+{
+  "id": "columbian-exchange",
+  "status": "published",
+  "title": {
+    "scholar": "The Columbian Exchange",
+    "explorer": "Two Worlds Meet!"
+  },
+  "date": "1492",
+  "decade": "before-1776",
+  "summary": {
+    "scholar": "After Columbus's arrival in 1492, a massive transfer of plants, animals, diseases, and ideas began between the Eastern and Western hemispheres. Europeans brought horses, wheat, and cattle to the Americas, while receiving corn, potatoes, and tomatoes. However, European diseases like smallpox devastated Native American populations, killing an estimated 90% of indigenous peoples in some areas.",
+    "explorer": "When Columbus arrived in 1492, two worlds that had never met started sharing plants, animals, and ideas. Europe got amazing foods like corn, potatoes, and tomatoes. But Europeans also brought terrible diseases that killed huge numbers of Native Americans who had never been exposed to them before."
+  },
+  "significance": {
+    "scholar": "The Columbian Exchange transformed ecosystems, diets, and populations on both sides of the Atlantic and was one of the most consequential events in human history.",
+    "explorer": "The Columbian Exchange changed what people ate, how they farmed, and where they lived all around the world."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "exploration",
+    "science-tech"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

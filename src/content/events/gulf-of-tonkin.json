@@ -1,0 +1,42 @@
+{
+  "id": "gulf-of-tonkin",
+  "status": "published",
+  "title": {
+    "scholar": "Gulf of Tonkin Resolution",
+    "explorer": "America Goes Deeper Into Vietnam"
+  },
+  "date": "1964-08-07",
+  "decade": "1960s",
+  "summary": {
+    "scholar": "On August 7, 1964, Congress passed the Gulf of Tonkin Resolution after reported attacks on U.S. Navy ships in the Gulf of Tonkin off Vietnam. The resolution gave President Johnson broad authority to escalate U.S. military involvement without a formal declaration of war. It led to the massive buildup of American forces in Vietnam — from 23,000 advisors in 1964 to over 500,000 troops by 1968. Later investigations revealed the reported attacks may have been exaggerated or fabricated.",
+    "explorer": "In 1964, Congress gave President Johnson permission to send as many troops as he wanted to Vietnam after reports that Vietnamese boats attacked American ships. Later, people found out those reports might not have been completely true. But by then, hundreds of thousands of American soldiers were already fighting in Vietnam."
+  },
+  "significance": {
+    "scholar": "The Gulf of Tonkin Resolution demonstrated the dangers of executive war-making authority and led to the War Powers Act of 1973.",
+    "explorer": "This resolution let the president send troops to war without Congress officially declaring war. The questions it raised about honesty and presidential power still matter today."
+  },
+  "relatedPresidentIds": [
+    "lyndon-b-johnson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

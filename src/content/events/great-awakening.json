@@ -1,0 +1,39 @@
+{
+  "id": "great-awakening",
+  "status": "published",
+  "title": {
+    "scholar": "The First Great Awakening",
+    "explorer": "A Religious Revolution!"
+  },
+  "date": "1730",
+  "decade": "before-1776",
+  "summary": {
+    "scholar": "The First Great Awakening (1730s-1740s) was a wave of religious revivals that swept through the colonies, led by preachers like Jonathan Edwards and George Whitefield. The movement emphasized personal religious experience over established church authority, challenged social hierarchies, and united colonists across geographic boundaries. It fostered an egalitarian spirit and culture of questioning authority that would influence the American Revolution.",
+    "explorer": "In the 1730s and 1740s, a huge religious movement called the Great Awakening swept through the colonies! Powerful preachers held giant outdoor meetings where thousands of people came to hear them speak. The movement taught that EVERYONE was equal before God — rich or poor. This idea of equality would later help inspire the American Revolution!"
+  },
+  "significance": {
+    "scholar": "The Great Awakening created a shared cultural experience across the colonies and promoted egalitarian ideals that contributed to revolutionary sentiment.",
+    "explorer": "The Great Awakening got colonists used to the idea that everyone is equal and that you can question authority — ideas that would fuel the Revolution."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "culture"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

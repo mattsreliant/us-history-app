@@ -1,0 +1,42 @@
+{
+  "id": "nafta",
+  "status": "published",
+  "title": {
+    "scholar": "NAFTA Takes Effect",
+    "explorer": "Free Trade with Neighbors!"
+  },
+  "date": "1994-01-01",
+  "decade": "1990s",
+  "summary": {
+    "scholar": "The North American Free Trade Agreement (NAFTA) took effect on January 1, 1994, eliminating most tariffs between the United States, Canada, and Mexico. President Clinton signed the agreement, which had been negotiated under President George H.W. Bush. NAFTA increased trade dramatically but was controversial — supporters said it lowered prices and grew the economy, while critics blamed it for job losses as manufacturing moved to Mexico. It was replaced by the USMCA in 2020.",
+    "explorer": "In 1994, the United States, Canada, and Mexico made a deal called NAFTA to trade freely without extra taxes on goods crossing borders. It made lots of things cheaper and increased trade, but some American workers lost their jobs because factories moved to Mexico where labor was cheaper. People still argue about whether free trade deals are good or bad."
+  },
+  "significance": {
+    "scholar": "NAFTA reshaped North American commerce and became a central issue in debates over globalization, trade policy, and American manufacturing.",
+    "explorer": "NAFTA changed how the three biggest countries in North America do business with each other. The debate about free trade is still going strong."
+  },
+  "relatedPresidentIds": [
+    "bill-clinton"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "economy",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

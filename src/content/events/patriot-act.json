@@ -1,0 +1,42 @@
+{
+  "id": "patriot-act",
+  "status": "published",
+  "title": {
+    "scholar": "USA PATRIOT Act",
+    "explorer": "New Security After 9/11"
+  },
+  "date": "2001-10-26",
+  "decade": "2000s",
+  "summary": {
+    "scholar": "On October 26, 2001 — just 45 days after September 11 — President Bush signed the USA PATRIOT Act, dramatically expanding government surveillance and law enforcement powers. The act allowed warrantless wiretapping, expanded search capabilities, and enabled greater information sharing between intelligence agencies. Civil liberties advocates argued it went too far in sacrificing privacy for security, a debate that intensified after Edward Snowden's 2013 revelations about mass surveillance programs.",
+    "explorer": "After 9/11, Congress quickly passed a law called the PATRIOT Act that gave the government much more power to spy on people to try to stop terrorists. Some people said it was necessary to keep America safe. Others said it went too far and invaded people's privacy. The argument about balancing safety and freedom continues today."
+  },
+  "significance": {
+    "scholar": "The PATRIOT Act fundamentally altered the balance between national security and civil liberties in the United States, creating surveillance capabilities that remain controversial.",
+    "explorer": "The PATRIOT Act raised a huge question: How much privacy should Americans give up to be safe? People are still arguing about the answer."
+  },
+  "relatedPresidentIds": [
+    "george-w-bush"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

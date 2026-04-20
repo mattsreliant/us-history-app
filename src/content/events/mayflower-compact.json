@@ -1,0 +1,39 @@
+{
+  "id": "mayflower-compact",
+  "status": "published",
+  "title": {
+    "scholar": "Mayflower Compact and Plymouth Colony",
+    "explorer": "The Pilgrims Land at Plymouth!"
+  },
+  "date": "1620-11-11",
+  "decade": "before-1776",
+  "summary": {
+    "scholar": "On November 11, 1620, Pilgrims aboard the Mayflower signed the Mayflower Compact before disembarking at Plymouth, Massachusetts. The compact was a foundational document of American self-governance, establishing the principle that government derives its authority from the consent of the governed. The Pilgrims had fled England seeking religious freedom and established one of the earliest successful New England colonies.",
+    "explorer": "In 1620, a group called the Pilgrims sailed across the ocean on a ship called the Mayflower. Before they got off the boat, they signed an agreement called the Mayflower Compact — they promised to make fair laws and follow them together. This was one of the first times people in America agreed to govern themselves!"
+  },
+  "significance": {
+    "scholar": "The Mayflower Compact established the precedent of self-governance and social contract that would influence the Declaration of Independence and the Constitution.",
+    "explorer": "The Mayflower Compact was one of the first steps toward the American idea that the people should make their own rules."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

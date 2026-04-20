@@ -1,0 +1,40 @@
+{
+  "id": "bacons-rebellion",
+  "status": "published",
+  "title": {
+    "scholar": "Bacon's Rebellion",
+    "explorer": "A Colonial Uprising!"
+  },
+  "date": "1676",
+  "decade": "before-1776",
+  "summary": {
+    "scholar": "In 1676, Nathaniel Bacon led a rebellion of frontier settlers and indentured servants against the Virginia colonial government of Governor William Berkeley. The rebels burned Jamestown and challenged the colonial elite's authority. After Bacon's death from disease, the rebellion collapsed. Historians consider it a turning point in colonial labor history — afterward, Virginia's elite increasingly turned to enslaved African labor instead of indentured European servants.",
+    "explorer": "In 1676, a man named Nathaniel Bacon led a rebellion against Virginia's government. Frontier settlers were angry that the governor wasn't protecting them from Native American attacks AND that rich people had all the power. They actually burned down Jamestown! After the rebellion, Virginia's leaders started using more enslaved African workers instead of poor European workers."
+  },
+  "significance": {
+    "scholar": "Bacon's Rebellion exposed class tensions in colonial society and accelerated the shift from indentured servitude to race-based slavery in Virginia and other Southern colonies.",
+    "explorer": "This rebellion changed colonial America forever. After it, the colonies relied more and more on enslaved African people instead of poor European workers."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "war"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "chinese-exclusion-act",
+  "status": "published",
+  "title": {
+    "scholar": "Chinese Exclusion Act",
+    "explorer": "An Unfair Immigration Law"
+  },
+  "date": "1882-05-06",
+  "decade": "1880s",
+  "summary": {
+    "scholar": "The Chinese Exclusion Act of 1882 prohibited Chinese laborers from immigrating to the United States for ten years and barred Chinese residents from becoming citizens. It was the first federal law to restrict immigration based on nationality and race. The act was repeatedly renewed and not fully repealed until 1943. It reflected anti-Chinese sentiment driven by economic competition during the railroad-building era.",
+    "explorer": "In 1882, Congress passed a really unfair law called the Chinese Exclusion Act that banned Chinese workers from coming to America. Chinese workers had helped build the transcontinental railroad, but now they were told they weren't welcome. It was the first law that banned people from a specific country. It wasn't fully repealed until 1943."
+  },
+  "significance": {
+    "scholar": "The Chinese Exclusion Act established the precedent of race-based immigration restriction and reflected the tensions between American ideals of opportunity and nativist prejudice.",
+    "explorer": "This law was one of the most unfair immigration laws in American history. It singled out people from one country just because of where they were from."
+  },
+  "relatedPresidentIds": [
+    "chester-a-arthur"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}
