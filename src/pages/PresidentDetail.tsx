@@ -51,6 +51,18 @@ export function PresidentDetailPage() {
     <div className="page-content">
       {/* Header */}
       <div className="president-header">
+        {president.portraitUrl && (
+          <div className="president-portrait">
+            <img
+              src={president.portraitUrl}
+              alt={`Portrait of ${president.name}`}
+              className="president-portrait-img"
+            />
+            {president.portraitCredit && (
+              <p className="president-portrait-credit">{president.portraitCredit}</p>
+            )}
+          </div>
+        )}
         <h1>{president.name}</h1>
         <p className="president-number">
           {getOrdinal(president.number)} President of the United States
