@@ -13,7 +13,9 @@
   },
   "eventIds": [
     "september-11",
-    "great-recession"
+    "great-recession",
+    "hurricane-katrina",
+    "obama-elected"
   ],
   "keyFigureIds": [
     "george-w-bush",

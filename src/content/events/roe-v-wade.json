@@ -1,0 +1,42 @@
+{
+  "id": "roe-v-wade",
+  "status": "published",
+  "title": {
+    "scholar": "Roe v. Wade",
+    "explorer": "A Controversial Court Ruling"
+  },
+  "date": "1973-01-22",
+  "decade": "1970s",
+  "summary": {
+    "scholar": "On January 22, 1973, the Supreme Court ruled 7-2 in Roe v. Wade that the Constitution protected a woman's right to choose to have an abortion before fetal viability. The decision, one of the most controversial in the Court's history, sparked decades of political and cultural debate. The ruling was overturned in 2022 by Dobbs v. Jackson Women's Health Organization.",
+    "explorer": "In 1973, the Supreme Court made one of its most debated decisions ever in a case called Roe v. Wade. It said women had the right to choose whether to continue a pregnancy. People have disagreed strongly about this ruling for 50 years. In 2022, the Supreme Court overturned it, sending the issue back to individual states."
+  },
+  "significance": {
+    "scholar": "Roe v. Wade defined one of the central fault lines in American politics for half a century, influencing elections, judicial nominations, and political party platforms until its reversal in 2022.",
+    "explorer": "This ruling became one of the most argued-about topics in American politics for 50 years. In 2022, the Supreme Court reversed it."
+  },
+  "relatedPresidentIds": [
+    "richard-nixon"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

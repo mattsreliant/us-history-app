@@ -1,0 +1,42 @@
+{
+  "id": "apollo-11",
+  "status": "published",
+  "title": {
+    "scholar": "Apollo 11: First Moon Landing",
+    "explorer": "Walking on the Moon!"
+  },
+  "date": "1969-07-20",
+  "decade": "1960s",
+  "summary": {
+    "scholar": "On July 20, 1969, American astronauts Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon during the Apollo 11 mission, fulfilling President Kennedy's 1961 challenge. Armstrong's first words on the lunar surface — 'That's one small step for man, one giant leap for mankind' — were heard by an estimated 600 million television viewers worldwide. Michael Collins orbited above in the command module.",
+    "explorer": "On July 20, 1969, Neil Armstrong stepped onto the Moon and said: 'That's one small step for man, one giant leap for mankind!' About 600 million people watched on TV — the biggest audience EVER at that time. Buzz Aldrin walked on the Moon too, while Michael Collins orbited above. America had won the Space Race!"
+  },
+  "significance": {
+    "scholar": "Apollo 11 fulfilled Kennedy's challenge and represented one of humanity's greatest achievements. The Apollo program demonstrated American technological supremacy during the Cold War.",
+    "explorer": "Landing on the Moon proved that when humans work together and dream big, they can do things that seem impossible."
+  },
+  "relatedPresidentIds": [
+    "richard-nixon"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "science-tech",
+    "exploration"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

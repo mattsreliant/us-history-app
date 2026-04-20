@@ -1,0 +1,42 @@
+{
+  "id": "gold-rush",
+  "status": "published",
+  "title": {
+    "scholar": "California Gold Rush Begins",
+    "explorer": "Gold! Gold! Gold!"
+  },
+  "date": "1848-01-24",
+  "decade": "1840s",
+  "summary": {
+    "scholar": "On January 24, 1848, James Marshall discovered gold at Sutter's Mill in Coloma, California. News of the discovery sparked the California Gold Rush of 1849, drawing approximately 300,000 people from around the world to California. The massive migration accelerated California's path to statehood in 1850 and transformed the American West.",
+    "explorer": "In 1848, someone found GOLD in California! The news spread like wildfire, and about 300,000 people rushed to California hoping to get rich. They were called the 'Forty-Niners' because most arrived in 1849. The Gold Rush changed the West forever and helped California become a state super fast!"
+  },
+  "significance": {
+    "scholar": "The Gold Rush dramatically accelerated westward migration, made California a state by 1850, and reshaped the American economy and demographics.",
+    "explorer": "The Gold Rush turned California from a quiet territory into a booming state almost overnight. San Francisco went from a tiny village to a major city!"
+  },
+  "relatedPresidentIds": [
+    "james-k-polk"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "economy",
+    "exploration"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -13,7 +13,9 @@
   },
   "eventIds": [
     "pendleton-act",
-    "statue-of-liberty"
+    "statue-of-liberty",
+    "sherman-antitrust-act",
+    "interstate-commerce-act"
   ],
   "keyFigureIds": [
     "james-a-garfield",

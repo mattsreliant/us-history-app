@@ -1,0 +1,42 @@
+{
+  "id": "dust-bowl",
+  "status": "published",
+  "title": {
+    "scholar": "The Dust Bowl",
+    "explorer": "The Sky Turns Black!"
+  },
+  "date": "1934",
+  "decade": "1930s",
+  "summary": {
+    "scholar": "The Dust Bowl (1930s) was an ecological disaster caused by severe drought and decades of intensive farming that had stripped the Great Plains of natural grass cover. Massive dust storms — some reaching 10,000 feet high — devastated farmland across Oklahoma, Texas, Kansas, and neighboring states. Hundreds of thousands of families lost their farms and migrated westward, many to California. The disaster led to federal soil conservation programs.",
+    "explorer": "In the 1930s, the Great Plains turned into a dust bowl! Years of farming had killed all the grass, and when a terrible drought hit, the soil just blew away in massive dust storms. Some storms were so big they blocked out the sun! Hundreds of thousands of families lost their farms and had to leave, many heading to California looking for work."
+  },
+  "significance": {
+    "scholar": "The Dust Bowl was one of the worst ecological disasters in American history, displacing hundreds of thousands and prompting the creation of the Soil Conservation Service and new farming practices.",
+    "explorer": "The Dust Bowl showed what happens when people don't take care of the land. It led to new farming methods that help prevent it from happening again."
+  },
+  "relatedPresidentIds": [
+    "franklin-d-roosevelt"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "disaster",
+    "economy"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "obama-elected",
+  "status": "published",
+  "title": {
+    "scholar": "Barack Obama Elected President",
+    "explorer": "A Historic Election!"
+  },
+  "date": "2008-11-04",
+  "decade": "2000s",
+  "summary": {
+    "scholar": "On November 4, 2008, Barack Obama was elected the 44th President of the United States, becoming the first African American to hold the nation's highest office. Obama defeated Republican John McCain with 365 electoral votes to 173, carrying states across the political map. His election was celebrated worldwide as a milestone in American racial progress, coming 143 years after the abolition of slavery.",
+    "explorer": "On November 4, 2008, Barack Obama made history by becoming the first Black president of the United States! People all over the country and the world celebrated. It was an incredible moment — just 143 years after slavery ended, a Black man was leading the nation. Many people cried tears of joy."
+  },
+  "significance": {
+    "scholar": "Obama's election represented a historic milestone in American race relations, demonstrating both how far the nation had come since the civil rights era and how much work remained.",
+    "explorer": "Obama's election showed that America had come a long way from slavery and segregation. For many people, it felt like a dream come true."
+  },
+  "relatedPresidentIds": [
+    "barack-obama"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

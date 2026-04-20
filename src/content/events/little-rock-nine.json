@@ -1,0 +1,41 @@
+{
+  "id": "little-rock-nine",
+  "status": "published",
+  "title": {
+    "scholar": "Little Rock Nine",
+    "explorer": "Nine Brave Students"
+  },
+  "date": "1957-09-04",
+  "decade": "1950s",
+  "summary": {
+    "scholar": "In September 1957, nine African American students attempted to integrate Central High School in Little Rock, Arkansas, following the Brown v. Board of Education ruling. Arkansas Governor Orval Faubus used the National Guard to block their entry. President Eisenhower responded by sending the 101st Airborne Division to escort the students into school, marking the first time since Reconstruction that a president used federal troops to enforce civil rights.",
+    "explorer": "In 1957, nine brave Black students tried to go to an all-white school in Little Rock, Arkansas. The governor sent soldiers to block them! President Eisenhower was so angry that he sent the ARMY to protect the students and make sure they could go to school. These nine teenagers changed history just by walking through a school door."
+  },
+  "significance": {
+    "scholar": "The Little Rock crisis demonstrated that the federal government would enforce desegregation, even against state resistance, and the Nine became icons of the civil rights movement.",
+    "explorer": "These nine teenagers were incredibly brave. They faced angry mobs just to go to school, and their courage helped integrate schools across America."
+  },
+  "relatedPresidentIds": [
+    "dwight-d-eisenhower"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

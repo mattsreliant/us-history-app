@@ -1,0 +1,42 @@
+{
+  "id": "gi-bill",
+  "status": "published",
+  "title": {
+    "scholar": "GI Bill Signed Into Law",
+    "explorer": "College for Veterans!"
+  },
+  "date": "1944-06-22",
+  "decade": "1940s",
+  "summary": {
+    "scholar": "The Servicemen's Readjustment Act of 1944 — known as the GI Bill — provided returning World War II veterans with benefits including college tuition, low-cost home loans, and unemployment insurance. Approximately 8 million veterans used education benefits, and millions more purchased homes. The GI Bill is credited with creating the American middle class and fueling postwar prosperity.",
+    "explorer": "The GI Bill of 1944 was one of the best things America ever did for its soldiers! It paid for veterans to go to college, helped them buy homes, and gave them money while they looked for jobs. About 8 million veterans went to college because of this law. It helped create the middle class and made America stronger."
+  },
+  "significance": {
+    "scholar": "The GI Bill transformed American society by democratizing higher education and homeownership, creating the suburban middle class that defined postwar America.",
+    "explorer": "The GI Bill helped millions of regular people go to college and buy homes for the first time. It changed what it meant to be middle class in America."
+  },
+  "relatedPresidentIds": [
+    "franklin-d-roosevelt"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "economy"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

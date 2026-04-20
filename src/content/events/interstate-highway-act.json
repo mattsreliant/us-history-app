@@ -1,0 +1,42 @@
+{
+  "id": "interstate-highway-act",
+  "status": "published",
+  "title": {
+    "scholar": "Federal-Aid Highway Act",
+    "explorer": "Building the Highways!"
+  },
+  "date": "1956-06-29",
+  "decade": "1950s",
+  "summary": {
+    "scholar": "The Federal-Aid Highway Act of 1956, signed by President Eisenhower, authorized the construction of 41,000 miles of interstate highways — the largest public works project in American history. The Interstate Highway System transformed American transportation, commerce, and daily life, making suburban living practical and reshaping the geography of American cities.",
+    "explorer": "In 1956, President Eisenhower signed a law to build 41,000 miles of highways connecting every part of America! It was the biggest construction project in history. These interstate highways made it easy to drive anywhere in the country and led to the growth of suburbs where millions of families moved."
+  },
+  "significance": {
+    "scholar": "The Interstate Highway System reshaped American geography, commerce, and culture, enabling suburban growth, long-distance trucking, and a car-centered society that defined the second half of the 20th century.",
+    "explorer": "These highways changed how Americans live. Without them, there would be no road trips, no suburbs the way we know them, and no easy way to drive across the country."
+  },
+  "relatedPresidentIds": [
+    "dwight-d-eisenhower"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "economy",
+    "science-tech"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

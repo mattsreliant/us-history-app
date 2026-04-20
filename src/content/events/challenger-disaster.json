@@ -1,0 +1,42 @@
+{
+  "id": "challenger-disaster",
+  "status": "published",
+  "title": {
+    "scholar": "Space Shuttle Challenger Disaster",
+    "explorer": "A Sad Day in Space"
+  },
+  "date": "1986-01-28",
+  "decade": "1980s",
+  "summary": {
+    "scholar": "On January 28, 1986, the Space Shuttle Challenger broke apart 73 seconds after launch, killing all seven crew members including Christa McAuliffe, who would have been the first teacher in space. Millions of schoolchildren were watching the launch live on television. The disaster was caused by a failed O-ring seal in a solid rocket booster. President Reagan addressed the nation that evening in one of the most memorable presidential speeches.",
+    "explorer": "On January 28, 1986, the Space Shuttle Challenger exploded 73 seconds after takeoff. All seven astronauts died, including Christa McAuliffe, a teacher who was going to teach lessons from space. Millions of kids were watching on TV at school. It was one of the saddest days in space history. President Reagan gave a beautiful speech that night to comfort the nation."
+  },
+  "significance": {
+    "scholar": "The Challenger disaster led to a 32-month suspension of shuttle flights and a complete redesign of shuttle safety procedures. Reagan's address became one of the most iconic presidential speeches.",
+    "explorer": "This tragedy reminded everyone how dangerous space travel is. It led to major safety improvements, and people will never forget the brave astronauts who were lost."
+  },
+  "relatedPresidentIds": [
+    "ronald-reagan"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "disaster",
+    "science-tech"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

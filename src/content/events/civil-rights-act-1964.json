@@ -1,0 +1,42 @@
+{
+  "id": "civil-rights-act-1964",
+  "status": "published",
+  "title": {
+    "scholar": "Civil Rights Act of 1964",
+    "explorer": "Equal Rights Become Law!"
+  },
+  "date": "1964-07-02",
+  "decade": "1960s",
+  "summary": {
+    "scholar": "The Civil Rights Act of 1964, signed by President Lyndon Johnson on July 2, was the most sweeping civil rights legislation since Reconstruction. The act prohibited discrimination based on race, color, religion, sex, or national origin in employment, public accommodations, and federally funded programs. It also created the Equal Employment Opportunity Commission to enforce workplace protections.",
+    "explorer": "On July 2, 1964, President Johnson signed the Civil Rights Act — one of the most important laws in American history! It made it illegal to discriminate against anyone because of their race, religion, or gender. No more 'whites only' signs. No more refusing to hire someone because of their skin color. Everyone was supposed to be treated equally."
+  },
+  "significance": {
+    "scholar": "The Civil Rights Act of 1964 dismantled legal segregation and established federal enforcement of equal rights, fundamentally transforming American society and law.",
+    "explorer": "This law changed America forever. It made it illegal to treat people differently because of their race or gender, and the government would actually enforce it."
+  },
+  "relatedPresidentIds": [
+    "lyndon-b-johnson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

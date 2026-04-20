@@ -1,0 +1,42 @@
+{
+  "id": "sherman-antitrust-act",
+  "status": "published",
+  "title": {
+    "scholar": "Sherman Antitrust Act",
+    "explorer": "Breaking Up Big Business!"
+  },
+  "date": "1890-07-02",
+  "decade": "1880s",
+  "summary": {
+    "scholar": "The Sherman Antitrust Act, signed into law on July 2, 1890, was the first federal legislation to prohibit monopolies and anticompetitive business practices. Named after Senator John Sherman of Ohio, the act declared illegal 'every contract, combination, or conspiracy in restraint of trade.' Though weakly enforced initially, it became the foundation for trust-busting under Theodore Roosevelt and remains a cornerstone of American competition law.",
+    "explorer": "In 1890, Congress passed the Sherman Antitrust Act — a law that said giant companies couldn't team up to control everything and charge unfair prices. At first the law didn't do much, but later President Teddy Roosevelt used it to break up huge monopolies. It's still used today to keep businesses from getting too powerful!"
+  },
+  "significance": {
+    "scholar": "The Sherman Act established the principle that the federal government could regulate private business to protect competition. It laid the groundwork for all subsequent antitrust enforcement.",
+    "explorer": "This law was the first time the government said 'companies can't get SO big that they control everything.' It's still used to keep businesses fair today."
+  },
+  "relatedPresidentIds": [
+    "benjamin-harrison"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "economy",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

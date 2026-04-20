@@ -1,0 +1,42 @@
+{
+  "id": "interstate-commerce-act",
+  "status": "published",
+  "title": {
+    "scholar": "Interstate Commerce Act",
+    "explorer": "Fair Rules for Railroads!"
+  },
+  "date": "1887-02-04",
+  "decade": "1880s",
+  "summary": {
+    "scholar": "The Interstate Commerce Act of 1887 was the first federal law to regulate private industry. It created the Interstate Commerce Commission (ICC) to oversee railroad practices, requiring that rates be 'reasonable and just' and prohibiting price discrimination. The act established the precedent of federal regulatory agencies overseeing private business.",
+    "explorer": "In 1887, Congress passed a law saying railroads had to charge fair prices! Railroads had been charging whatever they wanted, especially to farmers who had no other way to ship their crops. The Interstate Commerce Act created a government agency to make sure railroads played fair."
+  },
+  "significance": {
+    "scholar": "The Interstate Commerce Act established the precedent of federal regulation of private industry, creating the model for future regulatory agencies across all sectors of the economy.",
+    "explorer": "This was the first time the government said 'we're going to make rules for how businesses treat their customers.' It was a big deal for fairness."
+  },
+  "relatedPresidentIds": [
+    "grover-cleveland-22"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "economy",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

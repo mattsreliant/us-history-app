@@ -1,0 +1,42 @@
+{
+  "id": "bin-laden-raid",
+  "status": "published",
+  "title": {
+    "scholar": "Osama bin Laden Killed",
+    "explorer": "The 9/11 Mastermind Found"
+  },
+  "date": "2011-05-02",
+  "decade": "2010s",
+  "summary": {
+    "scholar": "On May 2, 2011, U.S. Navy SEALs killed al-Qaeda leader Osama bin Laden during a raid on his compound in Abbottabad, Pakistan. Bin Laden had been the mastermind of the September 11, 2001 terrorist attacks. The nearly decade-long manhunt ended with Operation Neptune Spear, authorized by President Obama. The news prompted spontaneous celebrations across the United States.",
+    "explorer": "On May 2, 2011, American special forces found and stopped Osama bin Laden — the man who planned the 9/11 attacks. He had been hiding in a compound in Pakistan. President Obama authorized the secret mission. When the news came out, people across America celebrated. The nearly 10-year search was finally over."
+  },
+  "significance": {
+    "scholar": "The killing of bin Laden brought a measure of closure to the September 11 attacks and demonstrated American persistence in pursuing those who threaten national security.",
+    "explorer": "Finding bin Laden after almost 10 years showed that America would never stop looking for the people who attacked it on 9/11."
+  },
+  "relatedPresidentIds": [
+    "barack-obama"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

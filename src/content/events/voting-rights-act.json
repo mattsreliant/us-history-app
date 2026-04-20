@@ -1,0 +1,42 @@
+{
+  "id": "voting-rights-act",
+  "status": "published",
+  "title": {
+    "scholar": "Voting Rights Act of 1965",
+    "explorer": "Every Vote Counts!"
+  },
+  "date": "1965-08-06",
+  "decade": "1960s",
+  "summary": {
+    "scholar": "The Voting Rights Act of 1965, signed by President Johnson on August 6, eliminated barriers that had prevented African Americans from exercising their right to vote, particularly in the South. The act banned literacy tests and authorized federal oversight of elections in areas with histories of discrimination. Black voter registration in the South increased dramatically, from 6.7% in Mississippi in 1964 to 59.8% by 1968.",
+    "explorer": "The Voting Rights Act of 1965 got rid of all the sneaky tricks that Southern states used to stop Black people from voting — like impossible tests and unfair rules. After this law, Black voter registration in Mississippi went from just 6.7% to almost 60%! It made sure that EVERY American could vote."
+  },
+  "significance": {
+    "scholar": "The Voting Rights Act was the most effective piece of civil rights legislation ever enacted, dramatically increasing African American political participation and representation.",
+    "explorer": "This was the law that finally made the promise of the 15th Amendment real. For the first time, Black Americans across the South could actually vote."
+  },
+  "relatedPresidentIds": [
+    "lyndon-b-johnson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

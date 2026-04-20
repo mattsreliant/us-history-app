@@ -1,0 +1,41 @@
+{
+  "id": "hurricane-katrina",
+  "status": "published",
+  "title": {
+    "scholar": "Hurricane Katrina",
+    "explorer": "A Devastating Hurricane"
+  },
+  "date": "2005-08-29",
+  "decade": "2000s",
+  "summary": {
+    "scholar": "Hurricane Katrina struck the Gulf Coast on August 29, 2005, causing catastrophic flooding in New Orleans after levees failed. The storm killed over 1,800 people and displaced more than one million, making it one of the deadliest and costliest natural disasters in American history. The inadequate federal response, particularly by FEMA, became a major political controversy and raised painful questions about race and poverty in America.",
+    "explorer": "In August 2005, Hurricane Katrina slammed into New Orleans and the Gulf Coast. The walls holding back water (called levees) broke, and the city flooded. Over 1,800 people died and more than a million had to leave their homes. Many people were angry because the government was too slow to help, especially the poorest neighborhoods."
+  },
+  "significance": {
+    "scholar": "Katrina exposed systemic failures in disaster preparedness, infrastructure maintenance, and government response, while highlighting persistent racial and economic inequalities in American society.",
+    "explorer": "Hurricane Katrina showed that America wasn't prepared for a major disaster. It made people think hard about how to protect everyone — especially those who need help the most."
+  },
+  "relatedPresidentIds": [
+    "george-w-bush"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "disaster"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

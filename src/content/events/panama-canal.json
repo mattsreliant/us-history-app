@@ -1,0 +1,42 @@
+{
+  "id": "panama-canal",
+  "status": "published",
+  "title": {
+    "scholar": "Panama Canal Construction Begins",
+    "explorer": "Digging Across a Continent!"
+  },
+  "date": "1904",
+  "decade": "1900s",
+  "summary": {
+    "scholar": "In 1904, the United States began construction of the Panama Canal, one of the greatest engineering feats in history. President Theodore Roosevelt secured the canal zone after supporting Panamanian independence from Colombia. The 51-mile canal, completed in 1914, connected the Atlantic and Pacific Oceans and dramatically reduced shipping times. Over 25,000 workers died during French and American construction efforts.",
+    "explorer": "In 1904, America started digging the Panama Canal — a waterway cut through Central America to connect the Atlantic and Pacific Oceans! It took 10 years to finish and was one of the hardest construction projects ever. Ships no longer had to sail all the way around South America!"
+  },
+  "significance": {
+    "scholar": "The Panama Canal revolutionized global shipping, cutting the New York-to-San Francisco sea voyage from 13,000 miles to 5,000 miles and establishing American strategic dominance in the Western Hemisphere.",
+    "explorer": "The canal cut the trip from New York to San Francisco by sea from 13,000 miles to just 5,000 miles. It was a game-changer for world trade."
+  },
+  "relatedPresidentIds": [
+    "theodore-roosevelt"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "exploration",
+    "economy"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

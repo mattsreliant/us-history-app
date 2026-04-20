@@ -1,0 +1,40 @@
+{
+  "id": "triangle-fire",
+  "status": "published",
+  "title": {
+    "scholar": "Triangle Shirtwaist Factory Fire",
+    "explorer": "A Terrible Factory Fire"
+  },
+  "date": "1911-03-25",
+  "decade": "1910s",
+  "summary": {
+    "scholar": "On March 25, 1911, a fire at the Triangle Shirtwaist Factory in New York City killed 146 garment workers, mostly young immigrant women. The workers were trapped because managers had locked the exit doors to prevent unauthorized breaks. The tragedy galvanized the labor movement and led to sweeping workplace safety reforms, including new fire safety codes and factory inspection laws.",
+    "explorer": "On March 25, 1911, a terrible fire broke out in a clothing factory in New York City. 146 workers died — mostly young women — because the bosses had LOCKED the exit doors! This tragedy made people so angry that new laws were passed to make workplaces safer. It was a turning point for workers' rights."
+  },
+  "significance": {
+    "scholar": "The Triangle fire became a rallying point for labor reform, leading to dozens of new workplace safety laws and strengthening the labor movement nationwide.",
+    "explorer": "This terrible fire led to laws that protect workers today. Fire exits, sprinklers, and safety inspections all came because of what happened that day."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "disaster",
+    "economy"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

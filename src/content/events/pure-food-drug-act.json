@@ -1,0 +1,42 @@
+{
+  "id": "pure-food-drug-act",
+  "status": "published",
+  "title": {
+    "scholar": "Pure Food and Drug Act",
+    "explorer": "Making Food Safe!"
+  },
+  "date": "1906-06-30",
+  "decade": "1900s",
+  "summary": {
+    "scholar": "The Pure Food and Drug Act of 1906 prohibited the manufacture and sale of adulterated or mislabeled food and drugs. Spurred by muckraking journalism — particularly Upton Sinclair's novel The Jungle, which exposed horrific conditions in meatpacking plants — the act established the foundation for the modern Food and Drug Administration (FDA) and marked a major expansion of consumer protection.",
+    "explorer": "In 1906, a book called The Jungle showed how gross and dangerous the food in America's meatpacking factories really was. People were SO disgusted that Congress quickly passed a law making it illegal to sell rotten or fake food and drugs. This law led to the creation of the FDA, which still keeps our food safe today!"
+  },
+  "significance": {
+    "scholar": "The Pure Food and Drug Act launched the era of consumer protection in America and established the regulatory framework that evolved into the modern FDA.",
+    "explorer": "This law is the reason you can trust that the food you buy at the store is safe to eat. The FDA still protects Americans' food and medicine today."
+  },
+  "relatedPresidentIds": [
+    "theodore-roosevelt"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "science-tech"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

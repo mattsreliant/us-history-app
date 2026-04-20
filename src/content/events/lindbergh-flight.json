@@ -1,0 +1,42 @@
+{
+  "id": "lindbergh-flight",
+  "status": "published",
+  "title": {
+    "scholar": "Lindbergh Crosses the Atlantic",
+    "explorer": "Flying Across the Ocean!"
+  },
+  "date": "1927-05-20",
+  "decade": "1920s",
+  "summary": {
+    "scholar": "On May 20-21, 1927, Charles Lindbergh completed the first solo nonstop transatlantic flight, flying his single-engine plane Spirit of St. Louis from New York to Paris in 33.5 hours. Lindbergh became an instant international celebrity and American hero. The flight demonstrated the potential of long-distance aviation and sparked massive public interest in air travel.",
+    "explorer": "On May 20, 1927, a 25-year-old pilot named Charles Lindbergh flew his little plane all the way from New York to Paris — alone, without stopping! It took 33 and a half hours. He became the most famous person in the world overnight! His flight showed everyone that airplanes could go anywhere."
+  },
+  "significance": {
+    "scholar": "Lindbergh's flight captured the world's imagination and accelerated the development of commercial aviation, transforming air travel from a novelty into a practical mode of transportation.",
+    "explorer": "Lindbergh proved that planes could cross oceans. Within a few decades, millions of people would fly across the Atlantic like it was no big deal."
+  },
+  "relatedPresidentIds": [
+    "calvin-coolidge"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "exploration",
+    "science-tech"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

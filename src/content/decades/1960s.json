@@ -16,9 +16,14 @@
     "bay-of-pigs",
     "cuban-missile-crisis",
     "march-on-washington",
-    "jfk-assassination"
+    "jfk-assassination",
+    "civil-rights-act-1964",
+    "voting-rights-act",
+    "apollo-11"
   ],
-  "keyFigureIds": ["john-f-kennedy"],
+  "keyFigureIds": [
+    "john-f-kennedy"
+  ],
   "imageUrl": "",
   "imageCredit": "",
   "sources": [

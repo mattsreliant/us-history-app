@@ -13,7 +13,8 @@
   },
   "eventIds": [
     "stock-market-crash",
-    "new-deal"
+    "new-deal",
+    "dust-bowl"
   ],
   "keyFigureIds": [
     "herbert-hoover",
