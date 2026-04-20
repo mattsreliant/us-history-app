@@ -6,12 +6,15 @@
   "party": "Republican",
   "termStart": "1861",
   "termEnd": "1865",
-  "vicePresidents": ["Hannibal Hamlin (1861-1865)", "Andrew Johnson (1865)"],
+  "vicePresidents": [
+    "Hannibal Hamlin (1861-1865)",
+    "Andrew Johnson (1865)"
+  ],
   "born": "1809-02-12",
   "died": "1865-04-15",
   "birthplace": "Hardin (now LaRue) County, Kentucky",
-  "portraitUrl": "/images/presidents/abraham-lincoln.jpg",
-  "portraitCredit": "Photograph by Alexander Gardner, November 8, 1863. Public domain.",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/500px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg",
+  "portraitCredit": "Portrait via Wikimedia Commons. Public domain.",
   "bio": {
     "scholar": "Abraham Lincoln, the sixteenth President of the United States, led the nation through its most devastating internal conflict — the Civil War. Born in a log cabin in Kentucky, Lincoln was largely self-educated, teaching himself law and entering politics through the Illinois state legislature as a member of the Whig Party before helping to establish the Republican Party. He became the first Republican president upon his election in 1860, a victory that prompted seven Southern states to secede before he even took office. Over the next four years, Lincoln guided the Union through a war that claimed over 600,000 American lives, issued the Emancipation Proclamation that transformed the conflict from a war to preserve the Union into a war for human freedom, and secured passage of the Thirteenth Amendment abolishing slavery nationwide. He was assassinated by John Wilkes Booth at Ford's Theatre on April 14, 1865 — just days after the Confederate surrender at Appomattox.",
     "explorer": "Abraham Lincoln grew up in a log cabin and taught himself to read and write. He became a lawyer, then entered politics, and in 1860 he was elected the 16th President of the United States — the first from the Republican Party. When Southern states left the Union because they wanted to keep slavery, Lincoln led the country through the Civil War. In 1863, he signed the Emancipation Proclamation, which freed enslaved people in the Confederate states. He also helped pass the Thirteenth Amendment, which ended slavery everywhere in America for good. Sadly, Lincoln was shot by John Wilkes Booth at a theater in Washington, D.C., just days after the war ended. He is remembered as one of America's greatest presidents."

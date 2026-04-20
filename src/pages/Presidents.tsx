@@ -22,6 +22,14 @@ export function PresidentsPage() {
             to={`/presidents/${p.id}`}
             className={`president-card ${p.status !== 'published' ? 'muted' : ''}`}
           >
+            {p.portraitUrl && (
+              <img
+                src={p.portraitUrl}
+                alt={`Portrait of ${p.name}`}
+                className="president-card-portrait"
+                loading="lazy"
+              />
+            )}
             <div className="president-card-number">#{p.number}</div>
             <div className="president-card-name">{p.name}</div>
             <div className="president-card-info">

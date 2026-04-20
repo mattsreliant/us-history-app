@@ -6,12 +6,14 @@
   "party": "Democratic",
   "termStart": "1961",
   "termEnd": "1963",
-  "vicePresidents": ["Lyndon B. Johnson (1961-1963)"],
+  "vicePresidents": [
+    "Lyndon B. Johnson (1961-1963)"
+  ],
   "born": "1917-05-29",
   "died": "1963-11-22",
   "birthplace": "Brookline, Massachusetts",
-  "portraitUrl": "/images/presidents/john-f-kennedy.webp",
-  "portraitCredit": "White House Press Office photograph, February 20, 1961. Public domain (U.S. government work).",
+  "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/500px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+  "portraitCredit": "Portrait via Wikimedia Commons. Public domain.",
   "bio": {
     "scholar": "John Fitzgerald Kennedy, the thirty-fifth President of the United States, was the youngest person elected to the office and the first Roman Catholic president. Born into a wealthy, politically connected Boston family of Irish-Catholics, Kennedy graduated from Harvard in 1940, served in hazardous combat duty in the Pacific during World War II, and entered politics as a U.S. Representative (1947-1953) and then Senator (1953-1961) from Massachusetts. His brief presidency — cut short by assassination in Dallas on November 22, 1963 — was marked by the Cuban Missile Crisis, the establishment of the Peace Corps, the challenge to land a man on the moon, and growing support for the civil rights movement. He was buried at Arlington National Cemetery.",
     "explorer": "John F. Kennedy — or JFK, as many people called him — became the 35th President in 1961. He was the youngest person ever elected president and the first Catholic president. Kennedy had been a war hero in World War II and later served in Congress. As president, he started the Peace Corps, challenged America to send astronauts to the moon, and stood up for civil rights. Tragically, he was shot and killed in Dallas, Texas, on November 22, 1963. He was only 46 years old."
