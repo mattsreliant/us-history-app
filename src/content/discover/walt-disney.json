@@ -1,0 +1,55 @@
+{
+  "id": "walt-disney",
+  "status": "published",
+  "type": "person",
+  "name": "Walt Disney",
+  "year": "1901-1966",
+  "role": "Animator, Entrepreneur",
+  "category": "arts",
+  "summary": {
+    "scholar": "Walt Disney revolutionized American entertainment through animation, theme parks, and family entertainment. He created Mickey Mouse in 1928, produced the first full-length animated feature film (Snow White and the Seven Dwarfs, 1937), and opened Disneyland in 1955. Disney won 22 Academy Awards — more than any other individual in history — and built an entertainment empire that continues to shape global popular culture.",
+    "explorer": "Walt Disney created Mickey Mouse, built Disneyland, and made the first full-length cartoon movie ever — Snow White! He won 22 Oscars, more than anyone in history. His movies, characters, and theme parks have brought joy to billions of people around the world for almost 100 years."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Disney won 22 Academy Awards during his career, more than any other individual in history. He was also nominated 59 times.",
+        "explorer": "He won 22 Oscars — more than any single person EVER! He was nominated 59 times."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

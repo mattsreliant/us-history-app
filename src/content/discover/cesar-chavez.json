@@ -1,0 +1,55 @@
+{
+  "id": "cesar-chavez",
+  "status": "published",
+  "type": "person",
+  "name": "Cesar Chavez",
+  "year": "1927-1993",
+  "role": "Labor leader, Civil Rights activist",
+  "category": "civil-rights",
+  "summary": {
+    "scholar": "Cesar Chavez co-founded the National Farm Workers Association (later the United Farm Workers) and led a five-year grape boycott (1965-1970) that brought national attention to the plight of migrant farmworkers. A practitioner of nonviolent resistance inspired by Gandhi and Martin Luther King Jr., Chavez fought for fair wages, safe working conditions, and basic dignity for some of America's most exploited workers.",
+    "explorer": "Cesar Chavez fought for the rights of farmworkers — the people who pick the fruits and vegetables we eat. Many farmworkers were treated terribly and paid almost nothing. Chavez organized boycotts and marches to demand fair treatment. He used peaceful protest, just like Martin Luther King Jr., and helped millions of workers get better pay and safer conditions."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Chavez led a nationwide grape boycott from 1965 to 1970 that eventually involved 17 million Americans refusing to buy grapes, forcing growers to negotiate.",
+        "explorer": "He convinced 17 million Americans to stop buying grapes until the farmworkers got better treatment! It took five years, but it worked."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

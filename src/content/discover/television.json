@@ -1,0 +1,55 @@
+{
+  "id": "television",
+  "status": "published",
+  "type": "invention",
+  "name": "Television",
+  "year": "1927",
+  "role": "Visual broadcasting",
+  "category": "invention",
+  "summary": {
+    "scholar": "Philo Farnsworth demonstrated the first fully electronic television system in 1927 at age 21. Television transformed American culture, politics, and daily life. By the 1950s, TV had become the dominant medium of American entertainment and information, reshaping everything from family routines to political campaigns.",
+    "explorer": "A 21-year-old inventor named Philo Farnsworth created the first all-electronic TV in 1927! By the 1950s, almost every family in America had one. TV changed EVERYTHING — how people had fun, learned about the news, and even how they picked their presidents!"
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Farnsworth was just 21 years old when he demonstrated his electronic television system. He had conceived the basic design at age 14 while plowing a potato field in Idaho.",
+        "explorer": "Farnsworth was only 21 when he showed off his invention, and he first came up with the idea at age 14 while working on a potato farm!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

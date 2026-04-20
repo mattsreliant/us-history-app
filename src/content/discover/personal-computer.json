@@ -1,0 +1,55 @@
+{
+  "id": "personal-computer",
+  "status": "published",
+  "type": "invention",
+  "name": "Personal Computer",
+  "year": "1975",
+  "role": "Computing",
+  "category": "invention",
+  "summary": {
+    "scholar": "The personal computer revolution began in the mid-1970s with the Altair 8800 (1975) and exploded with the Apple II (1977) and IBM PC (1981). Steve Jobs and Steve Wozniak founded Apple Computer in a garage, while Bill Gates and Paul Allen created Microsoft. PCs transformed business, education, and daily life, putting computing power that once filled entire rooms onto every desk.",
+    "explorer": "In the 1970s, computers went from filling whole rooms to sitting on your desk! Steve Jobs and Steve Wozniak started Apple in a garage, and Bill Gates started Microsoft. These personal computers changed everything — how people work, learn, play games, and even how they talk to each other."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Apple Computer was founded in Steve Jobs's parents' garage in Los Altos, California in 1976. The company would become the most valuable in the world.",
+        "explorer": "Apple started in a GARAGE! Steve Jobs and his friend Steve Wozniak built their first computers there. Now Apple is worth trillions of dollars."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

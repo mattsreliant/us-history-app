@@ -1,0 +1,55 @@
+{
+  "id": "amelia-earhart",
+  "status": "published",
+  "type": "person",
+  "name": "Amelia Earhart",
+  "year": "1897-1937",
+  "role": "Aviator",
+  "category": "exploration",
+  "summary": {
+    "scholar": "Amelia Earhart was the first woman to fly solo across the Atlantic Ocean, completing the flight on May 20-21, 1932. She set numerous aviation records and became an international celebrity who championed women's equality and advancement in aviation. In 1937, she disappeared over the Pacific Ocean while attempting to fly around the world. Her fate remains one of history's great unsolved mysteries.",
+    "explorer": "Amelia Earhart was the first woman to fly solo across the Atlantic Ocean! She was a famous pilot who proved that women could do anything men could do. In 1937, she tried to fly all the way around the world, but her plane disappeared over the Pacific Ocean. Nobody has ever figured out what happened to her."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Earhart disappeared on July 2, 1937 while attempting to circumnavigate the globe. Despite extensive searches, neither she nor her plane were ever found.",
+        "explorer": "She vanished while trying to fly around the world, and despite huge search efforts, no one has ever found her or her plane. It's one of history's biggest mysteries!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

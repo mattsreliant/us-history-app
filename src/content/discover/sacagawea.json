@@ -1,0 +1,55 @@
+{
+  "id": "sacagawea",
+  "status": "published",
+  "type": "person",
+  "name": "Sacagawea",
+  "year": "c.1788-1812",
+  "role": "Explorer, Interpreter",
+  "category": "exploration",
+  "summary": {
+    "scholar": "Sacagawea, a Lemhi Shoshone woman, served as interpreter and guide for the Lewis and Clark Expedition (1804-1806). Captured as a child and sold to French-Canadian fur trader Toussaint Charbonneau, she joined the expedition while pregnant and gave birth along the journey. Her knowledge of terrain, plants, and Native American languages proved invaluable. She carried her infant son on her back for thousands of miles.",
+    "explorer": "Sacagawea was a young Native American woman who helped Lewis and Clark explore the West! She translated languages, found food, and showed them the way through mountains and rivers. She did all of this while carrying her baby on her back! She was incredibly brave and tough."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Sacagawea carried her infant son, Jean Baptiste, on her back throughout most of the 8,000-mile Lewis and Clark Expedition.",
+        "explorer": "She carried her baby son on her back for almost the entire 8,000-mile journey! That's like walking across the country and back."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

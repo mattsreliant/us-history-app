@@ -1,0 +1,55 @@
+{
+  "id": "eleanor-roosevelt",
+  "status": "published",
+  "type": "person",
+  "name": "Eleanor Roosevelt",
+  "year": "1884-1962",
+  "role": "First Lady, Human Rights advocate",
+  "category": "civil-rights",
+  "summary": {
+    "scholar": "Eleanor Roosevelt transformed the role of First Lady from ceremonial hostess to active political figure during her husband FDR's presidency (1933-1945). She held press conferences, wrote a newspaper column, and advocated for civil rights, women's rights, and the poor. After FDR's death, she served as the first U.S. delegate to the United Nations and chaired the committee that drafted the Universal Declaration of Human Rights (1948).",
+    "explorer": "Eleanor Roosevelt wasn't just a First Lady — she was a champion for human rights! While her husband FDR was president, she traveled the country standing up for poor people, Black Americans, and women. After FDR died, she helped write the Universal Declaration of Human Rights at the United Nations, which says what rights ALL people in the world deserve."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Roosevelt chaired the UN committee that drafted the Universal Declaration of Human Rights, adopted in 1948 and considered one of the most important human rights documents in history.",
+        "explorer": "She led the team that wrote the Universal Declaration of Human Rights — a document that says every person in the world deserves basic rights and freedoms."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

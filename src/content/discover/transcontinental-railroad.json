@@ -1,0 +1,55 @@
+{
+  "id": "transcontinental-railroad",
+  "status": "published",
+  "type": "invention",
+  "name": "Transcontinental Railroad",
+  "year": "1869",
+  "role": "Coast-to-coast rail transport",
+  "category": "invention",
+  "summary": {
+    "scholar": "The First Transcontinental Railroad was completed on May 10, 1869 when the Central Pacific and Union Pacific railroads met at Promontory Summit, Utah. A golden spike was driven to mark the occasion. The railroad reduced cross-country travel from months to about a week and transformed the American economy by connecting eastern markets with western resources.",
+    "explorer": "On May 10, 1869, workers from two railroad companies met in Utah and connected the first railroad that went all the way across America! They hammered in a golden spike to celebrate. Before this, crossing the country took months by wagon. Now you could do it in a week by train!"
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "A golden spike was ceremonially driven at Promontory Summit, Utah to mark the railroad's completion. The news was transmitted instantly by telegraph across the nation.",
+        "explorer": "They used a golden spike to connect the two railroads! The news was sent by telegraph and the whole country celebrated at the same time."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

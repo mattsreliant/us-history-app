@@ -1,0 +1,55 @@
+{
+  "id": "steamboat",
+  "status": "published",
+  "type": "invention",
+  "name": "Steamboat",
+  "year": "1807",
+  "role": "Water transportation",
+  "category": "invention",
+  "summary": {
+    "scholar": "Robert Fulton's steamboat Clermont made its first successful voyage up the Hudson River in 1807, traveling from New York City to Albany in 32 hours. Steam-powered boats revolutionized river transportation, making it possible to travel upstream efficiently for the first time and opening the interior of the continent to commerce.",
+    "explorer": "In 1807, Robert Fulton built a steamboat called the Clermont that could travel UPSTREAM on rivers! Before this, boats could only float downstream easily. The Clermont went from New York City to Albany in 32 hours. Steamboats opened up the whole country to trade and travel."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "The Clermont traveled from New York City to Albany in about 32 hours, a journey that took sailing ships four days.",
+        "explorer": "The Clermont made a trip that used to take four days by sailboat in just 32 hours!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

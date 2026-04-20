@@ -1,0 +1,55 @@
+{
+  "id": "nuclear-energy",
+  "status": "published",
+  "type": "invention",
+  "name": "Nuclear Energy",
+  "year": "1942",
+  "role": "Power generation",
+  "category": "science",
+  "summary": {
+    "scholar": "On December 2, 1942, physicist Enrico Fermi achieved the first controlled nuclear chain reaction at the University of Chicago, demonstrating that nuclear energy could be harnessed. This breakthrough led to both the development of atomic weapons during the Manhattan Project and, later, nuclear power plants that generate about 20% of America's electricity today.",
+    "explorer": "On December 2, 1942, a scientist named Enrico Fermi created the first controlled nuclear reaction under the bleachers of a football stadium in Chicago! This discovery led to the atomic bomb (used to end World War II) and later to nuclear power plants that make electricity without burning coal or gas."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Fermi's historic experiment took place in a squash court beneath the stands of the University of Chicago's Stagg Field football stadium.",
+        "explorer": "The experiment happened under the bleachers of a football stadium! Nobody watching a game there would have known that history was being made underneath them."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

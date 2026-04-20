@@ -1,0 +1,55 @@
+{
+  "id": "mark-twain",
+  "status": "published",
+  "type": "person",
+  "name": "Mark Twain",
+  "year": "1835-1910",
+  "role": "Author, Humorist",
+  "category": "arts",
+  "summary": {
+    "scholar": "Mark Twain (born Samuel Clemens) is widely regarded as the father of American literature. His novels The Adventures of Tom Sawyer (1876) and Adventures of Huckleberry Finn (1884) captured the American experience with humor, social criticism, and an authentic vernacular voice. Ernest Hemingway later said 'All modern American literature comes from one book by Mark Twain called Huckleberry Finn.'",
+    "explorer": "Mark Twain was one of the funniest and most important writers in American history! His real name was Samuel Clemens. He wrote The Adventures of Tom Sawyer and Huckleberry Finn — stories about boys having adventures along the Mississippi River. His books are still read and loved today."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Twain's pen name 'Mark Twain' came from a riverboat term meaning two fathoms (12 feet) of water — the minimum depth safe for a steamboat.",
+        "explorer": "His pen name 'Mark Twain' came from a riverboat term meaning the water is deep enough for the boat. He used to work on riverboats!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

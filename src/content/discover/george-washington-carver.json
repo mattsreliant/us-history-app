@@ -1,0 +1,55 @@
+{
+  "id": "george-washington-carver",
+  "status": "published",
+  "type": "person",
+  "name": "George Washington Carver",
+  "year": "c.1864-1943",
+  "role": "Scientist, Inventor",
+  "category": "science",
+  "summary": {
+    "scholar": "George Washington Carver was a pioneering agricultural scientist who developed hundreds of products from peanuts, sweet potatoes, and soybeans. Born into slavery, Carver became the most prominent Black scientist of the early 20th century. At the Tuskegee Institute in Alabama, he taught poor Southern farmers how to improve their soil and diversify their crops, transforming Southern agriculture.",
+    "explorer": "George Washington Carver was born into slavery but became one of America's greatest scientists! He figured out over 300 things you could make from peanuts — including dyes, plastics, and even gasoline! He taught poor farmers in the South how to grow better crops and take care of their soil."
+  },
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Carver developed over 300 products from peanuts and 118 from sweet potatoes, helping to diversify Southern agriculture away from cotton monoculture.",
+        "explorer": "He invented over 300 products from peanuts! That's a LOT of things you can make from one little nut."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: U.S. Presidents and American History",
+          "url": "https://millercenter.org/president",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "National Park Service: American History",
+          "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and American History",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}
