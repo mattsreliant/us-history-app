@@ -1,8 +1,10 @@
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import { useMode } from '../lib/mode';
 import { getDiscoverEntries, voice } from '../lib/content';
-import type { DiscoverCategory } from '../lib/types';
+import type { DiscoverCategory, DiscoverEntry } from '../lib/types';
+
+type SortMode = 'alpha' | 'chrono';
 
 const CATEGORIES: { value: DiscoverCategory | 'all'; label: string; labelKid: string }[] = [
   { value: 'all', label: 'All', labelKid: 'Everything!' },
@@ -15,10 +17,25 @@ const CATEGORIES: { value: DiscoverCategory | 'all'; label: string; labelKid: st
   { value: 'business', label: 'Business', labelKid: 'Business' },
 ];
 
+function sortYear(entry: DiscoverEntry): number {
+  // Extract the first 4-digit year from the year string
+  // Handles "1793", "1706-1790", "c.1788-1812", etc.
+  const m = entry.year.match(/\d{4}/);
+  return m ? parseInt(m[0]) : 9999;
+}
+
 export function DiscoverPage() {
   const { mode } = useMode();
   const [filter, setFilter] = useState<DiscoverCategory | 'all'>('all');
-  const entries = filter === 'all' ? getDiscoverEntries() : getDiscoverEntries(filter);
+  const [sort, setSort] = useState<SortMode>('alpha');
+
+  const entries = useMemo(() => {
+    const raw = filter === 'all' ? getDiscoverEntries() : getDiscoverEntries(filter);
+    if (sort === 'chrono') {
+      return [...raw].sort((a, b) => sortYear(a) - sortYear(b));
+    }
+    return [...raw].sort((a, b) => a.name.localeCompare(b.name));
+  }, [filter, sort]);
 
   return (
     <div className="page-content" style={{ maxWidth: '1000px' }}>
@@ -29,27 +46,44 @@ export function DiscoverPage() {
           : 'Learn about awesome inventions and incredible people from America\'s past!'}
       </p>
 
-      <div className="discover-filters">
-        {CATEGORIES.map(cat => {
-          const count = cat.value === 'all'
-            ? getDiscoverEntries().length
-            : getDiscoverEntries(cat.value).length;
-          if (count === 0 && cat.value !== 'all') return null;
-          return (
-            <button
-              key={cat.value}
-              className={`filter-chip ${filter === cat.value ? 'active' : ''}`}
-              onClick={() => setFilter(cat.value)}
-            >
-              {mode === 'scholar' ? cat.label : cat.labelKid} ({count})
-            </button>
-          );
-        })}
+      <div className="discover-controls">
+        <div className="discover-filters">
+          {CATEGORIES.map(cat => {
+            const count = cat.value === 'all'
+              ? getDiscoverEntries().length
+              : getDiscoverEntries(cat.value).length;
+            if (count === 0 && cat.value !== 'all') return null;
+            return (
+              <button
+                key={cat.value}
+                className={`filter-chip ${filter === cat.value ? 'active' : ''}`}
+                onClick={() => setFilter(cat.value)}
+              >
+                {mode === 'scholar' ? cat.label : cat.labelKid} ({count})
+              </button>
+            );
+          })}
+        </div>
+
+        <div className="discover-sort">
+          <button
+            className={`sort-tab ${sort === 'alpha' ? 'active' : ''}`}
+            onClick={() => setSort('alpha')}
+          >
+            {mode === 'scholar' ? 'A\u2013Z' : 'ABC'}
+          </button>
+          <button
+            className={`sort-tab ${sort === 'chrono' ? 'active' : ''}`}
+            onClick={() => setSort('chrono')}
+          >
+            {mode === 'scholar' ? 'Chronological' : 'Oldest First'}
+          </button>
+        </div>
       </div>
 
       {entries.length === 0 ? (
         <p style={{ textAlign: 'center', color: 'var(--muted)', marginTop: '48px' }}>
-          {mode === 'scholar' ? 'No entries in this category yet.' : 'Nothing here yet — check back soon!'}
+          {mode === 'scholar' ? 'No entries in this category yet.' : 'Nothing here yet \u2014 check back soon!'}
         </p>
       ) : (
         <div className="discover-grid">

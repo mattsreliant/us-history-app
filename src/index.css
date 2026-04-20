@@ -538,7 +538,6 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  margin-bottom: 24px;
 }
 .filter-chip {
   padding: 6px 14px;
@@ -556,6 +555,38 @@ a:hover {
   background: var(--accent);
   color: white;
   border-color: var(--accent);
+}
+.discover-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+.discover-sort {
+  display: flex;
+  border: 1px solid rgba(0,0,0,0.12);
+  border-radius: 6px;
+  overflow: hidden;
+}
+.sort-tab {
+  padding: 6px 14px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-family: var(--body-font);
+  font-size: 0.8rem;
+  color: var(--muted);
+  transition: all 0.15s;
+}
+.sort-tab:not(:last-child) {
+  border-right: 1px solid rgba(0,0,0,0.12);
+}
+.sort-tab:hover { color: var(--accent); }
+.sort-tab.active {
+  background: var(--accent);
+  color: white;
 }
 .discover-grid {
   display: grid;
