@@ -1,9 +1,10 @@
 // ══════════════════════════════════════════════════════════════
-// Site Header — nav + mode toggle
+// Site Header — nav + search + mode toggle
 // ══════════════════════════════════════════════════════════════
 
 import { Link } from 'react-router-dom';
 import { ModeToggle } from './ModeToggle';
+import { SearchButton } from './Search';
 import { useMode } from '../../lib/mode';
 
 export function Header() {
@@ -25,6 +26,7 @@ export function Header() {
           <Link to="/about">About</Link>
         </nav>
 
+        <SearchButton />
         <ModeToggle />
       </div>
     </header>

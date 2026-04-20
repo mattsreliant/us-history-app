@@ -10,6 +10,7 @@ import { PresidentsPage } from './pages/Presidents';
 import { PresidentDetailPage } from './pages/PresidentDetail';
 import { DiscoverPage } from './pages/Discover';
 import { DiscoverDetailPage } from './pages/DiscoverDetail';
+import { SearchDialog } from './components/shared/Search';
 
 // Register all content JSON files
 import './content/index';
@@ -24,6 +25,7 @@ function App() {
           Skip to content
         </a>
         <Header />
+        <SearchDialog />
         <main id="main-content">
           <Routes>
             <Route path="/" element={<HomePage />} />
