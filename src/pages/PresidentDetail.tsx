@@ -1,8 +1,8 @@
 import { useParams, Link } from 'react-router-dom';
 import { useMode } from '../lib/mode';
-import { getPresident, getEvent, voice, isPublished } from '../lib/content';
+import { getPresident, getEvent, voice } from '../lib/content';
 import { SourceList } from '../components/shared/SourceList';
-import type { President, SourcedClaim } from '../lib/types';
+import type { SourcedClaim } from '../lib/types';
 
 function Claim({ claim, mode }: { claim: SourcedClaim; mode: 'scholar' | 'explorer' }) {
   return (
