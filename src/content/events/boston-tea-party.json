@@ -1,0 +1,39 @@
+{
+  "id": "boston-tea-party",
+  "status": "published",
+  "title": {
+    "scholar": "The Boston Tea Party",
+    "explorer": "Tea Party in the Harbor!"
+  },
+  "date": "1773-12-16",
+  "decade": "1770s",
+  "summary": {
+    "scholar": "On December 16, 1773, American colonists disguised as Mohawk Indians boarded three British ships in Boston Harbor and dumped 342 chests of tea into the water to protest British taxation without representation. The act of defiance was a response to the Tea Act, which granted the British East India Company a monopoly on tea sales in the colonies.",
+    "explorer": "On December 16, 1773, colonists dressed up as Native Americans, snuck onto British ships in Boston Harbor, and threw 342 chests of tea into the water! They were angry because Britain was taxing them without letting them have a say. It was one of the boldest protests in history!"
+  },
+  "significance": {
+    "scholar": "The Boston Tea Party escalated tensions between the colonies and Britain, leading directly to the punitive Intolerable Acts of 1774 and ultimately to the American Revolution.",
+    "explorer": "This protest made Britain SO mad that they passed really harsh laws to punish the colonists. But instead of giving up, the colonists got even more determined to fight for freedom."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

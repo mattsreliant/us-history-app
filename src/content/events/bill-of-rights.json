@@ -1,0 +1,42 @@
+{
+  "id": "bill-of-rights",
+  "status": "published",
+  "title": {
+    "scholar": "The Bill of Rights Ratified",
+    "explorer": "Your Rights, Written Down!"
+  },
+  "date": "1791-12-15",
+  "decade": "1790s",
+  "summary": {
+    "scholar": "The Bill of Rights — the first ten amendments to the Constitution — was ratified on December 15, 1791. Championed by James Madison, these amendments guaranteed fundamental freedoms including freedom of speech, religion, and the press; the right to bear arms; protection against unreasonable searches; and the right to a fair trial. The Bill of Rights addressed Anti-Federalist concerns that the original Constitution lacked explicit protections for individual liberties.",
+    "explorer": "The Bill of Rights became law on December 15, 1791. These are the first ten additions to the Constitution, and they protect your most important freedoms! Freedom of speech, freedom of religion, the right to a fair trial — these rights belong to every American. James Madison wrote them because people were worried the Constitution didn't do enough to protect individual rights."
+  },
+  "significance": {
+    "scholar": "The Bill of Rights established a tradition of constitutional protection for individual liberties that has expanded through subsequent amendments and judicial interpretation over more than two centuries.",
+    "explorer": "The Bill of Rights is what protects your freedoms every single day. Without it, the government could tell you what to say, what to believe, and where to go."
+  },
+  "relatedPresidentIds": [
+    "george-washington"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

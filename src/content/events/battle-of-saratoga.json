@@ -1,0 +1,41 @@
+{
+  "id": "battle-of-saratoga",
+  "status": "published",
+  "title": {
+    "scholar": "Battle of Saratoga",
+    "explorer": "The Battle That Changed Everything!"
+  },
+  "date": "1777-10-07",
+  "decade": "1770s",
+  "summary": {
+    "scholar": "The Battle of Saratoga (September-October 1777) was the turning point of the American Revolution. The American victory over British General John Burgoyne's forces in upstate New York demonstrated that the Continental Army could defeat a major British force. More critically, the victory convinced France to enter the war as America's ally, providing the military and financial support that would prove decisive.",
+    "explorer": "The Battle of Saratoga in 1777 was the turning point of the whole Revolutionary War! When the Americans won this big battle in New York, it proved they could beat the British army. Even better, it convinced France to join America's side — and France's help made all the difference!"
+  },
+  "significance": {
+    "scholar": "Saratoga is widely considered the most important battle of the Revolution. French entry into the war transformed a colonial rebellion into a global conflict that Britain could not win.",
+    "explorer": "This battle changed the war because France decided to help America. Without France's soldiers, ships, and money, America might not have won its freedom."
+  },
+  "relatedPresidentIds": [
+    "george-washington"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

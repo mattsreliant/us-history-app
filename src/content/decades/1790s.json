@@ -11,7 +11,10 @@
     "scholar": "The 1790s were the first full decade of the new American republic. George Washington served as the first president (1789-1797), establishing crucial precedents including the cabinet system, the two-term tradition, and the peaceful transfer of power. John Adams succeeded him as the second president, navigating challenges of maintaining neutrality in European conflicts. The decade saw the birth of America's first political parties — Hamilton's Federalists and Jefferson's Democratic-Republicans.",
     "explorer": "The 1790s were America's first steps as a new country! George Washington became the very first president, and he set up a lot of rules about how presidents should act. When John Adams became the second president, it was the first time one leader peacefully handed power to another. America was figuring out how to be a country!"
   },
-  "eventIds": [],
+  "eventIds": [
+    "bill-of-rights",
+    "whiskey-rebellion"
+  ],
   "keyFigureIds": [
     "george-washington",
     "john-adams"

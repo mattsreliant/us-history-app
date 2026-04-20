@@ -1,0 +1,41 @@
+{
+  "id": "valley-forge",
+  "status": "published",
+  "title": {
+    "scholar": "Winter at Valley Forge",
+    "explorer": "The Toughest Winter Ever"
+  },
+  "date": "1777-12-19",
+  "decade": "1770s",
+  "summary": {
+    "scholar": "From December 1777 to June 1778, George Washington's Continental Army endured a brutal winter encampment at Valley Forge, Pennsylvania. An estimated 2,000 soldiers died from disease, cold, and starvation. Despite the suffering, the army emerged as a more disciplined fighting force, having been trained by Prussian military expert Baron von Steuben. Valley Forge became a symbol of American perseverance.",
+    "explorer": "During the winter of 1777-1778, Washington's soldiers camped at Valley Forge, Pennsylvania, and it was TERRIBLE. They were freezing, starving, and sick. About 2,000 soldiers died. But the ones who survived came out tougher and better trained than ever. Valley Forge showed that Americans would never give up, no matter how hard things got."
+  },
+  "significance": {
+    "scholar": "Valley Forge transformed the Continental Army from a ragtag militia into a professional fighting force capable of standing against British regulars. The experience became central to American national mythology.",
+    "explorer": "Even though it was awful, Valley Forge made the American army stronger. The soldiers who survived were ready to win the war."
+  },
+  "relatedPresidentIds": [
+    "george-washington"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

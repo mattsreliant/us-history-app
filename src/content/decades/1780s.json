@@ -11,7 +11,11 @@
     "scholar": "The 1780s brought American victory in the Revolutionary War and the creation of the United States Constitution. The war ended with the Treaty of Paris in 1783, recognizing American independence. The young nation struggled under the weak Articles of Confederation until the Constitutional Convention of 1787, presided over by George Washington, produced the Constitution that still governs America today. James Madison played the foremost role in drafting the document, earning him the title 'Father of the Constitution.'",
     "explorer": "The 1780s were amazing! America won the Revolutionary War and Britain finally said 'OK, you're free!' But the new country needed rules, so in 1787 the smartest leaders got together and wrote the Constitution — the set of rules America still uses today. James Madison did most of the writing!"
   },
-  "eventIds": [],
+  "eventIds": [
+    "battle-of-yorktown",
+    "treaty-of-paris-1783",
+    "constitutional-convention"
+  ],
   "keyFigureIds": [
     "george-washington"
   ],

@@ -1,0 +1,42 @@
+{
+  "id": "whiskey-rebellion",
+  "status": "published",
+  "title": {
+    "scholar": "The Whiskey Rebellion",
+    "explorer": "Farmers Fight a Tax!"
+  },
+  "date": "1794",
+  "decade": "1790s",
+  "summary": {
+    "scholar": "In 1794, farmers in western Pennsylvania violently resisted a federal excise tax on whiskey, threatening federal tax collectors and challenging the authority of the new national government. President Washington responded by personally leading approximately 13,000 militia troops to suppress the rebellion — the first and only time a sitting president led troops in the field. The rebellion's swift suppression demonstrated that the federal government could enforce its laws.",
+    "explorer": "In 1794, farmers in Pennsylvania were SO mad about a tax on whiskey that they started a rebellion! President Washington himself led 13,000 soldiers to stop them — the only time a president has ever personally led troops while in office. The message was clear: the new government's laws had to be followed."
+  },
+  "significance": {
+    "scholar": "The Whiskey Rebellion was the first major test of federal authority under the new Constitution. Washington's decisive response established that the federal government had the power to enforce its laws, even by military force if necessary.",
+    "explorer": "This was the first big test of whether the new government could actually make people follow its rules. Washington proved it could."
+  },
+  "relatedPresidentIds": [
+    "george-washington"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "economy"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "battle-of-yorktown",
+  "status": "published",
+  "title": {
+    "scholar": "Battle of Yorktown",
+    "explorer": "America Wins the War!"
+  },
+  "date": "1781-10-19",
+  "decade": "1780s",
+  "summary": {
+    "scholar": "The Siege of Yorktown (September-October 1781) was the last major battle of the American Revolution. American and French forces under George Washington and the Comte de Rochambeau trapped British General Cornwallis's army on the Yorktown peninsula in Virginia. With the French navy blocking escape by sea, Cornwallis surrendered on October 19, 1781, effectively ending the war.",
+    "explorer": "The Battle of Yorktown in 1781 was where America WON the Revolutionary War! George Washington's army and French soldiers surrounded the British army in Virginia. The French navy blocked the British from escaping by sea. The British general had no choice but to surrender. America was finally free!"
+  },
+  "significance": {
+    "scholar": "Yorktown ended major combat operations in the Revolution. British Parliament voted to end the war shortly after, leading to the Treaty of Paris in 1783.",
+    "explorer": "After this battle, Britain knew it couldn't win. They agreed to stop fighting and recognize America as a free country."
+  },
+  "relatedPresidentIds": [
+    "george-washington"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

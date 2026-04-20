@@ -11,7 +11,12 @@
     "scholar": "The 1770s saw the American colonies break from Great Britain and declare independence. The decade began with growing colonial resistance to British taxation and ended with the Revolutionary War well underway. The Declaration of Independence, authored by Thomas Jefferson and adopted on July 4, 1776, articulated the philosophical foundations of American democracy. George Washington commanded the Continental Army through difficult early years of the war, including the pivotal crossing of the Delaware River in December 1776.",
     "explorer": "The 1770s were when America was born! The colonists were tired of being told what to do by Britain, so they fought for their freedom. Thomas Jefferson wrote the Declaration of Independence, which said all people are created equal. George Washington led the army, and even though things were really hard, the Americans kept fighting for their freedom."
   },
-  "eventIds": [],
+  "eventIds": [
+    "boston-tea-party",
+    "declaration-of-independence",
+    "battle-of-saratoga",
+    "valley-forge"
+  ],
   "keyFigureIds": [
     "george-washington",
     "john-adams",

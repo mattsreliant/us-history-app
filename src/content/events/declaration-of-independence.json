@@ -1,0 +1,42 @@
+{
+  "id": "declaration-of-independence",
+  "status": "published",
+  "title": {
+    "scholar": "Declaration of Independence",
+    "explorer": "America Declares Freedom!"
+  },
+  "date": "1776-07-04",
+  "decade": "1770s",
+  "summary": {
+    "scholar": "On July 4, 1776, the Continental Congress adopted the Declaration of Independence, primarily authored by Thomas Jefferson. The document declared the thirteen American colonies free and independent states, no longer subject to British rule. It articulated the revolutionary principle that 'all men are created equal' and possess 'unalienable Rights' including 'Life, Liberty and the pursuit of Happiness.'",
+    "explorer": "On July 4, 1776 — the date we now celebrate as Independence Day — America officially told Britain: We're free! Thomas Jefferson wrote the Declaration of Independence, which said that all people are created equal and have the right to life, liberty, and the pursuit of happiness. It's one of the most important documents ever written!"
+  },
+  "significance": {
+    "scholar": "The Declaration of Independence established the philosophical foundations of American democracy and inspired democratic movements worldwide for centuries. July 4th became America's most celebrated national holiday.",
+    "explorer": "This is why we celebrate the Fourth of July! The Declaration of Independence told the whole world what America stands for — freedom and equality for all."
+  },
+  "relatedPresidentIds": [
+    "john-adams",
+    "thomas-jefferson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

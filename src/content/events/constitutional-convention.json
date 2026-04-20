@@ -1,0 +1,42 @@
+{
+  "id": "constitutional-convention",
+  "status": "published",
+  "title": {
+    "scholar": "The Constitutional Convention",
+    "explorer": "Writing America's Rulebook!"
+  },
+  "date": "1787-05-25",
+  "decade": "1780s",
+  "summary": {
+    "scholar": "The Constitutional Convention met in Philadelphia from May to September 1787, producing the United States Constitution. Presided over by George Washington and largely shaped by James Madison, the convention brought together 55 delegates who debated and designed a new framework of government to replace the weak Articles of Confederation. The resulting Constitution established the federal system of government — with its separation of powers, checks and balances, and Bill of Rights — that has governed America ever since.",
+    "explorer": "In 1787, America's smartest leaders gathered in Philadelphia to write the Constitution — the set of rules that the whole country STILL follows today! George Washington led the meeting, and James Madison did so much of the writing that people call him the 'Father of the Constitution.' They created three branches of government to make sure no one person had too much power."
+  },
+  "significance": {
+    "scholar": "The Constitution created the oldest written national framework of government still in active use. Its principles of federalism, separation of powers, and individual rights have influenced democracies worldwide.",
+    "explorer": "The Constitution is still the law of the land after more than 230 years! It's the oldest written set of government rules still being used anywhere in the world."
+  },
+  "relatedPresidentIds": [
+    "george-washington",
+    "james-madison"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

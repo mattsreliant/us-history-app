@@ -1,0 +1,42 @@
+{
+  "id": "war-of-1812-begins",
+  "status": "published",
+  "title": {
+    "scholar": "War of 1812 Declared",
+    "explorer": "America Fights Britain Again!"
+  },
+  "date": "1812-06-18",
+  "decade": "1800s",
+  "summary": {
+    "scholar": "On June 18, 1812, President Madison signed a declaration of war against Great Britain, beginning the War of 1812. The conflict was caused by British interference with American shipping, the impressment of American sailors into the Royal Navy, and British support for Native American resistance to American expansion. The war would last until early 1815.",
+    "explorer": "In 1812, America went to war with Britain AGAIN! Britain had been stopping American ships, kidnapping American sailors, and helping Native Americans fight against American settlers. President Madison decided enough was enough and declared war."
+  },
+  "significance": {
+    "scholar": "The War of 1812 confirmed American independence and sovereignty, ended British support for Native American resistance east of the Mississippi, and fostered a new sense of national identity.",
+    "explorer": "This war proved that America was here to stay. After it ended, Americans felt more united and proud than ever before."
+  },
+  "relatedPresidentIds": [
+    "james-madison"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

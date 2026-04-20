@@ -1,0 +1,41 @@
+{
+  "id": "lewis-and-clark",
+  "status": "published",
+  "title": {
+    "scholar": "Lewis and Clark Expedition Begins",
+    "explorer": "The Greatest Adventure in American History!"
+  },
+  "date": "1804-05-14",
+  "decade": "1800s",
+  "summary": {
+    "scholar": "On May 14, 1804, Meriwether Lewis and William Clark departed from Camp Dubois, Illinois on an epic journey to explore the western territory acquired through the Louisiana Purchase. Commissioned by President Jefferson, the Corps of Discovery traveled over 8,000 miles to the Pacific Ocean and back, documenting hundreds of plant and animal species, mapping the territory, and establishing contact with numerous Native American nations. They returned in September 1806.",
+    "explorer": "On May 14, 1804, Lewis and Clark set off on the greatest adventure in American history! President Jefferson sent them to explore the huge new territory America had just bought. They traveled over 8,000 miles, all the way to the Pacific Ocean and back! They discovered amazing animals, drew maps, and met many Native American peoples along the way."
+  },
+  "significance": {
+    "scholar": "The Lewis and Clark Expedition provided the first detailed knowledge of the western territory, strengthened American claims to the Pacific Northwest, and inspired generations of westward migration.",
+    "explorer": "Lewis and Clark showed Americans what was out there in the West. Their journey inspired thousands of people to move westward and explore."
+  },
+  "relatedPresidentIds": [
+    "thomas-jefferson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "exploration"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

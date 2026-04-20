@@ -1,0 +1,39 @@
+{
+  "id": "treaty-of-paris-1783",
+  "status": "published",
+  "title": {
+    "scholar": "Treaty of Paris (1783)",
+    "explorer": "Britain Says: You're Free!"
+  },
+  "date": "1783-09-03",
+  "decade": "1780s",
+  "summary": {
+    "scholar": "The Treaty of Paris, signed on September 3, 1783, officially ended the American Revolutionary War and recognized the independence of the United States. Under the treaty, Britain acknowledged American sovereignty over territory stretching from the Atlantic coast to the Mississippi River, from Canada to Florida. John Adams, Benjamin Franklin, and John Jay negotiated the treaty for the United States.",
+    "explorer": "On September 3, 1783, Britain signed a peace treaty that said America was officially a free and independent country! The treaty also said America's land stretched all the way from the Atlantic Ocean to the Mississippi River. John Adams, Benjamin Franklin, and John Jay represented America at the negotiations."
+  },
+  "significance": {
+    "scholar": "The Treaty of Paris established the United States as a sovereign nation and defined its initial borders, setting the stage for westward expansion.",
+    "explorer": "This treaty made it official — America was its own country! And it got a LOT of land, all the way to the Mississippi River."
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "louisiana-purchase",
+  "status": "published",
+  "title": {
+    "scholar": "The Louisiana Purchase",
+    "explorer": "America Doubles in Size!"
+  },
+  "date": "1803",
+  "decade": "1800s",
+  "summary": {
+    "scholar": "In 1803, President Thomas Jefferson purchased approximately 828,000 square miles of territory from France for $15 million (about 4 cents per acre), doubling the size of the United States. The Louisiana Purchase extended American territory from the Mississippi River to the Rocky Mountains, encompassing all or part of 15 future states. The purchase was one of the largest land deals in history and set the stage for American westward expansion.",
+    "explorer": "In 1803, President Jefferson made the deal of a lifetime! He bought 828,000 square miles of land from France for just $15 million — that's about 4 cents an acre! The Louisiana Purchase doubled the size of America and included land that would become 15 states. It was like buying half a continent for the price of a candy bar per acre!"
+  },
+  "significance": {
+    "scholar": "The Louisiana Purchase removed a major foreign power from America's western border, secured control of the Mississippi River and the port of New Orleans, and set the stage for continental expansion.",
+    "explorer": "This deal doubled America's size for just pennies per acre. It was one of the best deals in all of history!"
+  },
+  "relatedPresidentIds": [
+    "thomas-jefferson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "exploration"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

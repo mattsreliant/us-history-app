@@ -11,7 +11,11 @@
     "scholar": "The 1800s were defined by Thomas Jefferson's presidency and the dramatic expansion of the United States. Jefferson's election in 1800 marked the first peaceful transfer of power between opposing political parties. In 1803, the Louisiana Purchase from France doubled the nation's size, adding approximately 828,000 square miles of territory. Jefferson sent Lewis and Clark to explore the vast new western lands. The decade ended with growing tensions over trade and maritime rights that would lead to the War of 1812.",
     "explorer": "The 1800s were when America got MUCH bigger! President Jefferson bought a huge piece of land from France called the Louisiana Purchase, which doubled the size of the whole country. He sent explorers Lewis and Clark on an incredible adventure to see what was out there. It was a time of big dreams and big changes."
   },
-  "eventIds": [],
+  "eventIds": [
+    "louisiana-purchase",
+    "lewis-and-clark",
+    "war-of-1812-begins"
+  ],
   "keyFigureIds": [
     "thomas-jefferson",
     "james-madison"
