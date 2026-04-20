@@ -11,7 +11,11 @@
     "scholar": "The 1840s were the decade of Manifest Destiny — the belief that American expansion across the continent was both justified and inevitable. President Polk expanded U.S. territory by over one million square miles through the Mexican-American War (1846-1848) and the Oregon Treaty with Britain. Texas was annexed in 1845. The decade also saw the first presidential death in office when William Henry Harrison died after just 32 days, establishing the precedent of vice presidential succession.",
     "explorer": "The 1840s were when America stretched all the way to the Pacific Ocean! People believed it was America's destiny to fill up the whole continent. President Polk won the Mexican-American War and got California, Nevada, Utah, and lots more land. Texas joined the country too. It was also the decade when a president died in office for the first time — William Henry Harrison lasted only 32 days!"
   },
-  "eventIds": [],
+  "eventIds": [
+    "texas-annexation",
+    "mexican-american-war",
+    "seneca-falls"
+  ],
   "keyFigureIds": [
     "william-henry-harrison",
     "john-tyler",

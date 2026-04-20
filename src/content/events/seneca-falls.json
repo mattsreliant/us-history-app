@@ -1,0 +1,39 @@
+{
+  "id": "seneca-falls",
+  "status": "published",
+  "title": {
+    "scholar": "Seneca Falls Convention",
+    "explorer": "Women Demand Equal Rights!"
+  },
+  "date": "1848-07-19",
+  "decade": "1840s",
+  "summary": {
+    "scholar": "The Seneca Falls Convention, held July 19-20, 1848 in Seneca Falls, New York, was the first women's rights convention in American history. Organized by Elizabeth Cady Stanton and Lucretia Mott, the convention produced the Declaration of Sentiments, modeled on the Declaration of Independence, which declared that 'all men and women are created equal' and demanded women's suffrage. It launched the organized women's rights movement that would culminate in the 19th Amendment in 1920.",
+    "explorer": "In 1848, women gathered in Seneca Falls, New York for the first women's rights meeting in American history! Elizabeth Cady Stanton and Lucretia Mott organized it. They wrote a declaration saying 'all men AND WOMEN are created equal' and demanded the right to vote. It took 72 more years, but women finally got that right in 1920!"
+  },
+  "significance": {
+    "scholar": "The Seneca Falls Convention launched the organized women's suffrage movement in the United States. The 72-year struggle it initiated culminated in the 19th Amendment granting women the right to vote.",
+    "explorer": "This meeting started the long fight for women's right to vote. It took 72 years, but they finally won!"
+  },
+  "relatedPresidentIds": [],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "dred-scott",
+  "status": "published",
+  "title": {
+    "scholar": "Dred Scott Decision",
+    "explorer": "A Terrible Court Ruling"
+  },
+  "date": "1857-03-06",
+  "decade": "1850s",
+  "summary": {
+    "scholar": "On March 6, 1857, the Supreme Court ruled in Dred Scott v. Sandford that African Americans could not be citizens of the United States and had 'no rights which the white man was bound to respect.' The decision also declared the Missouri Compromise unconstitutional, ruling that Congress could not prohibit slavery in any territory. The ruling outraged the North, energized the abolitionist movement, and pushed the nation closer to civil war.",
+    "explorer": "In 1857, the Supreme Court made one of the worst decisions in American history. They said that African Americans couldn't be citizens and had no legal rights at all. They also said Congress couldn't stop slavery from spreading anywhere. This terrible ruling made people in the North furious and helped push the country toward the Civil War."
+  },
+  "significance": {
+    "scholar": "The Dred Scott decision is widely regarded as the worst Supreme Court ruling in American history. It radicalized Northern opinion, weakened the last legal barriers to slavery's expansion, and made compromise virtually impossible.",
+    "explorer": "This is considered the worst decision the Supreme Court ever made. It made the Civil War almost impossible to avoid."
+  },
+  "relatedPresidentIds": [
+    "james-buchanan"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

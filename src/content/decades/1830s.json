@@ -11,7 +11,10 @@
     "scholar": "The 1830s were shaped by Andrew Jackson's transformative presidency. Jackson expanded democratic participation, founded the Democratic Party, and dramatically increased executive power. However, his Indian Removal Act of 1830 led to the forced relocation of Native Americans, including the devastating Trail of Tears. The decade also saw the Nullification Crisis, in which South Carolina threatened to ignore federal law, and the Panic of 1837, a severe economic depression that hit during Martin Van Buren's presidency.",
     "explorer": "The 1830s were a time of big changes. President Jackson made the presidency more powerful and helped more regular people have a voice in government. But he also did something terrible — he forced Native Americans to leave their homes and walk hundreds of miles in what became known as the Trail of Tears. Many people died on that journey."
   },
-  "eventIds": [],
+  "eventIds": [
+    "indian-removal-act",
+    "nullification-crisis"
+  ],
   "keyFigureIds": [
     "andrew-jackson",
     "martin-van-buren"

@@ -1,0 +1,41 @@
+{
+  "id": "nullification-crisis",
+  "status": "published",
+  "title": {
+    "scholar": "The Nullification Crisis",
+    "explorer": "States vs. The Country!"
+  },
+  "date": "1832",
+  "decade": "1830s",
+  "summary": {
+    "scholar": "In 1832, South Carolina declared that federal tariff laws were null and void within its borders and threatened to secede from the Union. President Jackson responded forcefully, declaring that 'disunion by armed force is treason' and securing congressional authority to use military force if necessary. The crisis was resolved through a compromise tariff, but it foreshadowed the secession crisis of 1860-1861.",
+    "explorer": "In 1832, South Carolina tried to say that a federal law didn't apply to them. President Jackson was NOT having it. He said trying to break up the country was treason and got ready to send in the army! They worked out a deal, but this fight was a preview of the much bigger breakup that would happen before the Civil War."
+  },
+  "significance": {
+    "scholar": "The Nullification Crisis established the principle that no state could unilaterally reject federal law, a principle that would be tested again with secession thirty years later.",
+    "explorer": "This showed that states couldn't just ignore laws they didn't like. But South Carolina would try something even bigger later — leaving the Union entirely."
+  },
+  "relatedPresidentIds": [
+    "andrew-jackson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

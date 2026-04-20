@@ -1,0 +1,41 @@
+{
+  "id": "mexican-american-war",
+  "status": "published",
+  "title": {
+    "scholar": "Mexican-American War Begins",
+    "explorer": "War with Mexico!"
+  },
+  "date": "1846-04-25",
+  "decade": "1840s",
+  "summary": {
+    "scholar": "The Mexican-American War began in April 1846 after a clash between American and Mexican troops along the disputed Texas border. President Polk had sought to acquire California and other Mexican territories through negotiation, but when diplomacy failed, he used the border incident to secure a declaration of war. The war ended in 1848 with the Treaty of Guadalupe Hidalgo, which ceded present-day California, Nevada, Utah, and parts of Arizona, New Mexico, Colorado, and Wyoming to the United States.",
+    "explorer": "In 1846, America and Mexico went to war. President Polk wanted California and other western lands, and when Mexico wouldn't sell them, a fight at the border started a full-blown war. America won, and Mexico had to give up a HUGE amount of land — including what would become California, Nevada, Utah, and more!"
+  },
+  "significance": {
+    "scholar": "The Mexican-American War added over one million square miles to the United States but reignited the slavery debate over whether these new territories would be free or slave, setting the stage for the Civil War.",
+    "explorer": "America got a ton of new land, but it started a huge argument about whether slavery should be allowed there. This argument would eventually lead to the Civil War."
+  },
+  "relatedPresidentIds": [
+    "james-k-polk"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "missouri-compromise",
+  "status": "published",
+  "title": {
+    "scholar": "The Missouri Compromise",
+    "explorer": "A Deal About Slavery"
+  },
+  "date": "1820-03-03",
+  "decade": "1820s",
+  "summary": {
+    "scholar": "The Missouri Compromise of 1820 temporarily resolved the contentious question of slavery's expansion into new territories. Missouri was admitted as a slave state and Maine as a free state, maintaining the balance in the Senate. A line was drawn at 36°30' north latitude — slavery would be prohibited in new territories north of this line. Thomas Jefferson called the crisis 'a fire bell in the night' that threatened the Union.",
+    "explorer": "In 1820, America made a deal called the Missouri Compromise. Missouri could have slavery, but Maine would be free. They also drew a line across the map — no slavery allowed above the line. It kept the peace for a while, but Thomas Jefferson warned it was like 'a fire bell in the night' — a warning of bigger trouble ahead."
+  },
+  "significance": {
+    "scholar": "The Missouri Compromise maintained sectional balance for three decades but established the dangerous precedent of Congress drawing geographic lines around slavery. Its repeal in 1854 reignited the crisis.",
+    "explorer": "This deal kept the peace for about 30 years, but it didn't fix the real problem. The argument about slavery just kept getting worse."
+  },
+  "relatedPresidentIds": [
+    "james-monroe"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

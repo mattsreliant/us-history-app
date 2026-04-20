@@ -1,0 +1,42 @@
+{
+  "id": "kansas-nebraska-act",
+  "status": "published",
+  "title": {
+    "scholar": "Kansas-Nebraska Act",
+    "explorer": "Bleeding Kansas!"
+  },
+  "date": "1854-05-30",
+  "decade": "1850s",
+  "summary": {
+    "scholar": "The Kansas-Nebraska Act of 1854 repealed the Missouri Compromise and allowed settlers in Kansas and Nebraska to decide whether to permit slavery through 'popular sovereignty.' The result was violent conflict in Kansas between pro-slavery and anti-slavery settlers, known as 'Bleeding Kansas.' The act shattered the existing party system, leading directly to the formation of the Republican Party and deepening the sectional crisis.",
+    "explorer": "The Kansas-Nebraska Act of 1854 let people in new territories vote on whether to allow slavery. But instead of a peaceful vote, people from both sides rushed to Kansas and started fighting! It got so bad they called it 'Bleeding Kansas.' This law also led to the creation of the Republican Party — the party that Abraham Lincoln would soon lead."
+  },
+  "significance": {
+    "scholar": "The Kansas-Nebraska Act destroyed the fragile sectional truce, created the Republican Party, and made armed conflict between North and South increasingly likely.",
+    "explorer": "This law tore apart the peace and started actual fighting in Kansas. It also created the Republican Party, which would soon elect Abraham Lincoln."
+  },
+  "relatedPresidentIds": [
+    "franklin-pierce"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

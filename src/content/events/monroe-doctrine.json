@@ -1,0 +1,41 @@
+{
+  "id": "monroe-doctrine",
+  "status": "published",
+  "title": {
+    "scholar": "The Monroe Doctrine",
+    "explorer": "Stay Out of Our Hemisphere!"
+  },
+  "date": "1823-12-02",
+  "decade": "1820s",
+  "summary": {
+    "scholar": "On December 2, 1823, President Monroe declared in his annual message to Congress that the Western Hemisphere was no longer open to European colonization and that the United States would view any European attempt to extend their system to any part of this hemisphere as dangerous to American peace and safety. The Monroe Doctrine became a cornerstone of American foreign policy for nearly two centuries.",
+    "explorer": "In 1823, President Monroe sent a big message to the world: European countries need to stay OUT of North and South America! If they tried to take over any more land in the Western Hemisphere, America would consider it a threat. This rule — called the Monroe Doctrine — guided American foreign policy for almost 200 years!"
+  },
+  "significance": {
+    "scholar": "The Monroe Doctrine established American hegemony in the Western Hemisphere and remains one of the most significant foreign policy declarations in American history.",
+    "explorer": "This was America saying: 'This is our side of the world, and we'll protect it.' Countries around the world paid attention."
+  },
+  "relatedPresidentIds": [
+    "james-monroe"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

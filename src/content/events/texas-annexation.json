@@ -1,0 +1,42 @@
+{
+  "id": "texas-annexation",
+  "status": "published",
+  "title": {
+    "scholar": "Annexation of Texas",
+    "explorer": "Texas Joins America!"
+  },
+  "date": "1845-12-29",
+  "decade": "1840s",
+  "summary": {
+    "scholar": "Texas was admitted to the Union as the 28th state on December 29, 1845, completing a process begun under President Tyler. Texas had been an independent republic since winning its revolution against Mexico in 1836. Its annexation was controversial because it would enter as a slave state and because Mexico had never recognized Texas's independence, making conflict with Mexico likely.",
+    "explorer": "Texas joined the United States on December 29, 1845! Texas had been its own country for almost 10 years after breaking away from Mexico. Bringing Texas into America was a big deal — it made the country bigger but also started an argument with Mexico that led to war."
+  },
+  "significance": {
+    "scholar": "The annexation of Texas added an enormous territory to the United States and directly precipitated the Mexican-American War, which would bring even more territory under American control.",
+    "explorer": "Texas becoming a state made America bigger, but it also started a war with Mexico because Mexico was still angry about Texas leaving."
+  },
+  "relatedPresidentIds": [
+    "john-tyler",
+    "james-k-polk"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

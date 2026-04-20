@@ -11,7 +11,10 @@
     "scholar": "The 1820s saw the establishment of the Monroe Doctrine in 1823, which declared the Western Hemisphere closed to further European colonization — a principle that guided American foreign policy for nearly two centuries. The Missouri Compromise of 1820 temporarily resolved the question of slavery's expansion, admitting Missouri as a slave state and Maine as a free state. John Quincy Adams, one of the nation's most experienced diplomats, became president in 1825 in a contested election.",
     "explorer": "In the 1820s, President Monroe told European countries to stay out of North and South America with the Monroe Doctrine. America was also arguing about slavery — should new states allow it or not? They worked out a deal called the Missouri Compromise, but the argument wasn't really over. John Quincy Adams became president — his dad had been president too!"
   },
-  "eventIds": [],
+  "eventIds": [
+    "missouri-compromise",
+    "monroe-doctrine"
+  ],
   "keyFigureIds": [
     "james-monroe",
     "john-quincy-adams"

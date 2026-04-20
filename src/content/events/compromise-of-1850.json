@@ -1,0 +1,42 @@
+{
+  "id": "compromise-of-1850",
+  "status": "published",
+  "title": {
+    "scholar": "Compromise of 1850",
+    "explorer": "One More Try to Keep the Peace"
+  },
+  "date": "1850",
+  "decade": "1850s",
+  "summary": {
+    "scholar": "The Compromise of 1850 was a package of five bills that temporarily eased tensions between free and slave states. California was admitted as a free state, while the controversial Fugitive Slave Act required Northerners to return escaped enslaved people to their owners. The compromise, championed by Henry Clay and supported by President Fillmore, delayed the Civil War by a decade but ultimately satisfied neither side.",
+    "explorer": "The Compromise of 1850 was another attempt to keep the North and South from fighting about slavery. California got to be a free state, but the deal also included a terrible law that forced people in the North to send escaped slaves back to their owners. It kept the peace for a little while, but both sides were still angry."
+  },
+  "significance": {
+    "scholar": "The Compromise of 1850 temporarily preserved the Union but the Fugitive Slave Act radicalized Northern opinion against slavery, ultimately hastening the conflict it was designed to prevent.",
+    "explorer": "This deal was supposed to prevent a war, but the Fugitive Slave Act made Northerners even angrier about slavery. The peace wouldn't last."
+  },
+  "relatedPresidentIds": [
+    "millard-fillmore"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

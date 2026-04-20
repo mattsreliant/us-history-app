@@ -1,0 +1,42 @@
+{
+  "id": "indian-removal-act",
+  "status": "published",
+  "title": {
+    "scholar": "The Indian Removal Act",
+    "explorer": "A Terrible Law"
+  },
+  "date": "1830-05-28",
+  "decade": "1830s",
+  "summary": {
+    "scholar": "On May 28, 1830, President Andrew Jackson signed the Indian Removal Act, authorizing the forced relocation of Native American nations from their ancestral lands in the southeastern United States to territories west of the Mississippi River. The forced removals, particularly the Cherokee Trail of Tears in 1838, resulted in thousands of deaths from exposure, disease, and starvation. An estimated 4,000 Cherokee died during the march.",
+    "explorer": "In 1830, President Jackson signed a terrible law called the Indian Removal Act. It forced Native American people to leave the homes where their families had lived for generations and walk hundreds of miles to new territory out west. The Cherokee people's march became known as the Trail of Tears because about 4,000 people died along the way. It was one of the saddest chapters in American history."
+  },
+  "significance": {
+    "scholar": "The Indian Removal Act represents one of the darkest chapters in American history. The forced relocations devastated Native American nations and opened millions of acres to white settlement and cotton cultivation.",
+    "explorer": "This was one of the worst things the American government ever did. Thousands of Native American people died because they were forced to leave their homes."
+  },
+  "relatedPresidentIds": [
+    "andrew-jackson"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "civil-rights"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

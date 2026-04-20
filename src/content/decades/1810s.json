@@ -11,7 +11,10 @@
     "scholar": "The 1810s were dominated by the War of 1812, fought against Great Britain during James Madison's presidency. The war, caused by British interference with American shipping and the impressment of American sailors, ended with the Treaty of Ghent in 1814 and a renewed sense of national identity. The decade also saw the beginning of James Monroe's presidency and the start of the 'Era of Good Feelings,' a period of reduced partisan conflict.",
     "explorer": "In the 1810s, America fought another war against Britain called the War of 1812. Britain had been messing with American ships and kidnapping American sailors! The war was tough, but when it ended, Americans felt more united and proud than ever. President Monroe's time was called the 'Era of Good Feelings' because people were getting along so well."
   },
-  "eventIds": [],
+  "eventIds": [
+    "battle-of-new-orleans",
+    "era-of-good-feelings"
+  ],
   "keyFigureIds": [
     "james-madison",
     "james-monroe"

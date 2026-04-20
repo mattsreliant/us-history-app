@@ -1,0 +1,41 @@
+{
+  "id": "era-of-good-feelings",
+  "status": "published",
+  "title": {
+    "scholar": "The Era of Good Feelings Begins",
+    "explorer": "Everyone Gets Along!"
+  },
+  "date": "1817",
+  "decade": "1810s",
+  "summary": {
+    "scholar": "James Monroe's inauguration in 1817 ushered in what became known as the Era of Good Feelings, a period of relative political harmony following the War of 1812. The Federalist Party had effectively collapsed, leaving the Democratic-Republicans as the only major party. National unity, economic growth, and territorial expansion characterized the period, though tensions over slavery simmered beneath the surface.",
+    "explorer": "When James Monroe became president in 1817, things were going so well that people called it the 'Era of Good Feelings!' There was basically just one political party, the economy was growing, and people were getting along. But the argument about slavery was still there, just waiting to explode."
+  },
+  "significance": {
+    "scholar": "The Era of Good Feelings represented a brief period of one-party rule and national consensus that masked growing sectional tensions over slavery and economic policy.",
+    "explorer": "It seemed like everyone was getting along, but the big argument about slavery was still underneath it all."
+  },
+  "relatedPresidentIds": [
+    "james-monroe"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

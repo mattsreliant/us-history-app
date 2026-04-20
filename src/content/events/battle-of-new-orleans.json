@@ -1,0 +1,41 @@
+{
+  "id": "battle-of-new-orleans",
+  "status": "published",
+  "title": {
+    "scholar": "Battle of New Orleans",
+    "explorer": "Andrew Jackson Saves the Day!"
+  },
+  "date": "1815-01-08",
+  "decade": "1810s",
+  "summary": {
+    "scholar": "On January 8, 1815, General Andrew Jackson led American forces to a stunning victory over a larger British army at New Orleans. Ironically, the peace treaty ending the War of 1812 had already been signed in Europe two weeks earlier, though news had not yet reached America. The battle made Jackson a national hero and eventually propelled him to the presidency.",
+    "explorer": "Andrew Jackson became a HUGE hero when he won the Battle of New Orleans in 1815! His ragtag army beat a much bigger British force. The funny thing is, the war was actually already over — the peace treaty had been signed two weeks earlier, but nobody knew yet because there was no fast way to send messages!"
+  },
+  "significance": {
+    "scholar": "The Battle of New Orleans, though militarily irrelevant (the peace treaty was already signed), made Andrew Jackson a national hero and boosted American national pride after the mixed results of the War of 1812.",
+    "explorer": "This battle made Americans feel really proud and turned Andrew Jackson into a celebrity who would later become president."
+  },
+  "relatedPresidentIds": [
+    "james-madison"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war"
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: U.S. Presidents and Key Events",
+      "url": "https://millercenter.org/president",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "National Park Service: American History",
+      "url": "https://www.nps.gov/subjects/americanhistory/index.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}
