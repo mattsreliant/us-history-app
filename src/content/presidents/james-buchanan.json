@@ -1,9 +1,174 @@
 {
   "id": "james-buchanan",
-  "status": "planned",
+  "status": "published",
   "number": 15,
   "name": "James Buchanan",
   "party": "Democratic",
   "termStart": "1857",
-  "termEnd": "1861"
+  "termEnd": "1861",
+  "vicePresidents": [
+    "John C. Breckinridge (1857-1861)"
+  ],
+  "born": "1791-04-23",
+  "died": "1868-06-01",
+  "birthplace": "Cove Gap, Pennsylvania",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "James Buchanan, the fifteenth President, is widely regarded as one of the least effective presidents for his failure to prevent the Union's dissolution during the slavery crisis. A Pennsylvania Democrat, Buchanan was an experienced diplomat and lawyer nicknamed 'Old Buck.' He advocated for preserving the Constitution but proved unable to manage the escalating sectional tensions that would erupt into civil war under his successor, Abraham Lincoln. He remains the only president who never married.",
+    "explorer": "James Buchanan was the fifteenth president, and he had a really tough time. The country was tearing apart over slavery, and he couldn't figure out how to fix it. Seven states left the Union before he even left office! He is the only president who never got married. Most historians consider his presidency one of the least successful because he couldn't prevent the Civil War from starting."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Brought extensive diplomatic experience to the presidency, having served as Minister to Britain and Secretary of State.",
+        "explorer": "He had lots of experience dealing with other countries before becoming president."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james buchanan - Life and Presidency",
+          "url": "https://millercenter.org/president/james-buchanan",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james buchanan - Key Events",
+          "url": "https://millercenter.org/president/james-buchanan/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Advocated for preserving the Constitution during the deepening sectional crisis, though his efforts proved insufficient.",
+        "explorer": "He tried to save the country from breaking apart, but unfortunately he couldn't stop it."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james buchanan - Life and Presidency",
+          "url": "https://millercenter.org/president/james-buchanan",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james buchanan - Key Events",
+          "url": "https://millercenter.org/president/james-buchanan/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Graduated from Dickinson College in 1809 and built a successful legal career before entering politics.",
+        "explorer": "He went to Dickinson College and became a successful lawyer before going into politics."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james buchanan - Life and Presidency",
+          "url": "https://millercenter.org/president/james-buchanan",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james buchanan - Key Events",
+          "url": "https://millercenter.org/president/james-buchanan/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Buchanan is the only president in American history who never married, making him the nation's sole bachelor president.",
+        "explorer": "He is the ONLY president who never got married — ever!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james buchanan - Life and Presidency",
+          "url": "https://millercenter.org/president/james-buchanan",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james buchanan - Key Events",
+          "url": "https://millercenter.org/president/james-buchanan/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was nicknamed 'Old Buck' and brought more diplomatic experience to the presidency than perhaps any predecessor.",
+        "explorer": "People called him 'Old Buck,' and he had spent years working as a diplomat in other countries."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james buchanan - Life and Presidency",
+          "url": "https://millercenter.org/president/james-buchanan",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james buchanan - Key Events",
+          "url": "https://millercenter.org/president/james-buchanan/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Seven states seceded from the Union during his final months in office, yet he maintained that he lacked constitutional authority to prevent it.",
+        "explorer": "Seven states left the country while he was still president, but he said there was nothing he could legally do to stop them."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james buchanan - Life and Presidency",
+          "url": "https://millercenter.org/president/james-buchanan",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james buchanan - Key Events",
+          "url": "https://millercenter.org/president/james-buchanan/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: james buchanan - Life and Presidency",
+      "url": "https://millercenter.org/president/james-buchanan",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: james buchanan - Key Events",
+      "url": "https://millercenter.org/president/james-buchanan/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

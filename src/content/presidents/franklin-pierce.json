@@ -1,9 +1,174 @@
 {
   "id": "franklin-pierce",
-  "status": "planned",
+  "status": "published",
   "number": 14,
   "name": "Franklin Pierce",
   "party": "Democratic",
   "termStart": "1853",
-  "termEnd": "1857"
+  "termEnd": "1857",
+  "vicePresidents": [
+    "William R. King (1853)"
+  ],
+  "born": "1804-11-23",
+  "died": "1869-10-08",
+  "birthplace": "Hillsborough (now Hillsboro), New Hampshire",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Franklin Pierce, the fourteenth President, served during one of the most turbulent periods in antebellum America. A Democrat from New Hampshire, Pierce was a former congressman and senator who served as a military officer in the Mexican-American War. His presidency was marked by the passage of the Kansas-Nebraska Act, which reignited the slavery debate and accelerated the sectional crisis that would lead to the Civil War. Personal tragedy also shadowed his presidency — his youngest son Benjamin died in a train accident just months before his inauguration.",
+    "explorer": "Franklin Pierce was the fourteenth president, and he served during a really difficult time in American history. The big argument about slavery was getting worse and worse. A law passed during his time called the Kansas-Nebraska Act made things even more heated. Pierce also faced terrible personal sadness — his young son died in a train accident right before he became president."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Oversaw passage of the Kansas-Nebraska Act, which, while intended to organize western territories, ultimately accelerated sectional tensions leading to the Civil War.",
+        "explorer": "He helped pass the Kansas-Nebraska Act, a law about the new western lands that made the North and South argue even more about slavery."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: franklin pierce - Life and Presidency",
+          "url": "https://millercenter.org/president/franklin-pierce",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: franklin pierce - Key Events",
+          "url": "https://millercenter.org/president/franklin-pierce/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Pursued diplomatic efforts in Central America regarding transit routes and trade.",
+        "explorer": "He worked on deals with countries in Central America about trade and travel routes."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: franklin pierce - Life and Presidency",
+          "url": "https://millercenter.org/president/franklin-pierce",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: franklin pierce - Key Events",
+          "url": "https://millercenter.org/president/franklin-pierce/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Served both as a politician and military officer, bringing diverse experience to the presidency.",
+        "explorer": "He had been both a congressman and a soldier before becoming president."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: franklin pierce - Life and Presidency",
+          "url": "https://millercenter.org/president/franklin-pierce",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: franklin pierce - Key Events",
+          "url": "https://millercenter.org/president/franklin-pierce/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Pierce's youngest son Benjamin died in a train accident just two months before his inauguration, casting a pall over his entire presidency.",
+        "explorer": "Pierce's son died in a terrible train accident right before he became president. It made him very sad during his whole time in office."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: franklin pierce - Life and Presidency",
+          "url": "https://millercenter.org/president/franklin-pierce",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: franklin pierce - Key Events",
+          "url": "https://millercenter.org/president/franklin-pierce/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was nicknamed 'Young Hickory of the Granite Hills,' combining the Jackson association with his New Hampshire origins (the Granite State).",
+        "explorer": "His nickname was 'Young Hickory of the Granite Hills' — 'Granite Hills' because he was from New Hampshire, the Granite State."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: franklin pierce - Life and Presidency",
+          "url": "https://millercenter.org/president/franklin-pierce",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: franklin pierce - Key Events",
+          "url": "https://millercenter.org/president/franklin-pierce/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He graduated from Bowdoin College in 1824, where his classmates included future novelist Nathaniel Hawthorne, who became a lifelong friend.",
+        "explorer": "He went to college with the famous writer Nathaniel Hawthorne, and they stayed friends for life!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: franklin pierce - Life and Presidency",
+          "url": "https://millercenter.org/president/franklin-pierce",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: franklin pierce - Key Events",
+          "url": "https://millercenter.org/president/franklin-pierce/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: franklin pierce - Life and Presidency",
+      "url": "https://millercenter.org/president/franklin-pierce",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: franklin pierce - Key Events",
+      "url": "https://millercenter.org/president/franklin-pierce/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

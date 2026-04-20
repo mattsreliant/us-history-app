@@ -1,9 +1,174 @@
 {
   "id": "zachary-taylor",
-  "status": "planned",
+  "status": "published",
   "number": 12,
   "name": "Zachary Taylor",
   "party": "Whig",
   "termStart": "1849",
-  "termEnd": "1850"
+  "termEnd": "1850",
+  "vicePresidents": [
+    "Millard Fillmore (1849-1850)"
+  ],
+  "born": "1784-11-24",
+  "died": "1850-07-09",
+  "birthplace": "Near Barboursville, Virginia",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Zachary Taylor, the twelfth President, was a career military officer nicknamed 'Old Rough and Ready' who became a national hero during the Mexican-American War. Taylor had no prior political experience before his election and had never even voted before running for president. He pledged to make 'honesty, capacity, and fidelity indispensable prerequisites to the bestowal of office.' He served only sixteen months before his sudden death in office on July 9, 1850.",
+    "explorer": "Zachary Taylor was a famous army general nicknamed 'Old Rough and Ready' because he was tough and didn't care about fancy uniforms. He became so popular from winning battles in the Mexican-American War that people elected him president — even though he had never been in politics before and had never even voted! Sadly, he died after just 16 months in office."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Achieved military victories in the Mexican-American War that made him the most popular figure in America and propelled him to the presidency.",
+        "explorer": "He was such a great general in the Mexican-American War that the whole country loved him."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: zachary taylor - Life and Presidency",
+          "url": "https://millercenter.org/president/zachary-taylor",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: zachary taylor - Key Events",
+          "url": "https://millercenter.org/president/zachary-taylor/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Pledged to govern with honesty and integrity, making character the primary qualification for government appointments.",
+        "explorer": "He promised that only honest, hard-working people would get government jobs."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: zachary taylor - Life and Presidency",
+          "url": "https://millercenter.org/president/zachary-taylor",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: zachary taylor - Key Events",
+          "url": "https://millercenter.org/president/zachary-taylor/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Attempted to navigate the explosive debates over slavery in the newly acquired western territories, favoring admitting California as a free state.",
+        "explorer": "He tried to solve the big argument about slavery in the new western lands America had just gained."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: zachary taylor - Life and Presidency",
+          "url": "https://millercenter.org/president/zachary-taylor",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: zachary taylor - Key Events",
+          "url": "https://millercenter.org/president/zachary-taylor/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Taylor was a career soldier with no prior political experience who had never voted before running for president.",
+        "explorer": "He had NEVER voted in an election before — and then he ran for president and won!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: zachary taylor - Life and Presidency",
+          "url": "https://millercenter.org/president/zachary-taylor",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: zachary taylor - Key Events",
+          "url": "https://millercenter.org/president/zachary-taylor/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Nicknamed 'Old Rough and Ready' for his informal dress and no-nonsense approach to military command.",
+        "explorer": "He was called 'Old Rough and Ready' because he didn't care about looking fancy — he just wanted to get things done."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: zachary taylor - Life and Presidency",
+          "url": "https://millercenter.org/president/zachary-taylor",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: zachary taylor - Key Events",
+          "url": "https://millercenter.org/president/zachary-taylor/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He served only sixteen months as president before his sudden death, making his one of the shortest presidencies in history.",
+        "explorer": "He was president for only 16 months before he suddenly got sick and died."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: zachary taylor - Life and Presidency",
+          "url": "https://millercenter.org/president/zachary-taylor",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: zachary taylor - Key Events",
+          "url": "https://millercenter.org/president/zachary-taylor/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: zachary taylor - Life and Presidency",
+      "url": "https://millercenter.org/president/zachary-taylor",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: zachary taylor - Key Events",
+      "url": "https://millercenter.org/president/zachary-taylor/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

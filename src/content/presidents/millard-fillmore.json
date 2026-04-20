@@ -1,9 +1,174 @@
 {
   "id": "millard-fillmore",
-  "status": "planned",
+  "status": "published",
   "number": 13,
   "name": "Millard Fillmore",
   "party": "Whig",
   "termStart": "1850",
-  "termEnd": "1853"
+  "termEnd": "1853",
+  "vicePresidents": [
+    "None"
+  ],
+  "born": "1800-01-07",
+  "died": "1874-03-08",
+  "birthplace": "Summerhill, New York",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Millard Fillmore, the thirteenth President, assumed office upon the death of Zachary Taylor and is best known for championing the Compromise of 1850, a series of legislative measures intended to ease sectional tensions over slavery. Nicknamed 'The American Louis Philippe,' Fillmore rose from desperate poverty to the presidency, receiving only six months of formal grade school education before teaching himself law. He also supported opening trade relations with Japan.",
+    "explorer": "Millard Fillmore became the thirteenth president when President Taylor died. He grew up very poor and only went to school for six months — but he taught himself to read law books and became a lawyer! As president, he tried to keep peace between the North and South by supporting a big deal called the Compromise of 1850. He also helped open trade with Japan for the first time."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Championed the Compromise of 1850, a major legislative effort to address sectional tensions over slavery and delay civil war.",
+        "explorer": "He supported the Compromise of 1850, which tried to keep the peace between states that wanted slavery and states that didn't."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: millard fillmore - Life and Presidency",
+          "url": "https://millercenter.org/president/millard-fillmore",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: millard fillmore - Key Events",
+          "url": "https://millercenter.org/president/millard-fillmore/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Supported opening trade relations with Japan, sending Commodore Matthew Perry's expedition that would open Japan to Western commerce.",
+        "explorer": "He sent ships to Japan to open trade between Japan and America for the first time ever."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: millard fillmore - Life and Presidency",
+          "url": "https://millercenter.org/president/millard-fillmore",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: millard fillmore - Key Events",
+          "url": "https://millercenter.org/president/millard-fillmore/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Rose from desperate poverty with only six months of formal education to the presidency, embodying American social mobility.",
+        "explorer": "He went from being very poor with almost no schooling to becoming president of the United States!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: millard fillmore - Life and Presidency",
+          "url": "https://millercenter.org/president/millard-fillmore",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: millard fillmore - Key Events",
+          "url": "https://millercenter.org/president/millard-fillmore/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Fillmore received only six months of formal grade school education before teaching himself law and gaining admission to the bar in 1822.",
+        "explorer": "He only went to school for six months! He taught himself everything else, including how to be a lawyer."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: millard fillmore - Life and Presidency",
+          "url": "https://millercenter.org/president/millard-fillmore",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: millard fillmore - Key Events",
+          "url": "https://millercenter.org/president/millard-fillmore/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He rose from desperate poverty to the presidency, one of the most remarkable stories of social mobility among American presidents.",
+        "explorer": "He grew up so poor that his family could barely afford anything, but he worked his way up to become president."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: millard fillmore - Life and Presidency",
+          "url": "https://millercenter.org/president/millard-fillmore",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: millard fillmore - Key Events",
+          "url": "https://millercenter.org/president/millard-fillmore/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was nicknamed 'The American Louis Philippe' after the French king known as the 'Citizen King.'",
+        "explorer": "His nickname was 'The American Louis Philippe,' named after a French king."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: millard fillmore - Life and Presidency",
+          "url": "https://millercenter.org/president/millard-fillmore",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: millard fillmore - Key Events",
+          "url": "https://millercenter.org/president/millard-fillmore/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: millard fillmore - Life and Presidency",
+      "url": "https://millercenter.org/president/millard-fillmore",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: millard fillmore - Key Events",
+      "url": "https://millercenter.org/president/millard-fillmore/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

@@ -1,9 +1,174 @@
 {
   "id": "james-k-polk",
-  "status": "planned",
+  "status": "published",
   "number": 11,
   "name": "James K. Polk",
   "party": "Democratic",
   "termStart": "1845",
-  "termEnd": "1849"
+  "termEnd": "1849",
+  "vicePresidents": [
+    "George M. Dallas (1845-1849)"
+  ],
+  "born": "1795-11-02",
+  "died": "1849-06-15",
+  "birthplace": "Mecklenburg County, North Carolina",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "James K. Polk, the eleventh President, was one of the most consequential single-term presidents in American history. Nicknamed 'Young Hickory' for his political kinship with Andrew Jackson, Polk expanded U.S. territory by more than one million square miles, successfully prosecuted the Mexican-American War, and achieved virtually every major goal he set upon entering office. He embodied the spirit of Manifest Destiny, the belief that American expansion across the continent was both justified and inevitable.",
+    "explorer": "James K. Polk was the eleventh president, and he got more done in one term than many presidents do in two! People called him 'Young Hickory' because he was a lot like Andrew Jackson. During his time as president, America grew by over a million square miles — that includes California, Nevada, Utah, and parts of many other states. He promised to do big things and he delivered."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Expanded U.S. territory by over one million square miles, acquiring present-day California, Nevada, Utah, and parts of Arizona, New Mexico, Colorado, and Wyoming.",
+        "explorer": "He made America MUCH bigger, adding California and huge parts of the West to the country."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james k polk - Life and Presidency",
+          "url": "https://millercenter.org/president/james-k-polk",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james k polk - Key Events",
+          "url": "https://millercenter.org/president/james-k-polk/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Successfully prosecuted the Mexican-American War (1846-1848), securing the Treaty of Guadalupe Hidalgo and establishing much of the nation's present southern and western boundaries.",
+        "explorer": "He won the Mexican-American War, which gave America the land that became California, Arizona, New Mexico, and more."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james k polk - Life and Presidency",
+          "url": "https://millercenter.org/president/james-k-polk",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james k polk - Key Events",
+          "url": "https://millercenter.org/president/james-k-polk/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Achieved all four of his major campaign promises in a single term: tariff reduction, establishment of an independent treasury, acquisition of Oregon, and acquisition of California.",
+        "explorer": "He made four big promises when running for president and kept every single one of them!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james k polk - Life and Presidency",
+          "url": "https://millercenter.org/president/james-k-polk",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james k polk - Key Events",
+          "url": "https://millercenter.org/president/james-k-polk/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Polk is often ranked as the most effective single-term president in American history, having accomplished all his stated objectives.",
+        "explorer": "Many historians say Polk was the best one-term president ever because he did everything he said he would do."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james k polk - Life and Presidency",
+          "url": "https://millercenter.org/president/james-k-polk",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james k polk - Key Events",
+          "url": "https://millercenter.org/president/james-k-polk/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was nicknamed 'Young Hickory' for his political alliance with Andrew Jackson, who was known as 'Old Hickory.'",
+        "explorer": "He was called 'Young Hickory' because he was like a younger version of tough President Andrew Jackson."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james k polk - Life and Presidency",
+          "url": "https://millercenter.org/president/james-k-polk",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james k polk - Key Events",
+          "url": "https://millercenter.org/president/james-k-polk/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He died just three months after leaving office — the shortest post-presidential life of any president.",
+        "explorer": "Sadly, Polk died only three months after leaving the White House — the shortest retirement of any president."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james k polk - Life and Presidency",
+          "url": "https://millercenter.org/president/james-k-polk",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james k polk - Key Events",
+          "url": "https://millercenter.org/president/james-k-polk/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: james k polk - Life and Presidency",
+      "url": "https://millercenter.org/president/james-k-polk",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: james k polk - Key Events",
+      "url": "https://millercenter.org/president/james-k-polk/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }
