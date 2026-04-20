@@ -1,9 +1,174 @@
 {
   "id": "chester-a-arthur",
-  "status": "planned",
+  "status": "published",
   "number": 21,
   "name": "Chester A. Arthur",
   "party": "Republican",
   "termStart": "1881",
-  "termEnd": "1885"
+  "termEnd": "1885",
+  "vicePresidents": [
+    "None"
+  ],
+  "born": "1829-10-05",
+  "died": "1886-11-18",
+  "birthplace": "Fairfield, Vermont",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Chester A. Arthur, the twenty-first President, assumed office after Garfield's assassination and surprised many by championing civil service reform despite his own background in machine politics. Nicknamed 'The Gentleman Boss,' Arthur signed the Pendleton Civil Service Reform Act of 1883, which established a merit-based system for government employment. The son of an abolitionist Baptist preacher, Arthur had worked on cases defending African American rights before entering politics, including cases involving fugitive slaves and segregated streetcars.",
+    "explorer": "Chester Arthur became the twenty-first president after President Garfield was killed. People didn't expect much from him because he had been part of a corrupt political machine. But he surprised everyone by fighting FOR reform! He signed a law that said government jobs should go to the best person for the job, not just to political friends. Before politics, he had even worked as a lawyer defending Black people's rights."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Signed the Pendleton Civil Service Reform Act of 1883, establishing merit-based government employment and reducing political patronage — a remarkable reversal for a former machine politician.",
+        "explorer": "He signed a law that made government hiring more fair. It was surprising because he used to be part of the system he was now fixing!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: chester arthur",
+          "url": "https://millercenter.org/president/chester-arthur",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: chester arthur - Key Events",
+          "url": "https://millercenter.org/president/chester-arthur/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Advocated for Pacific trade expansion, working to strengthen American commercial relationships in Asia.",
+        "explorer": "He worked to increase trade with countries in Asia."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: chester arthur",
+          "url": "https://millercenter.org/president/chester-arthur",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: chester arthur - Key Events",
+          "url": "https://millercenter.org/president/chester-arthur/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Promoted infrastructure development, including discussions about building a canal across Central America.",
+        "explorer": "He pushed for building better things like roads and canals to help the country grow."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: chester arthur",
+          "url": "https://millercenter.org/president/chester-arthur",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: chester arthur - Key Events",
+          "url": "https://millercenter.org/president/chester-arthur/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Arthur was nicknamed 'The Gentleman Boss' despite his earlier association with New York machine politics, reflecting his surprisingly reform-minded presidency.",
+        "explorer": "People called him 'The Gentleman Boss' because he was fancy and polite — even though he used to be part of a shady political group."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: chester arthur",
+          "url": "https://millercenter.org/president/chester-arthur",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: chester arthur - Key Events",
+          "url": "https://millercenter.org/president/chester-arthur/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "His father was a fervent abolitionist Baptist preacher, and Arthur himself worked on cases defending African American rights before entering politics.",
+        "explorer": "His dad was a preacher who fought against slavery, and Arthur himself worked as a lawyer helping Black people fight for their rights."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: chester arthur",
+          "url": "https://millercenter.org/president/chester-arthur",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: chester arthur - Key Events",
+          "url": "https://millercenter.org/president/chester-arthur/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He worked on legal cases involving fugitive slaves and discrimination against Black passengers on New York City streetcars.",
+        "explorer": "As a lawyer, he fought court cases to help enslaved people who had escaped and to end unfair treatment on New York City buses."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: chester arthur",
+          "url": "https://millercenter.org/president/chester-arthur",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: chester arthur - Key Events",
+          "url": "https://millercenter.org/president/chester-arthur/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: chester arthur",
+      "url": "https://millercenter.org/president/chester-arthur",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: chester arthur - Key Events",
+      "url": "https://millercenter.org/president/chester-arthur/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

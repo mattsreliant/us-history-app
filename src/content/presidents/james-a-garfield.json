@@ -1,9 +1,174 @@
 {
   "id": "james-a-garfield",
-  "status": "planned",
+  "status": "published",
   "number": 20,
   "name": "James A. Garfield",
   "party": "Republican",
   "termStart": "1881",
-  "termEnd": "1881"
+  "termEnd": "1881",
+  "vicePresidents": [
+    "Chester A. Arthur (1881)"
+  ],
+  "born": "1831-11-19",
+  "died": "1881-09-19",
+  "birthplace": "Orange Township, Ohio",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "James A. Garfield, the twentieth President, served only 200 days before being assassinated — one of the shortest presidencies in American history. A former teacher and Civil War general, Garfield advocated for equal citizenship and voting rights for Black Americans, declaring in his inaugural address that there could be 'no permanent disfranchised peasantry in the United States.' He also pursued civil service reform before being shot by a disgruntled office-seeker on July 2, 1881. He died on September 19, 1881.",
+    "explorer": "James Garfield was the twentieth president, but he was only in office for about 200 days. He had been a teacher and a Civil War general. He believed strongly that all Americans — including Black Americans — deserved equal rights. Tragically, he was shot by a man who was angry about not getting a government job. He died a few months later."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Advocated for equal citizenship and voting rights for Black Americans, declaring in his inaugural address that there could be 'no permanent disfranchised peasantry in the United States.'",
+        "explorer": "He stood up for the rights of Black Americans, saying everyone in the country deserved to vote and be treated equally."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james garfield",
+          "url": "https://millercenter.org/president/james-garfield",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james garfield - Key Events",
+          "url": "https://millercenter.org/president/james-garfield/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Pursued civil service reform to address corruption and patronage in government appointments.",
+        "explorer": "He wanted to fix the system where politicians gave government jobs to their friends instead of qualified people."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james garfield",
+          "url": "https://millercenter.org/president/james-garfield",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james garfield - Key Events",
+          "url": "https://millercenter.org/president/james-garfield/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Served as a teacher and educator before entering politics, promoting education as a path to democratic citizenship.",
+        "explorer": "Before becoming president, he was a teacher who believed education was the key to a good country."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james garfield",
+          "url": "https://millercenter.org/president/james-garfield",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james garfield - Key Events",
+          "url": "https://millercenter.org/president/james-garfield/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Garfield was assassinated just 200 days into his term by Charles Guiteau, a disgruntled office-seeker, making his one of the shortest presidencies.",
+        "explorer": "He was shot by a man angry about not getting a government job. He had only been president for about 200 days."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james garfield",
+          "url": "https://millercenter.org/president/james-garfield",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james garfield - Key Events",
+          "url": "https://millercenter.org/president/james-garfield/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He is remembered as one of the four 'lost presidents' of the post-Civil War era, whose brief or unremarkable tenures are often overlooked.",
+        "explorer": "Historians sometimes call him one of the 'lost presidents' because his time in office was so short."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james garfield",
+          "url": "https://millercenter.org/president/james-garfield",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james garfield - Key Events",
+          "url": "https://millercenter.org/president/james-garfield/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Before entering politics, Garfield served as a teacher and Union general during the Civil War, bringing diverse experience to the presidency.",
+        "explorer": "He had been both a teacher and a Civil War general before becoming president!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: james garfield",
+          "url": "https://millercenter.org/president/james-garfield",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: james garfield - Key Events",
+          "url": "https://millercenter.org/president/james-garfield/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: james garfield",
+      "url": "https://millercenter.org/president/james-garfield",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: james garfield - Key Events",
+      "url": "https://millercenter.org/president/james-garfield/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

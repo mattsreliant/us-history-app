@@ -1,9 +1,175 @@
 {
   "id": "ulysses-s-grant",
-  "status": "planned",
+  "status": "published",
   "number": 18,
   "name": "Ulysses S. Grant",
   "party": "Republican",
   "termStart": "1869",
-  "termEnd": "1877"
+  "termEnd": "1877",
+  "vicePresidents": [
+    "Schuyler Colfax (1869-1873)",
+    "Henry Wilson (1873-1875)"
+  ],
+  "born": "1822-04-27",
+  "died": "1885-07-23",
+  "birthplace": "Point Pleasant, Ohio",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Ulysses S. Grant, the eighteenth President, was the commanding general who led the Union to victory in the Civil War before serving two terms as president during the Reconstruction era. Known as the 'Hero of Appomattox' for accepting Lee's surrender, Grant entered the presidency with no prior political experience. His administration pursued civil rights for formerly enslaved people and fought the Ku Klux Klan, though it was also plagued by corruption scandals. Recent scholarship has reassessed Grant more favorably than earlier historians.",
+    "explorer": "Ulysses S. Grant was the general who won the Civil War for the Union! After the war, he became the eighteenth president. As president, he tried to protect the rights of Black Americans and fought against groups like the Ku Klux Klan that wanted to hurt them. He had never been in politics before, and some people around him turned out to be dishonest, which caused problems."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Led the Union Army to victory in the Civil War as commanding general, accepting Robert E. Lee's surrender at Appomattox Court House in April 1865.",
+        "explorer": "He was the general who won the Civil War and accepted the surrender of the Confederate army."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: ulysses s grant",
+          "url": "https://millercenter.org/president/ulysses-s-grant",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: ulysses s grant - Key Events",
+          "url": "https://millercenter.org/president/ulysses-s-grant/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Vigorously enforced civil rights during Reconstruction, using federal power to combat the Ku Klux Klan and protect the voting rights of formerly enslaved people.",
+        "explorer": "As president, he fought hard to protect Black Americans' rights and went after groups like the KKK."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: ulysses s grant",
+          "url": "https://millercenter.org/president/ulysses-s-grant",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: ulysses s grant - Key Events",
+          "url": "https://millercenter.org/president/ulysses-s-grant/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Served two full terms as president during the challenging Reconstruction era, working to reunify the nation after the Civil War.",
+        "explorer": "He served two terms as president during one of the hardest times in American history — putting the country back together after the war."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: ulysses s grant",
+          "url": "https://millercenter.org/president/ulysses-s-grant",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: ulysses s grant - Key Events",
+          "url": "https://millercenter.org/president/ulysses-s-grant/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Grant had no prior political experience before becoming president, stating: 'It was my fortune, or misfortune, to be called to the office of Chief Executive without any previous political training.'",
+        "explorer": "Grant had never been a politician before becoming president. He said he wasn't sure if being chosen was good luck or bad luck!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: ulysses s grant",
+          "url": "https://millercenter.org/president/ulysses-s-grant",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: ulysses s grant - Key Events",
+          "url": "https://millercenter.org/president/ulysses-s-grant/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was nicknamed the 'Hero of Appomattox' for his role in ending the Civil War by accepting Lee's surrender.",
+        "explorer": "People called him the 'Hero of Appomattox' because that's where he accepted the Confederate surrender."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: ulysses s grant",
+          "url": "https://millercenter.org/president/ulysses-s-grant",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: ulysses s grant - Key Events",
+          "url": "https://millercenter.org/president/ulysses-s-grant/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "His memoir, written while dying of throat cancer, is considered one of the finest works of American nonfiction and saved his family from financial ruin.",
+        "explorer": "When Grant was very sick, he wrote a book about his life that became one of the best memoirs ever written. It made enough money to take care of his family."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: ulysses s grant",
+          "url": "https://millercenter.org/president/ulysses-s-grant",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: ulysses s grant - Key Events",
+          "url": "https://millercenter.org/president/ulysses-s-grant/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: ulysses s grant",
+      "url": "https://millercenter.org/president/ulysses-s-grant",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: ulysses s grant - Key Events",
+      "url": "https://millercenter.org/president/ulysses-s-grant/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

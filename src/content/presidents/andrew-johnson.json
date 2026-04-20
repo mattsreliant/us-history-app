@@ -1,9 +1,174 @@
 {
   "id": "andrew-johnson",
-  "status": "planned",
+  "status": "published",
   "number": 17,
   "name": "Andrew Johnson",
   "party": "National Union",
   "termStart": "1865",
-  "termEnd": "1869"
+  "termEnd": "1869",
+  "vicePresidents": [
+    "None"
+  ],
+  "born": "1808-12-29",
+  "died": "1875-07-31",
+  "birthplace": "Raleigh, North Carolina",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Andrew Johnson, the seventeenth President, assumed office after Lincoln's assassination and presided over the tumultuous early years of Reconstruction. Born in a log cabin to nearly illiterate parents, Johnson did not learn to read until age 17 and worked as a tailor before entering politics. His lenient approach to Reconstruction and clashes with the Republican Congress led to his impeachment by the House of Representatives — the first president to be impeached — though he was acquitted by the Senate by a single vote.",
+    "explorer": "Andrew Johnson became the seventeenth president after Lincoln was killed. He grew up very poor and didn't learn to read until he was 17! Before politics, he was a tailor who made clothes. As president, he fought with Congress about how to rebuild the South after the Civil War. Congress got so mad at him that they tried to remove him from office — he was the first president that ever happened to — but he survived by just one vote."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Issued the Proclamation of Amnesty and Reconstruction on May 29, 1865, establishing the initial framework for readmitting former Confederate states to the Union.",
+        "explorer": "He created the first plan for bringing the Southern states back into the United States after the Civil War."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: andrew johnson",
+          "url": "https://millercenter.org/president/andrew-johnson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: andrew johnson - Key Events",
+          "url": "https://millercenter.org/president/andrew-johnson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Oversaw the ratification of the Thirteenth Amendment, which permanently abolished slavery throughout the United States.",
+        "explorer": "During his presidency, the amendment that ended slavery forever became part of the Constitution."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: andrew johnson",
+          "url": "https://millercenter.org/president/andrew-johnson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: andrew johnson - Key Events",
+          "url": "https://millercenter.org/president/andrew-johnson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Managed the early transition from war to peace, navigating the enormous challenges of reunifying a nation that had been torn apart by civil war.",
+        "explorer": "He had the huge job of helping America heal after the deadliest war in its history."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: andrew johnson",
+          "url": "https://millercenter.org/president/andrew-johnson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: andrew johnson - Key Events",
+          "url": "https://millercenter.org/president/andrew-johnson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Johnson did not learn to read or write until age 17, when his future wife Eliza McCardle taught him. He is the only president who was a professional tailor.",
+        "explorer": "He couldn't read until he was 17 — his wife taught him! And he's the only president who used to make clothes for a living."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: andrew johnson",
+          "url": "https://millercenter.org/president/andrew-johnson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: andrew johnson - Key Events",
+          "url": "https://millercenter.org/president/andrew-johnson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was the first president to be impeached by the House of Representatives, but was acquitted by the Senate by a single vote.",
+        "explorer": "He was the first president Congress ever tried to remove from office. He kept his job by just ONE vote!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: andrew johnson",
+          "url": "https://millercenter.org/president/andrew-johnson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: andrew johnson - Key Events",
+          "url": "https://millercenter.org/president/andrew-johnson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Born in a log cabin to nearly illiterate parents, Johnson's rise to the presidency was one of the most dramatic stories of social mobility in presidential history.",
+        "explorer": "He was born in a tiny log cabin to parents who could barely read. Going from there to the White House was an amazing journey."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: andrew johnson",
+          "url": "https://millercenter.org/president/andrew-johnson",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: andrew johnson - Key Events",
+          "url": "https://millercenter.org/president/andrew-johnson/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: andrew johnson",
+      "url": "https://millercenter.org/president/andrew-johnson",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: andrew johnson - Key Events",
+      "url": "https://millercenter.org/president/andrew-johnson/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

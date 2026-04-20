@@ -1,9 +1,174 @@
 {
   "id": "rutherford-b-hayes",
-  "status": "planned",
+  "status": "published",
   "number": 19,
   "name": "Rutherford B. Hayes",
   "party": "Republican",
   "termStart": "1877",
-  "termEnd": "1881"
+  "termEnd": "1881",
+  "vicePresidents": [
+    "William A. Wheeler (1877-1881)"
+  ],
+  "born": "1822-10-04",
+  "died": "1893-01-17",
+  "birthplace": "Delaware, Ohio",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Rutherford B. Hayes, the nineteenth President, took office after one of the most disputed elections in American history. Known as the 'Dark-Horse President,' Hayes won the 1876 election only after a special electoral commission awarded him contested electoral votes by a single vote margin. He ended Reconstruction by withdrawing federal troops from the South and pursued civil service reform. Hayes earned a reputation for personal integrity, declaring his desire that 'sectionalism as a factor in our politics should disappear.'",
+    "explorer": "Rutherford B. Hayes became the nineteenth president after the most confusing election ever! The vote was so close and messy that a special group had to decide who won. Hayes wanted to heal the country and stop the fighting between the North and South. He was known for being very honest."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Ended Reconstruction by withdrawing federal troops from the South, a decision that had lasting consequences for civil rights.",
+        "explorer": "He pulled soldiers out of the South, ending the period called Reconstruction. This had big effects on the rights of Black Americans."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: rutherford b hayes",
+          "url": "https://millercenter.org/president/rutherford-b-hayes",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: rutherford b hayes - Key Events",
+          "url": "https://millercenter.org/president/rutherford-b-hayes/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Pursued civil service reform to reduce corruption and political patronage in government hiring.",
+        "explorer": "He worked to make government hiring more fair — based on skill, not who you knew."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: rutherford b hayes",
+          "url": "https://millercenter.org/president/rutherford-b-hayes",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: rutherford b hayes - Key Events",
+          "url": "https://millercenter.org/president/rutherford-b-hayes/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Earned a reputation for integrity as both a soldier and statesman, working to reduce sectionalism in American politics.",
+        "explorer": "People respected him for being honest and trying to bring the North and South closer together."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: rutherford b hayes",
+          "url": "https://millercenter.org/president/rutherford-b-hayes",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: rutherford b hayes - Key Events",
+          "url": "https://millercenter.org/president/rutherford-b-hayes/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Hayes won the presidency after one of the most disputed and controversial elections in American history, decided by a special electoral commission.",
+        "explorer": "He won the most confusing election ever — a special group had to be created just to figure out who won!"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: rutherford b hayes",
+          "url": "https://millercenter.org/president/rutherford-b-hayes",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: rutherford b hayes - Key Events",
+          "url": "https://millercenter.org/president/rutherford-b-hayes/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He was nicknamed the 'Dark-Horse President' because he was not expected to win his party's nomination.",
+        "explorer": "He was called the 'Dark-Horse President' because nobody expected him to win."
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: rutherford b hayes",
+          "url": "https://millercenter.org/president/rutherford-b-hayes",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: rutherford b hayes - Key Events",
+          "url": "https://millercenter.org/president/rutherford-b-hayes/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "He and his wife Lucy had eight children and were known for banning alcohol from the White House, earning Lucy the nickname 'Lemonade Lucy.'",
+        "explorer": "His wife Lucy banned alcohol from the White House, so people jokingly called her 'Lemonade Lucy!'"
+      },
+      "sources": [
+        {
+          "citation": "Miller Center: rutherford b hayes",
+          "url": "https://millercenter.org/president/rutherford-b-hayes",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Miller Center: rutherford b hayes - Key Events",
+          "url": "https://millercenter.org/president/rutherford-b-hayes/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Miller Center: rutherford b hayes",
+      "url": "https://millercenter.org/president/rutherford-b-hayes",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Miller Center: rutherford b hayes - Key Events",
+      "url": "https://millercenter.org/president/rutherford-b-hayes/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }
