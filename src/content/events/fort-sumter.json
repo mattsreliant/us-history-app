@@ -1,0 +1,42 @@
+{
+  "id": "fort-sumter",
+  "status": "published",
+  "title": {
+    "scholar": "Attack on Fort Sumter",
+    "explorer": "The Civil War Begins at Fort Sumter"
+  },
+  "date": "1861-04-12",
+  "decade": "1860s",
+  "summary": {
+    "scholar": "Confederate forces attacked Union-held Fort Sumter in Charleston Harbor, South Carolina at 4:30 a.m. on April 12, 1861. After 33 hours of bombardment, Major Robert Anderson surrendered. This was the opening engagement of the Civil War.",
+    "explorer": "On April 12, 1861, the Civil War started when Confederate soldiers fired cannons at Fort Sumter in South Carolina. After 33 hours the soldiers inside had to give up. The war had begun."
+  },
+  "significance": {
+    "scholar": "Fort Sumter transformed a political crisis into armed conflict. Lincoln called for 75,000 volunteers and four more states seceded in response.",
+    "explorer": "This battle turned an argument between states into a real war. President Lincoln asked for 75,000 soldiers to fight."
+  },
+  "relatedPresidentIds": [
+    "abraham-lincoln"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Abraham Lincoln: Key Events",
+      "url": "https://millercenter.org/president/abraham-lincoln/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Civil War Facts",
+      "url": "https://www.nps.gov/civilwar/facts.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

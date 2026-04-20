@@ -1,0 +1,42 @@
+{
+  "id": "gettysburg-address",
+  "status": "published",
+  "title": {
+    "scholar": "The Gettysburg Address",
+    "explorer": "Lincolns Famous Speech"
+  },
+  "date": "1863-11-19",
+  "decade": "1860s",
+  "summary": {
+    "scholar": "On November 19, 1863, Lincoln delivered a brief address at the dedication of the Soldiers National Cemetery at Gettysburg, redefining the purpose of the war in roughly 270 words.",
+    "explorer": "On November 19, 1863, Lincoln gave a short but powerful speech at Gettysburg to honor the soldiers who died there."
+  },
+  "significance": {
+    "scholar": "The Gettysburg Address became one of the most quoted speeches in American history, reframing the war as a struggle to fulfill the promise of equality.",
+    "explorer": "Even though it was very short, the Gettysburg Address became one of the most famous speeches ever given."
+  },
+  "relatedPresidentIds": [
+    "abraham-lincoln"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics",
+    "culture"
+  ],
+  "sources": [
+    {
+      "citation": "Abraham Lincoln: Key Events",
+      "url": "https://millercenter.org/president/abraham-lincoln/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Civil War Facts",
+      "url": "https://www.nps.gov/civilwar/facts.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

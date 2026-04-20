@@ -1,0 +1,41 @@
+{
+  "id": "battle-of-gettysburg",
+  "status": "published",
+  "title": {
+    "scholar": "Battle of Gettysburg",
+    "explorer": "The Biggest Battle: Gettysburg"
+  },
+  "date": "1863-07-01",
+  "decade": "1860s",
+  "summary": {
+    "scholar": "Fought July 1-4, 1863, Gettysburg was the bloodiest battle of the Civil War with 51,116 total casualties. Lees invasion of the North was repulsed.",
+    "explorer": "For three days in July 1863, the biggest battle of the Civil War was fought in Gettysburg, Pennsylvania. Over 51,000 soldiers were killed or wounded."
+  },
+  "significance": {
+    "scholar": "Gettysburg is widely regarded as the turning point of the Civil War.",
+    "explorer": "This was the turning point of the war. After Gettysburg, the Union started winning more."
+  },
+  "relatedPresidentIds": [
+    "abraham-lincoln"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war"
+  ],
+  "sources": [
+    {
+      "citation": "Abraham Lincoln: Key Events",
+      "url": "https://millercenter.org/president/abraham-lincoln/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Civil War Facts",
+      "url": "https://www.nps.gov/civilwar/facts.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

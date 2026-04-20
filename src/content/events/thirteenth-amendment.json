@@ -1,0 +1,42 @@
+{
+  "id": "thirteenth-amendment",
+  "status": "published",
+  "title": {
+    "scholar": "Thirteenth Amendment Passes Congress",
+    "explorer": "Slavery Is Abolished Forever"
+  },
+  "date": "1865-01-31",
+  "decade": "1860s",
+  "summary": {
+    "scholar": "On January 31, 1865, the House approved the Thirteenth Amendment abolishing slavery throughout the entire nation, going beyond the Emancipation Proclamation.",
+    "explorer": "On January 31, 1865, Congress voted to add the Thirteenth Amendment to the Constitution, making slavery illegal everywhere in America."
+  },
+  "significance": {
+    "scholar": "The Thirteenth Amendment permanently ended slavery in the United States. It was ratified December 6, 1865.",
+    "explorer": "This was one of the most important changes ever made to the Constitution. No person in America could ever be enslaved again."
+  },
+  "relatedPresidentIds": [
+    "abraham-lincoln"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Abraham Lincoln: Key Events",
+      "url": "https://millercenter.org/president/abraham-lincoln/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Civil War Facts",
+      "url": "https://www.nps.gov/civilwar/facts.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

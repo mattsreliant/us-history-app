@@ -1,0 +1,43 @@
+{
+  "id": "emancipation-proclamation",
+  "status": "published",
+  "title": {
+    "scholar": "The Emancipation Proclamation",
+    "explorer": "Lincoln Frees the Enslaved"
+  },
+  "date": "1863-01-01",
+  "decade": "1860s",
+  "summary": {
+    "scholar": "On January 1, 1863, President Lincoln issued the Emancipation Proclamation, declaring enslaved people in Confederate areas forever free. It transformed the war from a struggle to preserve the Union into a battle for human freedom.",
+    "explorer": "On New Years Day 1863, President Lincoln signed the Emancipation Proclamation, which said that enslaved people in the Confederate states were now free."
+  },
+  "significance": {
+    "scholar": "The proclamation opened Union military service to African Americans. Nearly 179,000 Black soldiers served in the Union Army by wars end.",
+    "explorer": "After this, about 179,000 Black soldiers joined the Union Army to fight for freedom."
+  },
+  "relatedPresidentIds": [
+    "abraham-lincoln"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "civil-rights",
+    "politics",
+    "war"
+  ],
+  "sources": [
+    {
+      "citation": "Abraham Lincoln: Key Events",
+      "url": "https://millercenter.org/president/abraham-lincoln/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Civil War Facts",
+      "url": "https://www.nps.gov/civilwar/facts.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

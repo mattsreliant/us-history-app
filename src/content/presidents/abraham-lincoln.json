@@ -1,9 +1,188 @@
 {
   "id": "abraham-lincoln",
-  "status": "planned",
+  "status": "published",
   "number": 16,
   "name": "Abraham Lincoln",
   "party": "Republican",
   "termStart": "1861",
-  "termEnd": "1865"
+  "termEnd": "1865",
+  "vicePresidents": ["Hannibal Hamlin (1861-1865)", "Andrew Johnson (1865)"],
+  "born": "1809-02-12",
+  "died": "1865-04-15",
+  "birthplace": "Hardin (now LaRue) County, Kentucky",
+  "portraitUrl": "",
+  "portraitCredit": "",
+  "bio": {
+    "scholar": "Abraham Lincoln, the sixteenth President of the United States, led the nation through its most devastating internal conflict — the Civil War. Born in a log cabin in Kentucky, Lincoln was largely self-educated, teaching himself law and entering politics through the Illinois state legislature as a member of the Whig Party before helping to establish the Republican Party. He became the first Republican president upon his election in 1860, a victory that prompted seven Southern states to secede before he even took office. Over the next four years, Lincoln guided the Union through a war that claimed over 600,000 American lives, issued the Emancipation Proclamation that transformed the conflict from a war to preserve the Union into a war for human freedom, and secured passage of the Thirteenth Amendment abolishing slavery nationwide. He was assassinated by John Wilkes Booth at Ford's Theatre on April 14, 1865 — just days after the Confederate surrender at Appomattox.",
+    "explorer": "Abraham Lincoln grew up in a log cabin and taught himself to read and write. He became a lawyer, then entered politics, and in 1860 he was elected the 16th President of the United States — the first from the Republican Party. When Southern states left the Union because they wanted to keep slavery, Lincoln led the country through the Civil War. In 1863, he signed the Emancipation Proclamation, which freed enslaved people in the Confederate states. He also helped pass the Thirteenth Amendment, which ended slavery everywhere in America for good. Sadly, Lincoln was shot by John Wilkes Booth at a theater in Washington, D.C., just days after the war ended. He is remembered as one of America's greatest presidents."
+  },
+  "keyAccomplishments": [
+    {
+      "text": {
+        "scholar": "Preserved the Union by leading the nation through the Civil War (1861-1865), a conflict that resulted in over 600,000 American deaths but maintained the United States as one nation.",
+        "explorer": "He kept the country together during the Civil War, when Southern states tried to break away and form their own country."
+      },
+      "sources": [
+        {
+          "citation": "Abraham Lincoln: Life Before the Presidency, Key Events, and Legacy",
+          "url": "https://millercenter.org/president/abraham-lincoln",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Civil War Facts",
+          "url": "https://www.nps.gov/civilwar/facts.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Issued the Emancipation Proclamation on January 1, 1863, freeing enslaved people in Confederate or contested areas and fundamentally transforming the Civil War from a struggle over union into a battle for human freedom.",
+        "explorer": "On January 1, 1863, Lincoln signed the Emancipation Proclamation, which declared that enslaved people in the Confederate states were free. This changed the purpose of the war — it was now about ending slavery."
+      },
+      "sources": [
+        {
+          "citation": "Abraham Lincoln: Key Events",
+          "url": "https://millercenter.org/president/abraham-lincoln/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Secured passage of the Thirteenth Amendment through the House of Representatives on January 31, 1865, abolishing slavery throughout the entire United States.",
+        "explorer": "Lincoln helped get the Thirteenth Amendment passed, which made slavery illegal everywhere in the United States, forever."
+      },
+      "sources": [
+        {
+          "citation": "Abraham Lincoln: Key Events",
+          "url": "https://millercenter.org/president/abraham-lincoln/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Delivered the Gettysburg Address on November 19, 1863, a brief but transformative speech at the dedication of the Soldiers' National Cemetery that redefined the purpose of the war and the meaning of American democracy.",
+        "explorer": "Lincoln gave one of the most famous speeches in American history — the Gettysburg Address — in just about two minutes. He reminded everyone that the country was founded on the idea that all people are created equal."
+      },
+      "sources": [
+        {
+          "citation": "Abraham Lincoln: Key Events",
+          "url": "https://millercenter.org/president/abraham-lincoln/key-events",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "majorEventIds": [
+    "fort-sumter",
+    "emancipation-proclamation",
+    "battle-of-gettysburg",
+    "gettysburg-address",
+    "thirteenth-amendment",
+    "appomattox-surrender",
+    "lincoln-assassination"
+  ],
+  "funFacts": [
+    {
+      "text": {
+        "scholar": "Lincoln was the first Republican ever elected to the presidency, winning the 1860 election in a four-way race that split the opposition.",
+        "explorer": "Lincoln was the very first person from the Republican Party to become president!"
+      },
+      "sources": [
+        {
+          "citation": "Abraham Lincoln: Life and Presidency",
+          "url": "https://millercenter.org/president/abraham-lincoln",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Civil War Facts",
+          "url": "https://www.nps.gov/civilwar/facts.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "His nicknames — 'Honest Abe' and 'Illinois Rail-Splitter' — reflected both his reputation for integrity and his frontier upbringing, where he famously split logs for rail fences as a young man.",
+        "explorer": "People called Lincoln 'Honest Abe' because he was known for always telling the truth. He was also called the 'Rail-Splitter' because he used to chop wood to make fences when he was young!"
+      },
+      "sources": [
+        {
+          "citation": "Abraham Lincoln: Life and Presidency",
+          "url": "https://millercenter.org/president/abraham-lincoln",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Lincoln Home National Historic Site: History & Culture",
+          "url": "https://www.nps.gov/liho/learn/historyculture/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "text": {
+        "scholar": "Lincoln had no formal religious affiliation throughout his life, an unusual characteristic among American presidents.",
+        "explorer": "Unlike most presidents, Lincoln didn't belong to any particular church or religion."
+      },
+      "sources": [
+        {
+          "citation": "Abraham Lincoln: Life and Presidency",
+          "url": "https://millercenter.org/president/abraham-lincoln",
+          "publisher": "Miller Center, University of Virginia",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        },
+        {
+          "citation": "Lincoln Home National Historic Site: History & Culture",
+          "url": "https://www.nps.gov/liho/learn/historyculture/index.htm",
+          "publisher": "National Park Service",
+          "tier": 1,
+          "accessedDate": "2026-04-20"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "citation": "Abraham Lincoln: Life and Presidency",
+      "url": "https://millercenter.org/president/abraham-lincoln",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Abraham Lincoln: Key Events",
+      "url": "https://millercenter.org/president/abraham-lincoln/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Civil War Facts",
+      "url": "https://www.nps.gov/civilwar/facts.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

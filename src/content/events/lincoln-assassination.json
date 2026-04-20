@@ -1,0 +1,41 @@
+{
+  "id": "lincoln-assassination",
+  "status": "published",
+  "title": {
+    "scholar": "Assassination of Abraham Lincoln",
+    "explorer": "President Lincoln Is Shot"
+  },
+  "date": "1865-04-14",
+  "decade": "1860s",
+  "summary": {
+    "scholar": "On April 14, 1865, five days after Lees surrender, Lincoln was shot by John Wilkes Booth at Fords Theatre at approximately 10:15 p.m. He died the following morning at 7:22 a.m. Andrew Johnson became the seventeenth president.",
+    "explorer": "Just five days after the war ended, President Lincoln went to see a play. A man named John Wilkes Booth shot him. Lincoln died the next morning."
+  },
+  "significance": {
+    "scholar": "Lincolns assassination made him the first U.S. president murdered in office and profoundly complicated Reconstruction.",
+    "explorer": "Lincoln was the first president ever to be killed. His death made bringing the country back together much harder."
+  },
+  "relatedPresidentIds": [
+    "abraham-lincoln"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Abraham Lincoln: Key Events",
+      "url": "https://millercenter.org/president/abraham-lincoln/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Civil War Facts",
+      "url": "https://www.nps.gov/civilwar/facts.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}

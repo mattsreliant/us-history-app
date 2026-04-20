@@ -1,6 +1,42 @@
 {
   "id": "1860s",
-  "status": "planned",
+  "status": "published",
   "label": "The 1860s",
-  "era": "civil-war"
+  "era": "civil-war",
+  "headline": {
+    "scholar": "A Nation Divided: The Civil War and the End of Slavery",
+    "explorer": "The Civil War: America's Biggest Fight"
+  },
+  "summary": {
+    "scholar": "The 1860s were defined by the American Civil War (1861-1865), the bloodiest conflict in the nation's history. Following Abraham Lincoln's election as the first Republican president, eleven Southern states seceded to form the Confederate States of America. The ensuing war claimed over 600,000 lives — more American deaths than in all other U.S. wars combined up to that point. The conflict transformed from a war to preserve the Union into a war to end slavery, culminating in the Emancipation Proclamation (1863) and the Thirteenth Amendment (1865). Lincoln's assassination just days after the Confederate surrender marked the beginning of a tumultuous Reconstruction era.",
+    "explorer": "The 1860s were the years of the Civil War — the biggest and deadliest war ever fought on American soil. When Abraham Lincoln became president, Southern states that wanted to keep slavery broke away from the United States. A terrible war followed that lasted four years and changed everything. By the end of the decade, slavery was abolished forever, but the country still had a long way to go to heal."
+  },
+  "eventIds": [
+    "fort-sumter",
+    "emancipation-proclamation",
+    "battle-of-gettysburg",
+    "gettysburg-address",
+    "thirteenth-amendment",
+    "appomattox-surrender",
+    "lincoln-assassination"
+  ],
+  "keyFigureIds": ["abraham-lincoln"],
+  "imageUrl": "",
+  "imageCredit": "",
+  "sources": [
+    {
+      "citation": "Abraham Lincoln: Key Events",
+      "url": "https://millercenter.org/president/abraham-lincoln/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Civil War Facts",
+      "url": "https://www.nps.gov/civilwar/facts.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
 }

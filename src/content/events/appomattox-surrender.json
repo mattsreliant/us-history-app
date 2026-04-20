@@ -1,0 +1,42 @@
+{
+  "id": "appomattox-surrender",
+  "status": "published",
+  "title": {
+    "scholar": "Surrender at Appomattox Court House",
+    "explorer": "The Civil War Ends"
+  },
+  "date": "1865-04-09",
+  "decade": "1860s",
+  "summary": {
+    "scholar": "On April 9, 1865, Confederate General Robert E. Lee surrendered to Union General Ulysses S. Grant at Appomattox Court House, Virginia, effectively ending the Civil War.",
+    "explorer": "On April 9, 1865, General Lee surrendered to General Grant. After four long years, the Civil War was finally over."
+  },
+  "significance": {
+    "scholar": "The surrender preserved the United States as one nation.",
+    "explorer": "This meant the Southern states would rejoin the United States. The country was going to stay together."
+  },
+  "relatedPresidentIds": [
+    "abraham-lincoln"
+  ],
+  "relatedPeopleIds": [],
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "sources": [
+    {
+      "citation": "Abraham Lincoln: Key Events",
+      "url": "https://millercenter.org/president/abraham-lincoln/key-events",
+      "publisher": "Miller Center, University of Virginia",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    },
+    {
+      "citation": "Civil War Facts",
+      "url": "https://www.nps.gov/civilwar/facts.htm",
+      "publisher": "National Park Service",
+      "tier": 1,
+      "accessedDate": "2026-04-20"
+    }
+  ]
+}
