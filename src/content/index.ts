@@ -1,6 +1,7 @@
 import {
   registerDecades, registerEvents, registerPresidents,
   registerDiscover, registerQuizzes, registerQuestions,
+  registerDocuments,
 } from '../lib/content';
 
 const decadeModules = import.meta.glob('./decades/*.json', { eager: true });
@@ -20,3 +21,6 @@ const quizData = Object.values(quizModules).map((m: any) => m.default);
 // Separate quiz definitions from questions
 registerQuizzes(quizData.filter((d: any) => d.questionIds));
 registerQuestions(quizData.filter((d: any) => d.correctIndex !== undefined));
+
+const documentModules = import.meta.glob('./documents/*.json', { eager: true });
+registerDocuments(Object.values(documentModules).map((m: any) => m.default));

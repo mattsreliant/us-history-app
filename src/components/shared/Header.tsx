@@ -23,6 +23,7 @@ export function Header() {
           <Link to="/presidents">Presidents</Link>
           <Link to="/discover">Discover</Link>
           <Link to="/quizzes">Quizzes</Link>
+          <Link to="/documents">{mode === 'scholar' ? 'Documents' : 'Documents'}</Link>
           <Link to="/about">About</Link>
         </nav>
 

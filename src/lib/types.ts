@@ -125,3 +125,23 @@ export type Quiz = {
   difficulty: 'easy' | 'medium' | 'hard';
   questionIds: string[];
 };
+
+export type DocumentCategory = 'founding' | 'amendment' | 'landmark' | 'speech';
+
+export type DocumentSection = {
+  heading: string;
+  text: string;
+};
+
+export type Document = {
+  id: string;
+  status: PublicationStatus;
+  title: string;
+  shortTitle: string;
+  year: string;
+  category: DocumentCategory;
+  description: DualVoice;
+  preamble?: string;
+  sections: DocumentSection[];
+  sources: Source[];
+};

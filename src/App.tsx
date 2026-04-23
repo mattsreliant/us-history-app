@@ -13,6 +13,8 @@ import { DiscoverDetailPage } from './pages/DiscoverDetail';
 import { QuizzesPage } from './pages/Quizzes';
 import { QuizPlayPage } from './pages/QuizPlay';
 import { AboutPage } from './pages/About';
+import { DocumentsPage } from './pages/Documents';
+import { DocumentDetailPage } from './pages/DocumentDetail';
 import { SearchDialog } from './components/shared/Search';
 
 // Register all content JSON files
@@ -41,6 +43,8 @@ function App() {
             <Route path="/discover/:id" element={<DiscoverDetailPage />} />
             <Route path="/quizzes" element={<QuizzesPage />} />
             <Route path="/quizzes/:id" element={<QuizPlayPage />} />
+            <Route path="/documents" element={<DocumentsPage />} />
+            <Route path="/documents/:id" element={<DocumentDetailPage />} />
             <Route path="/about" element={<AboutPage />} />
           </Routes>
         </main>

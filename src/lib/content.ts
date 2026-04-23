@@ -4,7 +4,7 @@
 // env flag optionally includes 'drafting' for local review.
 // ══════════════════════════════════════════════════════════════
 
-import type { Decade, HistoricalEvent, President, DiscoverEntry, Quiz, QuizQuestion, PublicationStatus } from './types';
+import type { Decade, HistoricalEvent, President, DiscoverEntry, Quiz, QuizQuestion, Document, PublicationStatus } from './types';
 
 // Content imports — these will be populated as content is authored
 import type { Mode } from './types';
@@ -21,6 +21,7 @@ let _presidents: President[] = [];
 let _discover: DiscoverEntry[] = [];
 let _quizzes: Quiz[] = [];
 let _questions: QuizQuestion[] = [];
+let _documents: Document[] = [];
 
 // Registration functions for content modules
 export function registerDecades(items: Decade[]) { _decades = items; }
@@ -29,6 +30,7 @@ export function registerPresidents(items: President[]) { _presidents = items; }
 export function registerDiscover(items: DiscoverEntry[]) { _discover = items; }
 export function registerQuizzes(items: Quiz[]) { _quizzes = items; }
 export function registerQuestions(items: QuizQuestion[]) { _questions = items; }
+export function registerDocuments(items: Document[]) { _documents = items; }
 
 // ── Publication filter ──────────────────────────────────────
 
@@ -102,6 +104,19 @@ export function getQuiz(id: string): Quiz | undefined {
 
 export function getQuestions(questionIds: string[]): QuizQuestion[] {
   return _questions.filter(q => questionIds.includes(q.id) && isVisible(q.status));
+}
+
+// ── Documents ──────────────────────────────────────────────
+
+export function getDocuments(category?: string): Document[] {
+  const visible = _documents.filter(d => isVisible(d.status));
+  if (category) return visible.filter(d => d.category === category);
+  return visible;
+}
+
+export function getDocument(id: string): Document | undefined {
+  const d = _documents.find(d => d.id === id);
+  return d && isVisible(d.status) ? d : undefined;
 }
 
 // ── Utility: voice-aware text accessor ──────────────────────

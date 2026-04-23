@@ -876,6 +876,146 @@ a:hover {
   }
 }
 
+/* ── Documents ───────────────────────────────────────────── */
+.documents-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.document-card {
+  display: block;
+  padding: 20px 24px;
+  border-radius: var(--card-radius);
+  border-left: 4px solid var(--accent);
+  background: color-mix(in srgb, var(--secondary) 5%, transparent);
+  text-decoration: none;
+  transition: background 0.15s, transform 0.15s;
+}
+.document-card:hover {
+  background: color-mix(in srgb, var(--secondary) 10%, transparent);
+  transform: translateX(4px);
+}
+.document-card-year {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  font-weight: 700;
+}
+.document-card-title {
+  font-family: var(--heading-font);
+  font-size: 1.2rem;
+  color: var(--text);
+  margin-top: 4px;
+}
+.document-card-desc {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-top: 6px;
+  line-height: 1.5;
+}
+
+/* ── Document detail ─────────────────────────────────────── */
+.document-detail {
+  max-width: 800px;
+}
+.document-meta {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.document-year {
+  font-weight: 700;
+  color: var(--accent);
+}
+.document-category {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  background: color-mix(in srgb, var(--muted) 15%, transparent);
+  padding: 2px 10px;
+  border-radius: 4px;
+}
+.document-description {
+  color: var(--text);
+  margin-bottom: 24px;
+  line-height: 1.7;
+}
+.document-preamble {
+  border-left: 4px solid var(--accent);
+  padding: 16px 24px;
+  margin: 0 0 32px 0;
+  background: color-mix(in srgb, var(--accent) 5%, transparent);
+  font-style: italic;
+  font-family: var(--heading-font);
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--text);
+}
+.document-controls {
+  margin-bottom: 16px;
+}
+.expand-toggle {
+  background: none;
+  border: 1px solid var(--muted);
+  color: var(--text);
+  padding: 6px 16px;
+  border-radius: var(--card-radius);
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+.expand-toggle:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.document-sections {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 32px;
+}
+.document-section {
+  border: 1px solid color-mix(in srgb, var(--muted) 25%, transparent);
+  border-radius: var(--card-radius);
+  overflow: hidden;
+}
+.document-section-heading {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 20px;
+  background: color-mix(in srgb, var(--secondary) 5%, transparent);
+  border: none;
+  cursor: pointer;
+  font-family: var(--heading-font);
+  font-size: 1rem;
+  color: var(--text);
+  text-align: left;
+}
+.document-section-heading:hover {
+  background: color-mix(in srgb, var(--secondary) 10%, transparent);
+}
+.section-chevron {
+  font-size: 0.7rem;
+  color: var(--muted);
+}
+.document-section-text {
+  padding: 20px 24px;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  color: var(--text);
+  white-space: pre-wrap;
+  border-top: 1px solid color-mix(in srgb, var(--muted) 15%, transparent);
+}
+.back-link {
+  display: inline-block;
+  margin-bottom: 16px;
+  font-size: 0.9rem;
+}
+
 /* ── Reduced motion ──────────────────────────────────────── */
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {
